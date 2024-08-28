@@ -1,0 +1,1417 @@
+GUÍA AR 8
+
+REVISIÓN 1
+
+Niveles genéricos de
+dispensa
+
+Aprobada por Resolución
+ARN Nº 500/19
+
+(Boletín Oficial 14/11/19)
+
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+República Argentina – Impresión 2019
+
+1/3
+
+AUTORIDAD REGULATORIA NUCLEAR
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires
+ARGENTINA
+Teléfonos (011) 6323-1300 / 5789-7600
+www.argentina.gob.ar/arn
+
+GUÍA AR 8. Niveles genéricos de dispensa - REVISIÓN 1
+
+1/9
+
+GUÍA AR 8 – Revisión 1
+
+NIVELES GENÉRICOS DE DISPENSA
+La Ley Nº 24.804 establece que la Autoridad Regulatoria Nuclear tiene a su cargo la función de
+regulación y fiscalización de la actividad nuclear en todo lo referente a los temas de seguridad
+radiológica y nuclear, protección física y fiscalización del uso de materiales nucleares,
+licenciamiento y fiscalización de instalaciones nucleares, salvaguardias internacionales, y la de
+dictar las normas correspondientes.
+Con el fin de facilitar el cumplimiento de las Normas Regulatorias, la Autoridad Regulatoria
+Nuclear elabora Guías Regulatorias.
+Las recomendaciones de las Guías Regulatorias no tienen carácter obligatorio.
+
+ÍNDICE
+A.
+
+CONSIDERACIONES GENERALES
+
+1
+
+B.
+
+EXPLICACIÓN DE TÉRMINOS
+
+2
+
+C.
+
+RECOMENDACIONES
+
+3
+
+C.1.
+
+DISPENSA DE MATERIALES A PARTIR DE SU CONCENTRACIÓN
+DE ACTIVIDAD
+
+3
+
+C.1.1.
+
+Radionucleidos de origen natural
+
+3
+
+C.1.2.
+
+Radionucleidos de origen artificial
+
+3
+
+C.1.3.
+
+Mezcla de radionucleidos de origen natural y artificial
+
+3
+
+C.1.4.
+
+Determinación de la concentración de actividad en el material
+
+3
+
+C.2.
+
+DISPENSA DE MATERIALES A PARTIR DE SU CONTAMINACIÓN
+SUPERFICIAL
+
+4
+
+Niveles genéricos de dispensa por concentración de actividad de
+radionucleidos de origen natural
+
+5
+
+Tabla 2.
+
+Niveles genéricos de dispensa por concentración de actividad de
+radionucleidos de origen artificial
+
+5
+
+Tabla 3.
+
+Niveles genéricos de dispensa por contaminación superficial
+
+9
+
+Tabla 1.
+
+A. CONSIDERACIONES GENERALES
+1. Esta guía recomienda niveles genéricos de dispensa por concentración de actividad en
+material sólido, aplicables a los radionucleidos indicados en las Tablas 1 y 2, o por
+contaminación superficial, de acuerdo a lo indicado en la Tabla 3.
+2. La información presentada en esta Guía puede ser utilizada para facilitar la presentación de
+la solicitud de dispensa de determinados materiales con concentraciones de actividad o
+contaminación superficial que no superen los niveles genéricos de dispensa recomendados
+en esta Guía.
+3. La Autoridad Regulatoria puede considerar necesario conceder la dispensa de materiales
+con niveles superiores a los recomendados en esta Guía a través de una dispensa
+condicional.
+
+GUÍA AR 8. Niveles genéricos de dispensa - REVISIÓN 1
+
+1/9
+
+4. Los criterios generales de dispensa son:
+i.
+
+los riesgos radiológicos derivados de los materiales dispensados sean tan bajos que no
+sea preciso su control reglamentario; o
+
+ii. el control reglamentario constante de los materiales no reporte beneficio neto alguno,
+en el sentido de que ninguna medida de control razonable daría unos resultados que
+mereciesen la pena en lo que respecta a la reducción de las dosis individuales o la
+reducción de los riesgos para la salud
+iii. los materiales podrán quedar dispensados sin ulterior examen siempre que, en todas
+las circunstancias razonablemente previsibles, la dosis efectiva que se prevea recibirá
+cualquier persona a causa de los materiales dispensados, sea del orden de 10 µSv o
+menos en un año
+iv. a fin de tener en cuenta escenarios de baja probabilidad, puede utilizarse un criterio
+diferente, a saber, que la dosis efectiva que se prevea recibirá cualquier persona en
+esos escenarios de baja probabilidad1 no exceda 1 mSv en un año.
+5. Los niveles genéricos de dispensa por concentración de actividad, que figuran en las
+Tablas 1 y 2, tienen en cuenta:
+i.
+
+los criterios de seguridad radiológica establecidos en la Norma AR 10.1.1 “Norma
+Básica de Seguridad Radiológica”
+
+ii. los niveles de dispensa aprobados por el Organismo Internacional de Energía Atómica
+(OIEA) (Informe GOV/2004/54-GC(48)/8 de la Junta de Gobernadores, avalado por
+Resolución GC(48)/RES/10 de la Conferencia General del OIEA)
+iii. la guía para la aplicación de los conceptos de exclusión, exención y dispensa,
+publicada por el OIEA (Safety Guide Nº RS-G-1.7)
+iv. el informe técnico sobre el cálculo de los niveles de concentración de actividad para
+exclusión, exención y dispensa, publicado por el OIEA (Safety Report Series Nº 44).
+6. No hay restricciones a las cantidades de material a las que pueden aplicarse las
+recomendaciones de esta Guía.
+7. Las recomendaciones de esta Guía para la dispensa de materiales por concentración de
+actividad se aplican a radionucleidos de origen natural o artificial, indicados en las Tablas 1
+y 2, que estén presentes en materiales sólidos razonablemente homogéneos.
+8. Las recomendaciones de esta Guía para la dispensa de materiales por concentración de
+actividad no se aplican a:
+i.
+
+radionucleidos en comestibles o en productos que se utilicen para su elaboración
+
+ii. radionucleidos en alimentos para animales o en productos que se utilicen para su
+elaboración.
+9. Las recomendaciones de esta Guía no contemplan la reducción de las concentraciones de
+actividad del material mediante la dilución deliberada del mismo.
+
+B. EXPLICACIÓN DE TÉRMINOS
+10. Dispensa: liberación de la aplicación de todo control ulterior por parte de la Autoridad
+Regulatoria del material con contenido radiactivo utilizado en prácticas licenciadas,
+autorizadas o registradas por dicha autoridad.
+
+1
+
+Los escenarios de baja probabilidad están definidos en la IAEA Safety Report Series No 44 ”Derivation
+of Activity Concentration Values for Exclusion, Exemption and Clearance”.
+
+2/9
+
+GUÍA AR 8. Niveles genéricos de dispensa - REVISIÓN 1
+
+11. Dispensa condicional: dispensa de materiales cuya concentración de actividad o
+contaminación superficial, resulta superior a los niveles genéricos establecidos en esta
+guía, pero que bajo un estudio caso por caso, la dosis ocasionada en la persona
+representativa se encuentra dentro del rango de dosis trivial (10-100µSv/a)2.
+
+C. RECOMENDACIONES
+C.1 DISPENSA DE MATERIALES A PARTIR DE SU CONCENTRACIÓN DE ACTIVIDAD
+C.1.1. Radionucleidos de origen natural
+12. Los niveles genéricos recomendados en esta sección de la Guía para radionucleidos de
+origen natural utilizados en prácticas reguladas, son válidos para las cadenas de
+desintegración encabezadas por U-238, U-235 o Th-232, debiendo aplicarse el valor
+indicado en la Tabla 1 al correspondiente precursor de la cadena.
+13. Los niveles genéricos para radionucleidos de origen natural recomendados en esta sección
+de la Guía, pueden utilizarse individualmente para cada producto de desintegración o para
+los radionucleidos que encabezan los subconjuntos de las cadenas de desintegración.
+14. En el caso de materiales que contengan una mezcla de radionucleidos de origen natural, la
+concentración de cada uno de ellos debería ser menor que el nivel genérico de dispensa
+correspondiente indicado en la Tabla 1.
+C.1.2. Radionucleidos de origen artificial
+15. En el caso de la dispensa de los materiales radiactivos con más de un radionucleido de
+origen artificial, la condición para la dispensa es que la suma de las concentraciones de la
+actividad de los distintos radionucleidos sea inferior al nivel de dispensa derivado para la
+mezcla (Xm), definido como:
+
+Donde
+f(i) es la fracción en masa de concentración de actividad del radionucleido i en la mezcla;
+X(i) es el nivel aplicable al radionucleido i indicado en la Tabla 2 y n es el número de
+radionucleidos presentes.
+C.1.3. Mezcla de radionucleidos de origen natural y artificial
+16. Cuando se trate de una mezcla de radionucleidos de origen natural y artificial, deberían
+satisfacerse las condiciones indicadas en las secciones C.1.1. y C.1.2. de esta Guía.
+C.1.4. Determinación de la concentración de actividad en el material
+17. Los niveles genéricos de dispensa por concentración de actividad recomendados en esta
+Guía se aplican a material sólido y razonablemente homogéneo, por lo que la verificación
+de las condiciones indicadas en esta Guía debería efectuarse en base al promedio de las
+determinaciones de la concentración de actividad en el material.
+
+2
+
+Dosis trivial definida de acuerdo a ICRP PUBLICATION 104 (Apartado 4.1.1. The principle of low
+individual risk).
+
+GUÍA AR 8. Niveles genéricos de dispensa - REVISIÓN 1
+
+3/9
+
+18. El procedimiento para promediar la determinación de la concentración de actividad en el
+material debería contemplar, entre otros, los siguientes aspectos:
+i.
+
+el tipo de material, considerando además la eventual concentración de actividad en o
+cerca de las superficies del mismo
+
+ii. la segregación del material en el momento de su generación, de manera que resulte
+tan homogéneo como sea posible.
+19. La determinación de la concentración de actividad en el material, debería efectuarse
+según un procedimiento que contemple, entre otros, los siguientes aspectos:
+i.
+
+la realización de mediciones directas en el material, el uso de relaciones de actividades
+apropiadamente derivadas y la identificación del historial del material desde su origen u
+otras maneras aceptables para la Autoridad Regulatoria de reseñar los antecedentes
+operacionales del mismo
+
+ii. la realización de análisis de laboratorio sobre muestras representativas del material,
+dependiendo de los radionucleidos presentes en el material y como complemento de
+las mediciones directas.
+C.2. DISPENSA DE MATERIALES A PARTIR DE SU CONTAMINACIÓN SUPERFICIAL
+20. Los Niveles Genéricos de Dispensa por contaminación superficial aplican a aquellos
+materiales con radionucleidos de origen natural y/o artificial que estén únicamente
+contaminados en su superficie.
+21. Para realizar la dispensa de materiales a partir de su contaminación superficial se debería
+demostrar que dichos materiales no se encuentran activados.
+22. Los niveles genéricos de dispensa por contaminación superficial se encuentran indicados
+en la Tabla 3.
+23. Los valores indicados en la Tabla 3 podrán aplicarse tanto en caso de contaminación fija
+como arrastrable.
+24. La verificación de los valores de dispensa debería efectuarse en base al promedio de la
+contaminación superficial en el material.
+25. El promedio de la contaminación superficial debería realizarse en una superficie no mayor
+a 300 cm2, seleccionando la cantidad de mediciones en función de la heterogeneidad del
+material.
+
+4/9
+
+GUÍA AR 8. Niveles genéricos de dispensa - REVISIÓN 1
+
+Tabla 1: Niveles genéricos de dispensa por concentración de actividad de
+radionucleidos de origen natural
+Concentración de actividad
+(Bq/g)
+
+Radionucleido
+K-40
+Cada radionucleido de la cadena de desintegración del uranio
+o de la cadena de desintegración del torio
+
+10
+1
+
+Tabla 2: Niveles genéricos de dispensa por concentración de actividad de
+radionucleidos de origen artificial
+Radionucleido
+
+H-3
+Be-7
+C-14
+F-18
+Na-22
+Na-24
+Si-31
+P-32
+P-33
+S-35
+Cl-36
+Cl-38
+K-42
+K-43
+Ca-45
+Ca-47
+Sc-46
+Sc-47
+Sc-48
+V-48
+Cr-51
+Mn-51
+Mn-52
+Mn-52m
+Mn-53
+Mn-54
+Mn-56
+Fe-52(a)
+Fe-55
+Fe-59
+Co-55
+Co-56
+Co-57
+
+Concentración de
+actividad (Bq/g)
+100
+10
+1
+10
+0,1
+1
+1 000
+1 000
+1 000
+100
+1
+10
+100
+10
+100
+10
+0,1
+100
+1
+1
+100
+10
+1
+10
+100
+0,1
+10
+10
+1 000
+1
+10
+0,1
+1
+
+GUÍA AR 8. Niveles genéricos de dispensa - REVISIÓN 1
+
+Radionucleido
+
+Co-58
+Co-58m
+Co-60
+Co-60m
+Co-61
+Co-62m
+Ni-59
+Ni-63
+Ni-65
+Cu-64
+Zn-65
+Zn-69
+Zn-69m(a)
+Ga-72
+Ge-71
+As-73
+As-74
+As-76
+As-77
+Se-75
+Br-82
+Rb-86
+Sr-85
+Sr-85m
+Sr-87m
+Sr-89
+Sr-90(a)
+Sr-91(a)
+Sr-92
+Y-90
+Y-91
+Y-91m
+Y-92
+
+Concentración de
+actividad (Bq/g)
+1
+10 000
+0,1
+1 000
+100
+10
+100
+100
+10
+100
+0,1
+1 000
+10
+10
+10 000
+1 000
+10
+10
+1 000
+1
+1
+100
+1
+100
+100
+1 000
+1
+10
+10
+1 000
+100
+100
+100
+
+5/9
+
+Tabla 2: Niveles genéricos de dispensa por concentración de actividad de
+radionucleidos de origen artificial (cont.)
+Radionucleido
+
+Concentración de
+actividad (Bq/g)
+
+Radionucleido
+
+Concentración de
+actividad (Bq/g)
+
+Y-93
+
+100
+
+In-111
+
+10
+
+Zr-93
+
+10
+
+In-113m
+
+100
+
+Zr-95(a)
+
+1
+
+In-114m(a)
+
+10
+
+Zr-97(a)
+
+10
+
+In-115m
+
+100
+
+Nb-93m
+
+10
+
+Sn-113(a)
+
+1
+
+Nb-94
+
+0,1
+
+Sn-125
+
+10
+
+Nb-95
+
+1
+
+Sb-122
+
+10
+
+Nb-97(a)
+
+10
+
+Sb-124
+
+1
+
+Nb-98
+
+10
+
+Sb-125(a)
+
+0,1
+
+Mo-90
+
+10
+
+Te-123m
+
+1
+
+Mo-93
+
+10
+
+Te-125m
+
+1 000
+
+Mo-99(a)
+
+10
+
+Te-127
+
+1 000
+
+Mo-101(a)
+
+10
+
+Te-127m(a)
+
+10
+
+1
+
+Te-129
+
+100
+
+Te-129m(a)
+
+10
+
+Tc-96
+Tc-96m
+
+1 000
+
+Tc-97
+
+10
+
+Te-131
+
+100
+
+Tc-97m
+
+100
+
+Te-131m(a)
+
+10
+
+Te-132(a)
+
+1
+
+Tc-99
+
+1
+
+Tc-99m
+
+100
+
+Te-133
+
+10
+
+Ru-97
+
+10
+
+Te-133m
+
+10
+
+Ru-103(a)
+
+1
+
+Te-134
+
+10
+
+Ru-105(a)
+
+10
+
+I-123
+
+100
+
+Ru-106(a)
+
+0,1
+
+I-125
+
+100
+
+Rh-103m
+
+10 000
+
+I-126
+
+10
+
+100
+
+I-129
+
+0,01
+
+Pd-103(a)
+
+1 000
+
+I-130
+
+10
+
+Pd-109(a)
+
+100
+
+I-131
+
+10
+
+1
+
+I-132
+
+10
+
+Rh-105
+
+Ag-105
+Ag-110ma
+
+0,1
+
+I-133
+
+10
+
+Ag-111
+
+100
+
+I-134
+
+10
+
+Cd-109(a)
+
+1
+
+I-135
+
+10
+
+Cd-115(a)
+
+10
+
+Cs-129
+
+10
+
+Cd-115m(a)
+
+100
+
+Cs-131
+
+1 000
+
+6/9
+
+GUÍA AR 8. Niveles genéricos de dispensa - REVISIÓN 1
+
+Tabla 2: Niveles genéricos de dispensa por concentración de actividad de
+radionucleidos de origen artificial (cont.)
+Radionucleido
+
+Concentración de
+actividad (Bq/g)
+
+Radionucleido
+
+Concentración de
+actividad (Bq/g)
+
+Cs-132
+
+10
+
+Er-171
+
+100
+
+Cs-134
+
+0,1
+
+Tm-170
+
+100
+
+1 000
+
+Tm-171
+
+1 000
+
+Cs-135
+
+100
+
+Yb-175
+
+100
+
+Cs-136
+
+1
+
+Lu-177
+
+100
+
+Cs-137(a)
+
+0,1
+
+Hf-181
+
+1
+
+Cs-138
+
+10
+
+Ta-182
+
+0,1
+
+Ba-131
+
+10
+
+W-181
+
+10
+
+Cs-134m
+
+Ba-140
+
+1
+
+W-185
+
+1 000
+
+La-140
+
+1
+
+W-187
+
+10
+
+Ce-139
+
+1
+
+Re-186
+
+1 000
+
+Ce-141
+
+100
+
+Re-188
+
+100
+
+Ce-143
+
+10
+
+Os-185
+
+1
+
+Ce-144(a)
+
+10
+
+Os-191
+
+Pr-142
+
+100
+
+Os-191m
+
+Pr-143
+
+1 000
+
+Nd-147
+
+100
+
+Ir-190
+
+1
+
+Nd-149
+
+100
+
+Ir-192
+
+1
+
+Pm-147
+
+1 000
+
+Ir-194
+
+100
+
+Pm-149
+
+1 000
+
+Pt-191
+
+10
+
+Sm-151
+
+1 000
+
+Pt-193m
+
+1 000
+
+Sm-153
+
+100
+
+Pt-197
+
+1 000
+
+Eu-152
+
+0,1
+
+Pt-197m
+
+Eu-152m
+
+100
+
+Au-198
+
+10
+
+Eu-154
+
+0,1
+
+Au-199
+
+100
+
+Eu-155
+
+1
+
+Hg-197
+
+100
+
+Gd-153
+
+10
+
+Hg-197m
+
+100
+
+Gd-159
+
+100
+
+Hg-203
+
+10
+
+Os-193
+
+100
+1 000
+100
+
+100
+
+Tb-160
+
+1
+
+Tl-200
+
+10
+
+Dy-165
+
+1 000
+
+Tl-201
+
+100
+
+Dy-166
+
+100
+
+Tl-202
+
+10
+
+Ho-166
+
+100
+
+Tl-204
+
+1
+
+Er-169
+
+1 000
+
+Pb-203
+
+10
+
+GUÍA AR 8. Niveles genéricos de dispensa - REVISIÓN 1
+
+7/9
+
+Tabla 2: Niveles genéricos de dispensa por concentración de actividad de
+radionucleidos de origen artificial (cont.)
+Radionucleido
+Bi-206
+
+Concentración de
+actividad (Bq/g)
+1
+
+Radionucleido
+Pu-241
+
+Concentración de
+actividad (Bq/g)
+10
+
+Bi-207
+
+0,1
+
+Pu-242
+
+0,1
+
+Po-203
+
+10
+
+Pu-243
+
+1 000
+
+Po-205
+
+10
+
+Pu-244(a)
+
+0,1
+
+Po-207
+
+10
+
+Am-241
+
+0,1
+
+At-211
+
+1 000
+
+Am-242
+
+1 000
+
+Ra-225
+
+10
+
+Am-242m(a)
+
+0,1
+
+Ra-227
+
+100
+
+Am-243(a)
+
+0,1
+
+Th-226
+
+1 000
+
+Cm-242
+
+10
+
+Th-229
+
+0,1
+
+Cm-243
+
+1
+
+Pa-230
+
+10
+
+Cm-244
+
+1
+
+Pa-233
+
+10
+
+Cm-245
+
+0,1
+
+U-230
+
+10
+
+Cm-246
+
+0,1
+
+U-231
+
+100
+
+Cm-247(a)
+
+0,1
+
+U-232(a)
+
+0,1
+
+Cm-248
+
+0,1
+
+U-233
+
+1
+
+Bk-249
+
+100
+
+U-236
+
+10
+
+Cf-246
+
+1 000
+
+U-237
+
+100
+
+Cf-248
+
+1
+
+U-239
+
+100
+
+Cf-249
+
+0,1
+
+U-240(a)
+
+100
+
+Cf-250
+
+1
+
+Np-237(a)
+
+1
+
+Cf-251
+
+0,1
+
+Np-239
+
+100
+
+Cf-252
+
+1
+
+Np-240
+
+10
+
+Cf-253
+
+100
+
+Pu-234
+
+100
+
+Cf-254
+
+1
+
+Pu-235
+
+100
+
+Es-253
+
+100
+
+Pu-236
+
+1
+
+Es-254(a)
+
+0,1
+
+Pu-237
+
+100
+
+Es-254m(a)
+
+10
+
+Pu-238
+
+0,1
+
+Fm-254
+
+10 000
+
+Pu-239
+
+0,1
+
+Fm-255
+
+100
+
+Pu-240
+
+0,1
+
+8/9
+
+GUÍA AR 8. Niveles genéricos de dispensa - REVISIÓN 1
+
+(a) A continuación se enumeran los radionucleidos progenitores, así como su progenie cuyas
+contribuciones a las dosis se tienen en cuenta en los cálculos de las dosis (por lo que solo
+hay que considerar el nivel de dispensa del radionucleido progenitor):
+Fe-52
+
+Mn-52m
+
+Sn-113
+
+In-113m
+
+Zn-69m
+
+Zn-69
+
+Sb-125
+
+Te-125m
+
+Sr-90
+
+Y-90
+
+Te-127m
+
+Te-127
+
+Sr-91
+
+Y-91m
+
+Te-129m
+
+Te-129
+
+Zr-95
+
+Nb-95
+
+Te-131m
+
+Te-131
+
+Zr-97
+
+Nb-97m, Nb-97
+
+Te-132
+
+I-132
+
+Nb-97
+
+Nb-97m
+
+Cs-137
+
+Ba-137m
+
+Mo-99
+
+Tc-99m
+
+Ce-144
+
+Pr-144, Pr-144m
+
+Mo-101
+
+Tc-101
+
+U-232
+
+Ru-103
+
+Rh-103m
+
+Ru-105
+
+Rh-105m
+
+Th-228, Ra-224, Rn220, Po-216, Pb-212,
+Bi-212, Tl-208
+
+Ru-106
+
+Rh-106
+
+U-240
+
+Np-240m, Np-240
+
+Pd-103
+
+Rh-103m
+
+Np-237
+
+Pa-233
+
+Pd-109
+
+Ag-109m
+
+Pu-244
+
+U-240, Np-240m, Np240
+
+Ag-110m
+
+Ag-110
+
+Am-242m
+
+Np-238
+
+Cd-109
+
+Ag-109m
+
+Am-243
+
+Np-239
+
+Cd-115
+
+In-115m
+
+Cm-247
+
+Pu-243
+
+Cd-115m
+
+In-115m
+
+Es-254
+
+Bk-250
+
+In-114m
+
+In-114
+
+Es-254m
+
+Fm-254
+
+Tabla 3: Niveles genéricos de dispensa por contaminación superficial
+Radionucleido
+
+Valor de contaminación superficial
+(Bq/cm2 )
+
+Alfa de baja toxicidad/ beta-gamma
+
+0,4
+
+Resto de radionucleidos alfa
+
+0,04
+
+GUÍA AR 8. Niveles genéricos de dispensa - REVISIÓN 1
+
+9/9
+
+

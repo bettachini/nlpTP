@@ -1,0 +1,131 @@
+GUÍA AR 13
+
+REVISIÓN 0
+
+Almacenamiento de Residuos
+Radiactivos
+(Boletín Oficial 17/10/14)
+
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+República Argentina – Impresión 2014
+
+Aprobada por Resolución
+ARN Nº 539/14
+
+AUTORIDAD REGULATORIA NUCLEAR
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires, ARGENTINA
+Tel.: (011) 6323-1356
+Fax: (011) 6323-1771/1798
+http://www.arn.gov.ar
+
+GUÍA AR 13 – Revisión 0
+
+ALMACENAMIENTO DE RESIDUOS RADIACTIVOS
+
+A. ALCANCE
+1. Las recomendaciones de esta guía se aplican al Almacenamiento de Residuos Radiactivos
+en las Instalaciones Clase I.
+2. Las recomendaciones de esta guía no se aplican al almacenamiento in situ de los residuos
+radiactivos generados por las Instalaciones Minero Fabriles.
+3. Las recomendaciones de esta Guía no tienen carácter obligatorio y son presentadas para
+facilitar el cumplimiento de la Norma AR 10.12.1 en lo relativo a la etapa de almacenamiento
+de residuos radiactivos. No se especifican controles relativos a la seguridad física y las salvaguardias que puedan instituirse por razones distintas de la seguridad radiológica. Cuando
+se impongan tales controles deberá cumplirse con lo establecido en las normas AR 10.13.1,
+AR 10.13.2 y AR 10.14.1.
+
+B. EXPLICACIÓN DE TÉRMINOS
+4. Bulto de Residuo: Conjunto de residuo radiactivo acondicionado más el embalaje correspondiente.
+5. Caracterización: Determinación de las propiedades físicas, químicas y radiológicas de los
+residuos radiactivos para establecer el tratamiento y acondicionamiento apropiados para su
+manipulación, procesamiento, transporte, almacenamiento y/o disposición final.
+6. Contención: Métodos o estructuras físicas apropiadas para la prevención de la dispersión
+de sustancias radiactivas.
+
+C. RECOMENDACIONES
+7. Las evaluaciones de seguridad del almacenamiento de residuos radiactivos deberían realizarse para las etapas de diseño y construcción del depósito así como para la de operación,
+dando como resultado la definición de previsiones de seguridad tanto para operación normal
+como para situaciones anormales (inundaciones, terremotos, incendio u otros eventos de baja
+probabilidad de ocurrencia).
+8. El diseño del depósito, de los sistemas de seguridad y del equipamiento para el almacenamiento de residuos radiactivos debería tener en cuenta, entre otros aspectos, las propiedades
+físicas y químicas, el contenido de radionucleidos y período de semidesintegración, la concentración de actividad y demás propiedades peligrosas de cada residuo radiactivo acondicionado,
+así como el inventario radiactivo total y el tiempo de almacenamiento previsto de los residuos
+radiactivos.
+9. El diseño del depósito debería contemplar las condiciones de distribución y estiba de los
+bultos en su interior y de todos los sistemas asociados, de forma tal que se faciliten las tareas
+de movimiento y remoción como así también la inspección de los mismos, de manera de optimizar la protección radiológica de los trabajadores.
+
+GUÍA AR 13. Almacenamiento de Residuos Radiactivos - REVISIÓN 0
+
+1/3
+
+10. El diseño del depósito para el almacenamiento de residuos radiactivos y sus sistemas de
+seguridad deberían minimizar la probabilidad de dispersión del material radiactivo durante el
+tiempo de almacenamiento previsto, por ejemplo utilizando, según corresponda, contenedores
+con pared doble, muros de contención y/o revestimientos impermeables, etc.
+11. Los residuos radiactivos deberían ser inmovilizados en una matriz física y químicamente
+estable, cuando corresponda. Dicha matriz debería ser resistente al deterioro durante el tiempo
+de almacenamiento previsto, asegurando la integridad del contenedor donde se aloje esa matriz y la perdurabilidad del mismo.
+12. Los contenedores que alojen residuos radiactivos líquidos deberían estar provistos con
+sistemas adicionales o complementarios que permitan colectar posibles pérdidas, como por
+ejemplo: pallet anti derrame, bandeja de contención, etc.
+13. Los residuos radiactivos deberían estar caracterizados tal que, como mínimo, se identifiquen los radionucleidos relevantes, su concentración de actividad y actividad total, su forma
+física, y demás propiedades significativas.
+14. Los bultos de residuos almacenados deberían estar adecuadamente identificados, indicando su contenido y empleando códigos de identificación apropiados y perdurables. Debería
+mantenerse el registro actualizado de estos códigos de identificación y de la información asociada a cada uno de ellos.
+15. Los residuos radiactivos que presenten otras propiedades peligrosas (sustancias inflamables, explosivas, tóxicas, patogénicas, etc.) deberían estar adecuadamente identificados y almacenarse, teniendo en cuenta los riesgos asociados, en forma separada. Asimismo, aquellos
+que se prevean dispensar deberían ubicarse de tal modo que se faciliten las operaciones de
+remoción durante las campañas de dispensa.
+16. Las condiciones de aceptación de los bultos de residuos para su almacenamiento deberían
+incluir, entre otros, radionucleidos relevantes, concentración de actividad y actividad total, materiales de inmovilización, propiedades no radiológicas, peso, masa, volumen y forma física.
+17. La protección radiológica en el diseño y la operación del almacenamiento de residuos radiactivos, incluidos el depósito, los accesos, los sistemas de ventilación, etc. debería estar optimizada, no debiendo superarse en contacto con la pared externa del depósito una tasa de
+dosis equivalente ambiental de 10 μSv/h.
+18. La contaminación superficial en el depósito de almacenamiento de residuos radiactivos no
+debería superar los valores de 4 Bq/cm2 para emisores beta-gamma y 0,4 Bq/cm2 para emisores alfa.
+19. La documentación que debería conservarse durante la vida útil del almacenamiento, es
+como mínimo la siguiente:
+a) Informe de las evaluaciones de seguridad
+b) Inventario radiactivo máximo admisible e inventario real actualizado
+c) Volúmenes y características previstos de los residuos que se van a almacenar y criterios de aceptación correspondientes
+d) Límites y condiciones de operación
+e) Descripción y especificaciones técnicas de la instalación y sus componentes, equipos y
+sistemas
+f)
+
+2/3
+
+Descripción de la ubicación del depósito
+
+GUÍA AR 13. Almacenamiento de Residuos Radiactivos - REVISIÓN 0
+
+g) Procedimientos y manuales operacionales para las actividades de manipulación, almacenamiento y otras tareas con implicancias importantes en la seguridad (operación
+normal y situaciones accidentales), para mantenimiento preventivo y correctivo y para
+inspecciones periódicas
+h) Plan o procedimiento de respuesta en emergencia, según corresponda
+i)
+
+Descripción de los sistemas y equipamientos de protección radiológica
+
+j)
+
+Requisitos del personal (perfiles de los puestos a ocupar en las tareas asociadas al
+depósito)
+
+k) Programa de capacitación y entrenamiento del personal
+l)
+
+Sistema de gestión de calidad asociado al almacenamiento de residuos radiactivos
+
+m) Registros asociados al almacenamiento de residuos radiactivos
+20. Los registros asociados al almacenamiento de residuos radiactivos se deberían compilar,
+gestionar y preservar de acuerdo al sistema de gestión de la calidad implementado.
+21. El sistema de gestión de la calidad del almacenamiento de residuos radiactivos, debería
+integrarse al sistema de gestión de la calidad de la instalación de la que forme parte.
+
+GUÍA AR 13. Almacenamiento de Residuos Radiactivos - REVISIÓN 0
+
+3/3
+
+
