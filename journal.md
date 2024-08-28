@@ -20,3 +20,10 @@ Armar el Knowledge Graphs
 Cuando tengamos eso hecho, podemos usar el KG en un RAG. Podemos buscar y leer articulo de Microsoft (reciente) al respecto.
 
 Si todo sale bien y rapido, podemos meternos a hacer Knowledge Graph Completion.
+
+
+### Datasets 
+https://www.argentina.gob.ar/anmat/normativa-general
+
+### Compendio leyes nacionales > 1997
+https://datos.gob.ar/dataset/justicia-base-infoleg-normativa-nacional
