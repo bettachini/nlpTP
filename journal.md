@@ -27,3 +27,12 @@ https://www.argentina.gob.ar/anmat/normativa-general
 
 ### Compendio leyes nacionales > 1997
 https://datos.gob.ar/dataset/justicia-base-infoleg-normativa-nacional
+
+### Próximos pasos
+1. Obtener links (idealmente ya las normas/leyes/etc) del sitio de ANMAT para generar conjunto de documentos.
+   a. html: parsear el texto de la ley
+   b. pdf: buscar libreria que genere texto plano.
+2. Buscar conexiones entre normas para armar grafos.
+
+Otra posibilidad:
+Mirar la base de datos de leyes y tratar de armar un grafo con conexiones entre ellas. Seleccionar usando criterios de densidad y analizar alguna partecita.
