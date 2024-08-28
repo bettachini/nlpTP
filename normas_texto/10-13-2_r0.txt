@@ -1,0 +1,593 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 10.13.2.
+
+REVISIÓN 0
+
+Norma de seguridad
+física de fuentes
+selladas
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 8/07 (Boletín Oficial 30/1/07)
+
+República Argentina – 2007
+
+1/10
+
+NORMA AR 10.13.2.
+
+NORMA DE SEGURIDAD FÍSICA DE FUENTES SELLADAS
+OBJETIVO
+1. Establecer los criterios generales para la seguridad física de fuentes selladas.
+B. ALCANCE
+2. La presente norma se aplica al manejo de Fuentes Selladas Categoría 1, Categoría 2 y
+Categoría 3 y no es aplicable a fuentes selladas utilizadas en programas militares o de defensa.
+La presente norma no se aplica a los materiales protegidos alcanzados por la Norma AR 10.13.1,
+239
+salvo por lo que se refiere a las fuentes selladas que contienen Pu.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no
+relacionados con la seguridad radiológica o con la seguridad física, establecidos por otras
+autoridades competentes.
+C. EXPLICACIÓN DE TÉRMINOS
+3. Cultura de la Seguridad Física: Características y actitudes de las organizaciones y personas
+que determinan que las cuestiones de seguridad física reciban la atención que merecen por su
+importancia.
+4. Fuente de Radiación: cualquier sustancia natural o artificial, o equipo o dispositivo tecnológico
+que emite radiaciones ionizantes.
+5. Fuente Radiactiva: Fuente de radiación que contiene material radiactivo.
+6. Fuente Sellada: Fuente radiactiva en la que el material radiactivo se halla en una o más
+cápsulas suficientemente resistentes para prevenir el contacto y dispersión del material radiactivo,
+bajo las condiciones de uso para la cual fue diseñada.
+7. Fuente Sellada Categoría 1: Fuente sellada, de actividad igual o mayor al valor D1 establecido
+en el Anexo a esta Norma.
+8. Fuente Sellada Categoría 2: Fuente sellada, de actividad comprendida entre los valores D1 y
+D2 establecidos en el Anexo a esta Norma.
+9. Fuente Sellada Categoría 3: Fuente sellada, de actividad comprendida entre los valores D2 y
+D3 establecidos en el Anexo a esta Norma.
+10. Fuente Huérfana: Fuente radiactiva que no está sometida a control regulatorio, sea porque
+nunca lo estuvo, o porque ha sido abandonada, perdida, extraviada, hurtada, robada, o transferida
+sin la debida autorización.
+11. Fuerza de Respuesta: Conjunto de personas y medios que pueden concurrir en apoyo del
+sistema de seguridad física.
+12. Manejo de las Fuentes Selladas: Fabricación, comercialización, tenencia, uso, transferencia,
+suministro, recibo, almacenamiento, mantenimiento, reciclado, importación y exportación, y
+transporte de fuentes selladas así como el reciclado y la gestión como residuo radiactivo.
+13. Responsable: Persona que asume la responsabilidad directa por la seguridad radiológica de
+una instalación Clase II o Clase III o de una práctica no rutinaria.
+14. Responsable Primario: Persona que asume la responsabilidad directa por la seguridad
+radiológica de una instalación Clase I.
+15. Responsable por la Seguridad Física: Persona designada por el Titular de Licencia o de
+Autorización de Práctica no rutinaria, a satisfacción de la Autoridad Regulatoria, que asume la
+
+1/7
+
+NORMA AR 10.13.2. NORMA DE SEGURIDAD FÍSICA DE FUENTES SELLADAS – REVISIÓN 0
+
+responsabilidad directa por la seguridad física de las fuentes selladas o de la instalación o equipos
+que las contengan.
+16. Seguridad Física: Conjunto de medidas destinadas a prevenir, evitar y responder, con un
+grado razonable de seguridad, actos que den lugar a:
+a. El robo, hurto o sustracción de fuentes selladas;
+b. El acceso no autorizado, la pérdida o transferencia no autorizada de las fuentes, o
+c. El sabotaje o daño a fuentes selladas, o el sabotaje, intrusión o daño a instalaciones y
+equipos que las contengan, que produzcan o pudieran producir la pérdida de
+confinamiento o la disminución del blindaje.
+17. Sistema de Seguridad Física: Conjunto de personas, procedimientos y medios disponibles en
+forma permanente que implementan las medidas de seguridad física.
+18. Titular de Licencia: Persona física o jurídica a la que la Autoridad Regulatoria ha otorgado
+una o más Licencias para una Instalación Clase I o Clase II.
+19. Titular de Práctica no Rutinaria: Persona física o jurídica a la que la Autoridad Regulatoria ha
+otorgado una Autorización de Práctica no Rutinaria.
+20. Traslado transfronterizo: Traslado de material radiactivo de un país a otro o a través de otro.
+21. Zona Protegida: Zona sometida a constante vigilancia por personal de guardia o medios
+técnicos o ambos, circundada por una barrera física y con un número limitado de accesos
+controlados.
+D. CRITERIOS DE SEGURIDAD FÍSICA PARA FUENTES SELLADAS
+D1. Generales
+22. Lo establecido en las normas o requerimientos de la Autoridad Regulatoria son condiciones
+mínimas que debe cumplir el titular de Licencia o Autorización de Práctica no rutinaria y su
+cumplimiento no lo exime de la responsabilidad de llevar a cabo toda otra acción necesaria para
+mejorar la seguridad física de las fuentes selladas o de instalaciones o equipos que las contengan.
+23. El Titular de Licencia o Autorización de Práctica no Rutinaria según corresponda debe
+designar a satisfacción de la Autoridad Regulatoria un Responsable por la Seguridad Física, que
+puede o no coincidir con el Responsable o con el Responsable Primario según corresponda.
+Cuando no coincidan, el Responsable por la Seguridad Física debe ajustar su accionar a lo que
+establezca el Responsable o Responsable Primario según corresponda.
+24. El Titular de Licencia o Autorización de Práctica no Rutinaria según corresponda debe
+presentar a la Autoridad Regulatoria toda la documentación técnica necesaria, incluidos los
+procedimientos operativos, para demostrar -a satisfacción de ésta- que se han alcanzado los
+niveles de seguridad física requeridos para el manejo de las fuentes selladas.
+25. El Titular de Licencia o Autorización de Práctica no Rutinaria según corresponda debe
+contemplar la disponibilidad de los recursos humanos, medios y servicios necesarios para:
+a. La respuesta en caso de un acto que afecte la seguridad física de las fuentes selladas.
+b. La respuesta para la recuperación del control de las fuentes huérfanas de la instalación.
+26. Se debe establecer e implementar un sistema de calidad adecuado en relación a la seguridad
+física de las fuentes selladas.
+27. Según sea necesario a la luz de los riesgos que se planteen y de la evaluación nacional de la
+amenaza actual, se debe:
+a. realizar una evaluación de la seguridad física de las fuentes selladas, a fin de reducir la
+probabilidad de la utilización de dichas fuentes con fines dolosos para causar daños a las
+personas, la sociedad o el medio ambiente.
+La evaluación debe contemplar, para todas las etapas de manejo de las fuentes selladas,
+los casos de robo o hurto de fuentes selladas; los casos de acceso no autorizado, pérdida
+
+2/7
+
+NORMA AR 10.13.2. NORMA DE SEGURIDAD FÍSICA DE FUENTES SELLADAS – REVISIÓN 0
+
+o transferencia no autorizada de las fuentes; los casos de sabotaje o daño a fuentes
+selladas; así como los casos de intrusión, sabotaje o daño a instalaciones y equipos que
+las contengan, y que produzcan o pudieran producir la pérdida de confinamiento o la
+disminución del blindaje de las fuentes selladas.
+b. implementar un sistema de seguridad física adecuado a la evaluación de la seguridad
+física realizada según a)
+28. La existencia de un sistema de seguridad física adecuado que se encuentre operativo en
+forma permanente es una condición necesaria para el manejo de las fuentes selladas.
+29. El sistema de seguridad física debe ser acorde con el nivel de seguridad que corresponda
+aplicar y debe ajustarse a los siguientes criterios:
+a. La seguridad física es una condición necesaria pero no suficiente para la seguridad
+radiológica de las fuentes selladas, y ninguna medida de seguridad física debe ir en
+desmedro de la seguridad radiológica.
+b. El sistema de seguridad física debe poseer la flexibilidad necesaria para aumentar o
+disminuir la intensidad de las medidas de seguridad física de acuerdo con la amenaza
+c. Ninguna medida de vigilancia y seguridad destinada al resguardo de bienes patrimoniales
+irá en desmedro de las medidas de seguridad física de las fuentes selladas.
+d. El diseño de los sistemas de seguridad física debe basarse principalmente en la
+prevención y la disuasión, particularmente mediante el uso de medidas pasivas.
+e. En el diseño del sistema de seguridad física debe lograrse una adecuada
+complementación entre los medios técnicos y los procedimientos operativos.
+f. Los procedimientos operativos de seguridad física deben establecerse de manera tal que
+se minimice cualquier interferencia con los trabajos que normalmente realiza el personal
+de operación.
+30. En el diseño del sistema de seguridad física debe contemplarse:
+a. Que la determinación de objetivos incluya:
+1. La caracterización de la instalación, compuesta por una memoria descriptiva, los
+diagramas de flujo de procesos, los diagramas de planta, la lista de fuentes
+selladas y equipos, incluyendo los correspondientes a seguridad física, la
+localización de la planta y todo elemento gráfico que permita lograr un mejor
+conocimiento de la misma.
+2. La definición del tipo de amenaza actual.
+3. La identificación de las fuentes selladas o los equipos que presumiblemente
+pudieran ser afectados por los actos indicados en el Inciso a) del Criterio 27.
+b. La inclusión de medidas de seguridad física destinadas, según corresponda, a:
+1. La detección de ingresos no autorizados y accionamiento de las alarmas
+correspondientes a la disponibilidad de medios de comunicación y a la
+implementación de control de accesos, etc.
+2. La demora a la intrusión mediante guardias y barreras perimetrales, estructurales
+y consumibles.
+3. La respuesta, a partir de una señal de alarma, frente a los actos indicados en el
+Inciso a) del Criterio 27.
+c.
+
+La Fuerza de Respuesta que debe acudir según corresponda en apoyo del sistema de
+seguridad física y los medios de comunicación con esa fuerza.
+d. Los métodos para la evaluación del desempeño del sistema de seguridad física y para el
+aprovechamiento de los resultados de esa evaluación.
+e. Las organización, procedimientos y entrenamiento de los medios utilizados para
+implementar las medidas de seguridad física.
+
+31. El sistema de seguridad física debe contemplar la adecuada confidencialidad de la información
+que pudiera ser utilizada en la comisión de los actos indicados en el Inciso a) del Criterio 27. La
+
+3/7
+
+NORMA AR 10.13.2. NORMA DE SEGURIDAD FÍSICA DE FUENTES SELLADAS – REVISIÓN 0
+
+información específica del sistema de seguridad física debe ser clasificada y en particular aquélla
+que describa aspectos claves del mismo debe recibir el más alto nivel de clasificación.
+32. Las operaciones de la Fuerza de Respuesta indicada en el Inciso c) del Criterio 30 deben ser
+determinadas conforme a las prioridades y modalidades que establezca el Responsable por la
+Seguridad Física en conjunto con el Responsable o el Responsable Primario según corresponda.
+33. Se debe realizar un mantenimiento apropiado del equipamiento destinado a la seguridad física
+de las fuentes selladas.
+34. Se debe asegurar que las fuentes selladas se almacenen en instalaciones con un nivel de
+seguridad física apropiado.
+D2. Niveles de seguridad física
+35. Los niveles de seguridad física están determinados por la categoría de las fuentes selladas
+involucradas, salvo que la Autoridad Regulatoria establezca un criterio diferente.
+36. En la aplicación de las medidas especificas correspondientes a los niveles de seguridad física,
+se deben tener en cuenta los siguientes principios básicos:
+a. Ninguna medida de seguridad física debe ir en desmedro de los planes para emergencias
+radiológicas ni de la seguridad radiológica en general.
+b. El Titular de Licencia o Autorización de Práctica no Rutinaria según corresponda, con el
+concurso de especialistas en seguridad radiológica y en seguridad física, debe identificar
+las zonas protegidas.
+c.
+
+En lo posible, la distribución de zonas protegidas se efectuará de forma que su acceso
+esté limitado al mínimo número de personas necesario.
+
+d. Toda instalación que no se encuadre en alguno de los niveles subsiguientes queda exenta
+de la aplicación de medidas de seguridad física, salvo que la Autoridad Regulatoria
+considere que sea conveniente asignarle alguno de los niveles de seguridad física
+definidos en esta norma, sin perjuicio de las prácticas de gestión prudente que
+corresponda aplicar.
+D2.1. Nivel I de seguridad física
+37. El nivel I de seguridad física se aplica al manejo de las Fuentes Selladas Categoría 1.
+38. La intensidad de las medidas de seguridad física en el nivel I de seguridad física debe
+mantener una adecuada proporción con la actividad de la fuente sellada, para el radionucleido que
+se trate.
+39. En las instalaciones bajo nivel I de seguridad física, las fuentes selladas, las estructuras, los
+sistemas y los componentes de la instalación que puedan ser vulnerables a los actos intencionales
+referidos en el Inciso a) del Criterio 27, deben estar ubicados dentro de una Zona Protegida.
+D2.2. Nivel II de seguridad física
+40. El nivel II de seguridad física se aplica al manejo de las Fuentes Selladas Categoría 2.
+41. La intensidad de las medidas de seguridad física en el nivel II de seguridad física debe
+mantener una adecuada proporción con la actividad de la fuente sellada, para el radionucleido que
+se trate.
+42. En las instalaciones bajo nivel II de seguridad física, las fuentes selladas, las estructuras, los
+sistemas y los componentes de la instalación que puedan ser vulnerables a los actos intencionales
+referidos en el Inciso a) del Criterio 27, deben estar en la medida de lo posible ubicados dentro de
+una Zona Protegida.
+D2.3. Nivel III de seguridad física
+43. El nivel III de seguridad física se aplica al manejo de las Fuentes Selladas Categoría 3.
+
+4/7
+
+NORMA AR 10.13.2. NORMA DE SEGURIDAD FÍSICA DE FUENTES SELLADAS – REVISIÓN 0
+
+44. La intensidad de las medidas de seguridad física en el nivel III de seguridad física debe
+mantener una adecuada proporción con la actividad de la fuente sellada, para el radionucleido que
+se trate.
+45. En las instalaciones bajo nivel III de seguridad física, el acceso a las fuentes selladas, a las
+estructuras, los sistemas y los componentes de la instalación que puedan ser vulnerables a los
+actos intencionales referidos en el Inciso a) del Criterio 27, debe estar restringido a personal
+autorizado.
+D2.4. Nivel de seguridad física en el transporte
+46. El transporte de Fuentes Selladas Categoría 1 debe efectuarse bajo previsiones de seguridad
+física a satisfacción de la Autoridad Regulatoria, las que deben estar acordes a los riesgos
+asociados a las condiciones particulares de cada transporte, incluyendo de ser necesario la
+vigilancia de cada remesa y las previsiones para la actuación de la fuerza de respuesta. La
+información sobre dichas previsiones debe guardar una adecuada confidencialidad.
+47. El traslado transfronterizo de Fuentes Selladas Categoría 1 debe efectuarse cumpliendo con la
+norma AR 10.16.1 y asegurando la continuidad de las medidas de seguridad física durante el
+transporte y el almacenamiento en tránsito así como en el cruce de la frontera, cumpliendo según
+corresponda con lo establecido en el Criterio Nº 46 y con los requerimientos establecidos por la
+ARN para la importación o exportación de fuentes radiactivas.
+D3. RESPONSABILIDADES
+D3.1. Titular de licencia o autorización de práctica no rutinaria.
+48. El Titular de Licencia o de Autorización de práctica no rutinaria según corresponda, es
+responsable por la seguridad física de las fuentes selladas o de las instalaciones o equipos que las
+contengan.
+49. El Titular de Licencia o de Autorización de Práctica no Rutinaria según corresponda, mantiene
+en su totalidad su responsabilidad aunque delegue, total o parcialmente, la ejecución de las tareas
+de seguridad física.
+50. El Titular de Licencia o de Autorización de Práctica no Rutinaria según corresponda, debe
+tomar todas las medidas razonables y compatibles con sus posibilidades para garantizar la
+seguridad física de las fuentes selladas y de las instalaciones o equipos que las contengan.
+51. Todo cambio en la organización del Titular de Licencia o de Autorización de Práctica no
+Rutinaria según corresponda, que pudiera directa o indirectamente afectar la capacidad de
+afrontar sus responsabilidades en materia de seguridad física requiere la previa aprobación de la
+Autoridad Regulatoria.
+52. El Titular de Licencia o de Autorización de Práctica no Rutinaria según corresponda, debe
+asegurar que los trabajadores posean un nivel apropiado de información y capacitación en relación
+a la seguridad física de las fuentes selladas y debe promover en los mismos la Cultura de la
+Seguridad Física.
+53. El Titular de Licencia o de Autorización de Práctica no Rutinaria según corresponda, debe
+supervisar la implementación del sistema de calidad en relación a la seguridad física de las
+fuentes selladas.
+54. El Titular de Licencia o de Autorización de práctica no Rutinaria, según corresponda, debe
+adoptar todas las medidas razonables para asegurar la confidencialidad de la información que
+presumiblemente pueda ser utilizada en la comisión de actos intencionales descriptos en esta
+norma, y en particular la referida al sistema de seguridad física utilizado o proyectado.
+D.3.2. Responsable por la seguridad física
+55. El Responsable por la Seguridad Física debe implementar el sistema de calidad en lo relativo a
+la seguridad física de las fuentes radiactivas.
+
+5/7
+
+NORMA AR 10.13.2. NORMA DE SEGURIDAD FÍSICA DE FUENTES SELLADAS – REVISIÓN 0
+
+56. El Responsable por la Seguridad Física debe establecer y mantener en adecuadas
+condiciones de funcionamiento un sistema de comunicaciones con la Fuerza de Respuesta y los
+organismos gubernamentales de seguridad que deben intervenir.
+57. El Responsable por la Seguridad Física debe asegurar el mantenimiento de todos los
+sistemas, componentes, procedimientos, documentación e información que constituyen el sistema
+de seguridad física.
+58. El Responsable por la Seguridad Física debe asegurar la confidencialidad de la información
+que presumiblemente pueda ser utilizada en la comisión de actos intencionales descriptos en esta
+norma, y en particular la referida al sistema de seguridad física utilizado o proyectado
+59. El Responsable por la Seguridad Física debe disponer de una alternativa viable y eficaz para
+resolver cualquier situación de falta de operabilidad o de indisponibilidad de cualquiera de los
+medios, servicios y procedimientos del sistema de seguridad física.
+60. El Responsable por la Seguridad Física debe comunicar a la Autoridad Regulatoria, en forma
+fehaciente e inmediata, la ocurrencia de eventos que afecten o puedan afectar la seguridad física,
+debe investigar sus causas y consecuencias e implementar las medidas correctivas que
+correspondan.
+61. El Responsable por la Seguridad Física debe comunicar a la Autoridad Regulatoria en forma
+fehaciente e inmediata su ausencia temporaria o renuncia como Responsable por la Seguridad
+Física
+62. El Responsable por la Seguridad Física debe comunicar a la Autoridad Regulatoria en forma
+fehaciente cuando, a su entender, el Titular de Licencia o Autorización de Práctica no Rutinaria
+según corresponda, no provea los recursos necesarios para garantizar la seguridad física.
+D3.4. Trabajador
+63. Los trabajadores deben ajustar su accionar a los procedimientos de seguridad radiológica y
+seguridad física establecidos en esta norma.
+
+6/7
+
+NORMA AR 10.13.2. NORMA DE SEGURIDAD FÍSICA DE FUENTES SELLADAS – REVISIÓN 0
+
+ANEXO A LA NORMA AR 10.13.2, Rev.0
+VALORES D PARA FUENTES SELLADAS CATEGORÍA 1, 2 y 3
+
+Radionucleido
+
+D1
+
+D2
+
+D3
+
+(TBq)
+
+(TBq)
+
+(TBq)
+
+241
+
+Am
+
+6.E+01
+
+6.E-01
+
+6.E-02
+
+241
+
+Am/Be
+
+6.E+01
+
+6.E-01
+
+6.E-02
+
+252
+
+Cf
+
+2.E+01
+
+2.E-01
+
+2.E-02
+
+244
+
+Cm
+
+5.E+01
+
+5.E-01
+
+5.E-02
+
+60
+
+Co
+
+3.E+01
+
+3.E-01
+
+3.E-02
+
+137
+
+Cs
+
+1.E+02
+
+1.E+00
+
+1.E-01
+
+153
+
+Gd
+
+1.E+03
+
+1.E+01
+
+1.E+00
+
+192
+
+Ir
+
+8.E+01
+
+8.E-01
+
+8.E-02
+
+147
+
+Pm
+
+4.E+04
+
+4.E+02
+
+4.E+01
+
+238
+
+Pu
+
+6.E+01
+
+6.E-01
+
+6.E-02
+
+239
+
+Pu/Be
+
+6.E+01
+
+6.E-01
+
+6.E-02
+
+226
+
+Ra
+
+4.E+01
+
+4.E-01
+
+4.E-02
+
+2.E+02
+
+2.E+00
+
+2.E-01
+
+75
+
+Se
+
+90
+
+90
+
+Sr( Y)
+
+1.E+03
+
+1.E+01
+
+1.E+00
+
+170
+
+Tm
+
+2.E+04
+
+2.E+02
+
+2.E+01
+
+169
+
+Yb
+
+3.E+02
+
+3.E+00
+
+3.E-01
+
+198
+
+Au
+
+2.E+02
+
+2.E+00
+
+2.E-01
+
+109
+
+Cd
+
+2.E+04
+
+2.E+02
+
+2.E+01
+
+57
+
+7.E+02
+
+7.E+00
+
+7.E-01
+
+55
+
+8.E+05
+
+8.E+03
+
+8.E+02
+
+68
+
+7.E+02
+
+7.E+00
+
+7.E-01
+
+63
+
+Ni
+
+6.E+04
+
+6.E+02
+
+6.E+01
+
+103
+
+Pd
+
+9.E+04
+
+9.E+02
+
+9.E+01
+
+210
+
+Po
+
+6.E+01
+
+6.E-01
+
+6.E-02
+
+106
+
+Ru
+
+3.E+02
+
+3.E+00
+
+3.E-01
+
+204
+
+Tl
+
+2.E+04
+
+2.E+02
+
+2.E+01
+
+Co
+Fe
+Ge
+
+7/7
+
+

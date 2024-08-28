@@ -1,0 +1,88 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 4.5.1.
+
+REVISIÓN 1
+
+Diseño del sistema de
+suministro de energía
+eléctrica de reactores
+de investigación
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 18/02 (Boletín Oficial 22/7/02)
+
+República Argentina – 2002
+1/2
+
+NORMA AR 4.5.1.
+
+DISEÑO DEL SISTEMA DE SUMINISTRO DE
+ENERGÍA ELÉCTRICA DE REACTORES DE INVESTIGACIÓN
+
+A. OBJETIVO
+1. Establecer los criterios a los que debe ajustarse el diseño del sistema de suministro de energía eléctrica.
+
+B. ALCANCE
+2. Esta norma se aplica al diseño de reactores de investigación.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Alimentación Eléctrica Esencial: Suministro eléctrico necesario para el funcionamiento del
+sistema de protección, de la instrumentación y de los sistemas importantes para la seguridad .
+
+D. CRITERIOS
+4. Deben determinarse las bases de diseño de los sistemas de suministro de energía eléctrica
+normal y de alimentación eléctrica esencial.
+5. La alimentación eléctrica esencial debe ser independiente de la alimentación eléctrica normal.
+6. Debe demostrarse que la alimentación eléctrica esencial cumple con los requisitos pertinentes del sistema de protección y de la instrumentación de los sistemas importantes para la seguridad.
+7. Deben especificarse las funciones requeridas para la alimentación eléctrica esencial. Estas
+especificaciones deben incluir las secuencias de conexión de las cargas, los períodos de demanda y el tipo de alimentación requerido para cada caso.
+8. Deben especificarse la confiabilidad y disponibilidad requeridas para la alimentación eléctrica
+esencial y describir los medios usados para cumplir con tal requerimiento.
+9. Debe demostrarse, por análisis, que la alimentación eléctrica esencial funcionará adecuadamente bajo todas las condiciones de demanda (incluyendo los efectos de cargas continuas,
+pulsadas y transitorias).
+10. Solamente las cargas esenciales para la seguridad deben normalmente estar conectadas a
+la alimentación eléctrica esencial. Si otras cargas no esenciales para la seguridad están conectadas a la alimentación eléctrica esencial, debe probarse que esto no es en perjuicio de la confiabilidad y efectividad de dicha alimentación. Las cargas no esenciales, que no sean automáti-
+
+1/2
+
+NORMA AR 4.5.1. DISEÑO DEL SISTEMA DE SUMINISTRO DE ENERGÍA ELÉCTRICA
+DE REACTORES DE INVESTIGACIÓN – REVISIÓN 1
+
+camente desconectadas por el sistema de protección frente a una situación accidental, deben
+incluirse en el cálculo total de la demanda. Además, estas cargas no deben impedir el ensayo
+de la alimentación eléctrica esencial.
+11. El diseño y la distribución espacial de la alimentación eléctrica esencial deben tener en
+cuenta una protección adecuada contra fuego, mísiles y ambientes hostiles que puedan ocurrir
+durante la operación normal, situaciones accidentales, eventos internos o externos.
+12. Deben preverse controles e instrumentación para operar y monitorear la alimentación eléctrica esencial en la sala de control y en otra ubicación suplementaria adecuada, tal que se pueda disponer de suficiente información operativa de dicha alimentación para todas las situaciones operacionales y accidentales.
+13. La alimentación eléctrica esencial debe poder operarse en forma automática o manual.
+Debe iniciarse en forma automática en caso de demanda y no debe requerir la acción de un
+operador durante los primeros treinta (30) minutos. Un operador podrá iniciar la operación de la
+alimentación eléctrica esencial , pero no podrá impedir su funcionamiento normal. La operación
+manual debe cumplir requisitos de confiabilidad compatibles con los del sistema de protección.
+14. La alimentación eléctrica esencial debe ser capaz de funcionar adecuadamente durante
+todo el tiempo que sea necesario.
+15. Debe asegurarse la disponibilidad de los servicios necesarios para el correcto funcionamiento de la alimentación eléctrica esencial. En el caso que estos servicios involucren combustible, aceites lubricantes, agua de refrigeración o aire comprimido, los sistemas que almacenen,
+vehiculicen o utilicen estos suministros, y los suministros mismos, serán considerados parte de
+la alimentación eléctrica esencial y deben cumplir con criterios de seguridad compatibles con
+los del sistema de protección.
+16. Si se incorporan baterías en la alimentación eléctrica esencial, el diseño debe:
+a. Proveer un adecuado margen de capacidad teniendo en cuenta la función requerida y
+el período de funcionamiento.
+b. Proveer medios de monitoraje de su estado y de protección contra fallas que pudieran
+disminuir la alimentación de las baterías.
+c.
+
+Mantener las baterías en condiciones de plena carga durante las situaciones operacionales.
+
+d. Proveer adecuada ventilación del local donde se hallan instaladas las baterías a efectos de evitar la concentración de gases que produzcan mezclas explosivas.
+e. Asegurar que los cargadores de baterías estén conectados a una alimentación de tipo
+adecuado y que su capacidad sea suficiente como para restaurar la carga de las baterías en un tiempo adecuado, con la máxima demanda prevista, incluyendo los transitorios.
+
+2/2
+
+

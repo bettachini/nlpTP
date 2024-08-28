@@ -1,0 +1,264 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 4.9.1.
+
+Operación de
+conjuntos críticos
+
+REVISIÓN 1
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 18/02 (Boletín Oficial 22/7/02)
+
+República Argentina – 2003
+1/5
+
+NORMA AR 4.9.1.
+
+OPERACIÓN DE CONJUNTOS CRÍTICOS
+
+A. OBJETIVO
+1. Establecer los criterios mínimos de seguridad radiológica y nuclear para la operación.
+
+B. ALCANCE
+2. Esta norma se aplicará a la operación de conjuntos críticos, con una potencia máxima de
+operación de 100 vatios, con excepción de aquellos que puedan operar produciendo pulsos
+controlados de potencia.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Área Controlada: Lugar de trabajo donde se requiere, en condiciones normales de operación, que los trabajadores apliquen procedimientos preestablecidos para controlar la exposición
+a la radiación o para prevenir la dispersión de la contaminación radiactiva, y en la que se requieren medidas específicas para prevenir exposiciones potenciales.
+4. Coeficiente de Reactividad Global por Potencia (α
+αP): Función que expresa la dependencia de la reactividad ρ con la potencia global P, y cuya variación es debida a los mecanismos
+de realimentación de reactividad intrínsecos del reactor. Su expresión matemática es:
+
+αP =
+
+∂ ρ
+∂P
+
+5. Dispositivo Experimental: Dispositivo instalado en el reactor o en torno a él para utilizar los
+neutrones y las otras radiaciones ionizantes del reactor con fines de investigación, desarrollo,
+producción de isótopos o con otros propósitos.
+6. Entidad Responsable: Titular de las licencias de una instalación Clase I.
+7. Licencia: Documento por medio del cual la Autoridad Regulatoria autoriza, bajo ciertas condiciones, la operación de una instalación o la ejecución de una dada etapa de la vida de dicha
+instalación. Estas etapas pueden ser la construcción, puesta en marcha, retiro de servicio o
+cualquier otra que la Autoridad Regulatoria juzgue necesario licenciar.
+8. Responsable Primario: Persona que asume la responsabilidad directa por la seguridad
+radiológica de una instalación Clase I.
+9. Sistema de Calidad: Conjunto de actividades planificadas y desarrolladas para asegurar el
+nivel de calidad de una instalación o de una práctica.
+
+1/5
+
+NORMA AR 4.9.1. OPERACIÓN DE CONJUNTOS CRÍTICOS – REVISIÓN 1
+
+10. Sistema de Protección: Equipamiento provisto para actuar directamente en el caso de
+fallas de la instalación, mala operación o eventos externos, garantizando la seguridad mediante
+acciones protectivas apropiadas.
+11. Sistema de Seguridad: Sistema que lleva a cabo una función de seguridad para prevenir o
+mitigar las consecuencias resultantes de una falla, mal función o mala operación.
+12. Tasa Relativa de Potencia: Magnitud definida por la siguiente expresión:
+ψp[%] =
+
+100 x
+
+1 dP
+P dt
+
+13. Umbrales de Disparo: Valores escogidos de las variables del proceso para la actuación
+del sistema de protección.
+
+D. CRITERIOS
+14. La Entidad Responsable sólo podrá iniciar la operación de un conjunto crítico si cuenta
+previamente con:
+a. La licencia de operación otorgada por la Autoridad Regulatoria.
+b. El personal de la instalación que ocupa funciones especificadas en el organigrama de
+operación, licenciado y autorizado por la Autoridad Regulatoria.
+15. El Responsable Primario tiene la responsabilidad directa por la seguridad radiológica y nuclear del conjunto crítico y debe hacer todo lo razonable y compatible con sus posibilidades en
+favor de la seguridad, cumpliendo como mínimo las normas y requerimientos de la Autoridad
+Regulatoria.
+16. El Responsable Primario debe estar asesorado por un comité interno de seguridad en los
+aspectos relacionados con la seguridad radiológica y nuclear. Los miembros de este comité
+deben ser designados por el Responsable Primario.
+17. La Entidad Responsable, puede delegar total o parcialmente la ejecución de tareas necesarias para la seguridad radiológica y nuclear y las tareas de mantenimiento y operación, pero
+manteniendo en su totalidad la responsabilidad correspondiente.
+18. La Entidad Responsable debe contar con una estructura orgánica adecuada y disponer de
+los recursos necesarios para efectuar una supervisión que garantice que el conjunto crítico
+opere en condiciones de seguridad y prestar todo el apoyo que necesite el Responsable Primario para cumplir con sus responsabilidades.
+19. La Entidad Responsable debe constituir un comité de revisión técnica independiente del
+plantel de personal de la instalación, que se reunirá con la periodicidad que fije su reglamento,
+a fin de revisar el desarrollo de la operación del conjunto crítico, analizar la importancia de las
+fallas, eventos anormales y relevantes ocurridos, y evaluar las propuestas de modificaciones al
+diseño que pudiesen afectar los sistemas importantes para la seguridad.
+20. La Entidad Responsable debe mantener, en los casos que corresponda, una comunicación
+apropiada con las entidades encargadas del diseño, la construcción y la puesta en marcha para
+asegurar el intercambio adecuado de información y experiencia.
+21. La Entidad Responsable debe efectuar una evaluación de su experiencia operativa, proponiendo, cuando corresponda, modificaciones a los componentes, sistemas o procedimientos
+que introduzcan mejoras a la seguridad de la instalación y promoviendo las investigaciones o
+desarrollos necesarias.
+
+2/5
+
+NORMA AR 4.9.1. OPERACIÓN DE CONJUNTOS CRÍTICOS – REVISIÓN 1
+
+22. La Entidad Responsable debe establecer un sistema de calidad en operación y una organización que lo ponga en práctica, de manera de asegurar que todas las actividades de importancia para la seguridad se vigilan y controlan adecuadamente y se ajustan a los objetivos de
+diseño y a los límites y condiciones de operación.
+23. La Entidad Responsable debe establecer especificaciones y procedimientos escritos para la
+adquisición, la carga, la utilización, la descarga, el ensayo del combustible y los componentes
+del núcleo y la manipulación de los mismos.
+24. El movimiento de personas dentro de la instalación debe ajustarse a lo establecido en la
+documentación mandatoria. En particular para ingresar al recinto del reactor se requerirá la
+autorización del Responsable Primario o quien éste designe.
+25. La Entidad Responsable debe establecer un programa para el reentrenamiento periódico
+del personal que ocupe funciones especificadas en el organigrama de operación.
+26. El Responsable Primario debe autorizar el ingreso al recinto donde se encuentre ubicado el
+conjunto crítico cuando se encuentre en operación o se esté realizando un cambio de configuración.
+27. El Responsable Primario debe autorizar cada cambio de configuración del núcleo antes que
+dicha configuración sea llevada a la práctica.
+28. El conjunto crítico debe ser operado dentro de los límites y condiciones de operación, y
+según procedimientos establecidos en la documentación mandatoria.
+29. Se debe garantizar que durante la operación del reactor los umbrales de disparo del sistema de protección no sean modificados ni anulados.
+30. Los puestos de trabajo establecidos en el organigrama de operación se deben mantener
+adecuadamente cubiertos.
+31. Se debe asegurar que durante la operación del conjunto crítico permanezcan, como mínimo, dos operadores en la sala de control.
+32. El conjunto crítico debe contar permanentemente con un lugar para almacenar elementos
+combustibles irradiados equivalente, como mínimo, al mayor número de elementos combustibles que pueda llegar a contener su núcleo.
+33. Los cambios de configuración del núcleo no podrán realizarse con la presencia de moderador.
+34. Se debe garantizar el funcionamiento de los sistemas de seguridad del reactor de acuerdo
+a los límites y condiciones establecidos en la documentación mandatoria.
+35. Debe garantizarse que la tasa media de inserción positiva de reactividad, asociada a la
+operación de un sistema de control dado sea inferior a 20 pcm/s y, además, el período debe ser
+mayor a 40 s durante el arranque del conjunto crítico y mayor a 20 s durante los cambios de
+potencia, luego de alcanzar la condición de crítico. Estos valores se deben asegurar durante la
+extracción de barras de control, durante el incremento del nivel de moderador y durante la operación de cualquier otro sistema de control.
+36. Se debe garantizar que el coeficiente de reactividad global por potencia sea siempre negativo.
+37. Todas las tareas de mantenimiento, ensayo o inspección que impliquen alguna modificación transitoria de los límites y condiciones de operación deben ser controladas por personal
+calificado independiente, designado por la Entidad Responsable.
+
+3/5
+
+NORMA AR 4.9.1. OPERACIÓN DE CONJUNTOS CRÍTICOS – REVISIÓN 1
+
+38. Se debe cumplir con un programa de ensayos y verificaciones periódicas de los sistemas o
+componentes relacionados con la seguridad, a fin de asegurar que se cumplen los límites y
+condiciones de operación establecidos en la documentación mandatoria y en la licencia de
+operación, y que se mantienen los niveles de confiabilidad establecidos en la norma de diseño.
+39. Las actividades que deben realizarse siguiendo procedimientos escritos son, como mínimo,
+las siguientes:
+•
+
+Arranque, operación y parada.
+
+• Carga, descarga y movimiento de elementos combustibles, o de reflectores, o de instrumentación nuclear o de cualquier otro componente del núcleo.
+•
+
+Calibración de la instrumentación.
+
+•
+
+Mantenimiento.
+
+•
+
+Ensayos y verificaciones.
+
+•
+
+Irradiaciones.
+
+•
+
+Monitoreo.
+
+•
+
+Respuesta a incidentes operacionales.
+
+•
+
+Acceso a las áreas controlada y supervisada.
+
+40. Toda la documentación presentada por la Entidad Responsable para la obtención de la
+licencia de operación, y a la que la Autoridad Regulatoria le dé carácter mandatorio, debe estar
+permanentemente actualizada.
+41. El informe de seguridad debe ser actualizado cada vez que haya modificaciones al diseño
+de la instalación o a los límites y condiciones de operación.
+42. Se debe mantener, durante la vida útil del conjunto crítico, un conjunto completo y actualizado de planos y descripciones de la instalación que, como mínimo, comprenda los sistemas y
+dispositivos importantes para la seguridad.
+43. Se deben conservar los protocolos correspondientes a los ensayos de puesta en marcha y
+los registros de operación, por los plazos que establezca la licencia de operación o durante la
+vida útil del conjunto crítico.
+44. Deben registrarse todos los incidentes operacionales que ocurran en la instalación. En caso
+que alguno de estos eventos sea relevante, debe comunicarse a la Autoridad Regulatoria tan
+pronto como sea posible y posteriormente presentar un informe analítico en el plazo y con la
+modalidad establecida en la documentación mandatoria.
+45. Se deben registrar mensualmente las dosis ocupacionales. Se conservarán estos registros,
+como mínimo durante treinta (30) años, contados a partir de la finalización de la prestación de
+servicio del personal involucrado.
+46. Se deben registrar todas las reparaciones y modificaciones de sistemas, componentes o
+procedimientos que tengan influencia en la seguridad del conjunto crítico o en la seguridad
+radiológica del personal o del público.
+47. Se deben registrar los resultados de los ensayos y verificaciones de los sistemas o componentes importantes para la seguridad.
+48. Se deben registrar las conclusiones que surjan de las reuniones del comité interno de seguridad y del comité de revisión técnica.
+49. Se debe conservar, por los plazos que se establece en la licencia de operación, o bien durante la vida útil de la instalación, cualquier otro registro requerido por la Autoridad Regulatoria
+o por la Entidad Responsable.
+
+4/5
+
+NORMA AR 4.9.1. OPERACIÓN DE CONJUNTOS CRÍTICOS – REVISIÓN 1
+
+50. Cualquier modificación del diseño del conjunto crítico, de la documentación mandatoria o
+de procedimientos que puedan tener influencia significativa en la seguridad radiológica y nuclear, en especial en lo relacionado con el exceso de reactividad y el coeficiente global por
+potencia o en la potencia máxima autorizada de operación, debe contar con la aprobación previa de la Autoridad Regulatoria.
+51. El uso y manipuleo de dispositivos experimentales debe ser realizado en base a procedimientos escritos. Estos procedimientos deben tener en cuenta los efectos sobre la seguridad
+del conjunto crítico, particularmente los cambios en la reactividad.
+52. Los procedimientos para la revisión y aprobación de propuestas para experimentos y modificaciones, y para el control de su implementación deben incluir en los casos aplicables temas
+tales como:
+a. Una descripción del propósito del experimento o modificación.
+b. Justificación de la necesidad del experimento o modificación.
+c.
+
+Requerimientos y criterios de diseño incluyendo la evaluación de seguridad.
+
+d. Procesos de manufactura.
+e. Procedimientos de instalación.
+f.
+
+Procesos de puesta en servicio.
+
+g. Revisión de procedimientos operativos y de emergencia.
+h. Disposición de los residuos radiactivos generados por el experimento o modificación.
+i.
+
+Actualización de la documentación.
+
+j.
+
+Requerimientos especiales para el entrenamiento y, si fuera necesario, el relicenciamiento de operadores.
+
+k.
+
+Requerimientos de calidad.
+
+53. Los dispositivos experimentales que se instalen durante la operación del conjunto crítico,
+deben someterse a ensayos previos y no deben modificar el cumplimiento de los límites y condiciones de operación.
+54. Cualquier modificación significativa de dispositivos experimentales debe sujetarse a los
+mismos procedimientos para el diseño, operación y aprobación utilizados para el dispositivo
+experimental original.
+55. El Responsable Primario debe aprobar la realización de irradiaciones o experimentos aún
+cuando ellos sean repetición o incluyan pequeñas variaciones de otros que hayan sido realizados en ocasiones anteriores.
+56. Para que el Responsable Primario pueda aprobar irradiaciones o experimentos que impliquen apartamientos significativos con respecto a la experiencia adquirida debe mediar la aprobación previa del comité interno de seguridad.
+57. Las experiencias o irradiaciones propuestas que pudieran modificar las condiciones de
+seguridad establecidas en la documentación mandatoria, deben ser previamente autorizadas
+por la Autoridad Regulatoria a propuesta del comité de revisión técnica.
+58. No deben ser autorizadas las experiencias que puedan llevar a un coeficiente de reactividad global por potencia positivo.
+59. Debe efectuarse anualmente un ejercicio de aplicación del plan de emergencia, debiendo
+convenirse con antelación con la Autoridad Regulatoria el cronograma y contenido del ejercicio.
+
+5/5
+
+

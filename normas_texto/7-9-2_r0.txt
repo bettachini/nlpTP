@@ -1,0 +1,494 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 7.9.2.
+
+REVISIÓN 0
+
+Operación
+de fuentes de radiación
+para aplicaciones
+industriales
+
+Aprobada en la Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 39/06 (Boletín Oficial 10/4/06)
+
+República Argentina – 2006
+
+1/10
+
+NORMA AR 7.9.2.
+OPERACIÓN DE FUENTES DE RADIACIÓN
+PARA APLICACIONES INDUSTRIALES – REVISIÓN 0
+
+AUTORIDAD REGULATORIA NUCLEAR
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires
+ARGENTINA
+Teléfono (011) 6323-1356
+Fax (011) 6323-1771/1798
+http://www.arn.gov.ar
+
+2/10
+
+NORMA AR 7.9.2.
+
+OPERACIÓN DE FUENTES DE RADIACIÓN
+PARA APLICACIONES INDUSTRIALES
+
+A. OBJETIVO
+1. Establecer criterios de seguridad radiológica y seguridad física para la operación.
+
+B. ALCANCE
+2. Esta norma es aplicable a la operación de fuentes de radiación para aplicaciones industriales
+en instalaciones Clase II o Clase III o en prácticas no rutinarias.
+Esta norma excluye las prácticas de gammagrafía industrial así como la comercialización de
+fuentes de radiación y equipos para tal fin y las de generación de rayos X en los términos de la
+Ley 17.557.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no
+relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Base autorizada: Instalación para aplicaciones petroleras, dependiente del titular de la
+licencia de operación autorizada por la ARN y localizada en una zona cercana a un área de
+operaciones petroleras, desde donde se realizan las operaciones locales, y que cuenta con un
+depósito autorizado e instalaciones accesorias.
+4. Contenedor: Recipiente blindado que almacena una o más fuentes radiactivas.
+5. Depósito autorizado: Recinto autorizado por la Autoridad Regulatoria destinado al almacenamiento de equipos o fuentes de radiación, que brinda una adecuada seguridad radiológica y
+seguridad física.
+6. Depósito Transitorio: Recinto que brinda como mínimo la misma seguridad radiológica y
+seguridad física que el Depósito autorizado destinado al almacenamiento temporario de
+equipos o fuentes de radiación que por razones operativas deban permanecer alojados fuera
+del depósito autorizado.
+7. Equipo para Aplicación Industrial (Equipo): Sistema o conjunto de dispositivos que utiliza
+fuentes de radiación en aplicaciones industriales.
+8. Equipo móvil: Equipo portátil que normalmente es trasladado para realizar operaciones en
+distintos lugares.
+9. Fuente de radiación: Cualquier sustancia natural o artificial, o dispositivo tecnológico que emite
+radiaciones ionizantes.
+10. Fuente radiactiva: Fuente de radiación que contiene material radiactivo.
+11. Fuente sellada: Fuente radiactiva en la que el material radiactivo se halla en una o más
+cápsulas suficientemente resistentes para prevenir el contacto y dispersión del material
+radiactivo, bajo las condiciones de uso para la cual fue diseñada.
+
+1/10
+
+NORMA AR 7.9.2.
+OPERACIÓN DE FUENTES DE RADIACIÓN
+PARA APLICACIONES INDUSTRIALES – REVISIÓN 0
+
+12. Fuente no sellada: Fuente radiactiva que no es una fuente sellada.
+13. Operador: Persona física autorizada para operar un equipo o realizar una práctica, que tiene
+la responsabilidad de hacerlo en forma segura de acuerdo a las reglas del arte, y cumpliendo
+como mínimo con las normas aplicables bajo la supervisión del responsable por la seguridad
+radiológica.
+14. Procedimiento de emergencia: Conjunto de acciones planificadas para mitigar las
+consecuencias radiológicas de un accidente o incidente en una instalación Clase II.
+15. Situación Accidental: Alteración grave de una situación operacional que puede conducir a
+consecuencias radiológicas significativas para las personas expuestas a radiación, si los
+correspondientes sistemas de seguridad no funcionan según se ha previsto en el diseño.
+16. Seguridad Física: Medidas encaminadas a prevenir el acceso no autorizado o el daño a
+fuentes de radiación o la pérdida, robo o traslado no autorizado de esas fuentes.
+17. Sistema de Calidad: Conjunto de actividades planificadas y desarrolladas para asegurar un
+nivel de calidad adecuado en una instalación o practica.
+18. Responsable: Persona que asume la responsabilidad directa por la seguridad radiológica de
+una instalación Clase II o Clase III o de una practica no rutinaria.
+19. Titular de Licencia: Persona física o jurídica a la que la Autoridad Regulatoria ha otorgado
+una o más licencias para una instalación Clase I o Clase II.
+20. Titular de Registro: Persona física o jurídica a la que la Autoridad Regulatoria ha otorgado un
+registro para una instalación Clase III.
+21. Titular de Práctica no Rutinaria: Persona física o jurídica a la que la Autoridad Regulatoria
+ha otorgado una autorización de práctica no rutinaria.
+
+D. CRITERIOS
+D1. Criterios Generales
+22. La tenencia de fuentes de radiación requiere contar con una Licencia, Registro o Autorización
+de práctica no rutinaria, según corresponda, emitida por la Autoridad Regulatoria.
+23. Para operar una instalación Clase II se debe contar con la Licencia de Operación otorgada por
+la Autoridad Regulatoria, con un Responsable con permiso individual vigente para el propósito
+correspondiente y en los casos que la Autoridad Regulatoria así lo determine, con al menos un (1)
+operador adicional con permiso individual vigente.
+24. Para operar una instalación Clase III se debe contar con el correspondiente Registro otorgado
+por la Autoridad Regulatoria y con un responsable con permiso individual vigente para el
+propósito correspondiente.
+25. Para realizar una práctica no rutinaria se debe contar con la correspondiente Autorización de
+Práctica no Rutinaria otorgada por la Autoridad Regulatoria y con un responsable con permiso
+individual vigente para el propósito correspondiente.
+26. Toda modificación en la razón social del Titular de Licencia, Registro o Autorización de
+Práctica no Rutinaria que pueda afectar la capacidad jurídica del mismo, o aquellos aspectos
+relacionados con la modificación en el objeto social o el domicilio legal de dicho Titular, de
+acuerdo a la documentación presentada oportunamente, debe ser comunicada en forma
+inmediata a la Autoridad Regulatoria.
+
+2/10
+
+NORMA AR 7.9.2.
+OPERACIÓN DE FUENTES DE RADIACIÓN
+PARA APLICACIONES INDUSTRIALES – REVISIÓN 0
+
+27. La transferencia, venta, préstamo, depósito transitorio en custodia o alquiler de equipos o
+fuentes de radiación, solo podrá ser realizada entre titulares de licencia de operación, registro
+o autorización de práctica no rutinaria para los propósitos correspondientes y previa autorización escrita otorgada a esos efectos por la Autoridad Regulatoria a ambos titulares.
+28. La transferencia de residuos radiactivos a una Gestionadora de Residuos Radiactivos solo
+podrá ser realizada previa autorización escrita otorgada a esos efectos por la Autoridad
+Regulatoria.
+29. Las dosis de radiación originadas en la operación de una instalación o en la realización de una
+práctica deben resultar tan bajas como sea razonablemente alcanzable, y no deben superar
+las restricciones de dosis establecidas por la Autoridad Regulatoria.
+30. Debe limitarse tanto como sea razonablemente posible la probabilidad de ocurrencia de
+situaciones accidentales, utilizando procedimientos y elementos de seguridad apropiados, que
+permitan la detección temprana de tales situaciones.
+31. En caso de situaciones anormales deben tomarse las medidas de seguridad radiológica y
+seguridad física necesarias hasta tanto se lleven a cabo las acciones correspondientes para
+recuperar el control de la situación o para mitigar sus consecuencias.
+32. Los equipos y fuentes de radiación incluidos en una licencia de operación, registro o
+autorización de práctica no rutinaria solo podrán ser utilizados para el propósito para el que
+fueron licenciados, registrados o autorizados según el caso.
+33. La importación o exportación de fuentes de radiación debe ser previamente autorizada por la
+Autoridad Regulatoria.
+34. Solo se pueden utilizar en una instalación o almacenar en un depósito autorizado las fuentes
+de radiación autorizadas por la Autoridad Regulatoria para esa instalación o depósito.
+35. El transporte de fuentes radiactivas debe realizarse cumpliendo con lo establecido en la
+Norma AR 10.16.1. “Transporte de materiales radiactivos”.
+D2. Criterios Particulares
+36. Los sistemas de protección radiológica deben estar optimizados respetando la restricción de
+dosis efectiva de 6 mSv en un (1) año para la exposición de los trabajadores. Cuando la
+jornada de labor sea menor que ocho (8) horas, no deberá superarse la parte proporcional de
+la restricción de dosis establecida.
+37. Los sistemas de protección radiológica deben estar optimizados respetando la restricción de
+dosis efectiva de 0,1 mSv en un (1) año para los miembros del público.
+38. Las instalaciones Clase II o las prácticas no rutinarias deberán poseer o disponer, según
+corresponda a satisfacción de la Autoridad Regulatoria, monitores de radiación adecuados
+para medir el/los tipos de radiaciones ionizantes utilizados.
+39. Todo equipo o contenedor deberá identificarse mediante una placa ubicada en su parte
+externa y de modo claramente visible, conteniendo la siguiente información: el símbolo de
+material radiactivo, símbolo químico y número de masa del nucleido, actividad y fecha de
+calibración, número de serie de la fuente radiactiva sellada, marca y modelo del equipo o
+bulto, o energía y tipo de radiación que corresponda.
+
+3/10
+
+NORMA AR 7.9.2.
+OPERACIÓN DE FUENTES DE RADIACIÓN
+PARA APLICACIONES INDUSTRIALES – REVISIÓN 0
+
+40. Los depósitos autorizados para el almacenamiento de equipos o contenedores deben ofrecer
+condiciones de seguridad radiológica y sistemas de seguridad física adecuadas que como
+mínimo reúnan las siguientes características:
+•
+
+Deben estar construidos con una estructura firme.
+
+•
+
+Deben contar con puertas y cierres adecuados de modo que permanezcan en todo momento cerrados bajo llave.
+
+•
+
+Deben ser de uso exclusivo para el alojamiento de las fuentes y equipos autorizados.
+
+•
+
+Deben poseer baja carga de fuego y deben estar suficientemente alejados de zonas de
+producción y almacenamiento de explosivos.
+
+•
+
+Deben estar ubicados en zonas de bajo factor ocupacional y al mismo tiempo asegurar su
+seguridad física contra el acceso inadvertido o intencional de personas no autorizadas.
+
+•
+
+Deben poseer blindajes adecuados compatibles con los requisitos de los Criterios N° 36 y
+Nº 37.
+
+•
+
+Deben estar correctamente señalizados externamente, mediante carteles en los que
+consten además los datos del responsable o personas autorizadas y sus números de
+teléfono o modo de contactarlas.
+
+41. Todos los equipos con fuentes radiactivas, que no estén siendo utilizados, deberán
+permanecer con su sistema de obturación cerrado con llave o bloqueado y almacenados en el
+depósito autorizado. Las llaves de los equipos deben mantenerse separadas de los mismos
+mientras no estén en uso, permaneciendo bajo el control directo del responsable u operador a
+cargo del equipo.
+42. El Titular de una Licencia de Operación, registro o autorización de práctica no rutinaria que
+posea un equipo para el que no prevea un uso ulterior y que se encuentre en esa situación por
+un período mayor a seis (6) meses, sin que exista un programa para su reubicación o reutilización, deberá reexportarlo, transferirlo o depositarlo en custodia o gestionarlo como residuo
+radiactivo según corresponda. En cualquier caso el titular debe solicitar previamente la correspondiente autorización a la Autoridad Regulatoria según los Criterios Nº 27, Nº 28 o Nº 33.
+43. De ser necesario, la Autoridad Regulatoria podrá autorizar depósitos transitorios en los que se
+tomen medidas de seguridad radiológica y seguridad física adecuadas bajo la supervisión
+directa del titular.
+44. La operación de una instalación Clase II o Clase III o la realización de una práctica no rutinaria
+deberá enmarcarse dentro de un sistema de calidad que contenga procedimientos escritos,
+según corresponda para:
+a. Compra, recepción, almacenamiento, transferencia e inventario del material radiactivo.
+b. Operación y realización de la práctica, manipulación del material radiactivo dentro de la
+instalación y para aquellos casos en que deba ser utilizado fuera de ella (equipos móviles
+y fuentes radiactivas no selladas).
+c.
+
+Vigilancia radiológica individual y de áreas.
+
+d. Mantenimiento y control de calidad de los equipos y todos los elementos de seguridad
+radiológica.
+e. Gestión de los residuos radiactivos.
+f.
+
+4/10
+
+Situaciones anormales.
+
+NORMA AR 7.9.2.
+OPERACIÓN DE FUENTES DE RADIACIÓN
+PARA APLICACIONES INDUSTRIALES – REVISIÓN 0
+
+45. Los procedimientos para situaciones anormales mencionados en el Criterio N° 44 f) deben
+incluir, según corresponda, evaluaciones dosimétricas y acciones correctivas apropiadas para
+el caso en que puedan producirse dosis significativas.
+D3. Criterios adicionales para equipos móviles
+46. En la operación de cada equipo debe intervenir como mínimo un operador con permiso
+individual vigente para el propósito específico bajo la supervisión del Responsable.
+47. En la operación de un equipo o fuente de radiación para uso petrolero, deben intervenir dos (2)
+personas como mínimo y, al menos, una de ellas con permiso individual vigente para el
+propósito específico.
+48. Toda vez que por cuestiones operativa, una fuente de radiación deban permanecer guardadas
+fuera de un depósito autorizado, se deberán guardar en un depósito transitorio.
+49. Al finalizar la realización de una práctica, las fuentes de radiación utilizadas deben almacenarse en el depósito autorizado o en un depósito transitorio.
+50. Se deberá delimitar según corresponda el área de operación mediante barreras físicas
+apropiadas, ubicadas de tal manera que permitan prevenir el acceso inadvertido de personas
+a la misma, manteniendo vigilancia visual directa sobre el área de operación, a fin de detectar
+en forma inmediata cualquier acceso no autorizado.
+51. Se deberá informar a quien sea responsable del movimiento de personas no relacionadas con
+la operación del equipo, pero que desarrollen tareas en las inmediaciones del área de operación, sobre las precauciones a tomar.
+52. Toda base autorizada para aplicaciones petroleras debe contar con al menos una persona con
+permiso específico correspondiente para el propósito individual correspondiente.
+53. Toda vez que un vehículo que transporte fuentes de radiación deba permanecer en la zona de
+trabajo, el operador debe tomar las medidas necesarias para garantizar la seguridad radiológica y la seguridad física del vehículo y su carga.
+D4. Criterios adicionales para fuentes no selladas
+54. La preparación de los radionucleidos deberá realizarse en instalaciones que cuenten con
+superficies impermeables y que puedan descontaminarse fácilmente o ser eliminadas como
+residuo radiactivo.
+55. El titular de la instalación debe prever antes del inicio de la operación y a satisfacción de la
+Autoridad Regulatoria las alternativas para la gestión de los residuos radiactivos que se
+generen como consecuencia de la práctica.
+56. Cuando el período de semidesintegración y la actividad de los radionucleidos utilizados sea tal
+que no se prevean tiempos de almacenamiento superiores a un (1) año para los residuos
+radiactivos generados, dichos residuos podrán ser almacenados transitoriamente para su
+decaimiento en la propia instalación, en caso contrario deberán gestionarse a través de una
+Gestionadora de Residuos Radiactivos, según lo establecido en la norma AR 10.12.1 “Gestión
+de Residuos Radiactivos”.
+57. Los residuos radiactivos deben ser minimizados (reduciendo volúmenes y racionalizando
+operaciones), clasificados, segregados e identificados por radionucleido, actividad, fecha de
+generación y período de almacenamiento requerido. Además deben ser acondicionados
+adecuadamente para permitir su almacenamiento o transporte para su disposición final.
+
+5/10
+
+NORMA AR 7.9.2.
+OPERACIÓN DE FUENTES DE RADIACIÓN
+PARA APLICACIONES INDUSTRIALES – REVISIÓN 0
+
+58. Los residuos sólidos, tales como jeringas, agujas, guantes, papeles, material de vidrio, plástico, filtros, etc. conteniendo material radiactivo deben ser acondicionados de manera adecuada, para evitar heridas o lesiones que pudieran ocasionar contaminación interna.
+59. La instalación debe contar con los elementos de descontaminación adecuados.
+60. En la operación con fuentes no selladas deben intervenir dos (2) personas como mínimo y, al
+menos una de ellas con permiso individual vigente para el propósito específico correspondiente.
+D5. Vigilancia Radiológica Individual
+61. Deberá llevarse a cabo el control dosimétrico individual de los trabajadores en los casos que
+corresponda.
+62. El Responsable deberá determinar la nómina de los trabajadores afectados al control dosimétrico individual.
+63. Todo el personal que opera con fuentes radiactivas para perfilaje petrolero o con fuentes no
+selladas, debe contar con monitoraje individual de la irradiación externa y con dosímetro de
+mano según corresponda y a satisfacción de la Autoridad Regulatoria.
+D6. Controles, Mantenimiento y Reparación
+64. Solo podrá operarse una instalación o realizar prácticas que impliquen el uso de fuentes de
+radiación cuando los equipos y todos los elementos de seguridad radiológica se encuentren en
+condiciones que hagan segura su operación.
+65. Las tareas de instalación, mantenimiento y reparación de equipos que requieran el desarme
+total o parcial de los mismos y que puedan afectar sus sistemas de seguridad o que puedan
+significar dosis no despreciables para los trabajadores, deben ser realizadas por empresas
+licenciadas o autorizadas al efecto por la Autoridad Regulatoria; el personal que realice dichas
+tareas deberá estar adecuadamente capacitado para esa función y, en los casos que se
+determine, deberá contar con un Permiso Individual.
+66. Debe efectuarse el control rutinario del equipamiento, el cual debe incluir como mínimo los
+siguientes aspectos:
+• Control de los dispositivos de bloqueo del movimiento de la fuente sellada u obturación de
+la misma.
+• Verificación de los niveles normales de tasa de dosis ambiental en el exterior de los
+equipos.
+• Verificación del estado de las identificaciones de equipos y fuentes, las que deben ser reparadas o recambiadas en caso de deterioro.
+67. Los monitores o medidores de radiación mencionados en el Criterio Nº 38 deben ser adecuadamente calibrados:
+• Con una frecuencia mínima de dos años o con la frecuencia que determine la Autoridad
+Regulatoria.
+• Cada vez que el instrumento sea sometido a una reparación.
+• Cuando existan motivos para suponer una alteración de su calibración.
+
+6/10
+
+NORMA AR 7.9.2.
+OPERACIÓN DE FUENTES DE RADIACIÓN
+PARA APLICACIONES INDUSTRIALES – REVISIÓN 0
+
+68. Debe verificarse como mínimo cada dos (2) meses el funcionamiento de los monitores o
+medidores de radiación mencionados en el Criterio Nº 38 y los resultados de la verificación
+deben estar adecuadamente registrados.
+D7. Documentación, Registros e Informes
+69. El Titular de Licencia, Registro o Autorización de Práctica no Rutinaria deberá enviar a la
+Autoridad Regulatoria semestralmente, o cada vez que se produzca una modificación en el
+inventario o ubicación de los equipos y fuentes de radiación, una declaración jurada con el
+inventario actualizado de los equipos y fuentes de radiación que posea, indicando claramente
+la ubicación de cada uno de ellos y cualquier modificación en las condiciones de uso. La
+declaración jurada deberá estar conformada por el Responsable ante la Autoridad Regulatoria.
+70. El Titular de Licencia, Registro o Autorización de Práctica no Rutinaria debe poseer la
+documentación indicada a continuación, según corresponda y determine la Autoridad Regulatoria, mientras mantenga la posesión de los equipos o fuentes de radiación:
+a. Descripción general de la instalación.
+b. Certificado de fabricación de cada fuente sellada, test de pérdidas y de aprobación de
+diseño como material radiactivo en forma especial cuando corresponda.
+c.
+
+Certificados de test periódicos de pérdidas de cada fuente sellada.
+
+d. Localización en planta de los equipos y contenedores (acompañada de esquemas o
+planos).
+e. Registro de mantenimiento y de los resultados de los controles efectuados sobre los
+equipos.
+f.
+
+Manuales de operación y mantenimiento de los equipos.
+
+g. Detalles constructivos de los equipos, sus blindajes, portafuentes, obturadores, cerraduras
+o demás componentes de seguridad.
+h. Blindajes que estarán disponibles para ser utilizados en situaciones de emergencia.
+i.
+
+Sistemas de ventilación, cuando corresponda.
+
+j.
+
+Dispositivos de restricción de acceso al área de operación o al depósito autorizado cuando
+corresponda.
+
+k.
+
+Señalizaciones en el área de operación o en el depósito.
+
+l.
+
+Cualquier otro sistema de protección que la Autoridad Regulatoria considere necesario.
+
+m. Inventario detallado del total de equipos y fuentes de radiación en posesión del titular de la
+licencia.
+71. El titular debe asegurar que se mantenga actualizado el registro de la contabilidad del material
+radiactivo que incluya como mínimo radionucleidos ingresados a la entidad, forma física y
+química, actividad y fechas de ingreso y egreso.
+72. El movimiento de equipos o fuentes entre bases o depósitos autorizados, deberán ser
+comunicados a la Autoridad Regulatoria por el titular de la licencia de operación, dentro de las
+cuarenta y ocho (48) horas de producido.
+73. Debe llevarse el registro detallado de movimientos de equipos móviles toda vez que salgan
+fuera de la instalación o ingresen a la misma, con fecha, hora, destino y firma del responsable
+u operador con permiso individual que las retire.
+
+7/10
+
+NORMA AR 7.9.2.
+OPERACIÓN DE FUENTES DE RADIACIÓN
+PARA APLICACIONES INDUSTRIALES – REVISIÓN 0
+
+74. El titular de licencia, registro o autorización de práctica no rutinaria según corresponda, debe
+informar cualquier tipo de situación anormal que involucre a los equipos o fuentes de radiación:
+a. Por el medio más rápido e inmediatamente de producida o de tomado conocimiento por
+parte del titular o del responsable ante la ARN, de toda pérdida de control sobre sus fuentes de radiación, sea por hurto, robo, desaparición, accidente, incendio, explosión, derrumbe o por cualquier otra circunstancia o evento que impida al titular garantizar la integridad
+de las fuentes de radiación o la protección radiológica de las personas que pudieren estar
+expuestas a ellas.
+b. Por escrito dentro de las 24 horas de producida o de tomado conocimiento por parte del
+titular o del responsable ante la ARN, de cualquier otra situación anormal, que involucre a
+sus fuentes de radiación, y que haya producido una exposición real o potencial de personas a las radiaciones ionizantes con dosis que puedan haber superado las restricciones
+de dosis establecidas.
+75. En el caso en que se produzca un proceso judicial de quiebra o convocatoria de acreedores
+del Titular de Licencia, éste deberá notificar el hecho dentro de las cuarenta y ocho (48) horas
+de producido a la Autoridad Regulatoria, indicando los datos del Juzgado interviniente y del
+Síndico designado, así como las medidas de protección que se hubieren adoptado para
+garantizar la protección radiológica y la seguridad física de los equipos o fuentes no selladas
+de la instalación.
+76. El Titular de Licencia, Registro o Autorización de Práctica no Rutinaria debe poner a disposición de la Autoridad Regulatoria la documentación, que la misma determine en casos
+particu-lares.
+D8. Validez y Renovación de las Licencias de Operación
+77. La licencia de operación o registro tendrá una validez máxima de cinco (5) años a partir de la
+fecha de emisión, salvo que la Autoridad Regulatoria haya estipulado un plazo de validez
+menor.
+78. La renovación de las licencias de operación o registros deberán iniciarse al menos sesenta
+(60) días hábiles antes de su vencimiento.
+D8.1 Autorizaciones de operación con Permisos de Vigencia Permanente
+79. El titular de la licencia de operación o de una autorización de operación con permiso de
+vigencia permanente, deberá renovarlo en un plazo no mayor de tres (3) años a partir de la
+puesta en vigencia de la presente norma cumplimentando los requisitos de seguridad radiológica y seguridad física establecidos en la misma.
+80. La Licencia de Operación comprendida en el alcance del Criterio 79, que haya sido renovada,
+tendrá una validez máxima de cinco (5) años a partir de la fecha de su emisión, salvo que la
+Autoridad Regulatoria haya estipulado un plazo de validez menor.
+81. La licencia de operación comprendida en el alcance del Criterio Nº 79, que no haya sido renovada dentro del plazo y en las condiciones establecidas en ese Criterio, quedará Automáticamente suspendida a partir de los tres (3) años de la fecha de puesta en vigencia de la
+presente norma y hasta tanto su titular tramite su renovación, cumpliendo con los requisitos y
+condicio-nes establecidos en el Criterio Nº 79.
+82. Una vez operada la suspensión indicada en el Criterio Nº 80, el titular deberá proceder de
+acuerdo a lo expresado en la presente norma a los fines de garantizar la seguridad radiológica
+y física de las fuentes de radiación.
+
+8/10
+
+NORMA AR 7.9.2.
+OPERACIÓN DE FUENTES DE RADIACIÓN
+PARA APLICACIONES INDUSTRIALES – REVISIÓN 0
+
+83. El titular de una licencia de operación o registro cuyo vencimiento opere dentro del primer (1)
+año de vigencia de la presente norma, que no se ajuste a sus disposiciones, podrá solicitar por
+única vez que la Autoridad Regulatoria le otorgue una renovación de su licencia de operación
+o registro, con una validez que no excederá los dos (2) años a contar de la fecha de puesta en
+vigencia de la presente norma.
+D9. Responsabilidades
+Del Titular de la Licencia de Operación, Registro o de la Autorización de Práctica no rutinaria:
+Sin perjuicio del cumplimiento de las otras obligaciones que surgen de la presente norma el Titular
+de la Licencia de Operación, Registro o de la Autorización de Práctica no Rutinaria estará obligado a:
+84. Proveer los medios necesarios para cumplir y hacer cumplir, como mínimo, los requisitos establecidos en la licencia de operación, registro o autorización, en las normas aplicables y en
+todo otro requerimiento de la Autoridad Regulatoria aplicable a la instalación o práctica.
+85. Designar al Responsable, asegurar que la función del mismo esté cubierta mientras permanezca vigente la licencia de operación, autorización o registro correspondiente y prestarle al
+Responsable todo el apoyo que necesite para que la práctica se desarrolle en adecuadas condiciones de seguridad radiológica y física.
+86. Comunicar a la Autoridad Regulatoria en forma fehaciente e inmediata, el caso en que se produzca la ausencia temporal o definitiva del Responsable. En tal caso, la instalación no podrá
+operar o la práctica no podrá llevarse a cabo hasta tanto se designe un nuevo Responsable, a
+satisfacción de la Autoridad Regulatoria.
+87. Establecer un sistema de calidad adecuado y supervisar su correcta implementación.
+88. Asegurar la capacitación y reentrenamiento del personal.
+89. Facilitar, en todo momento, la realización de inspecciones y auditorias regulatorias por parte
+del personal de la Autoridad Regulatoria o por quien ésta designe.
+90. Notificar a la Autoridad Regulatoria la intención de cesar en forma temporaria o definitiva el
+uso de material radiactivo.
+91. Tramitar, con la debida anticipación, la renovación, modificación o ampliación de la licencia de
+operación o del registro.
+Del Responsable:
+Sin perjuicio del cumplimiento de las otras obligaciones que surgen de la presente norma el
+Responsable estará obligado a:
+92. Asegurar que la operación de los equipos o la manipulación de fuentes radiactivas se realice
+según lo establecido en la presente norma.
+93. Implementar el sistema de calidad.
+94. Capacitar al personal y difundir los procedimientos de seguridad radiológica.
+95. Comunicar a la Autoridad Regulatoria, en forma fehaciente e inmediata, la ocurrencia de eventos que afecten o puedan afectar la seguridad radiológica, investigar sus causas y consecuencias e implementar las medidas correctivas que correspondan.
+
+9/10
+
+NORMA AR 7.9.2.
+OPERACIÓN DE FUENTES DE RADIACIÓN
+PARA APLICACIONES INDUSTRIALES – REVISIÓN 0
+
+96. Comunicar a la Autoridad Regulatoria, en forma fehaciente e inmediata, su cese de funciones
+temporal o definitivo como Responsable.
+97. Informar en forma fehaciente a la Autoridad Regulatoria cuando, a su entender, el titular de la
+licencia, registro o autorización de práctica no rutinaria no proveyera los medios necesarios
+para garantizar la seguridad radiológica y física.
+98. Mantener actualizados los registros y realizar las comunicaciones indicados en esta norma.
+Del Trabajador:
+99. Cumplir los procedimientos establecidos para asegurar su propia protección, la de los demás
+trabajadores y la del público.
+
+10/10
+
+

@@ -1,0 +1,274 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 10.12.1.
+
+Gestión de
+residuos radiactivos
+
+REVISIÓN 3
+
+Aprobada en la Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 552/16 (Boletín Oficial 24/10/16)
+
+República Argentina – Impresión 2016
+
+1/8
+
+NORMA AR 10.12.1.
+GESTIÓN DE RESIDUOS RADIACTIVOS - REVISIÓN 3
+
+AUTORIDAD REGULATORIA NUCLEAR
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires
+ARGENTINA
+Teléfono (011) 6323- 1300/1770
+http://www.arn.gob.ar
+
+2/8
+
+NORMA AR 10.12.1.
+
+GESTIÓN DE RESIDUOS RADIACTIVOS
+A. OBJETIVO
+1. Establecer los requisitos para que la gestión de residuos radiactivos se realice con un nivel
+adecuado de protección radiológica de las personas y del ambiente y de seguridad de las fuentes
+de radiación para las generaciones presentes y futuras.
+
+B. ALCANCE
+2. Esta norma es aplicable a la gestión de residuos radiactivos provenientes de todas las
+instalaciones y prácticas reguladas y fiscalizadas por la Autoridad Regulatoria.
+No es aplicable a los materiales que contengan sustancias radiactivas de origen natural que no
+hayan sufrido un proceso tecnológico de concentración o alteración de sus propiedades naturales.
+El cumplimiento de la presente norma y de las demás normas y requerimientos establecidos por la
+Autoridad Regulatoria no exime del cumplimiento de otras normas y requerimientos aplicables, que
+establezcan otras autoridades competentes no relacionadas con la seguridad radiológica y
+nuclear.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Acondicionamiento de residuos radiactivos: operaciones que dan por resultado un bulto de
+residuos adecuado para su manipulación, transporte, almacenamiento y/o disposición final.
+4. Almacenamiento de residuos radiactivos: ubicación segura de los residuos radiactivos en un
+sitio en forma transitoria, para realizar un procesamiento posterior, la disposición final o alcanzar
+las condiciones que permitan la eventual dispensa.
+5. Bulto de residuos: conjunto de residuos radiactivos acondicionados con su embalaje
+correspondiente.
+6. Caracterización de residuos radiactivos: determinación de las propiedades físicas, químicas
+y radiológicas, así como de las características biológicas de los residuos para establecer el
+tratamiento y acondicionamiento apropiados para su manipulación, transporte, almacenamiento
+y/o disposición final.
+7. Cierre: terminación de todas las operaciones en algún momento posterior a la colocación de los
+residuos radiactivos en un repositorio. Ello incluye el trabajo final de ingeniería o de otra índole que
+se requiera para dejar el repositorio en una condición segura a largo plazo.
+8. Confinamiento de residuos radiactivos: aislación de los residuos radiactivos del ambiente
+accesible a las personas y previniendo o mitigando la liberación descontrolada de material
+radiactivo al ambiente.
+9. Contaminación: presencia no deseada de sustancias radiactivas sobre superficies, o en
+sólidos, líquidos o gases.
+10. Contención: métodos o estructuras físicas diseñados para evitar o controlar la emisión y la
+dispersión de sustancias radiactivas.
+11. Control institucional: control de un Repositorio por la Gestionadora de residuos radiactivos.
+Este control puede ser activo (monitoreo radiológico, vigilancia, acciones correctivas) o pasivo
+(control de los usos del terreno).
+12. Criterios de aceptación de residuos radiactivos: conjunto de condiciones y requisitos
+cuantitativos y/o cualitativos establecidos para que los residuos radiactivos sean aceptados por la
+Gestionadora de residuos radiactivos para su gestión.
+
+1/8
+
+NORMA AR 10.12.1.
+GESTIÓN DE RESIDUOS RADIACTIVOS - REVISIÓN 3
+
+13. Descontaminación: remoción parcial o total de la contaminación mediante procesos físicos,
+químicos o biológicos.
+14. Dispensa de residuos radiactivos: liberación de la aplicación de todo control ulterior por
+parte de la Autoridad Regulatoria del material con contenido radiactivo utilizado en prácticas
+licenciadas, autorizadas o registradas por dicha autoridad.
+15. Disposición final de residuos radiactivos: ubicación segura de los residuos radiactivos, sin
+el propósito de recuperarlos, en instalaciones o sitios adecuados para ese fin.
+16. Entidad Responsable: Titular de las licencias de una Instalación Clase I.
+17. Generadora de residuos radiactivos: instalación regulada y fiscalizada por la Autoridad
+Regulatoria en la que, como consecuencia de su operación, se generan residuos radiactivos y en
+la que se pueden realizar cualesquiera de las actividades incluidas en la gestión de residuos
+radiactivos, excepto la disposición final.
+18. Gestión de residuos radiactivos: conjunto de actividades, relativas al manejo administrativo
+y operativo de residuos radiactivos, que incluye segregación, registro de inventario,
+caracterización, tratamiento, acondicionamiento, almacenamiento, transporte y disposición final.
+19. Gestionadora de residuos radiactivos: instalación regulada y fiscalizada por la Autoridad
+Regulatoria, en la que se realiza la gestión de los residuos radiactivos transferidos por las
+Generadoras de residuos radiactivos.
+20. Niveles genéricos de dispensa: valor de concentración de actividad por debajo del cual el
+material radiactivo se puede dispensar bajo los lineamientos de la Autoridad Regulatoria.
+21. Residuos radiactivos: materiales para los cuales no se prevé ningún uso ulterior y que
+contienen sustancias radiactivas con valores de actividad tales que exceden los valores
+autorizados establecidos por la Autoridad Regulatoria para su dispersión en el ambiente o los
+niveles genéricos de dispensa, según corresponda.
+22. Residuos radiactivos históricos: residuos radiactivos que fueron tratados, acondicionados o
+finalmente dispuestos utilizando criterios que no se corresponden con el marco regulatorio vigente
+y que requieren una reevaluación.
+23. Retiro de servicio: conjunto de actividades autorizadas por la Autoridad Regulatoria llevadas
+a cabo al final de la etapa de operación de una instalación.
+24. Repositorio: instalación destinada a la disposición final de los residuos radiactivos.
+25. Segregación de residuos radiactivos: actividad por la cual los residuos radiactivos son
+separados de acuerdo a sus propiedades radiológicas, físicas y/o químicas y características
+biológicas.
+26. Sistema de gestión de la calidad: conjunto de actividades planificadas e implementadas para
+asegurar el nivel de calidad de una instalación o práctica.
+27. Sistema de gestión de residuos radiactivos: conjunto de elementos (estructura orgánica,
+recursos y procesos) interrelacionados e interactuantes, destinado a establecer políticas y
+objetivos asociadas a la gestión de residuos radiactivos y a posibilitar que se logren dichos
+objetivos.
+28. Titular de Licencia: persona física o jurídica a la que la Autoridad Regulatoria ha otorgado
+una o más licencias para una Instalación Clase I o Clase II.
+29. Titular de Práctica no rutinaria: persona física o jurídica a la que la Autoridad Regulatoria ha
+otorgado una Autorización de Práctica no rutinaria.
+30. Titular de Registro: persona física o jurídica a la que la Autoridad Regulatoria ha otorgado un
+Registro para una Instalación Clase III.
+31. Tratamiento de residuos radiactivos: operaciones realizadas con el fin de modificar las
+características de los residuos radiactivos en forma apropiada para su gestión, mediante la
+reducción de su volumen, la remoción de radionucleidos y/o el cambio en su composición.
+
+2/5
+
+NORMA AR 10.12.1.
+GESTIÓN DE RESIDUOS RADIACTIVOS - REVISIÓN 3
+
+D. REQUISITOS
+Requisitos generales
+32. Los residuos radiactivos deben ser gestionados de forma tal que, a satisfacción de la Autoridad
+Regulatoria, se asegure un nivel adecuado de protección radiológica de los trabajadores, del
+público y del ambiente, y de seguridad de las fuentes de radiación.
+33. La generación de residuos radiactivos debe ser minimizada al nivel más bajo razonablemente
+posible. Se debe contemplar el cumplimiento de este requisito desde la fase de diseño
+continuando con la operación y el retiro de servicio.
+34. La protección radiológica de la gestión de residuos radiactivos debe estar optimizada, a
+satisfacción de la Autoridad Regulatoria.
+35. Los materiales sólidos generados en la gestión de residuos radiactivos podrán ser
+dispensados siempre que cumplan con la normativa específica de la Autoridad Regulatoria.
+36. Los efluentes generados en la gestión de residuos radiactivos podrán ser liberados al ambiente
+siempre que cumplan con la normativa específica de la Autoridad Regulatoria.
+37. La transferencia de residuos radiactivos de una instalación Generadora de residuos radiactivos
+a una instalación Gestionadora de residuos radiactivos se debe realizar acorde a los
+procedimientos previamente autorizados a tal efecto por la Autoridad Regulatoria.
+38. Los residuos radiactivos históricos deben ser sometidos a las etapas de gestión pertinentes en
+cada caso.
+39. En la etapa de disposición final, los residuos radiactivos deben mantenerse confinados el
+tiempo necesario para que los radionucleidos presentes decaigan lo suficiente para su liberación al
+ambiente.
+40. El Titular de Licencia de una instalación donde se gestionan residuos radioactivos debe llevar
+a cabo evaluaciones de seguridad en las etapas de licenciamiento que correspondan, a
+satisfacción de la Autoridad Regulatoria.
+41. El Titular de Licencia debe establecer un sistema de gestión de la calidad para la gestión de
+residuos radiactivos.
+42. Los registros asociados a la generación y gestión de residuos radiactivos se deben compilar,
+actualizar, gestionar y preservar de acuerdo al sistema de gestión de la calidad implementado.
+
+Requisitos específicos para el almacenamiento de residuos radiactivos
+43. El Titular de Licencia, el Titular de Registro o el Titular de Práctica no rutinaria de una
+instalación con almacenamiento de residuos radiactivos será responsable del manejo seguro de
+los residuos radiactivos generados y almacenados hasta su transferencia a la Gestionadora de
+residuos radiactivos.
+44. El diseño del depósito, de los sistemas de seguridad y del equipamiento para el
+almacenamiento de residuos radiactivos debe tener en cuenta, como mínimo: las propiedades
+físicas y químicas del residuo, los radionucleidos contenidos en el residuo con sus períodos de
+semidesintegración y sus concentraciones de actividad, el inventario radiactivo total, y demás
+propiedades peligrosas de cada residuo acondicionado así como el tiempo de almacenamiento
+previsto para los residuos radiactivos.
+45. El diseño y la operación de un depósito de almacenamiento de residuos radiactivos debe
+garantizar la contención y la recuperabilidad de los bultos de residuos.
+46. El diseño del depósito debe contemplar las condiciones de distribución y estiba de los bultos
+de residuos y de todos los sistemas asociados, para facilitar las tareas de movimiento y la
+inspección correspondiente.
+47. Los residuos radiactivos que se prevean dispensar se deben ubicar de modo tal que se facilite
+el retiro para la dispensa.
+
+3/5
+
+NORMA AR 10.12.1.
+GESTIÓN DE RESIDUOS RADIACTIVOS - REVISIÓN 3
+
+48. Los residuos radiactivos deben estar inmovilizados y el embalaje debe ser física y
+químicamente estable, resistente al deterioro y con el blindaje adecuado.
+49. Los bultos de residuos almacenados deben estar adecuadamente identificados y registrados.
+50. Los bultos de residuos que presenten propiedades peligrosas deben estar identificados y
+almacenados en forma separada, teniendo en cuenta los riesgos asociados.
+51. Los bultos de residuos deben estar caracterizados tal que, como mínimo, se identifiquen los
+radionucleidos relevantes, su concentración de actividad y actividad total, su forma física, y demás
+propiedades significativas.
+52. Los registros asociados al almacenamiento de residuos radiactivos se deben compilar,
+gestionar y preservar de acuerdo al sistema de gestión de la calidad implementado.
+53. El sistema de gestión de la calidad del almacenamiento de residuos radiactivos debe
+integrarse al sistema de gestión de la calidad de la instalación de la que forme parte.
+Requisitos específicos para la Generadora de residuos radiactivos
+54. El Titular de Licencia, el Titular de Registro o el Titular de Práctica no rutinaria de una
+Generadora de residuos radiactivos será responsable del manejo seguro de los residuos
+radiactivos generados hasta su transferencia a la Gestionadora de residuos radiactivos.
+55. La Generadora de residuos radiactivos debe contar con un sistema de gestión de residuos
+radiactivos y con la autorización previa de la Autoridad Regulatoria Nuclear, en las etapas que se
+requiera.
+56. La Generadora de residuos radiactivos debe:
+a. efectuar las operaciones necesarias previas a la etapa de tratamiento de los residuos,
+tales como recolección, segregación y descontaminación;
+b. efectuar las operaciones de tratamiento de los residuos radiactivos con el objetivo de
+reducir el volumen de los mismos, remover los radionucleidos y/o cambiar sus
+características físico-químicas, si correspondiere;
+c. caracterizar los residuos radiactivos y llevar un registro con información sobre la fuente de
+origen, forma física y química, volumen o peso, características radiológicas y clasificación,
+entre otros;
+d. acondicionar los residuos radiactivos conforme a los criterios de aceptación de la
+Gestionadora de residuos radiactivos;
+e. garantizar el mantenimiento adecuado de la documentación y de los registros de interés.
+Los mismos deben incluir, entre otros: inventario de residuos, transferencias hacia la
+Gestionadora de residuos radiactivos, control de procesos aplicados a los residuos,
+especificaciones de los residuos acondicionados, inspecciones, monitoreos, evaluaciones
+de seguridad y los procedimientos operativos. En el momento del retiro de servicio de la
+instalación, remitir todos los registros a la Autoridad Regulatoria.
+57. El Titular de Licencia, el Titular de Registro o el Titular de Práctica no rutinaria de una
+Generadora de residuos radiactivos podrá delegar, total o parcialmente, la ejecución de las tareas
+de gestión de los residuos radiactivos generados, pero mantendrá en su totalidad la
+responsabilidad sobre la seguridad radiológica.
+Requisitos específicos para la Gestionadora de residuos radiactivos
+58. La Gestionadora de residuos radiactivos debe realizar, cuando corresponda, la segregación, la
+caracterización, el tratamiento, el acondicionamiento, el registro, el transporte y el almacenamiento
+de los residuos radiactivos. Se debe contar con la autorización previa de la Autoridad Regulatoria
+en las etapas que se requiera.
+59. La Gestionadora de residuos radiactivos deberá establecer los criterios de aceptación de
+residuos para los Repositorios de residuos radiactivos. Dichos criterios deberán ser aprobados por
+la Autoridad Regulatoria.
+
+4/5
+
+NORMA AR 10.12.1.
+GESTIÓN DE RESIDUOS RADIACTIVOS - REVISIÓN 3
+
+60. La Entidad Responsable de una Gestionadora de residuos radiactivos debe llevar a cabo las
+evaluaciones de seguridad del Repositorio en las etapas de licenciamiento, a satisfacción de la
+Autoridad Regulatoria.
+61. La evaluación de seguridad del Repositorio debe contemplar un escenario de migración normal
+de material radiactivo, y la situación resultante de eventos disruptivos concebibles durante el
+período de aislamiento previsto.
+62. En la evaluación de seguridad correspondiente al escenario de migración normal, las dosis
+estimadas que recibirán las generaciones futuras no deben exceder las restricciones de dosis
+establecidas en el diseño del Repositorio. Dicha evaluación de seguridad, en términos de dosis,
+riesgo u otros indicadores de seguridad apropiados para los períodos de aislamiento requeridos,
+debe ser realizada a satisfacción de la Autoridad Regulatoria.
+63. Los riesgos asociados a eventos disruptivos concebibles durante el período de aislamiento
+previsto no deben exceder los niveles de riesgo aceptable, establecidos al realizarse el diseño del
+Repositorio.
+64. La Entidad Responsable de una Gestionadora de residuos radiactivos debe llevar inventarios
+de los residuos radiactivos transferidos por las Generadoras de residuos radiactivos, los
+almacenados y los dispuestos en forma definitiva, manteniendo permanentemente actualizados
+dichos inventarios durante la etapa de operación del Repositorio. En el momento del cierre del
+Repositorio, debe remitir todos los registros a la Autoridad Regulatoria.
+65. El cierre total o parcial de un Repositorio debe contar con la autorización previa de la Autoridad
+Regulatoria.
+66. La Entidad Responsable de una Gestionadora de residuos radiactivos debe mantener su
+responsabilidad durante las tareas de cierre del Repositorio y, cuando corresponda a posteriori,
+durante el período de control institucional autorizado por la Autoridad Regulatoria.
+67. La Entidad Responsable de una Gestionadora de residuos radiactivos podrá delegar, total o
+parcialmente, la ejecución de las tareas de gestión de residuos radiactivos pero mantendrá en su
+totalidad la responsabilidad por la seguridad radiológica.
+
+5/5
+
+

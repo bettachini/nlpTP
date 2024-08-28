@@ -1,0 +1,420 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 10.13.1.
+
+REVISIÓN 1
+
+Norma de protección
+física de materiales e
+instalaciones nucleares
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 03/02 (Boletín Oficial 5/3/02)
+
+República Argentina – 2002
+
+1/7
+
+NORMA AR 10.13.1.
+
+NORMA DE PROTECCIÓN FÍSICA
+DE MATERIALES E INSTALACIONES NUCLEARES
+
+OBJETIVO
+1. Establecer los criterios generales de protección física de materiales e instalaciones nucleares.
+
+ALCANCE
+2. La presente norma se aplica a los materiales protegidos, a las instalaciones significativas y al
+transporte de material protegido.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con
+la seguridad radiológica, establecidos por otras autoridades competentes.
+
+EXPLICACIÓN DE TÉRMINOS
+3. Área Vital: Toda área donde se encuentren equipos, dispositivos o sistemas que puedan ser
+vulnerables a actos intencionales tales como el sabotaje o la mera intrusión cuando sea razonablemente posible generar en ella accidentes con consecuencias radiológicas severas.
+4. Consecuencia Radiológica Severa en Protección Física: Cualquier hecho originado en actos
+intencionales mencionados en el criterio 10, que implique dispersión atmosférica de material radiactivo y por el cual el miembro del público más expuesto pueda recibir una dosis que exceda de
+1 milisievert (mSv).
+5. Entidad Responsable: Titular de las licencias de una Instalación Clase I.
+6. Fuerza de Respuesta: Conjunto de hombres y medios que pueden concurrir en apoyo del sistema de protección física.
+7. Instalación Significativa: Cualquier instalación, depósito transitorio o prolongado o contenedor
+de transporte donde, en razón de su inventario radiactivo, sea razonablemente concebible que
+puedan inducirse, por actos intencionales, accidentes con consecuencias radiológicas severas.
+8. Material Protegido: El uranio 233 (U-233), el uranio 235 (U-235), el plutonio 239 (Pu-239), el
+plutonio 241 (Pu-241) y combinaciones de estos nucleídos, o cualquier otro material que la Autoridad Regulatoria decida incluir. El uranio con un enriquecimiento inferior al 1% no queda comprendido en esta definición, sin perjuicio de las prácticas de gestión prudente que corresponda
+aplicar.
+9. Organismo Gubernamental: Gendarmería Nacional la que asesorará y asistirá a la Autoridad
+Regulatoria y actuará, en el marco de la legislación vigente, bajo las instrucciones del Responsable por la Protección Física, coordinando las operaciones de recuperación de instalaciones significativas y materiales protegidos.
+
+1/7
+
+NORMA AR 10.13.1. NORMA DE PROTECCIÓN FÍSICA DE MATERIALES E INSTALACIONES NUCLEARES
+
+10. Protección Física: Conjunto de medidas destinadas a prevenir, a evitar y a responder, con un
+grado razonable de seguridad, actos intencionales que tengan por finalidad:
+a. El robo, hurto, sustracción o dispersión indebida de material protegido.
+b. El sabotaje o aun la mera intrusión en una instalación significativa cuando sea razonablemente posible generar en ella accidentes con consecuencias radiológicas severas.
+11. Responsable por la Protección Física: Persona bajo cuya dirección se encuentra la instalación significativa, el depósito o el transporte de material protegido y a quien la entidad responsable
+le asigna la responsabilidad directa por la protección física.
+12. Sistema de Protección Física: Conjunto de personas y medios disponibles en forma permanente con capacidad para prevenir, retardar o evitar los actos intencionales mencionados en el
+criterio 10.
+13. Zona Controlada: Área comprendida por un perímetro claramente señalizado y controlada por
+la Entidad Responsable.
+14. Zona Interior: Zona comprendida dentro de una zona protegida en la que se utilizan o almacenan materiales protegidos incluidos en la categoría I de la tabla de clasificación de material protegido.
+15. Zona Protegida: Zona sometida a constante vigilancia (por personal de guardia o medios
+técnicos o ambos), circundada por una barrera física y con un número limitado de accesos controlados.
+
+D. CRITERIOS
+D1. GENERALES
+16. La existencia de un sistema de protección física adecuado es condición necesaria para la realización de cualquier operación que involucre materiales o instalaciones protegidos.
+17. Cuando el sistema contemple la protección física de materiales protegidos deberá preverse la
+adecuada interacción con el sistema nacional de contabilidad y control de dichos materiales.
+18. Para definir los potenciales actos intencionales caracterizados en el criterio 10 y las secuencias accidentales que pudieran desatar, se asumirá que los presuntos autores disponen de medios
+convencionales. El diseño de los sistemas de protección física no contemplará medidas directas
+para repeler el asalto formal por parte de grupos militares o paramilitares.
+19. El sistema de protección física deberá ser acorde con el nivel de protección que corresponda
+aplicar y deberá ajustarse a los siguientes criterios generales:
+a. Se debe brindar la flexibilidad necesaria para permitir aumentar o disminuir la intensidad
+de las medidas de acuerdo con las circunstancias.
+b. Ninguna medida de protección física irá en desmedro de la seguridad radiológica y nuclear.
+c.
+
+Ninguna medida de vigilancia y seguridad destinada al resguardo de bienes patrimoniales
+irá en desmedro de las de protección física.
+
+d. El énfasis de los sistemas de protección física estará puesto en la prevención y en la disuasión, particularmente mediante el uso de medidas pasivas.
+e. En el diseño de los sistemas de protección física deberá lograrse una adecuada complementación entre los medios técnicos y los procedimientos operativos.
+
+2/7
+
+NORMA AR 10.13.1. NORMA DE PROTECCIÓN FÍSICA DE MATERIALES E INSTALACIONES NUCLEARES
+
+f.
+
+Los procedimientos operativos de protección física deberán establecerse de manera tal
+que sea minimizada cualquier interferencia con los trabajos que normalmente realiza el
+personal de operación.
+
+20. En el diseño del sistema de protección física deberá contemplarse:
+a. La determinación de objetivos, que comprenderá:
+−
+
+La caracterización de la instalación, compuesta de una memoria descriptiva que
+incluirá diagramas de flujo de procesos, de planta, lista de materiales y equipos,
+incluyendo los correspondientes a protección física, ubicación geográfica y todo
+elemento gráfico que permita lograr un mejor conocimiento de la misma.
+
+−
+
+La definición del tipo de amenaza a la que se supone estará sometida la instalación.
+
+−
+
+La identificación de objetivos donde presumiblemente puedan concretarse las acciones intencionales descriptas en el criterio 10.
+
+b. La inclusión de medidas destinadas a:
+
+c.
+
+−
+
+La detección de ingresos no autorizados (intrusión), la que incluirá evaluación de
+alarma, medios de comunicación y visualización de alarmas, control de accesos,
+etc. (se incluirán organización, procedimientos y entrenamiento de los medios utilizados, de corresponder).
+
+−
+
+La demora a la intrusión mediante guardias y barreras (perimetrales, estructurales
+y consumibles).
+
+−
+
+La respuesta a los actos intencionales referidos en el criterio 10, incluyendo su organización, procedimientos y entrenamiento, medios de comunicación y tiempo de
+respuesta a partir de una señal de alarma.
+
+Los métodos utilizados para la evaluación del diseño del sistema de protección física y sus
+resultados.
+
+d. La fuerza de respuesta que acudirá en apoyo del sistema de protección física y los medios
+de comunicación con tal fuerza.
+21. El sistema de protección física comprenderá, en general, los siguientes aspectos:
+a. Distribución en planta, vías de acceso, barreras de contención e identificación de zonas o
+áreas a proteger;
+b. Disposición de equipos e instrumentos de protección física y procedimientos para el control periódico de los mismos;
+c.
+
+Control de accesos, incluidos sus procedimientos.
+
+d. Procedimientos de vigilancia habitual y extraordinaria;
+e. Instrucción del personal;
+f.
+
+Organización del personal encargado de la protección física, incluyendo el procedimiento
+de selección , capacitación y entrenamiento;
+
+g. Procedimientos y medios utilizados para el resguardo de la información referida en el criterio 22.
+22. El sistema de protección física debe contemplar la adecuada reserva de la información que
+pueda presumiblemente ser utilizada en la comisión de los actos intencionales descriptos en el
+criterio 10. La información específica sobre cada sistema de protección física será clasificada y en
+particular aquélla que describa aspectos claves de un sistema recibirá el más alto nivel de clasificación.
+
+3/7
+
+NORMA AR 10.13.1. NORMA DE PROTECCIÓN FÍSICA DE MATERIALES E INSTALACIONES NUCLEARES
+
+23. Las operaciones que se ejecuten en caso de que el sistema de protección física sea superado
+serán determinadas conforme a las prioridades y modalidades que establezca el Responsable por
+la Protección Física.
+
+D2. NIVELES DE PROTECCIÓN FÍSICA
+24. Los niveles de protección física se establecerán de conformidad con los siguientes principios
+básicos:
+a. El tipo, las características y la cantidad de material protegido involucrado, así como también -si fuera el caso- su accesibilidad en función de la tasa de dosis esperable en su entorno de no existir blindaje.
+b. La posibilidad de inducir accidentes con consecuencias radiológicas severas en una instalación significativa, mediante actos intencionales.
+25. En la aplicación del principio enunciado en 24.a., se tendrán en cuenta los siguientes criterios:
+a. Se prestará particular atención a aquellos materiales protegidos que permitan, en el estado en que se encuentran, iniciar o mantener una reacción nuclear en cadena auto sostenida sin moderadores especiales.
+b. Las medidas de protección física se aplicarán al almacenamiento de materiales protegidos, entendiendo por almacenamiento cualquier depósito de estos materiales, ya sea inicial, intermedio o terminal, o su almacenamiento en tránsito durante su transporte. Al
+transporte se le aplicarán medidas equivalentes al almacenamiento.
+26. En la aplicación del principio enunciado en 24.b. se tendrán en cuenta los siguientes criterios:
+a. Los sistemas de protección física deberán diseñarse para cada instalación significativa teniendo en cuenta sus características y las de su emplazamiento así como el resultado de
+la evaluación efectuada conjuntamente con especialistas en seguridad nuclear.
+b. La Entidad Responsable, con el concurso de especialistas en seguridad nuclear y protección física, identificará las estructuras, sistemas y componentes de la instalación significativa que sean considerados vitales.
+c.
+
+Los sistemas de protección física que se adopten para cada instalación significativa deberán ser compatibles con los sistemas de seguridad radiológica y nuclear, incluyendo los
+planes para eventuales emergencias radiológicas.
+
+d. En lo posible, la distribución de áreas vitales se efectuará de forma tal que queden separadas de las demás, para que el acceso a aquéllas esté limitado al número de personas necesario y, cuando las circunstancias lo permitan, deberán estar limitados por una barrera física.
+e. El nivel de protección física en instalaciones significativas en las cuales sea posible inducir
+accidentes con consecuencias radiológicas severas se establecerá proporcionalmente a la
+dosis que podría recibir el miembro del público más expuesto.
+f.
+
+La determinación de la dosis que podría recibir el miembro del público más expuesto se
+calculará empleando los criterios indicados en las normas de aplicación en materia de seguridad radiológica y nuclear, sin considerar los posibles efectos resultantes de las medidas dirigidas a mitigar, a corto plazo, consecuencias radiológicas.
+
+27. En caso de transporte de materiales radiactivos que no sean materiales protegidos se aplicarán los siguientes criterios:
+a. No se requerirá la aplicación de medidas de protección física cuando se transporten bultos
+del "Tipo A"*, "industriales"* o "exentos"*; ni cuando se trate de transportes de bultos "Tipo
+B"* cuyo contenido radiactivo sea inferior a "30 A1"* ó "30 A2"*, según corresponda.
+
+4/7
+
+NORMA AR 10.13.1. NORMA DE PROTECCIÓN FÍSICA DE MATERIALES E INSTALACIONES NUCLEARES
+
+b. Cuando el contenido radiactivo sea superior a "30 A1 o 30 A2"* e inferior a "3000 A1 ó
+3000 A2"*, según corresponda, sólo se utilizarán métodos apropiados de notificación, para
+confirmar la remisión y la entrega del material en término.
+c.
+
+Cuando el contenido radiactivo exceda de los valores indicados en b. se exigirá un sistema
+de comunicaciones durante todo el transporte y, en función de las características de los
+bultos, la aplicación de medidas adicionales cuando resulte aconsejable (vehículos de características especiales, contenedores adicionales, vehículos escolta, etc.).
+
+* De conformidad con la reglamentación vigente para transporte de material radiactivo.
+
+D2.1. EN INSTALACIONES SIGNIFICATIVAS
+28. Se aplicará el nivel más alto de protección física (nivel de protección I) a aquellas instalaciones
+significativas en las cuales sea posible inducir accidentes con consecuencias radiológicas severas
+con una dosis superior a 1 Sievert (Sv).
+En las instalaciones significativas bajo nivel de protección I, los elementos vitales estarán comprendidos y ubicados dentro de un área vital, la cual debe quedar localizada dentro de una zona
+protegida.
+29. Se aplicará un nivel medio de protección física (nivel de protección II) cuando la dosis a que se
+hace referencia en 28. se encuentre comprendida entre 50 y 1000 milisievert (mSv).
+Las instalaciones significativas bajo nivel de protección II estarán en una zona controlada, los elementos vitales estarán -en la medida de lo posible- en una zona protegida.
+30. Se aplicará el nivel más bajo de protección física (nivel de protección III) cuando la dosis a que
+se hace referencia en 28. se encuentre comprendida entre más de 1 y menos de 50 milisievert
+(mSv).
+Las instalaciones significativas bajo nivel de protección III estarán situadas dentro de una zona
+controlada y el acceso a elementos vitales quedará restringido a personal especializado.
+31. Toda instalación que no se encuadre en alguno de los niveles indicados quedará exenta de la
+aplicación de medidas de protección física, salvo que por el material protegido involucrado, le sea
+aplicable el principio enunciado en el criterio 24.a. sus respectivos criterios, sin perjuicio de las
+prácticas de gestión prudente que corresponda aplicar.
+
+D2.2. EN ALMACENAMIENTO Y TRANSPORTE DE MATERIALES PROTEGIDOS SEGÚN
+LA CATEGORIZACIÓN DE LA TABLA ANEXA
+32. Los niveles de protección física que deben ser aplicados al material protegido durante su almacenamiento incluyen:
+a. Para los materiales protegidos comprendidos en la categoría III, almacenamiento dentro
+de una zona controlada, cuyo acceso esté controlado.
+b. Para los materiales protegidos comprendidos en la categoría II, almacenamiento dentro de
+una zona protegida.
+c.
+
+Para los materiales protegidos comprendidos en la categoría I, almacenamiento dentro de
+una zona interior donde el acceso quede restringido a personas cuya identidad haya sido
+comprobada y que se encuentre bajo vigilancia por personal de guardia que se mantenga
+en estrecha comunicación con la fuerza de respuesta. Las medidas adoptadas al respecto,
+deben tener como objetivo la detección y prevención de cualquier ataque o asalto, intrusión, hurto o sustracción indebida.
+
+5/7
+
+NORMA AR 10.13.1. NORMA DE PROTECCIÓN FÍSICA DE MATERIALES E INSTALACIONES NUCLEARES
+
+33. Los niveles de protección física que deben aplicarse al material protegido durante el transporte, incluyen:
+a. Para los materiales protegidos comprendidos en las categorías II y III, el transporte se
+efectuará bajo precauciones especiales, como el previo arreglo entre el remitente, el destinatario y el transportista, especificando el momento, lugar y procedimientos para la transferencia de la responsabilidad del transporte, detallando el modo de transporte, rutas a
+emplear y puntos de notificación en tránsito si resultaren oportunos. Estos transportes no
+llevarán necesariamente personal de escolta, pero pueden requerir de un medio de comunicación con la fuerza de respuesta.
+b. Para los materiales protegidos comprendidos en la categoría I, el transporte debe efectuarse con arreglo a las precauciones especiales previstas en a y, además, bajo constante
+vigilancia de personal de escolta y en condiciones tales que se asegure la comunicación,
+en cualquier momento, con la fuerza de respuesta.
+34. Los niveles, procedimientos y recomendaciones de protección física a materiales protegidos en
+el caso de transporte internacional se ajustarán a lo establecido en los anexos I y II de la Convención sobre la Protección Física de los Materiales Nucleares.
+
+D3. RESPONSABILIDADES
+35. La Entidad Responsable debe tomar todas las medidas razonables y compatibles con sus posibilidades para asegurar la protección física de los materiales protegidos y las instalaciones significativas.
+36. La Entidad Responsable debe designar un Responsable por la Protección Física por cada
+instalación significativa o por cada transporte o depósito de material protegido, a satisfacción de la
+Autoridad Regulatoria.
+37. El simple cumplimiento de las normas o directivas, aún de aquéllas emanadas de la Autoridad
+Regulatoria, no exime a la Entidad Responsable ni al Responsable por la Protección Física de las
+responsabilidades a su cargo en materia de protección física.
+38. La Entidad Responsable podrá delegar, total o parcialmente, la ejecución de las medidas de
+protección física, pero no así la responsabilidad que le incumbe.
+39. Todo cambio en la organización de la Entidad Responsable que pudiera directa o indirectamente afectar la capacidad de afrontar sus responsabilidades en materia de protección física requerirá la previa aprobación de la Autoridad Regulatoria.
+40. La Entidad Responsable deberá presentar a la Autoridad Regulatoria, con la suficiente antelación, toda la documentación técnica necesaria, incluidos los procedimientos operativos, para demostrar -a satisfacción de ésta- que se han alcanzado los niveles de protección física exigidos en
+relación a instalaciones o materiales protegidos.
+41. La Entidad Responsable deberá realizar auditorías para verificar la correcta implementación de
+los sistemas de protección física como así también de la continuidad y adecuación de las medidas
+en el tiempo.
+42. La Entidad Responsable y el Responsable por la Protección Física deberán establecer y mantener en adecuadas condiciones de funcionamiento un sistema de comunicaciones con la Fuerza
+de Respuesta y el Organismo Gubernamental.
+43. La Entidad Responsable debe adoptar todas las medidas razonables para asegurar la confidencialidad de la información que presumiblemente pueda ser utilizada en la comisión de actos
+intencionales descriptos en el criterio 10, en particular la referida a los sistemas de protección física utilizados o proyectados (ver criterio 22).
+
+6/7
+
+NORMA AR 10.13.1. NORMA DE PROTECCIÓN FÍSICA DE MATERIALES E INSTALACIONES NUCLEARES
+
+ANEXO
+TABLA DE CLASIFICACIÓN DE MATERIAL PROTEGIDO EN CATEGORÍAS A LOS FINES DE
+SU PROTECCIÓN FÍSICA
+
+Material
+
+Forma
+
+Categoría
+I
+
+II
+
+III (c)
+
+2 kg o
+más
+
+Menos de 2 kg
+pero más de 500 g
+
+500 g o menos
+pero más de 15 g
+
+Uranio con un enriquecimiento de 20% o superior
+en uranio 235
+
+5 kg o
+más
+
+Menos de 5 kg
+pero más de 1 kg
+
+1 kg o menos pero
+más de 15 g
+
+Uranio con un enriquecimiento de 10% como mínimo pero inferior al 20%
+en uranio 235
+
+-----
+
+10 kg o más
+
+Menos de 10 kg
+pero más de 1 kg
+
+Uranio con un enriquecimiento superior al 1% pero
+inferior al 10% en uranio 235
+
+-----
+
+-----
+
+No irradiado (b)
+
+2 kg o
+más
+
+Menos de 2 kg
+pero más de 500 g
+
+500 g o menos
+pero más de 15 g
+
+4. Combustible
+irradiado
+
+-----
+
+-----
+
+-----
+
+Combustible irradiado de bajo enriquecimiento (1%) y
+combustible de U
+natural (d;e)
+
+5. Agua pesada
+
+-----
+
+-----
+
+>20 t D2O equiv.
+(>4 t deuterio)
+
+<20 t D2O equiv.
+(<4 t deuterio) >5 t
+D2O equiv. (>1 ton
+deuterio)
+
+1. Plutonio (a)
+
+No irradiado (b)
+
+2. Uranio 235 (d)
+
+No irradiado (b)
+
+3. Uranio 233
+
+10 kg o más
+
+6. Otros materiales
+protegidos (f)
+
+(a)
+
+Todo el plutonio excepto aquél cuya concentración isotópica exceda el 80% en plutonio 238.
+
+(b) Material nuclear no irradiado en un reactor o material irradiado en un reactor pero con una intensidad de
+radiación igual o inferior a 1 Gy/h (100 rad/h) a 1 metro de distancia sin mediar blindaje.
+
+Las cantidades que no entran en la categoría III y el uranio natural deben ser resguardadas de conformidad
+con prácticas de gestión prudente.
+
+(c)
+
+(d) Si bien se establece este nivel de protección, después de evaluar las circunstancias específicas puede
+asignarse una categoría distinta de protección física.
+(e) El combustible irradiado que antes de su irradiación sería clasificado como categoría I deberá ser clasificado en la categoría II cuando su nivel de radiación exceda de 1 Gy/h (100 rad/h) a 1 metro de distancia sin
+mediar blindaje.
+
+(f)
+
+Según lo determine la Autoridad Regulatoria en cada caso.
+
+7/7
+
+

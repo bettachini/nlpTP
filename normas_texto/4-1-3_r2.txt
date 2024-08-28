@@ -1,0 +1,118 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 4.1.3.
+
+REVISIÓN 2
+
+Criterios radiológicos
+relativos a accidentes
+en reactores de
+investigación
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 03/02 (Boletín Oficial 5/3/02)
+
+República Argentina – 2002
+
+1/4
+
+NORMA AR 4.1.3.
+
+CRITERIOS RADIOLÓGICOS RELATIVOS A
+ACCIDENTES EN REACTORES DE INVESTIGACIÓN
+
+A. OBJETIVO
+1. Establecer las condiciones generales que se deben cumplir, para prevenir la ocurrencia de accidentes así como mitigar las consecuencias radiológicas en el caso que estos ocurran.
+
+B. ALCANCE
+2. Esta norma es aplicable a reactores de investigación.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con
+la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Accidente: Suceso de carácter aleatorio que puede ocurrir en una instalación, cuyas consecuencias reales o potenciales son significativas desde el punto de vista de la seguridad radiológica
+y nuclear.
+4. Árboles de Eventos y Árboles de Fallas: Métodos para el análisis de las secuencias
+accidentales que ligan al evento iniciante de un accidente con las consecuencias radiológicas
+finales del mismo. El "análisis del árbol de eventos" comienza con eventos iniciantes especificados
+y rastrea todas las secuencias accidentales subsiguientes que puedan concebiblemente ocurrir. El
+"análisis del árbol de fallas" en cambio, comienza con una falla final especificada y rastrea las
+secuencias de fallas previas que concebiblemente puedan ser la causa de dicha falla final. En
+ambos análisis se asigna un valor de probabilidad a cada rama del árbol analizado.
+5. Falla: Suceso aleatorio que produce la pérdida de la capacidad de un componente, equipo o
+sistema para cumplir con su función de diseño.
+6. Falla Dependiente: Falla que puede ocurrir en uno o más componentes, equipos o sistemas y
+que depende de la falla de otros componentes, equipos o sistemas, o de una única causa.
+7. Grupo Crítico: Grupo de población representativo de los individuos más expuestos y homogéneo en cuanto a los parámetros que influyen en las dosis recibidas, durante la operación normal o
+en caso de accidentes, en una instalación o práctica no rutinaria
+8. Secuencia Accidental: Serie de fallas que eventualmente pueden acontecer a partir de la ocurrencia de un evento iniciante.
+
+D. CRITERIOS
+9. Deben tomarse todas las medidas que sean razonables para evitar accidentes y, en el caso que
+estos ocurran, minimizarse los riesgos radiológicos tanto del público como de los trabajadores de
+la instalación.
+
+1/3
+
+NORMA AR 4.1.3.
+CRITERIOS RADIOLÓGICOS RELATIVOS A ACCIDENTES EN REACTORES DE INVESTIGACIÓN
+
+10. Se debe identificar, mediante métodos aceptados, el conjunto de secuencias accidentales asociadas a las exposiciones potenciales de miembros del público o de trabajadores.
+11. Debe calcularse, usándose árboles de eventos y árboles de fallas, la probabilidad de ocurrencia de cada una de las secuencias accidentales antes citadas.
+12. El análisis de fallas debe cubrir sistemáticamente todas las fallas y secuencias accidentales
+previsibles, incluyendo las fallas dependientes, las combinaciones de fallas y las situaciones que
+excedan las bases de diseño, y que ante la ocurrencia de un accidente impliquen un aumento de
+riesgo radiológico sobre los límites fijados para la operación normal.
+13. Podrá simplificarse el tratamiento de las secuencias accidentales eligiendo a una secuencia
+accidental para representar a un grupo de ellas. En este caso debe seleccionarse aquella secuencia accidental que dé lugar a la peor consecuencia radiológica de las del grupo, y su probabilidad
+anual de ocurrencia resultará de la suma de las probabilidades anuales de ocurrencia de las secuencias accidentales que componen el grupo.
+14. El análisis debe tener en cuenta que una función de seguridad puede haber perdido operatividad antes de la ocurrencia de la falla o secuencia accidental, o perderla a consecuencia de ellas.
+15. Los análisis de las fallas o secuencia accidentales, o de partes de ellas, deben basarse en
+datos experimentales tanto como sea posible. Cuando esto no pueda hacerse, los métodos de
+evaluación deben demostrarse mediante estudios analíticos.
+16. En las evaluaciones de la probabilidad de falla de sistemas tecnológicos se debe justificar los
+valores de las tasas de falla u otros parámetros de confiabilidad que se asignen a los componentes. En caso de no disponerse de valores justificables para algunos de los componentes, se deben
+usar los que indique la Autoridad Regulatoria.
+17. Cuando se intente justificar el valor de un parámetro de confiabilidad basándose en la aplicación de un sistema de calidad debe explicarse, en detalle, la parte del sistema que permite proponer ese valor.
+18. Los análisis de fallas deben tener en cuenta los procedimientos de mantenimiento y prueba de
+estructuras, componentes, equipos y sistemas, así como los intervalos de tiempo entre sucesivos
+mantenimientos o pruebas.
+19. Deben justificarse los valores de los parámetros de confiabilidad para las acciones humanas,
+en consonancia con la complejidad de la tarea, con el esfuerzo involucrado y con cualquier otro
+factor que pueda influir sobre dichos parámetros.
+20. Deben calcularse, mediante métodos aceptados, las dosis en el grupo crítico resultantes de la
+liberación y dispersión de radionucleidos. Al calcularse estas dosis se deben tener en cuenta las
+condiciones meteorológicas y su probabilidad de ocurrencia y no se debe tener en cuenta, en
+cambio, la eventual aplicación de contramedidas.
+21. Ninguna secuencia accidental -con consecuencias radiológicas para el público- debe tener una
+probabilidad anual de ocurrencia que, graficada en función de la dosis efectiva calculada de
+acuerdo a lo indicado en el criterio Nº 20, resulte en un punto ubicado en la zona no aceptable de
+la figura Nº 1.
+22. Si el número N de secuencias accidentales fuese mayor que 10, los valores de la escala de
+ordenadas de la figura Nº 1 deben ser divididos por la relación N/10 antes de representarse al
+citado punto.
+23. Será considerado accidente con consecuencias radiológicas para los trabajadores, todo suceso disruptivo a raíz del cual estas personas incurran en una dosis superior a 0,2 mSv.
+
+2/3
+
+NORMA AR 4.1.3.
+CRITERIOS RADIOLÓGICOS RELATIVOS A ACCIDENTES EN REACTORES DE INVESTIGACIÓN
+
+24. Para aquellas secuencias accidentales que en caso de ocurrir provoquen una exposición a la
+radiación de los trabajadores debe calcularse, mediante métodos aceptados, la dosis efectiva del
+trabajador más expuesto.
+25. Ninguna secuencia accidental - con consecuencias radiológicas para los trabajadores - debe
+tener una probabilidad anual de ocurrencia que graficada en función de la dosis efectiva, calculada
+de acuerdo a lo indicado en el criterio Nº 24, resulte en un punto ubicado en la zona no aceptable
+de la figura Nº 2.
+26. Si el número N de secuencias accidentales fuese mayor que 10, los valores de la escala de
+ordenadas de la figura Nº 2 deben ser divididos por la relación N/10 antes de representarse al
+citado punto.
+Figura 1
+
+Figura 2
+
+3/3
+
+

@@ -1,0 +1,312 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 4.9.2.
+
+REVISIÓN 2
+
+Operación de
+reactores nucleares
+de investigación
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 27/04 (Boletín Oficial 28/5/04)
+
+República Argentina – 2004
+1/7
+
+NORMA AR 4.9.2.
+
+OPERACIÓN DE REACTORES NUCLEARES
+DE INVESTIGACIÓN
+
+OBJETIVO
+Establecer los criterios mínimos de seguridad radiológica y nuclear para la operación de reactores nucleares de investigación.
+
+ALCANCE
+Esta norma se aplica a la operación de reactores nucleares de investigación tipo piscina.
+Los reactores nucleares de investigación con potencia de varias decenas de megavatios, con
+espectro de neutrones rápidos o con dispositivos especiales tales como circuitos de alta presión para ensayos de combustible o fuente fría o caliente de neutrones, deben cumplir los criterios de seguridad adicionales que determine la Autoridad Regulatoria en cada caso.
+El cumplimiento de la presente norma y de las demás normas o requerimientos establecidos
+por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no
+relacionados con la seguridad radiológica establecidos por otras autoridades competentes.
+
+CRITERIOS
+1. El titular de licencia sólo puede iniciar la operación del reactor si previamente:
+a. Cuenta con la licencia de operación otorgada por la Autoridad Regulatoria.
+b. Dispone del personal de la instalación previsto para desempeñar funciones especificadas según el organigrama de operación, y este personal cuenta con licencia individual
+y autorización específica vigente otorgadas por la Autoridad Regulatoria.
+c.
+
+Cuenta con el personal necesario para que desempeñe las restantes funciones del organigrama de operación.
+
+2. El titular de licencia debe contar con una organización que le permita asignar al responsable
+primario los recursos necesarios para que éste pueda cumplir adecuadamente sus responsabilidades y debe, además, supervisar que efectivamente cumple tales responsabilidades.
+3. El responsable primario tiene la responsabilidad directa por la seguridad radiológica y nuclear de la instalación y debe hacer todo lo razonable y compatible con sus posibilidades en
+favor de la seguridad durante la operación del reactor cumpliendo, como mínimo, las normas
+aplicables y requerimientos de la Autoridad Regulatoria.
+4. El responsable primario debe estar asesorado por un comité interno de seguridad en los
+aspectos relacionados con la seguridad radiológica y nuclear. Los miembros de este comité
+deben ser designados por el responsable primario y la composición del comité debe ser tal que
+los miembros que pertenecen al plantel de la instalación no deben superar el 50% en tanto que
+los restantes deben pertenecer a otros sectores de la organización del titular de licencia o ser
+expertos independientes.
+
+1/7
+
+NORMA AR 4.9.2. OPERACIÓN DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 2
+
+5. El titular de licencia puede delegar total o parcialmente la ejecución de las tareas necesarias
+para la seguridad radiológica y nuclear así como las tareas de mantenimiento (preventivo o
+correctivo) y operación, pero mantiene en su totalidad la responsabilidad correspondiente.
+6. El titular de licencia debe estar asesorado por un comité de revisión técnica, independiente
+de la instalación, constituido por profesionales con amplia experiencia en la operación de reactores nucleares de investigación y aceptados por la Autoridad Regulatoria. Este comité debe
+reunirse periódicamente para revisar el desarrollo de la operación del reactor desde el punto de
+vista de la seguridad de la instalación y de la protección de las personas, incluyendo el análisis
+de incidentes operacionales y otros sucesos relevantes que hubieren ocurrido y la evaluación
+de las propuestas que el titular de licencia hiciere acerca de modificaciones al diseño de la
+instalación o de experimentos o irradiaciones que involucren al reactor.
+7. El titular de licencia debe mantener una comunicación apropiada con las entidades encargadas del diseño, la construcción y la puesta en marcha, y con otras organizaciones operadoras
+de reactores semejantes para asegurar el intercambio adecuado de información y experiencia
+operativa.
+8. El titular de licencia debe efectuar una evaluación de su experiencia operativa y proponer,
+cuando corresponda, modificaciones a las estructuras, sistemas, equipos, componentes o procedimientos que introduzcan mejoras a la seguridad de la instalación, promoviendo las investigaciones o desarrollos necesarios.
+9. El titular de licencia debe establecer un sistema efectivo de calidad en operación y una organización que lo ponga en práctica, de manera de asegurar que todas las actividades de importancia para la seguridad se vigilan y controlan adecuadamente, y se ajustan a los objetivos de
+diseño y a los límites y condiciones de operación.
+10. El titular de licencia debe establecer un programa para el reentrenamiento periódico del
+personal que desempeña funciones especificadas según el organigrama de operación.
+11. El titular de licencia debe establecer especificaciones y procedimientos escritos para la
+adquisición, la recepción, la carga, la utilización, la descarga, el almacenamiento, el ensayo del
+combustible y los componentes del núcleo y la manipulación de los mismos.
+12. El responsable primario debe autorizar cada configuración del núcleo antes que dicha configuración sea llevada a la práctica.
+13. El reactor debe ser operado dentro de los límites y condiciones de operación establecidos
+en la documentación mandatoria.
+14. El responsable primario debe garantizar que durante la operación del reactor los umbrales
+de disparo del sistema de protección no sean modificados ni anulados.
+15. El responsable primario debe garantizar el funcionamiento de los sistemas de seguridad del
+reactor de acuerdo a los límites y condiciones establecidos en la documentación mandatoria.
+16. El responsable primario debe garantizar que el coeficiente de reactividad global por potencia sea siempre negativo.
+17. Las funciones especificadas deben ser desempeñadas, en todo momento, por personal que
+tenga la correspondiente licencia individual y la autorización específica vigente.
+18. El plantel mínimo de personal de operación debe ajustarse a lo establecido en la documentación mandatoria .
+19. El movimiento de personas dentro de la instalación debe ajustarse a lo establecido en la
+documentación mandatoria. En particular, previo a ingresar al recinto del reactor se debe obtener la autorización del responsable primario o de quien éste designe.
+
+2/7
+
+NORMA AR 4.9.2. OPERACIÓN DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 2
+
+20. El reactor debe contar permanentemente con lugar para almacenar en condiciones seguras
+(es decir, sin criticidad potencial, adecuadamente refrigerados, monitoreo de la corrosión, etc.):
+a. elementos combustibles irradiados en cantidad equivalente, como mínimo, al mayor
+número de elementos combustibles que pueda llegar a contener el núcleo del reactor.
+b. elementos combustibles no irradiados.
+21. El responsable primario debe garantizar que la tasa media de inserción positiva de reactividad asociada a la operación de un sistema de control dado sea inferior a 20 pcm/s y, además,
+el período debe ser mayor a 40 s durante el arranque del reactor, y mayor a 20 s durante los
+cambios de potencia, luego de alcanzar la condición de crítico. El responsable primario debe
+asegurar estos valores durante la extracción de barras de control, durante el incremento del
+nivel de moderador y durante la operación de cualquier otro sistema de control.
+22. Todas las tareas de mantenimiento (preventivo o correctivo), ensayo o inspección que impliquen alguna modificación transitoria de los límites y condiciones de operación deben ser
+controladas por personal calificado independiente del que realiza la tarea, designado por el
+titular de licencia.
+23. Toda la documentación presentada por el titular de licencia para la obtención de la licencia
+de operación, y a la que la Autoridad Regulatoria le dé carácter mandatorio, debe estar permanentemente actualizada.
+24. El titular de licencia debe asegurar que el informe de seguridad sea actualizado cada vez
+que haya modificaciones al diseño de la instalación o a los límites y condiciones de operación,
+y revisado al menos una vez cada cinco (5) años.
+25. La realización de cualquier modificación del reactor o de la documentación mandatoria que
+pueda tener influencia significativa en la seguridad radiológica y nuclear de la instalación debe
+contar con la autorización previa de la Autoridad Regulatoria.
+26. Durante la vida útil de la instalación el titular de licencia debe mantener un conjunto completo y actualizado de planos y descripciones de la instalación y de las estructuras, sistemas,
+equipos, componentes y procedimientos importantes para la seguridad.
+27. El responsable primario debe hacer cumplir un programa de ensayos e inspecciones periódicas de los sistemas o componentes relacionados con la seguridad, a fin de asegurar que se
+cumplen los límites y condiciones de operación establecidos en la documentación mandatoria y
+en la licencia de operación, y que se mantienen los niveles de confiabilidad establecidos en la
+norma AR 4.2.2 “Diseño de Reactores Nucleares de Investigación”.
+28. El responsable primario debe asegurar que las actividades que deben realizarse siguiendo
+procedimientos escritos sean, como mínimo, las siguientes:
+•
+
+Arranque, operación y parada.
+
+•
+
+Carga, descarga y movimiento de elementos combustibles, de reflectores, de instrumentación nuclear o de cualquier otro componente del núcleo.
+
+•
+
+Calibración de la instrumentación.
+
+•
+
+Mantenimiento preventivo o correctivo.
+
+•
+
+Ensayos e inspecciones periódicas de los sistemas o componentes relacionados con la
+seguridad.
+
+•
+
+Experimentos e irradiaciones.
+
+•
+
+Monitoreo de personal y de áreas.
+
+•
+
+Respuesta a incidentes o accidentes.
+
+•
+
+Acceso a áreas controladas y supervisadas.
+
+3/7
+
+NORMA AR 4.9.2. OPERACIÓN DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 2
+
+29. El responsable primario debe hacer registrar mensualmente las dosis ocupacionales y conservar los registros, como mínimo, durante treinta (30) años contados a partir de la finalización
+de la prestación de servicio del personal involucrado.
+30. El responsable primario debe conservar durante la vida útil de la instalación los registros de
+la actividad y forma de descarga de efluentes radiactivos al ambiente.
+31. El responsable primario debe hacer llevar, como mínimo, los siguientes registros relacionados con la operación:
+a. Libro de operación.
+b. Libro de novedades.
+c.
+
+Planillas operativas (verificaciones previas al arranque y verificaciones del estado de
+sistemas del reactor).
+
+d. Libro de ingreso/egreso de personas a áreas controladas.
+e. Registros de movimiento de fuentes radiactivas y materiales físiles.
+f.
+
+Registros del sistema de calidad.
+
+g. Registros de los resultados de los ensayos e inspecciones periódicas realizados a los
+sistemas o componentes importantes para la seguridad.
+h. Registros del mantenimiento preventivo o correctivo.
+El responsable primario debe conservar durante la vida útil de la instalación las actas de
+reunión del comité interno de seguridad. A su vez, el titular de licencia debe conservar durante
+igual período las actas de reunión del comité de revisión técnica.
+32. El responsable primario debe hacer registrar toda modificación de una estructura, sistema,
+equipo, componente o procedimiento que tenga influencia en la seguridad de la instalación o en
+la protección radiológica de su personal o del público.
+33. El responsable primario debe conservar los protocolos correspondientes a los ensayos de
+puesta en marcha y los registros de operación por los plazos que establezca la licencia de operación o durante la vida útil del reactor.
+34. El responsable primario debe hacer registrar todos los incidentes operacionales que ocurran en la instalación. En caso que alguno de estos eventos sea relevante, debe ser comunicado a la Autoridad Regulatoria, tan pronto como sea posible, y posteriormente el titular de licencia debe presentarle un informe analítico en el plazo y con la modalidad establecida en la licencia de operación.
+35. El responsable primario debe hacer registrar los niveles de radiación y las concentraciones
+de radionucleidos en aire y en superficie de las áreas de trabajo.
+36. El responsable primario debe verificar que toda vez que se modifique la configuración del
+núcleo se asegure previamente el cumplimiento de los límites y condiciones operacionales.
+37. Los cambios de configuración del núcleo deben realizarse de acuerdo a especificaciones
+previamente establecidas y con procedimientos escritos.
+38. El uso y manipuleo de dispositivos experimentales debe ser realizado en base a procedimientos escritos. Estos procedimientos deben tener en cuenta los efectos de estos dispositivos
+sobre la seguridad del reactor, particularmente sobre los cambios en la reactividad.
+39. Los procedimientos para la revisión y aprobación de propuestas para experimentos y modificaciones, y para el control de su implementación deben incluir, en los casos aplicables, temas
+tales como:
+a. Una descripción del propósito del experimento o modificación;
+b. Justificación de la necesidad del experimento o modificación;
+
+4/7
+
+NORMA AR 4.9.2. OPERACIÓN DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 2
+
+c.
+
+Requerimientos y criterios de diseño incluyendo la evaluación de seguridad;
+
+d. Procesos de manufactura;
+e. Procedimientos de instalación;
+f.
+
+Procesos de puesta en servicio;
+
+g. Revisión de procedimientos operativos y de emergencia;
+h. Gestión de los residuos radiactivos generados por el experimento o modificación;
+i.
+
+Actualización de la documentación;
+
+j.
+
+Requerimientos especiales para entrenamiento y, si fuera necesario, el relicenciamiento de operadores;
+
+k.
+
+Requerimientos de calidad.
+
+40. Los dispositivos experimentales que se instalen durante la operación del reactor deben
+someterse a ensayos previos y no deben modificar el cumplimiento de los límites y condiciones
+de operación.
+41. Cualquier modificación significativa de dispositivos experimentales debe sujetarse a los
+mismos procedimientos que se utilizaron para el diseño, la operación y la aprobación de los
+dispositivos experimentales originales.
+42. El responsable primario debe aprobar la realización de experimentos o irradiaciones, aun
+cuando ellos sean repetición o incluyan pequeñas variaciones de otros que hayan sido realizados en ocasiones anteriores.
+43. Para que el responsable primario pueda aprobar experimentos o irradiaciones que impliquen apartamientos significativos con respecto a la experiencia adquirida debe mediar, previamente, la opinión favorable del comité interno de seguridad.
+44.- La realización de experimentos o irradiaciones propuestas por el titular de licencia que no
+se encuadren en lo establecido en la documentación mandatoria debe contar con la opinión
+favorable del comité de revisión técnica y ser previamente autorizada por la Autoridad Regulatoria.
+45. No se deben realizar experiencias que puedan llevar a un coeficiente de reactividad global
+por potencia positivo.
+46. El titular de licencia debe hacer efectuar anualmente un ejercicio de aplicación del plan de
+emergencia, debiendo convenirse previamente el cronograma y contenido del ejercicio con la
+Autoridad Regulatoria.
+
+5/7
+
+NORMA AR 4.9.2. OPERACIÓN DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 2
+
+GLOSARIO
+Accidente: Suceso de carácter aleatorio que puede ocurrir en una instalación, cuyas consecuencias reales o potenciales no son despreciables desde el punto de vista de la seguridad
+radiológica y nuclear.
+Coeficiente de Reactividad Global por Potencia (α
+αp): Función que expresa la dependencia
+de la reactividad ρ con la potencia global P, y cuya variación es debida a los mecanismos de
+realimentación de reactividad intrínsecos del reactor. Su expresión matemática es:
+
+αP =
+
+∂ ρ
+∂P
+
+Configuración del Núcleo: Disposición de elementos combustibles, reflectores, barras de
+control y sensores de control de la potencia.
+Dispositivo Experimental: Dispositivo instalado en el reactor o en torno a él para utilizar los
+neutrones y las otras radiaciones ionizantes del reactor con fines de investigación, desarrollo,
+producción de isótopos o con otros propósitos.
+Titular de Licencia (también denominado Entidad Responsable): Persona física o jurídica a
+la que la Autoridad Regulatoria ha otorgado una o más licencias para una instalación clase I o
+clase II.
+Extinción del Reactor: Proceso mediante el cual el núcleo del reactor es llevado al estado
+subcrítico, permaneciendo en este estado con un margen suficiente de antirreactividad durante
+un intervalo de tiempo apropiado.
+Falla: Suceso aleatorio que produce la pérdida de la capacidad de un componente, equipo o
+sistema para cumplir con su función de diseño.
+Grupo Crítico: Grupo de población representativo de los individuos más expuestos y homogéneo en cuanto a los parámetros que influyen en las dosis recibidas, durante la operación normal o en caso de accidentes, en una instalación o práctica no rutinaria.
+Licencia: Documento por medio del cual la Autoridad Regulatoria autoriza, bajo ciertas condiciones, la operación de una instalación o la ejecución de una dada etapa de la vida de dicha
+instalación. Estas etapas pueden ser la construcción, puesta en marcha, retiro de servicio o
+cualquier otra que la Autoridad Regulatoria juzgue necesario licenciar.
+Responsable Primario: Persona que asume la responsabilidad directa por la seguridad de una
+instalación clase I.
+Sistema de Calidad: Conjunto de actividades planificadas y desarrolladas para asegurar el
+nivel de calidad de una instalación o práctica.
+Sistema de Protección: Equipamiento provisto para actuar directamente en el caso de fallas
+de la instalación, mala operación o eventos externos, garantizando la seguridad mediante acciones protectivas apropiadas.
+
+6/7
+
+NORMA AR 4.9.2. OPERACIÓN DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 2
+
+Sistema de Seguridad: Sistema para lograr, en cualquier circunstancia, la extinción de la fisión
+nuclear en el reactor en condiciones de seguridad y la eliminación del calor del núcleo, o para
+limitar las consecuencias de incidentes operacionales y de situaciones accidentales.
+Situación Operacional: Situación definida como funcionamiento normal o incidente operacional previsto.
+Umbrales de Disparo: Valores escogidos de las variables de proceso para la actuación del
+sistema de protección.
+
+7/7
+
+

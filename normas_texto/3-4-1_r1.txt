@@ -1,0 +1,121 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 3.4.1.
+
+REVISIÓN 1
+
+Sistema de protección
+e instrumentación relacionada
+con la seguridad de reactores
+nucleares de potencia
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 41/01 (Boletín Oficial 8/2/02)
+
+República Argentina – Reimpresión 2007
+
+NORMA AR 3.4.1.
+
+SISTEMA DE PROTECCIÓN E INSTRUMENTACIÓN
+RELACIONADA CON LA SEGURIDAD DE REACTORES
+NUCLEARES DE POTENCIA
+
+A. OBJETIVO
+1. Establecer los criterios de diseño para el adecuado funcionamiento del sistema de protección e
+instrumentación relacionada con la seguridad.
+
+B. ALCANCE
+2. Esta norma es aplicable al diseño del sistema de protección e instrumentación relacionada con
+la seguridad de Reactores Nucleares de Potencia.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados
+con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Diversidad: Provisión de diferentes medios para lograr el mismo objetivo.
+4. Falla: Suceso aleatorio que produce la pérdida de la capacidad de un componente, equipo o
+sistema para cumplir con su función de diseño.
+5. Sistema de Protección: Equipamiento provisto para actuar directamente en el caso de fallas
+de la instalación, mala operación o eventos externos, garantizando la seguridad mediante acciones protectivas apropiadas.
+6. Instrumentación Relacionada con la Seguridad: Instrumentación que tiene un efecto directo
+sobre la seguridad, ya sea por sus funciones de monitoreo o porque su falla puede demandar la
+activación del sistema de protección.
+
+D. CRITERIOS
+7. Debe preverse un sistema de protección que se mantenga operativo mientras haya combustible
+en el reactor.
+8. Deben preverse acciones protectoras para cada falla de la instalación. La confiabilidad y eficiencia de estas acciones deben satisfacer las condiciones de la Norma AR 3.1.3. "Criterios Radiológicos Relativos a Accidentes en Reactores Nucleares de Potencia".
+9. Al activarse como consecuencia de una falla, mala operación o evento externo, el sistema de
+protección, éste debe parar rápidamente al reactor y mantenerlo en estado subcrítico y adecuadamente refrigerado.
+
+1/3
+
+NORMA AR 3.4.1. SISTEMA DE PROTECCIÓN E INSTRUMENTACIÓN RELACIONADA CON LA SEGURIDAD
+DE REACTORES NUCLEARES DE POTENCIA – REVISIÓN 1
+
+10. Las acciones protectoras deben ser tan simples como sea posible y tender a contrarrestar las
+fallas tan cerca de su origen como sea posible.
+11. Cuando un equipo tenga varias funciones, una de las cuales sea la de protección, el equipo
+debe clasificarse como parte del sistema de protección. La función de protección no debe afectarse por las otras funciones.
+12. El diseño del sistema de protección debe asegurar que las fallas en el mismo sistema no afecten las acciones protectoras. El diseño debe, además, limitar la probabilidad de acciones indebidas del sistema de protección sin afectar la compatibilidad requerida para el mismo.
+13. El sistema de protección debe ser diseñado de manera tal que se asegure que las fallas de la
+instalación no causen la pérdida de funciones de protección y que se cumpla la Norma AR 3.1.3.
+"Criterios Radiológicos Relativos a Accidentes en Reactores Nucleares de Potencia".
+14. El sistema de protección debe activarse automáticamente. La acción del operador no debe ser
+necesaria durante un lapso apropiado después de la activación. El diseño debe asegurar que el
+operador pueda iniciar funciones de protección, pero que no pueda impedir el funcionamiento del
+sistema de protección.
+15. Los componentes del sistema de protección deben tener confiabilidad y efectividad demostradas.
+16. Debe especificarse la cantidad mínima de equipos del sistema de protección que se deben
+mantener operativos para permitir la operación del reactor en distintas circunstancias. Los equipos
+bajo prueba o mantenimiento no serán considerados en estado operativo.
+17. La redundancia mínima del sistema de protección será tal que, en condiciones de mínimo
+equipamiento (criterio N° 16), ninguna falla única en el sistema de protección impedirá una acción
+protectora apropiada en caso de demanda.
+18. Cuando la tasa de falla requerida del sistema de protección deba ser menor que 10-4 por demanda, debe preverse adecuada diversidad de equipos de protección, de medios de activación y
+de tipos de acciones protectoras. Si no puede cuantificarse la probabilidad de falla iniciante o la
+confiabilidad del sistema de protección, se debe usar diversidad en la protección.
+19. Se debe demostrar a satisfacción de la Autoridad Regulatoria que la probabilidad de ocurrencia de toda falla previsible que pueda invalidar una acción protectiva redundante, es mucho menor
+que la probabilidad de que dicha acción no se efectúe por causas intrínsecas.
+20. Se debe demostrar a satisfacción de la Autoridad Regulatoria que la probabilidad de ocurrencia de cualquier falla que demande la acción del sistema de protección es mucho mayor que la
+probabilidad de falla de dicho sistema.
+21. El cumplimiento de los criterios N° 8, 13, 17, 18, 19 y 20 debe ser demostrado mediante análisis de árboles de fallas y eventos, o análisis de validez equivalente.
+22. Todos los componentes del sistema de protección deben poder probarse con el reactor en
+funcionamiento o parado, sin pérdida de funciones protectoras, a los intervalos requeridos por el
+nivel de confiabilidad.
+23. Debe proveerse indicación al operador del estado de todas las acciones protectoras.
+24. Todos los equipos del sistema de protección, incluyendo cableado y tuberías, deben estar
+segregados de todo otro equipo y tener sus funciones claramente indicadas en el diseño. Debe
+justificarse cada caso en el que la segregación no se pueda cumplir.
+25. Deben minimizarse las entradas espúreas en el funcionamiento del sistema de protección .
+
+2/3
+
+NORMA AR 3.4.1. SISTEMA DE PROTECCIÓN E INSTRUMENTACIÓN RELACIONADA CON LA SEGURIDAD
+DE REACTORES NUCLEARES DE POTENCIA – REVISIÓN 1
+
+26. El diseño debe asegurar que el acceso a todos los equipos del sistema de protección esté
+prevenido mediante una barrera física apropiada.
+27. Debe preverse instrumentación confiable para monitorear, controlar y registrar las variables
+que puedan tener influencia sobre la seguridad.
+28. Debe preverse un sistema adecuado de comunicaciones, interno y externo.
+29. Debe preverse un sistema confiable de protección contra el fuego, incluyendo la detección y,
+en los casos apropiados, de extinción automática del mismo.
+30. La instrumentación provista para satisfacer los criterios N° 27, 28 y 29 debe permitir al operador efectuar todas las acciones necesarias desde la sala de control. El objetivo del diseño será
+asegurar la posibilidad de ocupación de la sala de control en todas las situaciones.
+31. Debe preverse en un lugar separado y aislado de la sala de control, instrumentación suficiente
+para parar al reactor y mantenerlo parado en situación segura, y para monitorear los parámetros
+esenciales.
+32. Debe especificarse la mínima instrumentación relacionada con la seguridad que permita la
+operación del reactor.
+33. Todas las variables monitoreadas o controladas deben tener alarmas asociadas para indicar
+valores fuera del rango normal.
+34. Deben preverse medios adecuados para probar y calibrar en cualquier momento toda la instrumentación relacionada con la seguridad, sin pérdida de alguna función esencial.
+35. Toda la instrumentación relacionada con la seguridad y su alimentación eléctrica deben tener
+redundancia, diversidad y segregación adecuadas de modo que una falla única no cause la pérdida de una función esencial.
+36. Toda la instrumentación relacionada con la seguridad y su alimentación eléctrica debe ser
+identificable en el diseño.
+
+3/3
+
+

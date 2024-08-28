@@ -1,0 +1,128 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 5.1.1.
+
+REVISIÓN 1
+
+Exposición ocupacional
+en aceleradores de
+partículas Clase I
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 36/01 (Boletín Oficial 15/1/02)
+
+República Argentina – 2002
+
+1/5
+
+NORMA AR 5.1.1.
+
+EXPOSICIÓN OCUPACIONAL EN
+ACELERADORES DE PARTÍCULAS CLASE I
+
+A. OBJETIVO
+1. Establecer los criterios de protección radiológica ocupacional que se deben tener en cuenta en
+el diseño.
+
+B. ALCANCE
+2. Esta norma es aplicable a las características de diseño de los aceleradores de partículas Clase
+I, relacionadas con la exposición de los trabajadores.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados
+con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Acelerador de Partículas: Instalación que cuenta con un dispositivo tecnológico que acelera
+partículas cargadas y utiliza las radiaciones ionizantes producidas con fines científicos, industriales o médicos.
+4. Acelerador de Partículas Clase I: Aceleradores de partículas que operen con energías superiores a 1 MeV, excluyendo aceleradores de uso médico.
+5. Área Bajo Control Toxicológico: Área en la cual la generación de gases tóxicos, producidos
+por la irradiación del acelerador, puede dar lugar a concentraciones superiores a los límites ocupacionales correspondientes.
+6. Área Controlada: Lugar de trabajo donde se requiere, en condiciones normales de operación,
+que los trabajadores apliquen procedimientos preestablecidos para controlar la exposición a la
+radiación o para prevenir la dispersión de la contaminación radiactiva, y en la que se requieren
+medidas específicas para prevenir exposiciones potenciales.
+7. Área de Acceso No Reglamentado: Área de acceso sin restricciones.
+8. Área de Acceso reglamentado: Se consideran como tales a las áreas controladas, áreas supervisadas y a las áreas de restricción total.
+9. Área de Restricción Total: Área de acceso o estadía no permitida durante la operación del
+acelerador.
+10. Área Supervisada: Lugar de trabajo donde las condiciones radiológicas deben mantenerse
+bajo supervisión aun cuando no se requieran rutinariamente procedimientos especiales
+11. Concentración Derivada en Aire (DAC): Para un dado radionucleido, es el cociente entre el
+valor del límite anual de incorporación de ese radionucleido y 2500 m3 de aire.
+
+1/3
+
+NORMA AR 5.1.1.
+EXPOSICIÓN OCUPACIONAL EN ACELERADORES DE PARTÍCULAS CLASE I
+
+12. Dosis: Medida de la radiación recibida o absorbida por un órgano o cuerpo. Se utilizan, según
+el contexto, las magnitudes denominadas dosis efectiva, dosis equivalente, dosis colectiva y dosis
+efectiva comprometida. Los términos calificativos se suelen omitir cuando no son necesarios para
+precisar la magnitud de interés.
+13. Dosis Equivalente Ambiental, H*(d): Dosis equivalente en la esfera ICRU1 -a la profundidad
+d- cuando se encuentra en un campo de radiación alineado y expandido, en el radio opuesto al
+sentido del campo alineado. Cuando la radiación es penetrante, se adopta d = 10 milímetros.
+14. Factor de Ocupación: La mayor fracción del año laboral (2000 horas) en que una misma
+persona ocupa un determinado local.
+15. Instalación Clase I: Instalación o práctica que requiere un proceso de licenciamiento de más
+de una etapa.
+16. Optimización: Procedimiento para reducir tanto como sea razonablemente alcanzable, teniendo en cuenta factores sociales y económicos, la dosis colectiva originada en una Instalación o
+en una práctica.
+
+D. CRITERIOS
+17. Las dosis anuales que reciban los trabajadores expuestos deben ser inferiores a las restricciones de dosis establecidas, y los sistemas de protección deben estar optimizados. Para verificar el
+cumplimiento de este criterio, se podrá tener en cuenta el factor de ocupación previsto para los
+distintos locales; en cambio no podrá tenerse en cuenta un eventual reemplazo de trabajadores.
+18. La seguridad se implementará dando preferencia a los sistemas previstos en el diseño de la
+instalación, y se complementará con la protección obtenida por medios operativos.
+19. Deben quedar definidas las áreas controladas, supervisadas, de restricción total, bajo control
+toxicológico y las no reglamentadas.
+20. Para acceder a un área de determinada clasificación, no se debe atravesar previamente un
+local de clasificación más restringida.
+21. Se debe prever la señalización correspondiente, según la clasificación de las áreas, y la señalización para evacuación en casos de emergencia.
+22. Se debe prever que las áreas controladas y supervisadas dispongan de señalización luminosa
+durante la irradiación y, acorde con los riesgos involucrados, deben tener además, señalización
+acústica, alarmas, interruptor de irradiación y sistemas de escape.
+23. Las áreas de restricción total dispondrán de señalamiento luminoso, alarma acústica, enclavamientos e interruptor de irradiación, en los modos más adecuados para cumplimentar los requerimientos de seguridad.
+24. Se debe prever que las áreas controladas dispongan de monitores apropiados para radiación
+externa, contaminación radiactiva o control toxicológico, según corresponda. De la misma manera
+deben estar protegidas las áreas de restricción total, cuando se consideren como áreas controladas en situaciones de post irradiación.
+25. La confiabilidad de la instrumentación, alarmas y enclavamientos deben ser adecuadas a los
+riesgos involucrados, y la tasa de falla en ningún caso será superior a 10-2 por demanda.
+26. Los componentes electrónicos, eléctricos o mecánicos, vinculados al control del acelerador, a
+la seguridad radiológica y a la detección de incendios, que se encuentren sometidos a campos de
+1
+
+International Commission on Radiation Units and Measurements. ICRU Report 51.
+
+2/3
+
+NORMA AR 5.1.1.
+EXPOSICIÓN OCUPACIONAL EN ACELERADORES DE PARTÍCULAS CLASE I
+
+radiación mayores de 100 Gy/h, y que estén constituidos, aunque parcialmente, por plásticos u
+otros materiales susceptibles de ser dañados por la radiación, deben quedar identificados en la
+documentación de diseño, a efecto de poder establecer un programa de inspecciones que permita
+la prevención de una degradación inaceptable de dichos componentes. Se deben prever asimismo, los espacios y accesos que faciliten su inspección y reemplazo.
+27. El acceso a áreas donde la tasa de dosis equivalente ambiental supere 200 µSv/h, debe estar
+prevenido mediante alguna barrera física apropiada.
+28. El acceso a los locales donde la concentración de radionucleidos en aire exceda 1 DAC debe
+estar prevenido por una barrera física apropiada.
+29. Se deben prever un sistema de verificación personal de las áreas de restricción total, mediante
+una secuencia que finalmente habilite la consola de mando para iniciar la irradiación.
+30. Se debe prever que la rehabilitación de la irradiación del acelerador, cuando haya cesado por
+la acción de un enclavamiento o de un interruptor de irradiación, se efectúe con posterioridad a la
+inspección visual del local donde haya actuado el dispositivo de seguridad.
+31. Deben preverse los medios y la ubicación adecuados para probar y calibrar la instrumentación
+relacionada con la seguridad.
+32 Debe preverse el uso racional de los espacios y ubicaciones de equipos o instrumentos para
+que el mantenimiento se pueda desarrollar normalmente y dentro de los límites de seguridad establecidos.
+33. Se debe prever la disponibilidad de fuentes de energía eléctrica de emergencia para la alimentación de sistemas esenciales a los fines de la seguridad.
+34. Se debe prever el transporte, utilización y almacenamiento en condiciones de seguridad del
+material radiactivo que se emplee o produzca en la instalación.
+35. Se debe garantizar la necesaria seguridad contra riesgos de índole no radiológica, tales como
+los debidos a la utilización de fuentes de alta tensión eléctrica y los debidos al empleo de sustancias de acción tóxica.
+
+3/3
+
+

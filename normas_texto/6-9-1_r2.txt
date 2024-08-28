@@ -1,0 +1,187 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 6.9.1.
+
+REVISIÓN 2
+
+Operación de plantas de
+irradiación fijas con fuentes
+de irradiación móviles
+depositadas bajo agua
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 15/03 (Boletín Oficial Nº 5/8/03)
+
+República Argentina – 2003
+
+1/4
+
+AUTORIDAD REGULATORIA NUCLEAR
+
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires
+ARGENTINA
+Teléfono (011) 6323-1356
+Fax (011) 6323-1771/1798
+http://www.arn.gov.ar
+
+NORMA AR 6.9.1.
+
+OPERACIÓN DE PLANTAS DE IRRADIACIÓN
+FIJAS CON FUENTES DE IRRADIACIÓN MÓVILES
+DEPOSITADAS BAJO AGUA
+
+OBJETIVO
+Establecer criterios de seguridad radiológica para la operación de plantas de irradiación fijas
+que posean fuentes de irradiación móviles.
+
+ALCANCE
+Esta norma es aplicable a la operación de plantas de irradiación fijas cuyas fuentes de irradiación sean móviles y se encuentren sumergidas en agua durante su posición de depósito.
+
+CUMPLIMIENTO
+El cumplimiento de la presente norma no excluye la observancia de cualquier otra norma o
+requerimiento aplicable establecido por la Autoridad Regulatoria.
+Asimismo, el cumplimiento de las normas y requerimientos de la Autoridad Regulatoria no exime de la observancia de otras normas y requerimientos no relacionados con la seguridad radiológica establecidos por otras autoridades competentes.
+
+CRITERIOS
+1. La Entidad Responsable sólo podrá operar la instalación si cuenta previamente con:
+a) la licencia de operación otorgada por la Autoridad Regulatoria.
+b) el plantel de operación a satisfacción de la Autoridad Regulatoria, incluyendo al personal que desempeña funciones especificadas en el organigrama de operación, con
+autorizaciones específicas vigentes.
+2. Durante la operación de la instalación se debe garantizar que no se superen las restricciones
+de dosis establecidas por la Autoridad Regulatoria. Asimismo, las dosis que reciban los trabajadores y los miembros del público deben resultar tan bajas como sea razonablemente posible.
+3. Debe limitarse tanto como sea razonablemente posible la probabilidad de ocurrencia de situaciones accidentales, mediante la detección temprana de tales situaciones.
+4. Deben estar previstas las acciones que se lleven a cabo cuando ocurran situaciones accidentales de modo de mitigar las consecuencias radiológicas en las personas involucradas.
+5. Una vez producida una situación accidental se adoptarán medidas para prevenir la ocurrencia de situaciones similares.
+
+1/4
+
+NORMA AR 6.9.1. OPERACIÓN DE PLANTAS DE IRRADIACIÓN FIJAS CON FUENTES DE IRRADIACIÓN
+MÓVILES DEPOSITADAS BAJO AGUA - REVISIÓN 2
+
+6. La instalación debe ser operada de acuerdo a los límites y condiciones establecidos en la
+licencia de operación y demás documentación mandatoria.
+7. Se debe concebir y ejecutar un sistema de calidad efectivo a satisfacción de la Autoridad
+Regulatoria, particularmente en relación con aquellas operaciones que puedan tener directa o
+indirectamente influencia sobre la seguridad de la instalación.
+8. La Entidad Responsable debe mantener actualizada la documentación mandatoria durante el
+tiempo de vida útil de la instalación. Estos documentos deben estar a disposición de la Autoridad Regulatoria.
+9. Toda modificación de la instalación, de la documentación mandatoria o de la organización de
+la Entidad Responsable (incluyendo el plantel de operación) que afecte la protección radiológica de las personas o la seguridad de las fuentes de radiación requiere una aprobación previa
+de la Autoridad Regulatoria.
+10. La Entidad Responsable de la instalación debe definir, por escrito, los criterios para generar, revisar, aprobar, distribuir, y archivar los documentos necesarios para la operación de la
+planta.
+11. El personal que desempeñe funciones especificadas debe mantener actualizados los conocimientos relacionados con las normas aplicables de seguridad radiológica y la documentación
+mandatoria.
+12. El personal auxiliar que trabaja en la instalación debe poseer un adecuado conocimiento de
+los riesgos radiológicos inherentes a la instalación.
+13. La ejecución de las tareas que tengan influencia sobre la seguridad de la instalación debe
+ser supervisada por un miembro del plantel de operación autorizado para tal fin.
+14. La Entidad Responsable debe implementar un programa de pruebas periódicas del funcionamiento de los sistemas equipos y componentes importantes para la seguridad.
+15. Las pruebas, mantenimiento, reparaciones y cualquier tarea que requiera la supresión o
+modificaciones transitorias de sistemas importantes para la seguridad deben ejecutarse de
+acuerdo con procedimientos aprobados que establezcan la restitución de las condiciones iniciales de dichos sistemas.
+16. Deben evaluarse las características fisicoquímicas del material a irradiar de modo de asegurar que su irradiación no implique riesgos para la integridad de la fuente de irradiación ni de
+la instalación.
+17. Se deben utilizar dosímetros individuales para ingresar al recinto de irradiación o a las
+áreas controladas.
+18. La Entidad Responsable debe aplicar un adecuado programa de mantenimiento a todas las
+estructuras, sistemas, equipos y componentes relacionados con la seguridad.
+19. Debe contarse con equipos portátiles de medición de tasa de dosis equivalente ambiental,
+disponibles y adecuadamente calibrados.
+20. Toda vez que se ingrese al recinto de irradiación debe verificarse, mediante el uso de un
+monitor portátil, que la tasa de dosis equivalente ambiental esté por debajo de los límites establecidos en la licencia de operación.
+21. Las personas que no pertenezcan al plantel de operación sólo pueden ingresar al recinto de
+irradiación precedidas por personal autorizado.
+
+2/4
+
+NORMA AR 6.9.1. OPERACIÓN DE PLANTAS DE IRRADIACIÓN FIJAS CON FUENTES DE IRRADIACIÓN
+MÓVILES DEPOSITADAS BAJO AGUA - REVISIÓN 2
+
+22. La barrera de acceso de personas al recinto de irradiación debe permanecer cerrada y la
+fuente de irradiación en su posición de depósito, cuando no esté presente el responsable de la
+operación.
+23. Debe verificarse la ausencia de personas en el recinto de irradiación antes que la fuente de
+irradiación pueda abandonar su posición de depósito.
+24. Deben ejecutarse de acuerdo a procedimientos aprobados, como mínimo, las siguientes
+actividades:
+a) la irradiación de materiales, y la carga, movimientos y descarga de fuentes selladas;
+b) el mantenimiento de la instalación y las pruebas tendientes a asegurar que los sistemas
+equipos y componentes importantes para la seguridad funcionan apropiadamente;
+c) la reposición de sistemas, equipos y componentes importantes para la seguridad;
+d) la operación del sistema de purificación de agua de la pileta.
+25. Deben existir procedimientos aprobados que prevean las acciones que se deben llevar a
+cabo, como mínimo, en las siguientes situaciones:
+a) falla de los enclavamientos;
+b) traba de la fuente de irradiación;
+c) pérdida del agua de la pileta;
+d) pérdidas en las fuentes selladas;
+e) incendio o explosión.
+26. Con el fin de verificar la ausencia de pérdidas en las fuentes selladas deben existir procedimientos para el adecuado monitoreo periódico del agua de la pileta, de filtros y de resinas.
+27. Debe verificarse, periódicamente y a satisfacción de la Autoridad Regulatoria, que la contaminación superficial en el recinto de irradiación no exceda los límites establecidos en la licencia de
+operación. En el caso de comprobarse la presencia de contaminación se deben tomar las medidas correctivas previstas y notificar la situación a la Autoridad Regulatoria de inmediato.
+28. En los filtros y resinas del sistema de desmineralización del agua de pileta, se debe verificar
+que la contaminación radiactiva no exceda los límites establecidos en la licencia de operación
+antes de proceder a su lavado o regeneración.
+29. Antes de efectuar operaciones de limpieza o vaciado de la pileta debe verificarse que la contaminación radiactiva en el agua no supera los límites establecidos en la licencia de operación.
+30. Luego de la carga, descarga o movimiento de fuentes selladas se debe verificar el nivel de
+contaminación radiactiva en el agua de la pileta.
+31. No debe efectuarse ningún tipo de manipulación en la pileta si existen, o se supone que
+existen, pérdidas en la fuente de irradiación. Asimismo, dicha situación debe notificarse inmediatamente a la Autoridad Regulatoria.
+32. El personal de la instalación no debe verse expuesto a una concentración de gases tóxicos
+superior a los límites establecidos en la normativa correspondiente.
+33. Los registros de las dosis que resultan del monitoreo individual deben conservarse durante
+treinta (30) años como mínimo contados a partir de la finalización de la prestación de servicios
+del personal involucrado.
+34. Debe implementarse un sistema de registro y archivo que describa las condiciones en que
+se produzcan las situaciones anormales, modificaciones, reparaciones y los resultados de las
+
+3/4
+
+NORMA AR 6.9.1. OPERACIÓN DE PLANTAS DE IRRADIACIÓN FIJAS CON FUENTES DE IRRADIACIÓN
+MÓVILES DEPOSITADAS BAJO AGUA - REVISIÓN 2
+
+pruebas llevadas a cabo en la instalación. Dicho sistema debe mantenerse permanentemente
+actualizado durante la vida útil de la misma.
+35. El ingreso o egreso al recinto de irradiación de personas que no pertenezcan al plantel de
+operación debe quedar registrado en un libro de registro de ingreso o egreso y verificado mediante firma autorizada.
+36. El responsable primario debe mantener un inventario actualizado de las fuentes selladas de
+la instalación, tanto para las existentes como para las que se fueron recambiando.
+37. Debe ser inmediatamente comunicada a la Autoridad Regulatoria toda situación anormal
+que pueda afectar directa o indirectamente la protección radiológica de las personas o la seguridad de las fuentes de radiación.
+38. Para aquellas situaciones anormales que se consideren significativas desde el punto de
+vista radiológico, se debe realizar una investigación cuyos resultados deben comunicarse a la
+Autoridad Regulatoria dentro de los treinta (30) días de ocurrido el incidente.
+39. Toda vez que – dentro de la actividad máxima autorizada - se incremente la actividad de la
+fuente de irradiación debe mediar, previamente, una comunicación a la Autoridad Regulatoria.
+40. Se deben comunicar trimestralmente los resultados de la ejecución del plan de monitoreo.
+41. Para el cese definitivo de operación la Entidad Responsable debe presentar, con la suficiente antelación, un plan de retiro de servicio de la instalación.
+
+GLOSARIO
+1
+
+Dosis Equivalente Ambiental (H* (d)): Dosis equivalente en la esfera ICRU -a la profundidad
+d- cuando se encuentra en un campo de radiación alineado y expandido, en el radio opuesto al
+sentido del campo alineado. Cuando la radiación es penetrante, se adopta d = 10 milímetros.
+Entidad Responsable: Titular de las licencias de una instalación clase I.
+Fuente de Irradiación: Conjunto de fuentes selladas montadas en un portafuentes al cual será
+expuesto el producto a irradiar.
+Fuente Sellada: Fuente radiactiva en la que el material radiactivo se halla en una o más cápsulas suficientemente resistentes para prevenir el contacto y dispersión del material radiactivo,
+bajo las condiciones de uso para la cual fue diseñada.
+Licencia: Documento por medio del cual la Autoridad Regulatoria autoriza, bajo ciertas condiciones, la operación de una instalación o la ejecución de una dada etapa de la vida de dicha
+instalación. Estas etapas pueden ser la construcción, puesta en marcha, retiro de servicio o
+cualquier otra que la Autoridad Regulatoria juzgue necesario licenciar.
+Plantel de Operación: Personal cuyas funciones y responsabilidades de supervisión y operación están definidas en el organigrama de operación.
+Posición de Depósito: Es aquella posición de la fuente de irradiación correspondiente al límite
+inferior de su recorrido.
+Recinto de Irradiación: Local de la instalación destinado a la irradiación, con suficiente blindaje para limitar adecuadamente las dosis en el exterior del mismo. Incluye la sala de irradiación y
+las zonas o laberinto de acceso.
+1
+
+International Commission on Radiation Units and Measurements. ICRU Report 51.
+
+4/4
+
+

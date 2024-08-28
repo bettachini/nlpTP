@@ -1,0 +1,100 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 3.5.1.
+
+REVISIÓN 1
+
+Alimentación eléctrica
+esencial en reactores
+nucleares de potencia
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 03/02 (Boletín Oficial 5/3/02)
+
+República Argentina – 2002
+
+1/3
+
+NORMA AR 3.5.1.
+
+ALIMENTACIÓN ELÉCTRICA ESENCIAL
+EN REACTORES NUCLEARES DE POTENCIA
+
+A. OBJETIVO
+1. Establecer los criterios generales de seguridad para la provisión de alimentación eléctrica esencial efectiva y confiable durante situaciones operacionales y accidentales.
+
+B. ALCANCE
+2. Esta norma es aplicable a rectores nucleares de potencia.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con
+la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Alimentación Eléctrica Esencial: Suministro eléctrico necesario para el funcionamiento del
+sistema de protección, de la instrumentación y de los sistemas importantes para la seguridad.
+4. Criterio de Falla Única: Criterio para diseñar un sistema de manera tal que admita la ocurrencia de una falla única en cualquier subsistema o componente del mismo, sin que por ello deje de
+prestar la función que le compete.
+5. Falla Única: Conjunto de fallas compuesto por una falla inicial y por todas las eventuales fallas
+en cascada consecuentes de la inicial, que pudieran acontecer.
+
+D. CRITERIOS
+6. Debe demostrarse que la alimentación eléctrica esencial cumple con los criterios de seguridad
+pertinentes del sistema de protección y de la instrumentación de los sistemas importantes para la
+seguridad.
+7. Deben especificarse las funciones que debe cumplir la alimentación eléctrica esencial. Estas
+especificaciones deben incluir las intensidades de corrientes, secuencias de cargas y períodos de
+demanda y el tipo de alimentación requeridos para cada caso.
+8. Se deben especificar la confiabilidad y disponibilidad requeridas para la alimentación eléctrica
+esencial y describir los medios usados para cumplir con tal requerimiento.
+9. Debe demostrarse por análisis, y verificarse por pruebas y mediciones, que la alimentación eléctrica esencial funcionará adecuadamente bajo todas las condiciones de demanda (incluyendo los
+efectos de cargas continuas, pulsadas y transitorias).
+10. Solamente las cargas esenciales para la seguridad deben normalmente estar conectadas a la
+alimentación eléctrica esencial. Si otras cargas no esenciales para la seguridad están conectadas
+a la alimentación eléctrica esencial, debe probarse que esto no es en perjuicio de la confiabilidad y
+efectividad de dicha alimentación. Estas cargas, que no sean automáticamente desconectadas por
+
+1/2
+
+NORMA AR 3.5.1. ALIMENTACIÓN ELÉCTRICA ESENCIAL EN REACTORES NUCLEARES DE POTENCIA
+
+el sistema de protección frente a una situación de falla, deben incluirse en el cálculo total de demanda. Además, estas cargas no deben impedir el ensayo de la alimentación eléctrica esencial.
+11. La alimentación eléctrica esencial debe ser independiente de otros suministros eléctricos, en el
+sentido que fallas de estos suministros no afecten la confiabilidad y efectividad de la alimentación
+eléctrica esencial.
+12. Debe proveerse suficiente generación eléctrica in situ para enfrentar fallas en el reactor nuclear en el caso de faltar el suministro de la red.
+13. El equipamiento de protección que es alimentado por la alimentación eléctrica esencial debe
+estar conectado a ella por vías redundantes permanentes. Debe demostrarse que dichas vías
+cumplen con los criterios de seguridad pertinentes del sistema de protección.
+14. El diseño y la distribución espacial de la alimentación eléctrica esencial debe tener en cuenta
+una protección adecuada contra fuego, misiles y ambientes hostiles que puedan ocurrir durante la
+operación normal, situaciones accidentales, eventos externos y sabotaje.
+15. Deben proveerse controles e instrumentación para operar y monitorear la alimentación eléctrica esencial en la sala de control y en otra ubicación suplementaria adecuada, tal que se pueda
+disponer de suficiente información operacional de dicha alimentación para todas las situaciones
+operacionales y accidentales.
+16. La operación de la alimentación eléctrica esencial debe poderse hacer en forma automática y
+manual, sin que dependa solamente de una secuencia temporal automática. Debe iniciarse en
+forma automática en caso de demanda y no debe requerir la acción de un operador durante los
+primeros 30 minutos. Un operador puede iniciar la operación de la alimentación eléctrica esencial,
+pero no puede impedir su funcionamiento normal. La operación manual debe cumplir requisitos de
+confiabilidad compatibles con los del sistema de protección.
+17. La alimentación eléctrica esencial debe ser capaz de funcionar durante todo el tiempo que sea
+necesario para mantener la seguridad.
+18. Debe asegurarse la disponibilidad de los servicios necesarios para el correcto funcionamiento
+de la alimentación eléctrica esencial. En el caso que estos servicios involucren combustible, aceites lubricantes, agua de refrigeración o aire comprimido, los sistemas que almacenen, vehiculicen
+o utilicen estos suministros, y los suministros mismos, deben ser considerados parte de la alimentación eléctrica esencial y deben cumplir con criterios de seguridad compatibles con los del sistema de protección.
+19. Debe almacenarse in situ combustible y preverse otros suministros necesarios para asegurar
+la provisión de alimentación eléctrica esencial, durante por lo menos 72 horas, sin recurrir a suministro eléctrico externo. El combustible debe almacenarse, como mínimo, en dos ubicaciones separadas, cada una con una cantidad suficiente para cumplir con el abastecimiento durante el
+tiempo requerido. Se debe evaluar periódicamente la calidad del combustible, para reemplazarlo
+cuando sea necesario.
+20. Cuando se usen suministros eléctricos de la red externa para alimentar el sistema de protección, debe demostrarse que la red y todos los equipos involucrados en la conexión cumplen con
+los requerimientos y criterios de seguridad del sistema de protección, estén o no en el emplazamiento del reactor nuclear. En particular, deben cumplir con el criterio de la falla única.
+21. Si se incorporan baterías en la alimentación eléctrica esencial, se debe proveer un adecuado
+margen de capacidad teniendo en cuenta la función requerida y el periodo de funcionamiento. Se
+deben proveer medios de monitoreo del estado de las baterías y de protección contra fallas que
+pudieran disminuir la alimentación de las baterías.
+22. Las baterías deben mantenerse en condiciones de plena carga durante las situaciones operativas normales mediante operación en paralelo con cargadores adecuados. Los cargadores de
+baterías deben estar conectados a una alimentación de tipo adecuado. La capacidad de los cargadores debe ser suficiente como para restaurar la carga de las baterías en un tiempo conveniente, simultáneamente con la máxima demanda prevista, incluyendo transitorios.
+
+2/2
+
+

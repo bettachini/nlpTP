@@ -1,0 +1,157 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 6.7.1.
+
+REVISIÓN 1
+
+Cronograma de la
+documentación a
+presentar antes de la
+operación de una planta
+industrial de irradiación
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 18/02 (Boletín Oficial 22/7/02)
+
+República Argentina – 2002
+
+1/2
+
+NORMA AR 6.7.1.
+
+CRONOGRAMA DE LA DOCUMENTACIÓN A
+PRESENTAR ANTES DE LA OPERACIÓN DE UNA
+PLANTA INDUSTRIAL DE IRRADIACIÓN
+
+A. OBJETIVO
+1. Establecer el cronograma de la documentación que debe presentar la Entidad Responsable
+a la Autoridad Regulatoria para solicitar las licencias de construcción, puesta en marcha y operación.
+
+B. ALCANCE
+2. La presente norma es aplicable a plantas industriales de irradiación con fuente móvil depositada bajo agua.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Entidad Responsable: Titular de las licencias de una instalación Clase I.
+4. Licencia: Documento por medio del cual la Autoridad Regulatoria autoriza, bajo ciertas condiciones, la operación de una instalación o la ejecución de una dada etapa de la vida de dicha
+instalación. Estas etapas pueden ser la construcción, puesta en marcha, retiro de servicio o
+cualquier otra que la Autoridad Regulatoria juzgue necesario licenciar.
+5. Licencia de Construcción: Documento por medio del cual la Autoridad Regulatoria autoriza
+a la Entidad Responsable, bajo ciertas condiciones, para que inicie la construcción de una instalación Clase I.
+6. Licencia de Operación: Documento por medio del cual la Autoridad Regulatoria autoriza a
+la Entidad Responsable, bajo ciertas condiciones, para que opere una instalación Clase I.
+7. Licencia de Puesta en Marcha: Documento por medio del cual la Autoridad Regulatoria
+autoriza a la Entidad Responsable de una instalación nuclear Clase I, bajo ciertas condiciones,
+a que inicie las actividades de puesta en marcha de la misma.
+8. Programa de Calidad: Programa donde se definen la política de calidad, los objetivos, la
+planificación, la organización, las responsabilidades, los procesos y aquellas actividades que
+requieren procedimientos escritos.
+9. Pruebas Preliminares: Conjunto de pruebas realizadas en una instalación Clase I o Clase II
+antes de la recepción o montaje de aquellos materiales o dispositivos previstos en el diseño
+que generen o sean capaces de generar radiaciones ionizantes, y planificadas para comprobar
+que, previo a la puesta en marcha, los componentes, equipos y sistemas cumplen con sus bases originales de diseño y con los criterios de performance pertinentes.
+
+1/2
+
+NORMA AR 6.7.1. CRONOGRAMA DE LA DOCUMENTACIÓN A PRESENTAR ANTES
+DE LA OPERACIÓN DE UNA PLANTA INDUSTRIAL DE IRRADIACIÓN – REVISIÓN 1
+
+10. Puesta en Marcha: Conjunto de pruebas realizadas en una instalación Clase I o Clase II
+después de la recepción o montaje de aquellos materiales o dispositivos previstos en el diseño
+que generen o sean capaces de generar radiaciones ionizantes, y planificadas para comprobar
+que la instalación reúne todas las condiciones para su operación en condiciones de seguridad.
+11. Sistema de Calidad: Conjunto de actividades planificadas y desarrolladas para asegurar el
+nivel de calidad de una instalación o práctica.
+
+D. CRITERIOS
+12. La puesta en marcha de una planta industrial de irradiación con fuente móvil depositada
+bajo agua debe considerarse iniciada al cargarse la fuente.
+13. El cronograma de la documentación a presentar es el siguiente:
+
+1
+
+Presentación del Informe Preliminar de
+Seguridad (IPS).
+
+Cuatro (4) meses antes de solicitarse la
+licencia de construcción.
+
+2
+
+Presentación sistemática de informes
+relacionados con los eventuales
+cambios de diseño y otros aspectos,
+resultantes de la interacción entre la
+Entidad Responsable y la Autoridad
+Regulatoria.
+
+Se inicia un (1) mes después de la
+presentación del IPS y continúa hasta un (1)
+mes antes de la carga de la fuente.
+
+3
+
+Presentación del sistema de calidad,
+Se inicia un (1) mes después de la
+incluyendo el correspondiente programa presentación del IPS y continúa
+y toda otra documentación relacionada actualizándose progresivamente.
+con la calidad.
+
+4
+
+Presentación del proyecto de
+organigrama de operación y del programa de entrenamiento del personal.
+
+5
+
+Presentación de los programas de
+Dos (2) meses antes de solicitarse la licencia
+pruebas preliminares y de puesta en
+de puesta en marcha.
+marcha, del código de práctica
+radiológica (incluyendo los
+procedimientos para situaciones de
+emergencia) y del manual de operación.
+
+6
+
+Presentación del pedido de licencias del Dos (2) meses antes de solicitarse la licencia
+personal junto con los resultados de los de puesta en marcha.
+exámenes psicofísicos y teóricoprácticos.
+
+7
+
+Presentación del Informe de Seguridad
+(IS).
+
+Dos (2) meses antes de solicitarse la licencia
+de puesta en marcha.
+
+8
+
+Presentación de un informe sobre el
+desarrollo de los programas de pruebas
+preliminares y puesta en marcha.
+
+En la fecha de finalización de la puesta en
+marcha.
+
+9
+
+Presentación del manual de
+mantenimiento.
+
+Dos (2) meses antes de solicitarse la
+licencia de operación.
+
+En la fecha de comienzo de la construcción.
+Debe actualizarse toda vez que se
+produzcan cambios.
+
+14. Los plazos que figuran en el criterio N° 13, son los mínimos exigidos por la Autoridad Regulatoria.
+
+2/2
+
+

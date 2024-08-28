@@ -1,0 +1,563 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 7.9.1.
+
+REVISIÓN 3
+
+Operación de equipos
+de gammagrafía
+industrial
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 5/10 (Boletín Oficial 18/1/10) y
+modificada por Resolución del Directorio Nº 231/21 en el
+punto 107 (Boletín Oficial 19/7/21)
+
+República Argentina – Impresión 2021
+
+1/12
+
+NORMA AR 7.9.1
+
+OPERACIÓN DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL
+
+A. OBJETIVO
+1. Establecer criterios de seguridad radiológica y seguridad física para la operación.
+
+B. ALCANCE
+2. Esta norma es aplicable a la operación de equipos de gammagrafía industrial.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Accidente: Cualquier evento no usual, incluyendo errores de operación, fallo de equipos u
+otro error, cuyas consecuencias reales o potenciales no son despreciables desde el punto de
+vista de la seguridad radiológica.
+4. Área Abierta: Área de operación delimitada en cada caso por los operadores, en la que se
+realizan tareas de gammagrafía industrial con protección específica para el personal y para los
+miembros del público.
+5. Área de Operación: Lugar donde se realizan tareas de gammagrafía industrial.
+6. Contenedor: Recipiente blindado utilizado para transferir Fuentes Selladas hacia o desde un
+Equipo. Su uso para el transporte debe ajustarse a la normativa de la Autoridad Regulatoria
+vigente al efecto.
+7. Depósito Autorizado: Recinto autorizado por la Autoridad Regulatoria destinado al almacenamiento de Proyectores o Contenedores con o sin Fuente Sellada, que brinda seguridad radiológica y seguridad física adecuadas.
+8. Dosis Equivalente Ambiental: Dosis equivalente en la esfera ICRU1 -a la profundidad dcuando se encuentra en un campo de radiación alineado y expandido, en el radio opuesto al
+sentido del campo alineado. Cuando la radiación es penetrante, se adopta d = 10 milímetros.
+9. Emergencia: Accidente que requiere acción inmediata, primariamente para mitigar un riesgo
+o consecuencias adversas para la salud de las personas y la seguridad radiológica, para la
+calidad de vida, para la propiedad o el ambiente. Incluye situaciones para las cuales podría ser
+necesario adoptar acciones rápidas para mitigar los efectos de un riesgo potencial.
+10. Equipo de Gammagrafía (en adelante Equipo): Sistema o conjunto de dispositivos que
+utiliza una Fuente Sellada para realizar prácticas de gammagrafía industrial y que comprende el
+Proyector y los accesorios que son necesarios para su operación.
+
+1
+
+International Commission on Radiation Units and Measurements. ICRU Report 51.
+
+1/12
+
+NORMA AR 7.9.1. OPERACIÓN DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 3
+
+11. Fuente Sellada: Fuente radiactiva en la que el material radiactivo se halla en una o más
+cápsulas suficientemente resistentes para prevenir el contacto y dispersión del material radiactivo, bajo las condiciones de uso para la cual fue diseñada.
+12. Gammagrafía Industrial: Radiografía industrial realizada mediante la utilización de Fuentes Selladas emisoras de radiación gamma.
+13. Gestionadora de Residuos Radiactivos: Instalación en la que se realiza la gestión de los
+residuos radiactivos transferidos por las instalaciones generadoras de residuos radiactivos,
+incluyendo la disposición final de tales residuos.
+14. Instalación Clase II: Instalación o práctica que sólo requiere licencia de operación.
+15. Operador: Persona física con Permiso Individual para operar Equipos, que tiene la responsabilidad de hacerlo en forma segura de acuerdo a las reglas del arte, y cumpliendo como mínimo con las normas aplicables bajo la supervisión del Responsable y por el Responsable por
+la Seguridad Física.
+16. Portafuente: Dispositivo por medio del cual la Fuente Sellada puede fijarse al Proyector o
+al elemento de mando a distancia, diseñado para ser utilizado con un modelo de Equipo determinado, y que brinda protección adicional a la fuente sellada.
+17. Proyector: Dispositivo blindado, que responde a un modelo reconocido por la Autoridad
+Regulatoria, para utilizar Fuentes Selladas en forma controlada en gammagrafía industrial.
+18. Recinto de Irradiación: Recinto autorizado por la Autoridad Regulatoria como Área de
+Operación, con blindajes adecuados y con los elementos de seguridad radiológica necesarios
+para la protección del personal y de los miembros del público.
+19. Responsable: Persona que asume la responsabilidad directa por la seguridad radiológica
+de una Instalación Clase II o Clase III o de una Práctica no rutinaria.
+20. Responsable por la Seguridad física: Persona designada por el Titular de Licencia o de
+Autorización de Práctica no rutinaria, a satisfacción de la Autoridad Regulatoria, que asume la
+responsabilidad directa por la seguridad física de las fuentes selladas o de la instalación o
+equipos que las contengan.
+21. Seguridad Física: Conjunto de medidas destinadas a prevenir, evitar y responder, con un
+grado razonable de seguridad, actos que den lugar a:
+a. El robo, hurto o sustracción de fuentes selladas;
+b. El acceso no autorizado, la pérdida o transferencia no autorizada de las fuentes, o
+c.
+
+El sabotaje o daño a fuentes selladas, o el sabotaje, intrusión o daño a instalaciones y
+equipos que las contengan, que produzcan o pudieran producir la pérdida de confinamiento o la disminución del blindaje.
+
+22. Sistema de Calidad: Conjunto de actividades planificadas y desarrolladas para asegurar
+un nivel de calidad adecuado en una instalación o practica.
+23. Titular de Licencia: Persona física o jurídica a la que la Autoridad Regulatoria ha otorgado
+una o más licencias para una Instalación Clase I o Clase II.
+24. Titular de Práctica no Rutinaria: Persona física o jurídica a la que la Autoridad Regulatoria ha otorgado una autorización de práctica no rutinaria.
+
+2/12
+
+NORMA AR 7.9.1. OPERACIÓN DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 3
+
+D. CRITERIOS
+D.1. Criterios Generales
+25. Las dosis de radiación originadas en tareas de gammagrafía industrial deben resultar tan
+bajas como sea razonablemente alcanzable, y no deben superar las restricciones de dosis que
+establezca la Autoridad Regulatoria.
+26. Debe limitarse tanto como sea razonablemente posible la probabilidad de ocurrencia de
+Accidentes, utilizando procedimientos y elementos de seguridad apropiados, que permitan
+además la detección temprana de tales situaciones.
+27. La seguridad física de las Fuentes Selladas debe garantizarse cumpliendo con los criterios
+establecidos en la norma AR 10.13.2. ”Norma de Seguridad Física de Fuentes Selladas”.
+28. En caso de producirse una Emergencia deben llevarse a cabo las acciones correctivas
+necesarias, mediante la aplicación de los procedimientos y la utilización de los elementos de
+seguridad apropiados, de modo que las dosis que se generen resulten tan bajas como sea
+razonablemente alcanzable.
+29. La tenencia de fuentes selladas requiere contar con una licencia de operación o con una
+autorización de práctica no rutinaria, según corresponda, emitida por la Autoridad Regulatoria.
+30. Para operar una instalación o para llevar a cabo una práctica, se debe contar con la Licencia de Operación o con la Autorización de Práctica no Rutinaria otorgada por la Autoridad Regulatoria, con un Responsable que posea Permiso Individual para Operadores de Equipos de
+Gammagrafía Industrial vigente que haya sido renovado al menos una vez, con un Responsable por la Seguridad Física y con Operadores.
+31. El Responsable por la Seguridad Física, puede o no coincidir con el Responsable. Cuando
+no coincidan, el Responsable por la Seguridad Física debe ajustar su accionar a lo que establezca el Responsable.
+32. El Responsable y el Responsable por la Seguridad Física no pueden ejercer esas responsabilidades en más de una instalación en forma simultánea.
+33. Los Equipos y Fuentes Selladas incluidos en una Licencia de Operación o en una Autorización de Práctica no Rutinaria solo podrán ser utilizados para el propósito para el que fueron
+incluidos en la Licencia o en la Autorización correspondiente.
+34. La actividad total de Fuentes Selladas y la cantidad de Equipos en una instalación, no debe
+superar respectivamente la actividad máxima y la cantidad máxima licenciadas o autorizadas
+por la Autoridad Regulatoria para esa instalación.
+35. Toda modificación en la razón social del Titular de Licencia o del Titular de Práctica no Rutinaria, que pueda afectar la capacidad jurídica del mismo, o alterar el objeto social o el domicilio legal de dicho Titular, debe ser comunicada en forma inmediata a la Autoridad Regulatoria.
+36. La cesión, venta, préstamo, almacenamiento transitorio en custodia o alquiler de Equipos o
+de Fuentes Selladas, sólo podrá ser realizada entre Titulares de Licencia de Operación y de
+Prácticas no Rutinarias.
+37. La importación o exportación de Fuentes Selladas debe ser previamente autorizada por la
+Autoridad Regulatoria y debe estar acompañada del correspondiente Certificado de Fabricación
+(original).
+
+3/12
+
+NORMA AR 7.9.1. OPERACIÓN DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 3
+
+38. La importación o exportación de Proyectores que utilicen uranio empobrecido como blindaje
+debe ser previamente autorizada por la Autoridad Regulatoria y debe estar acompañada de la
+correspondiente documentación técnica.
+39. La gestión de residuos radiactivos en las etapas previas a la disposición final de los mismos
+debe ser realizada por el titular de Licencia de Operación o de Práctica no Rutinaria, cumpliendo con lo establecido en la Norma AR 10.12.1 “Gestión de Residuos Radiactivos”.
+40. La transferencia de residuos radiactivos a una Gestionadora de Residuos Radiactivos solo
+podrá ser realizada previa autorización escrita otorgada a esos efectos por la Autoridad Regulatoria, y debe estar acompañada del Certificado de Fabricación en el caso de tratarse de una
+Fuente Sellada.
+41. El transporte de Fuentes Selladas debe realizarse cumpliendo con lo establecido en la
+Norma AR 10.16.1 “Transporte de materiales radiactivos”.
+42. Toda modificación de la instalación de gammagrafía, de los Equipos o Contenedores o de
+la documentación técnica, directa o indirectamente relacionada con la seguridad, requerirá la
+aprobación de la Autoridad Regulatoria previa a la implementación de la modificación.
+43. El Titular de Licencia o de Práctica no Rutinaria debe tomar las medidas necesarias para
+que en el acceso al Depósito Autorizado esté exhibida en forma permanente una copia de la
+Licencia de Operación o de la Autorización de Práctica no Rutinaria.
+44. El Titular de Licencia o de Práctica no Rutinaria debe tomar las medidas necesarias para
+que el personal que interviene en toda práctica de gammagrafía posea copia de la Licencia de
+Operación o de la Autorización de Práctica no Rutinaria, para ser exhibida toda vez que le sea
+requerida por la Autoridad Regulatoria o por otras autoridades competentes.
+D.2. Licencia o Autorización de Prácticas
+D.2.1. Solicitud de Licencia de Operación o de Autorización de Práctica No Rutinaria
+45. El solicitante debe presentar la documentación técnica necesaria para demostrar, a satisfacción de la Autoridad Regulatoria, que el diseño y la operación de la instalación o de la práctica no rutinaria, cumplen como mínimo, los requisitos de seguridad radiológica y de seguridad
+física establecidos en la normativa de aplicación y que se tomarán todas las medidas tendientes a prevenir la ocurrencia de Accidentes.
+46. La documentación técnica debe contener como mínimo, las especificaciones de las Fuentes
+Selladas, las especificaciones de los Equipos y sus manuales de operación, los planos del Recinto de Irradiación o del Depósito Autorizado según corresponda, los procedimientos para
+operar en condiciones normales, para enfrentar Accidentes y la descripción del Sistema de
+Calidad.
+47. Los procedimientos para hacer frente a Emergencias deberán contener como mínimo la
+siguiente información:
+a. Descripción del equipamiento, dispositivos, blindajes y elementos disponibles para
+hacer frente a la misma.
+b. Descripción del equipamiento para la medición de las tasas de dosis y de las dosis integradas recibidas por el personal que interviene.
+c.
+
+Disposiciones específicas para hacer frente a situaciones tales como incendio, choque, ocurrencia de fenómenos naturales, robo, hurto, extravío, etc.
+
+48. La operación de una instalación Clase II o Clase III o la realización de una práctica no rutinaria deberá enmarcarse dentro de un Sistema de Calidad que contenga procedimientos escritos, según corresponda para:
+a. Compra, recepción, almacenamiento, transferencia e inventario del material radiactivo.
+
+4/12
+
+NORMA AR 7.9.1. OPERACIÓN DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 3
+
+b. Operación y realización de la práctica, manipulación del material radiactivo dentro de
+la instalación y para aquellos casos en que deba ser utilizado fuera de ella.
+c.
+
+Vigilancia radiológica individual y de áreas.
+
+d. Mantenimiento y control de calidad de los equipos y todos los elementos de seguridad
+radiológica.
+e. Transporte de Fuentes Selladas.
+f.
+
+Gestión de los residuos radiactivos.
+
+g. Emergencias.
+49. Los procedimientos para hacer frente a Emergencias mencionados en el Criterio N° 48 g)
+deben incluir, según corresponda, evaluaciones dosimétricas y acciones correctivas apropiadas
+para el caso en que puedan producirse dosis significativas.
+50. Los Depósitos Autorizados y los Recintos de Irradiación deben ofrecer condiciones de seguridad radiológica y sistemas de seguridad física adecuados que como mínimo reúnan las
+siguientes características:
+a. Deben estar construidos con una estructura firme.
+b. Deben contar con puertas y cierres adecuados.
+c.
+
+Deben poseer baja carga de fuego y deben estar suficientemente alejados de zonas
+de producción o almacenamiento de explosivos.
+
+d. Deben estar ubicados en zonas de bajo factor ocupacional y al mismo tiempo asegurar
+su seguridad física contra el acceso inadvertido o intencional de personas no autorizadas.
+e. Deben poseer los blindajes para cumplir con los requisitos de protección radiológica
+establecidos en la normativa vigente.
+f.
+
+Deben estar señalizados externamente, mediante carteles en los que consten además
+los datos de los Responsables y de los Operadores y sus números de teléfono o modo
+de contactarlos.
+
+51. En el diseño del Recinto de Irradiación debe contemplarse que el comando de los Equipos
+debe realizarse desde el exterior del mismo.
+52. En el diseño del Recinto de Irradiación deben contemplarse sistemas de seguridad y deben
+elaborarse procedimientos operativos que eviten:
+a. que se inicie una exposición mientras haya personas dentro del Recinto.
+b. que ingresen personas al Recinto durante la operación de los equipos.
+c.
+
+que los Equipos sean operados por personas no autorizadas.
+
+53. En el diseño del Recinto de Irradiación debe contemplarse la instalación de un exposímetro
+fijo en el interior del mismo, que tenga asociados los siguientes dispositivos:
+a. Una alarma lumínica en cada acceso al Recinto, que permanezca activada mientras
+dure la exposición.
+b. Una alarma acústica que se active cada vez que se intente acceder al Recinto de irradiación cuando la fuente se encuentre en posición de irradiación.
+
+El exposímetro así como ambas alarmas deben permanecer operativos aún en caso
+de interrupción del suministro de energía eléctrica de la red; asimismo las alarmas
+deben activarse en caso de falta de continuidad en las conexiones eléctricas de los
+sensores con el exposímetro.
+D.3. Criterios Particulares para la Operación
+54. Todo Equipo debe ser operado utilizando, como mínimo:
+a. Los accesorios que sean necesarios para su operación segura.
+
+5/12
+
+NORMA AR 7.9.1. OPERACIÓN DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 3
+
+b. Medidor de radiación acorde con lo establecido en la Sección D4, en condiciones operativas.
+c.
+
+Colimadores y blindajes adicionales, compatibles con la técnica de radiografiado.
+
+d. El instrumental de radioprotección acorde con lo establecido en el criterio N° 74 b), c) y
+d), en condiciones operativas y en cantidad suficiente para que pueda ser utilizado por
+todo el personal afectado a la operación.
+55. La operación de un Equipo o de un Contenedor debe ser realizada en un Área Abierta o en
+un Recinto de Irradiación siguiendo procedimientos operativos preparados al efecto. En la operación de cada Equipo o Contenedor deben intervenir dos personas como mínimo y al menos
+una de ellas debe ser un Operador. El Operador es quien debe realizar tanto las conexiones de
+los elementos acoplables al Proyector o al Contenedor como la exposición de la Fuente Sellada
+y la desconexión de los referidos elementos.
+56. Cuando se trate del entrenamiento de un solicitante de Permiso Individual, esté sólo podrá
+efectuar las conexiones de los elementos acoplables al Proyector o al Contenedor, la exposición de la Fuente Sellada o la desconexión de los referidos elementos bajo la supervisión de su
+Preceptor.
+57. Ningún Operador puede operar más de un Equipo simultáneamente, ni efectuar otro tipo de
+tareas mientras se efectúen tanto las conexiones de los elementos acoplables al Equipo o al
+Contenedor como la exposición de la Fuente Sellada y la desconexión de los referidos elementos.
+58. Cuando en el Área de Operación opere más de un Equipo, los Operadores deben asegurar
+una coordinación de sus tareas de modo de prevenir la ocurrencia de Accidentes.
+59. La transferencia de Fuentes Selladas podrá realizarse en un Depósito Autorizado cuando
+se hayan implementado en él medidas de protección radiológica equivalentes a las de un Área
+Abierta.
+60. Sólo pueden ingresar en el Área de Operación las personas autorizadas por el Operador,
+bajo su supervisión, siempre que de acuerdo a lo establecido en el Criterio 118 de la Norma AR
+10.1.1 “Norma Básica de Seguridad Radiológica” hayan recibido la capacitación correspondiente.
+61. Los distintos elementos intercambiables o acoplables de los Equipos y Contenedores deben ser compatibles con estos últimos, y deben utilizarse en las condiciones para las que fueron diseñados.
+62. Durante la operación de un Equipo no debe producirse el desplazamiento de elementos
+móviles ajenos al Equipo en el Área de Operación, así como de cualquier otro elemento o material que pueda dañar el equipamiento o afectar el normal desplazamiento de la Fuente Sellada.
+63. Luego de cada exposición radiográfica el Operador debe verificar, mediante monitoreo con
+un medidor de radiación portátil cuantitativo, el correcto reingreso de la Fuente Sellada al Proyector.
+64. Mientras no estén en uso, los Proyectores y Fuentes Selladas deben almacenarse en el
+Depósito Autorizado. Cuando alguno de estos elementos deba permanecer en obra, el Responsable debe tomar las medidas para implementar un depósito transitorio que ofrezca, como
+mínimo, la misma seguridad radiológica y física que el Depósito Autorizado.
+65. Las llaves de los Proyectores y Contenedores deben mantenerse separadas de los mismos
+y las cerraduras en posición cerrada mientras no estén en uso, permaneciendo bajo el control
+directo del Responsable o del operador a cargo del Equipo, según la circunstancia.
+
+6/12
+
+NORMA AR 7.9.1. OPERACIÓN DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 3
+
+66. El Depósito Autorizado debe permanecer cerrado bajo llave cuando no es utilizado. El control de las llaves debe estar bajo la responsabilidad del Responsable, del Responsable por la
+Seguridad Física o de un Operador.
+67. La transferencia de Fuentes Selladas debe efectuarse utilizando Equipos o Contenedores y
+accesorios diseñados específicamente para ese propósito y que sean compatibles con la marca
+y modelo de Equipo, Contenedor y Fuente Sellada.
+68. La transferencia de fuentes selladas entre Equipos o Contenedores debe ser efectuada
+cumpliendo los Criterios Generales y Particulares establecidos en la presente Norma.
+69. Los Contenedores y Proyectores deben identificarse mediante dos o más placas metálicas,
+ubicadas en la parte externa de los mismos, con la siguiente información grabada o estampada
+en forma visible: marca, modelo y número de serie del Contenedor o Proyector; radionucleido;
+símbolo normalizado de radiación y la palabra "RADIACTIVO”.
+70. En la parte externa del Contenedor o Proyector debe también identificarse la Fuente Sellada que contiene, incluyendo la siguiente información: símbolo químico y número de masa del
+nucleido, actividad y fecha de calibración, modelo y número de serie de la Fuente Sellada y
+nombre del fabricante.
+71. Hasta tanto se disponga su gestión como residuo radiactivo o se autorice otro destino toda
+Fuente Sellada fuera de uso debe almacenarse en el Depósito Autorizado dentro de un Contenedor adecuado, señalizado y con su placa de identificación colocada en la parte externa del
+mismo.
+72. En el caso de Áreas Abiertas los Operadores deben:
+a. Delimitar el Área de Operación mediante barreras físicas apropiadas, ubicadas de tal
+manera que permitan:
+a.1- prevenir el acceso inadvertido de personas a la misma y limitar las dosis
+individuales de acuerdo con lo indicado en el criterio N° 25.
+a.2- establecer valores de referencia para la tasa de dosis equivalente ambiental
+en el exterior del Área de Operación, para cada caso particular, y verificar por
+medición que durante la exposición no se excedan dichos valores.
+b. Informar a quien sea responsable del movimiento de personas no relacionadas con la
+práctica de gammagrafía industrial, pero que desarrollen tareas en las inmediaciones
+del Área de Operación, sobre los riesgos y las precauciones a tomar, en particular la
+restricción del acceso a la misma.
+c.
+
+Mantener vigilancia visual directa sobre el Área de Operación, a fin de detectar en
+forma inmediata cualquier acceso no autorizado a la misma.
+
+d. En el caso de Áreas Abiertas ubicadas en la vía pública en zonas habitadas, debe informarse a la Autoridad Regulatoria con cinco (5) días hábiles administrativos de antelación a la fecha de inicio de las tareas las medidas de seguridad radiológica y física
+específicas que se adoptarán, incluyendo una descripción de las tareas, del personal
+afectado a las mismas y de los procedimientos específicos para hacer frente a Accidentes en el sitio.
+73. El Recinto de irradiación y el Depósito Autorizado deben ser de uso exclusivo para la práctica.
+D.4. Instrumental de Radioprotección
+74. A los efectos de cumplir con las tareas de monitoreo indicadas en esta norma, el Titular de
+Licencia o de Práctica no Rutinaria debe asegurar que los Operadores tengan a su disposición
+el siguiente equipamiento en adecuadas condiciones operativas y en consonancia con la cantidad de Proyectores, a satisfacción de la Autoridad Regulatoria:
+
+7/12
+
+NORMA AR 7.9.1. OPERACIÓN DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 3
+
+a. Medidores de radiación portátiles cuantitativos. Deben poder medir tasa de dosis equivalente ambiental en el rango entre 0 y 100 mSv/h (con indicación en estas unidades o
+en unidades equivalentes).
+b. Monitores portátiles con indicación acústica, cuya tasa de repetición de pulsos sea
+proporcional a la tasa de dosis que monitorea.
+c.
+
+Dosímetros electrónicos individuales integradores de lectura directa, con un rango de
+0 a 2 mSv.
+
+d. Dosímetros individuales integradores de lectura diferida asignando uno a cada persona afectada a tareas de gammagrafía, que permitiría la determinación de dosis entre
+0,5 mSv y 0,6 Sv.
+75. La indicación de los instrumentos de medición no debe apartarse en más del 50% ni en
+menos del 30% respecto del valor verdadero de la magnitud medida, en todo el rango de medición y energías en que se los utilicen.
+D.5. Vigilancia Radiológica Individual y de Áreas
+76. Debe llevarse a cabo el control dosimétrico individual de los trabajadores en los casos que
+corresponda.
+77. El Responsable debe determinar la nómina de los trabajadores afectados al control dosimétrico individual.
+78. Todo el personal que opera con Fuentes Selladas debe contar con dosímetros individuales
+para la irradiación externa.
+79. La dosimetría individual solo podrá ser llevada a cabo por servicios de dosimetría que participen en ejercicios periódicos de intercomparación efectuados por entidades reconocidas por la
+Autoridad Regulatoria.
+80. Debe realizarse al menos en forma mensual el monitoreo rutinario de tasa de dosis equivalente ambiental en el exterior del Depósito Autorizado y del depósito transitorio.
+D.6. Controles, Mantenimiento y Reparación
+81. Debe asegurarse que todos los elementos relacionados con la práctica de gammagrafía
+industrial:-Proyectores, Contenedores, Fuentes Selladas, accesorios e instrumental de protección radiológica- se encuentren en condiciones que hagan segura su operación, y que aquellos
+que no cumplan con tales condiciones sean ubicados en lugares de acceso restringido hasta su
+reparación, eliminación o disposición final como residuo radiactivo según corresponda.
+82. Debe efectuarse el mantenimiento preventivo y el control rutinario de todos los elementos
+relacionados con la práctica de gammagrafía industrial.
+83. Para los Equipos y Contenedores este control rutinario debe incluir, como mínimo, los siguientes aspectos:
+a. Verificación de conexiones de los Proyectores, Contenedores y elementos acoplables
+a los mismos.
+b. Control de los dispositivos de bloqueo del movimiento de la fuente.
+c.
+
+Verificación del estado de los sistemas de movimiento de la Fuente Sellada.
+
+d. Detección de las tasas de dosis en el exterior de los Contenedores y Proyectores.
+e. Verificación de la identificación de Contenedores y Proyectores, la que debe ser repuesta en caso de deterioro.
+84. Cada Proyector debe ser sometido anualmente a un control independiente, a fin de acreditar que se encuentre en condiciones operativas seguras.
+
+8/12
+
+NORMA AR 7.9.1. OPERACIÓN DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 3
+
+85. El control indicado en el Criterio 84 debe ser efectuado por entidades que:
+a. Posean el equipamiento y los medios necesarios para cumplir con este propósito.
+b. Cuenten con personal calificado a satisfacción de la Autoridad Regulatoria.
+c.
+
+Posean un programa de control de Proyectores a satisfacción de la Autoridad Regulatoria, que incluya entre otras cosas la determinación de la contaminación radiactiva en
+la superficie exterior del Proyector y en el interior del canal, así como en el interior del
+tubo guía.
+
+86. La entidad que efectúe el control de un Proyector debe certificar por escrito la condición
+operativa segura del mismo y debe colocar una identificación sobre el Proyector en la que
+conste el número de serie, la fecha de certificación y el nombre de la entidad certificadora; esta
+identificación no puede ser retirada sino hasta el siguiente control.
+87. Las tareas de mantenimiento o reparación de Proyectores que requieran el desarme total o
+parcial de los mismos, o que puedan afectar sus sistemas de seguridad deben ser realizadas
+por personal calificado, a satisfacción de la Autoridad Regulatoria.
+88. Los instrumentos de medición cuantitativos de radiación deben ser adecuadamente calibrados y como mínimo verificados en su respuesta, anualmente, cada vez que el instrumento sea
+sometido a una reparación o cuando existan motivos para suponer una alteración de su respuesta.
+89. Los sistemas de seguridad del Recinto de Irradiación deben estar sujetos a un programa de
+inspección y mantenimiento preventivo periódico.
+D.7. Criterios Particulares para Fuentes Selladas
+90. Toda Fuente Sellada debe ajustarse a un modelo aprobado como "Material radiactivo en
+forma especial", según lo establecido en la norma AR 10.16.1. "Transporte de Material Radiactivo”, y a los requerimientos especiales que sobre el particular determine la Autoridad Regulatoria.
+91. Toda Fuente Sellada que se utilice dentro de un Proyector en el que la exposición se produzca sin retirar la fuente del mismo, ya sea por desplazamiento de un obturador, por rotación
+del Portafuente o por otros medios, debe contar como mínimo con un encapsulado hermético.
+92. Toda Fuente Sellada que se utilice con un Proyector en el que la exposición se produzca
+retirando la fuente del mismo por medio de un sistema de mando a distancia, debe contar como
+mínimo con doble encapsulado hermético y debe estar alojada en un Portafuente apropiado.
+D.8. Transporte de Fuentes Radiactivas
+93. Para el transporte de fuentes radiactivas se aplica la norma AR 10.16.1. "Transporte de
+Material Radiactivo”.
+94. Se deberán utilizar vehículos provistos de Recinto cerrado o vehículos descubiertos que
+dispongan de un recipiente cerrado fijado en forma permanente a su estructura.
+95. Los Proyectores o Contenedores deben fijarse en forma segura al Recinto o recipiente cerrado con que cuente el vehículo de transporte, con el propósito de evitar la pérdida, extravío,
+hurto o robo durante el transporte.
+96. Las llaves del vehículo y del Recinto o recipiente cerrado deben permanecer en poder del
+transportista durante todo el tiempo que dure el transporte.
+97. Se debe asegurar que durante el transporte el vehículo esté en todo momento bajo control
+directo del transportista o adecuadamente custodiado durante las paradas que se produzcan
+durante el mismo.
+
+9/12
+
+NORMA AR 7.9.1. OPERACIÓN DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 3
+
+98. El Titular de Licencia o de Práctica no Rutinaria debe asegurar que:
+a. Los Contenedores o Proyectores que contengan Fuentes selladas se transporten con
+las trabas mecánicas necesarias para evitar el desplazamiento de las fuentes.
+b. Las llaves de los dispositivos de bloqueo del movimiento de las fuentes selladas no se
+transporten en los mismos bultos que las fuentes.
+c.
+
+Los bultos estén correctamente etiquetados.
+
+d. Los transportistas cuenten con procedimientos para casos de Emergencia.
+99. Se deberán incluir en los procedimientos de Emergencias, en caso de pérdida o extravío o
+de hurto o robo de Equipos o Contenedores que contengan fuentes radiactivas, la difusión a
+través de los medios de comunicación masiva para alertar a la población y la comunicación
+inmediata a las autoridades locales y a la Autoridad Regulatoria.
+D.9. Documentación, Registros e Informes a la Autoridad Regulatoria
+100. El Titular de Licencia o de Práctica no Rutinaria debe retener la siguiente documentación:
+a. Certificado de fabricación (original) de cada Fuente Sellada que posea, con constancia
+de que el modelo de fuente está aprobado como "Material radiactivo en forma especial" según lo establecido en el criterio N° 90.
+b. Documentación que permita identificar fabricante, marca, modelo y N° de serie de cada Equipo que posea, los certificados de los controles especiales de condiciones operativas según lo indicado en los Criterios N° 84 al 86, así como el manual de operación
+y mantenimiento de cada modelo de ellos.
+c.
+
+Certificado de aprobación por parte de la Autoridad Competente cuando se trate de
+bultos tipo B(U).
+
+d. Registro de mantenimiento y de los resultados de los controles efectuados sobre los
+Depósitos Autorizados y los Equipos, en cumplimiento de lo establecido en las Secciones D5 y D6.
+e. Manual de operación y certificados de las calibraciones controles y mantenimiento
+efectuados en cumplimiento del Criterio N° 88, para cada instrumento de medición
+cuantitativa.
+101. El Titular de Licencia o de Práctica no Rutinaria debe implementar un sistema de registro
+del material radiactivo que incluya, como mínimo:
+a. Inventario de Proyectores, Contenedores y Fuentes Selladas, con altas y bajas y de la
+disposición final de fuentes selladas.
+b. Movimiento de Proyectores y Fuentes Selladas, y novedades operativas.
+c.
+
+Inventario del instrumental de protección radiológica.
+
+102. El Titular de Licencia o de Práctica no Rutinaria debe:
+a. Mantener los registros de dosis de los trabajadores afectados al control dosimétrico
+individual, por un período no inferior a treinta (30) años posteriores al cese de servicios.
+b. Registrar la fecha de incorporación y/o baja al servicio de dosimetría para cada persona a la que se le haya asignado dosímetro individual.
+c.
+
+Notificar a cada persona a la que se le haya asignado dosímetro individual de su correspondiente informe dosimétrico mensual.
+
+d. Entregar a cada persona sujeta a dosimetría individual, cuando deje de prestar servicios, el registro completo de las dosis recibidas.
+e. Entregar anualmente a la Autoridad Regulatoria la información correspondiente a las
+dosis recibidas por todo el personal afectado al control dosimétrico individual, incluyendo fechas de alta y baja dentro del período.
+
+10/12
+
+NORMA AR 7.9.1. OPERACIÓN DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 3
+
+103. El Titular de Licencia o de Práctica no Rutinaria, o el Responsable deben informar a la
+Autoridad Regulatoria toda compra, venta, préstamo, almacenamiento transitorio en custodia,
+baja o alquiler de Equipos o Fuentes Selladas dentro de los cinco días de producida.
+104. En el caso en que se produzca un proceso judicial de quiebra o convocatoria de acreedores del Titular de Licencia o de Práctica no Rutinaria, éste deberá notificar el hecho dentro de
+las cuarenta y ocho (48) horas de producido a la Autoridad Regulatoria, indicando los datos del
+Juzgado interviniente y del Síndico designado, así como las medidas de protección que se
+hubieren adoptado para garantizar la seguridad radiológica y física de los equipos y fuentes
+selladas de la instalación.
+105. Independientemente de toda otra comunicación o información que corresponda efectuar
+en casos de Accidente, el Titular de Licencia o de Práctica no Rutinaria debe comunicar a la
+Autoridad Regulatoria:
+a. En forma inmediata, por el medio más rápido, de toda pérdida de control sobre sus
+Fuentes Selladas sea por hurto, robo, daño o cualquier otro evento que impida al Titular de Licencia o de Práctica no Rutinaria garantizar la integridad de la Fuente Sellada
+o la protección radiológica de las personas que pudieren estar expuestas a ella.
+b. Dentro de las VEINTICUATRO (24) horas de ocurrida, y por escrito, todo Accidente,
+detallando las medidas tomadas.
+c.
+
+Inmediatamente de conocida, y por escrito, cualquier situación en la que algún individuo pueda haber resultado expuesto a dosis superiores a los límites de dosis para el
+público o para los trabajadores según corresponda, y las medidas adoptadas.
+
+d. Dentro de los DIEZ (10) días de conocida, y por escrito, cualquier situación en la que
+algún individuo pueda haber resultado expuesto a dosis menores al límite correspondiente, pero mayores a los 3/10 del mismo en un mes calendario.
+106. El Titular de Licencia o de Práctica no Rutinaria debe poner a disposición de la Autoridad
+Regulatoria la documentación que ésta determine en casos particulares.
+D.10. Validez y Renovación de las Licencias de Operación
+107. La Licencia de Operación tiene una validez máxima de CINCO (5) años a partir de la fecha
+de emisión, salvo que la Autoridad Regulatoria haya estipulado un plazo de validez menor.
+108. El trámite de renovación de la Licencia de Operación debe iniciarse al menos cuarenta
+(40) días hábiles administrativos antes de su vencimiento.
+D.11. Responsabilidades
+Del Titular de la Licencia de Operación o de Práctica no Rutinaria:
+Sin perjuicio del cumplimiento de las otras obligaciones que surgen de la presente norma el
+Titular de Licencia o de Práctica no Rutinaria esta obligado a:
+109. Proveer los medios necesarios para cumplir y hacer cumplir, como mínimo, los requisitos
+establecidos en la licencia de operación o autorización, en las normas y en todo otro requerimiento de la Autoridad Regulatoria aplicable.
+110. Designar a los Responsables, asegurar que la función de los mismos esté cubierta mientras permanezca vigente la licencia de operación o autorización correspondiente y prestarles
+todo el apoyo que necesiten para que la práctica se desarrolle en adecuadas condiciones de
+seguridad radiológica y física.
+111. Comunicar a la Autoridad Regulatoria en forma fehaciente e inmediata, cuando se produzca la ausencia temporal que impida el ejercicio de sus funciones o la ausencia definitiva de
+
+11/12
+
+NORMA AR 7.9.1. OPERACIÓN DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 3
+
+alguno de los Responsables. En tal caso, la instalación no podrá operar o la práctica no podrá
+llevarse a cabo hasta tanto designe un nuevo Responsable, a satisfacción de la Autoridad Regulatoria.
+112. Establecer un Sistema de Calidad adecuado y supervisar su correcta implementación.
+113. Asegurar la capacitación y reentrenamiento del personal.
+114. Facilitar, en todo momento, la realización de inspecciones y auditorias regulatorias por
+parte del personal de la Autoridad Regulatoria.
+115. Notificar a la Autoridad Regulatoria la intención de cesar en forma definitiva el uso de material radiactivo.
+116. Tramitar, con la debida anticipación, la renovación, modificación o ampliación de la licencia de operación o de la autorización.
+Del Responsable:
+Sin perjuicio del cumplimiento de las otras obligaciones que surgen de la presente norma el
+Responsable está obligado a:
+117. Asegurar que la operación de los Equipos y Fuentes Selladas se realice de acuerdo a los
+requisitos establecidos en la licencia de operación o autorización, en las normas y en todo otro
+requerimiento de la Autoridad Regulatoria aplicable.
+118. Implementar el Sistema de Calidad.
+119. Capacitar al personal, supervisar su reentrenamiento y difundir los procedimientos de seguridad radiológica y física.
+120. Comunicar a la Autoridad Regulatoria, de acuerdo a lo establecido en el Criterio N° 105, la
+ocurrencia de eventos que afecten o puedan afectar la seguridad radiológica o la seguridad
+física, investigar sus causas y consecuencias e implementar las medidas correctivas que correspondan.
+121. Comunicar a la Autoridad Regulatoria, en forma fehaciente e inmediata, su ausencia temporal cuando le impida ejercer sus funciones, o la ausencia definitiva como Responsable de la
+instalación.
+122. Informar en forma fehaciente a la Autoridad Regulatoria cuando, a su entender, el Titular
+de la Licencia o de Práctica no Rutinaria no proveyera los medios necesarios para garantizar la
+seguridad radiológica o la seguridad física.
+123. Facilitar, en todo momento, la realización de inspecciones y auditorias regulatorias por
+parte del personal de la Autoridad Regulatoria.
+124. Mantener actualizados los registros y realizar las comunicaciones indicadas en esta norma.
+Del Trabajador:
+125. El trabajador debe cumplir los procedimientos de seguridad radiológica y física establecidos
+en esta norma.
+
+12/12
+
+

@@ -1,0 +1,295 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 8.11.2.
+
+REVISIÓN 0
+
+Requisitos mínimos de
+formación clínica activa
+para la obtención de
+permisos individuales
+con fines médicos
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 20/02 (Boletín Oficial 22/7/02)
+
+República Argentina – Reimpresión 2007
+
+1/6
+
+NORMA AR 8.11.2.
+
+REQUISITOS MÍNIMOS DE FORMACIÓN CLÍNICA ACTIVA
+PARA LA OBTENCIÓN DE PERMISOS INDIVIDUALES
+CON FINES MÉDICOS
+
+A. OBJETIVO
+1. Establecer los requisitos mínimos de formación clínica activa necesarios para poder obtener
+permisos individuales.
+
+B. ALCANCE
+2. Esta norma es aplicable a los médicos que soliciten permiso individual para realizar prácticas
+en instalaciones Clase II licenciadas por la Autoridad Regulatoria que involucren el empleo de
+material radiactivo o radiaciones ionizantes1 en seres humanos.
+El cumplimiento de esta norma no exime del cumplimiento de otras normas y requerimientos
+aplicables que establezcan otras autoridades competentes no relacionadas con la protección
+radiológica de las personas y la seguridad de las instalaciones.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Estudios Dinámicos: Estudios que se efectúen mediante la administración (ya sea por vía
+oral, inhalatoria, parenteral o intravenosa) al paciente de trazadores radiactivos para la medición de radiactividad “in vivo”, en muestras biológicas o para la obtención de imágenes.
+4. Instalación Clase II: Instalación o práctica que sólo requiere licencia de operación.
+5. Permiso Individual: Certificado, expedido por la Autoridad Regulatoria, por el que se autoriza a una persona a trabajar con fuentes de radiación, en una instalación Clase II o en una práctica no rutinaria.
+6. Práctica: Toda tarea con fuentes de radiación que produzca un incremento real o potencial de
+la exposición de personas a radiaciones ionizantes, o de la cantidad de personas expuestas.
+
+D REQUISITOS
+D 1. Uso de Trazadores Radiactivos para Estudios Dinámicos (Propósito 3.1)
+7. El médico debe haber aprobado un curso universitario de postgrado de especialista en medicina nuclear, reconocido por la Autoridad Regulatoria Nuclear, que brinde una formación teórica y una práctica activa según lo requerido por la norma AR 8.11.1. “Permisos Individuales
+para el Empleo de Material Radiactivo o Radiaciones Ionizantes en Seres Humanos”.
+8. El médico cuya formación no se ajuste a lo estipulado en el requisito N° 10 debe:
+1
+
+Incluyendo a los aceleradores lineales de uso médico. En concordancia con los términos de la
+Ley 17.557, se excluyen los equipos destinados a generar específicamente rayos x.
+
+1/6
+
+NORMA AR 8.11.2. REQUISITOS MÍNIMOS DE FORMACIÓN CLÍNICA ACTIVA PARA LA
+OBTENCIÓN DE PERMISOS INDIVIDUALES CON FINES MÉDICOS – REVISIÓN 0
+
+a. haberse desempeñado en forma continua durante por lo menos tres (3) años en un
+servicio de alguna de las ramas de la clínica médica.
+b. haber realizado una práctica clínica activa durante cuatrocientas (400) horas como mínimo, distribuidas en un lapso no menor de veinte (20) semanas, en un programa médico en el que se utilicen todos los radioisótopos cuyo empleo se solicite y en el que se
+hayan efectuado estudios en no menos de doscientos (200) pacientes con arreglo a lo
+estipulado en los requisitos aplicables de la norma AR 8.11.1.
+D 2. Usos de Soluciones Radiactivas (Propósito 3.2) y Radiocoloides (Propósito3.3) en
+Terapia
+9. El médico debe haber aprobado un curso universitario de postgrado de especialista en medicina nuclear, reconocido por la Autoridad Regulatoria, que brinde una formación teórica y una
+práctica activa según lo requerido por la norma AR 8.11.1.
+10. El médico cuya formación no se ajuste a lo estipulado en el requisito N° 9, debe cumplir los
+requisitos especificadas para cada uso en D 2.1 o D 2.2 según corresponda.
+D 2.1. Uso de Soluciones de I-131 en Terapia (Propósito 3.2.1 Hipertiroidismo) y (Propósito 3.2.2 Carcinoma de Tiroides)
+11. El médico debe poseer permiso individual para uso de trazadores radiactivos en estudios
+dinámicos.
+12. El médico debe haber realizado una práctica activa con arreglo a lo estipulado en los requisitos aplicables de la norma AR 8.11.1, de acuerdo al siguiente programa orientativo: “Participación activa en la discusión de las pautas diagnósticas, el tratamiento con radioyodo y seguimiento de la evolución de un mínimo de veinticinco (25) pacientes con hipertiroidismo, cáncer
+de tiroides y tiroideopatías tratables con I-131, durante un lapso no menor de veinticinco (25)
+semanas, en un programa médico en el que se emplee I-131 en solución”.
+D 2.2. Otros Usos de Soluciones Radiactivas y Radiocoloides en Terapia (Propósito
+3.2.3)
+13. El empleo rutinario de soluciones radiactivas con otros radioisótopos diferentes del I-131 en
+terapia metabólica, y el uso de radiocoloides en terapia, con fines curativos, paliativos del dolor
+y no oncológicos, debe ajustarse a los requisitos N° 14 y 15.
+14. El médico debe:
+a. poseer permiso individual para el uso de soluciones de I-131 en terapia y aprobar un
+“Curso de Radioterapia Metabólica” reconocido por la Autoridad Regulatoria, que incluya un módulo de “Dosimetría Clínica”.
+b. poseer permiso individual para el uso de fuentes selladas en radioterapia y aprobar un
+“Curso de Radioterapia Metabólica” reconocido por la Autoridad Regulatoria, que incluya un módulo de “Utilización de Fuentes Abiertas”.
+15. El médico debe haber realizado una práctica activa según lo estipulado en los requisitos
+aplicables de la norma AR 8.11.1, de acuerdo al siguiente programa orientativo: “Participación
+activa en un programa médico en el que se empleen radionucleidos para los fines mencionados en el requisito N° 13, en un mínimo de cinco (5) pacientes, e incluya un seguimiento de
+doce (12) semanas contadas a partir de la aplicación del radiofármaco”.
+
+2/6
+
+NORMA AR 8.11.2. REQUISITOS MÍNIMOS DE FORMACIÓN CLÍNICA ACTIVA PARA LA
+OBTENCIÓN DE PERMISOS INDIVIDUALES CON FINES MÉDICOS – REVISIÓN 0
+
+D 3. Uso de Fuentes Selladas en Braquiterapia (Propósito 3.4.1)
+16. El médico debe poseer permiso individual para el uso de equipos de teleterapia con fotones.
+17. El médico debe haber participado activamente en un mínimo de treinta (30) tratamientos
+que comprendan las diferentes técnicas (baja o alta tasa de dosis, carga diferida manual o
+remota), y el uso de distintos tipos de fuentes y radioisótopos autorizados para aplicaciones
+intersticiales e intracavitarias. Estos tratamientos pueden ser realizados en forma simultánea
+con la práctica activa cumplida para teleterapia con fotones. La participación clínica activa se
+llevará a cabo en un plazo no menor de seis (6) meses, con arreglo a lo estipulado en los requisitos aplicables de la Norma AR 8.11.1.
+D 4. Uso de Fuentes Selladas en Aplicaciones Superficiales (Propósito 3.6.1)
+18 El médico debe poseer permiso individual para el uso de equipos de teleterapia con fotones.
+19. El médico debe haber participado activamente en el tratamiento de lesiones superficiales
+con radiación beta o rayos x blandos en un mínimo de quince (15) pacientes, con arreglo a lo
+estipulado en los requisitos aplicables de la norma AR 8.11.1.
+D 5. Uso de Fuentes Selladas para Radiocirugía
+D 5.1 “Gammaknife” (Propósito 3.5.3)
+20. El médico debe poseer permiso individual para el uso de equipos de teleterapia con fotones, renovado al menos una vez.
+21. El médico debe haber adquirido una formación específica en el uso de equipos “gammaknife”, en un centro médico autorizado que satisfaga los requisitos de la Autoridad Regulatoria
+para el uso de este tipo de equipos y de acuerdo a un programa aceptado previamente por la
+Autoridad Regulatoria.
+22. El médico debe haber participado activamente en la indicación, simulación, planificación,
+ejecución del tratamiento, evaluación y seguimiento de un mínimo de veinte (20) pacientes en
+un plazo no menor de un (1) año en un programa médico para el uso de fuentes selladas en
+radiocirugía, con arreglo a lo estipulado en los requisitos aplicables de la norma AR 8.11.1.
+23. El médico que posea permiso para el uso de aceleradores lineales para radiocirugía debe
+acreditar su formación de acuerdo al requisito N° 21 y su participación activa en la indicación,
+simulación, planificación, ejecución del tratamiento, evaluación y seguimiento de un mínimo de
+diez (10) pacientes, en un plazo no menor de seis (6) meses.
+D 5.2 Braquiterapia Estereotáxica Intracerebral (Propósito 3.4.2)
+24. El médico debe poseer permiso individual para braquiterapia según lo indicado en D.3 y
+haberlo renovado al menos una vez.
+25. El médico debe acreditar una formación específica en el uso de técnicas estereotáxicas en
+el marco de un programa médico aceptado previamente por la Autoridad Regulatoria que incluya un equipo de trabajo conformado por un neurocirujano, un radioterapeuta y un especialista
+en física de la radioterapia y que se lleve a cabo en un centro médico autorizado que satisfaga
+los requisitos de la Autoridad Regulatoria para el uso de este tipo de técnicas.
+26. El médico debe haber participado activamente en la indicación, planificación, ejecución del
+tratamiento, evaluación y seguimiento de un mínimo de diez (10) pacientes en un plazo no
+menor de un (1) año, con arreglo a lo estipulado en los requisitos aplicables de la norma AR
+8.11.1.
+
+3/6
+
+NORMA AR 8.11.2. REQUISITOS MÍNIMOS DE FORMACIÓN CLÍNICA ACTIVA PARA LA
+OBTENCIÓN DE PERMISOS INDIVIDUALES CON FINES MÉDICOS – REVISIÓN 0
+
+D 6. Uso de Fuentes Selladas en Braquiterapia Intravascular (Propósito 3.4.3)
+27. El médico debe poseer permiso individual para uso de fuentes selladas en braquiterapia.
+28. El médico debe acreditar una formación específica en braquiterapia intravascular en un
+centro médico autorizado, según un programa médico acordado previamente con la Autoridad
+Regulatoria y llevado a cabo por un grupo de trabajo conformado por un radioterapeuta, un
+especialista en física de la radioterapia y un cardiólogo intervencionista.
+29. El médico que no se ajuste a lo estipulado en el requisito N° 28 podrá acreditar una formación equivalente impartida por un grupo de trabajo extranjero de reconocido prestigio en la
+especialidad, aceptado previamente por la Autoridad Regulatoria.
+30. La formación estipulada en el requisito N° 28 debe incluir la capacitación en el uso de un
+dispositivo o una técnica autorizada para este fin, y una participación clínica activa con arreglo
+a lo estipulado en los requisitos aplicables de la norma AR 8.11.1 en un mínimo de cinco (5)
+pacientes.
+31. El cardiólogo intervencionista que forme parte de la dotación de personal para el uso de
+fuentes selladas en braquiterapia intravascular, debe acreditar una formación básica en protección radiológica y la capacitación en el uso del dispositivo o la técnica autorizada para este fin.
+D 7. Uso de Equipos de Teleterapia
+32. El médico debe haber aprobado un curso de dosimetría en radioterapia reconocido por la
+Autoridad Regulatoria y realizar la práctica activa requerida en la norma AR 8.11.1, desempeñándose en forma continua en un servicio en el que se utilicen equipos de telecobaltoterapia o
+aceleradores lineales en modo fotones y que posean equipamiento de simulación y sistemas
+de planificación dosimétrica.
+D 7.1 Uso de Equipos de Teleterapia con Fotones
+D 7.1.1 Telegammaterapia (Propósito 3.5)
+33. El médico debe haber participado activamente en la indicación, simulación, planificación,
+ejecución del tratamiento, evaluación y seguimiento de un mínimo de cincuenta (50) pacientes,
+tratados con equipos de telecobaltoterapia, de los cuales al menos diez (10) deben ser tratamientos combinados con braquiterapia, en un plazo no menor de seis (6) meses. La participación clínica activa se llevará a cabo con arreglo a lo estipulado en los requisitos aplicables de la
+norma AR 8.11.1.
+D 7.1.2 Uso de Aceleradores Lineales en Modo Fotones (Propósito 3.7 Monomodal)
+34. El médico debe haber participado activamente en la indicación, simulación, planificación,
+ejecución del tratamiento, evaluación y seguimiento de un mínimo de cien (100) pacientes,
+tratados con equipos aceleradores lineales en el modo fotones, de los cuales al menos diez
+(10) deben ser tratamientos combinados con braquiterapia, en un plazo no menor de un (1)
+año. La participación clínica activa se llevará a cabo con arreglo a lo estipulado en los requisitos aplicables de la norma AR 8.11.1.
+35. Si el médico posee un permiso individual previo para telegammaterapia, debe participar
+activamente en la indicación, simulación, planificación, ejecución del tratamiento, evaluación y
+seguimiento de un mínimo de cincuenta (50) pacientes, tratados con equipos aceleradores
+lineales en el modo fotones, en un plazo no menor de seis (6) meses. La participación clínica
+activa se llevará a cabo con arreglo a lo estipulado en los requisitos aplicables de la norma AR
+8.11.1.
+
+4/6
+
+NORMA AR 8.11.2. REQUISITOS MÍNIMOS DE FORMACIÓN CLÍNICA ACTIVA PARA LA
+OBTENCIÓN DE PERMISOS INDIVIDUALES CON FINES MÉDICOS – REVISIÓN 0
+
+D 7.1.3 Uso Bimodal de Aceleradores Lineales (Propósito 3.7 Bimodal)
+36. El médico debe poseer permiso individual para el uso de aceleradores lineales en modo
+fotones.
+37. El médico debe haber participado activamente en la indicación, simulación, planificación,
+ejecución del tratamiento, evaluación y seguimiento de un mínimo de cincuenta (50) pacientes
+durante un lapso mínimo de seis (6) meses, con técnicas que se ejecuten en aceleradores
+lineales duales, trabajando en tratamientos con fotones y con electrones. La participación clínica activa se llevará a cabo con arreglo a lo estipulado en los requisitos aplicables de la norma
+AR 8.11.1.
+D 7.2 Uso de Equipos Aceleradores Lineales para Radiocirugía (Propósito 3.7 Radiocirugía)
+38. El médico debe poseer permiso individual para el uso de equipos de teleterapia con fotones, renovado al menos una vez.
+39. El médico debe haber adquirido una formación específica en el uso de equipos aceleradores lineales para radiocirugía, en un centro médico autorizado que satisfaga los requisitos de la
+Autoridad Regulatoria para el uso de este tipo de equipos y de acuerdo a un programa aceptado previamente por la Autoridad Regulatoria.
+40. El médico debe haber participado activamente en la indicación, simulación, planificación,
+ejecución del tratamiento, evaluación y seguimiento de un mínimo de veinticinco (25) pacientes
+en un plazo no menor de un (1) año, en un programa médico de radiocirugía que incluya el
+tratamiento de patologías benignas, malignas y vasculares, con arreglo a lo estipulado en los
+requisitos aplicables de la norma AR 8.11.1.
+41. El médico que posea permiso para el uso de fuentes selladas en radiocirugía debe acreditar su formación de acuerdo al requisito N° 39 y su participación activa en la indicación, simulación, planificación, ejecución del tratamiento, evaluación y seguimiento de un mínimo de quince
+(15) pacientes, en un plazo no menor de seis (6) meses.
+D 8 Usos Experimentales o no Comunes de Radioisótopos o Radiaciones Ionizantes en
+Seres Humanos (Propósito 3.8)
+42. El empleo experimental de radioisótopos o de radiaciones ionizantes en seres humanos, ya
+sea con fines de investigación, diagnóstico o terapéutica, queda limitado a médicos con permiso y experiencia en diagnóstico o terapéutica, y que posean una formación profesional adecuada para desarrollar tales programas de experimentación.
+43. El médico debe presentar un programa que contemple, a satisfacción de la Autoridad Regulatoria, los aspectos de seguridad radiológica asociados a la experimentación en seres humanos y debe acreditar el acuerdo de la entidad autorizada en la que se llevará a cabo el empleo experimental en cuestión, con arreglo a lo establecido en el requisito N° 20 de la norma
+AR 8.11.1.
+44. El médico debe demostrar conocimiento sobre la experiencia previa en animales o en seres
+humanos que avale el uso experimental para el que solicite permiso individual.
+45. El poseedor de un permiso individual para el empleo experimental de radioisótopos o de
+radiaciones ionizantes en seres humanos, podrá utilizar su permiso únicamente en programas
+de experimentación que estén autorizados por la autoridad sanitaria competente.
+46. Cuando haya finalizado la etapa experimental del uso de un determinado radioisótopo o de
+radiaciones ionizantes y si existen las requisitos apropiadas se considerará como una práctica
+rutinaria, debiendo cumplirse entonces con los requerimientos que correspondan.
+
+5/6
+
+NORMA AR 8.11.2. REQUISITOS MÍNIMOS DE FORMACIÓN CLÍNICA ACTIVA PARA LA
+OBTENCIÓN DE PERMISOS INDIVIDUALES CON FINES MÉDICOS – REVISIÓN 0
+
+ANEXO
+Esta norma regulatoria reemplaza al capítulo III “Requisitos Mínimos de Formación Clínica
+Activa Necesarios para el Otorgamiento de Permisos Individuales” de la Resolución CNEA
+1790/76, e incluye las modificaciones realizadas sobre la misma mediante distintas disposiciones y recomendaciones. Las denominaciones de los propósitos y códigos correspondientes se
+sintetizan en la siguiente tabla:
+
+Denominación del Propósito según
+Resol.1790/76
+
+Código de propósito según
+Res.1790/76 o código interno (actual)
+
+Uso de trazadores radiactivos para estudios
+dinámicos o cinéticos
+
+3.1
+
+Tratamiento de hipertiroidismo y/o del disfuncionamiento cardíaco
+
+3.2.1
+
+Tratamiento del carcinoma de tiroides
+
+3.2.2
+
+Tratamiento de hemopatías y metástasis
+óseas
+
+3.2.3
+
+Uso de radiocoloides en aplicaciones intracavitarias para el tratamiento de pacientes carcinomatosos
+Uso de fuentes selladas en aplicaciones intersticiales, superficiales e intracavitarias
+
+3.3
+
+3.4.1
+3.4.2
+
+Tratamiento de lesiones superficiales de piel u
+oculares
+
+3.4.3
+3.5.3
+3.6.1
+
+Uso de equipos de telegammaterapia
+
+3.5
+
+Uso de aceleradores lineales, betatrones o
+generadores de radiación de alta energía
+
+3.7
+
+Uso de aceleradores lineales, betatrones o
+generadores de radiación de alta energía
+Uso de aceleradores lineales, betatrones o
+generadores de radiación de alta energía
+Usos experimentales o no comunes de
+radioisótopos en seres humanos
+
+6/6
+
+monomodal
+3.7
+bimodal
+3.7
+radiocirugía
+3.8
+
+

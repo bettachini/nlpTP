@@ -1,0 +1,208 @@
+NORMA AR 0.11.3. REENTRENAMIENTO DE PERSONAL DE INSTALACIONES RELEVANTES
+
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 0.11.4.
+
+REVISIÓN 0
+
+Licenciamiento de
+personal de instalaciones
+Clase II y Clase III del Ciclo
+de Combustible Nuclear
+
+Aprobada en la Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 326/13 (Boletín Oficial 17/9/13)
+
+República Argentina – Impresión 2013
+
+1/4
+
+NORMA AR 0.11.3. REENTRENAMIENTO DE PERSONAL DE INSTALACIONES RELEVANTES
+
+NORMA AR 0.11.4.
+
+LICENCIAMIENTO DE PERSONAL DE INSTALACIONES
+CLASE II Y CLASE III DEL CICLO DE COMBUSTIBLE NUCLEAR
+
+A. OBJETIVO
+1. Establecer los requisitos que debe cumplir una persona para obtener o renovar un Permiso Individual o un Permiso Individual para Registro.
+
+B. ALCANCE
+2. Estos requisitos son aplicables al licenciamiento de personal de instalaciones Clase II y Clase III
+del Ciclo de Combustible Nuclear que, a criterio de la Autoridad Regulatoria, así lo requieran.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Capacitación Básica: Estudios universitarios, terciarios o secundarios según lo establecido en
+la Documentación de Carácter Mandatorio de la instalación.
+4. Documentación de Carácter Mandatorio: Es la documentación así denominada en la Licencia
+de Operación o en el Registro. Está integrada por la documentación producida por la ARN aplicable a la instalación, y por la documentación presentada por el Titular de Licencia o de Registro
+como parte del proceso de licenciamiento.
+5. Función: Conjunto de tareas asignadas a una persona, necesarias para la operación de una
+dada instalación Clase II o Clase III, para cuyo desempeño se requiere Permiso Individual o Permiso Individual para Registro según corresponda.
+6. Instalación Clase II: Instalación o práctica que sólo requiere Licencia de Operación.
+7. Instalación Clase III: Instalación o práctica que sólo requiere Registro.
+8. Instalación Clase II del Ciclo de Combustible Nuclear: Instalación Clase II comprendida en
+una de las siguientes subclases:
+a.
+
+Instalaciones minero fabriles que no incluyen el sitio de disposición final de los residuos
+radiactivos generados en su operación.
+
+b.
+
+Instalaciones nucleares sin potencial de criticidad.
+
+c.
+
+Instalaciones que realizan Investigación y Desarrollo en áreas físico-químicas relacionadas con el ciclo del combustible nuclear, y que a criterio de la Autoridad Regulatoria sólo
+requieren Licencia de Operación.
+
+d.
+
+Toda instalación relacionada con el ciclo del combustible nuclear que, a criterio de la
+Autoridad Regulatoria, sólo requiere Licencia de Operación.
+
+9. Instalación Clase III del Ciclo de Combustible Nuclear: Instalación Clase III comprendida en
+una de las siguientes subclases:
+a.
+
+Uso de fuentes abiertas de muy baja actividad en investigación o en otras aplicaciones,
+relacionadas con el ciclo del combustible nuclear.
+
+1/4
+
+NORMA AR 0.11.4. LICENCIAMIENTO DE PERSONAL DE INSTALACIONES CLASE II y CLASE III
+DEL CICLO DE COMBUSTIBLE NUCLEAR – REVISIÓN 0
+
+b.
+
+Toda instalación relacionada con el ciclo del combustible nuclear que, a criterio de la
+Autoridad Regulatoria, sólo requiere Registro.
+
+10. Instalación minero fabril: Instalación destinada a la extracción y concentración de minerales
+que contienen radionucleidos de la serie del uranio o de la serie del torio, a los efectos de producir
+concentrado de uranio o de torio, y que puede incluir el sitio de disposición final de residuos radiactivos provenientes de esa producción.
+11. Instalación Nuclear: Instalación donde se procesa, manipula, almacena transitoriamente o
+utiliza material fisionable, excluyendo instalaciones minero fabriles.
+12. Licencia de Operación: Documento mediante el cual la Autoridad Regulatoria autoriza, bajo
+ciertas condiciones, la operación de una instalación.
+13. Permiso Individual: Certificado, expedido por la Autoridad Regulatoria, por el que se autoriza
+a una persona a trabajar con fuentes de radiación en una instalación Clase II o en una Práctica no
+Rutinaria.
+14. Permiso Individual para Registro: Certificado, expedido por la Autoridad Regulatoria, por el
+que se autoriza a una persona a trabajar con fuentes de radiación en una instalación Clase III.
+15. Práctica: Toda tarea con fuentes de radiación que produzca un incremento real o potencial de
+la exposición de personas a radiaciones ionizantes, o de la cantidad de personas expuestas.
+16. Práctica no Rutinaria: Práctica que se realiza por única vez, o que no forma parte del proceso
+rutinario de operación de una instalación o que puede llevarse a cabo fuera de una instalación y
+que requiere de una autorización de práctica no rutinaria.
+17. Registro: Documento por medio del cual la Autoridad Regulatoria autoriza, bajo ciertas condiciones, a operar aquellas instalaciones en las que las dosis en los trabajadores y en el público, son
+poco significativas tanto en operación normal como en situaciones accidentales.
+18. Responsable: Persona que asume la responsabilidad directa por la seguridad radiológica de
+una Instalación Clase II o Clase III o de una Práctica no Rutinaria.
+19. Titular de Licencia: Persona física o jurídica a la que la Autoridad Regulatoria ha otorgado
+una o más licencias para una instalación Clase I o Clase II.
+20. Titular de Registro: Persona física o jurídica a la que la Autoridad Regulatoria ha otorgado un
+Registro para una instalación Clase III.
+
+D. REQUISITOS
+21. El Titular de un Permiso Individual o de un Permiso Individual para Registro, está autorizado a
+trabajar sólo en la instalación especificada en tal permiso, la que debe contar con Licencia de Operación o Registro según corresponda; y sólo puede desempeñarse en la Función especificada en
+dicho permiso. La persona que posea más de un permiso para una misma instalación o para instalaciones distintas, no podrá desempeñar simultáneamente la o las correspondientes funciones.
+22. El Permiso Individual y el Permiso Individual para Registro tienen carácter intransferible y son
+de vigencia limitada.
+
+D.1. Solicitud de Permiso Individual o de Permiso Individual para Registro
+23. El solicitante, personal permanente o contratado, debe ser propuesto ante la Autoridad Regulatoria por el Titular de Licencia o de Registro de la instalación que corresponda.
+24. El solicitante debe acreditar que posee la correspondiente Capacitación Básica.
+
+2/4
+
+NORMA AR 0.11.4. LICENCIAMIENTO DE PERSONAL DE INSTALACIONES CLASE II y CLASE III
+DEL CICLO DE COMBUSTIBLE NUCLEAR – REVISIÓN 0
+
+25. El solicitante debe acreditar que posee formación específica mediante la aprobación de un
+curso teórico práctico reconocido por la Autoridad Regulatoria para la práctica indicada.
+26. El curso indicado en el Punto 25 debe poseer un temario de protección radiológica y seguridad
+nuclear con una duración no menor de cuarenta (40) horas de clase. La Autoridad Regulatoria
+puede auditar el dictado del curso y los exámenes correspondientes cada vez que lo considere
+necesario.
+27. La certificación de la aprobación del curso indicado en el Punto 25 puede ser utilizada para la
+tramitación del Permiso Individual o del Permiso Individual para Registro dentro de los tres (3)
+años de emitida. Pasado ese lapso la certificación de la aprobación del curso carece de validez
+para la tramitación correspondiente.
+28. En forma alternativa y en los casos en que el solicitante no pueda acreditar el cumplimiento de
+los requisitos establecidos en los puntos Nº 25 a Nº 27 inclusive, podrá solicitar con carácter de
+excepción un reconocimiento de su formación teórico-práctica. Para que la excepción sea considerada, el solicitante deberá adjuntar a la solicitud la documentación probatoria de su formación específica teórico-práctica y, eventualmente, rendir una evaluación ante la Autoridad Regulatoria.
+
+D.1.1. En los casos que determine la Autoridad Regulatoria, el solicitante de Permiso Individual debe satisfacer los siguientes requisitos adicionales:
+29. El solicitante debe acreditar que posee capacitación y entrenamiento específico de acuerdo a
+las características de la instalación, mediante la aprobación de una evaluación ante una mesa
+examinadora conformada por personal calificado con reconocida trayectoria en la materia. En los
+casos que lo considere conveniente, la Autoridad Regulatoria puede integrar la referida mesa
+examinadora.
+30. El solicitante que no aprobara la evaluación indicada en el Punto 29, sólo podrá rendirla nuevamente una vez que hayan transcurrido treinta (30) días corridos contados a partir de la fecha del
+primer examen. En el caso que nuevamente no aprobara, podrá rendir otro examen luego de
+transcurrido sesenta (60) días corridos como mínimo a partir de la fecha del último examen.
+
+D.2. Validez y renovación del Permiso Individual o del Permiso Individual para Registro
+31. El Permiso Individual y el Permiso Individual para Registro tienen una validez de cinco (5) años
+salvo que la Autoridad Regulatoria especifique un período de validez menor.
+32. La solicitud de renovación de un Permiso Individual o de un Permiso Individual para Registro
+debe ser propuesta ante la Autoridad Regulatoria por el Titular de Licencia o de Registro de la
+instalación que corresponda, con cuarenta (40) días hábiles administrativos de anticipación al vencimiento del permiso.
+33. El solicitante de renovación de un Permiso Individual o de un Permiso Individual para Registro
+debe:
+a. Acreditar que asistió y aprobó un curso de actualización para solicitar renovación de permiso individual, que esté reconocido por la Autoridad Regulatoria para la práctica indicada
+y que posea un temario de protección radiológica y seguridad nuclear con una duración no
+inferior a veinte (20) horas de clase. La Autoridad Regulatoria puede auditar el dictado del
+curso y los exámenes correspondientes cada vez que lo considere necesario.
+La certificación de la aprobación del curso puede ser utilizada para la mencionada acreditación dentro de los tres (3) años de emitida. Pasado ese lapso la citada certificación carece de validez para la tramitación de la renovación correspondiente.
+
+3/4
+
+NORMA AR 0.11.4. LICENCIAMIENTO DE PERSONAL DE INSTALACIONES CLASE II y CLASE III
+DEL CICLO DE COMBUSTIBLE NUCLEAR – REVISIÓN 0
+
+b.
+
+Presentar un certificado del Titular de Licencia o de Registro que corresponda, que
+acredite que durante el período de validez del permiso individual su Titular tuvo un efectivo y correcto desempeño en la Función.
+
+E. MODIFICACIÓN, SUSPENSIÓN O REVOCACIÓN DE UN PERMISO INDIVIDUAL O DE
+UN PERMISO INDIVIDUAL PARA REGISTRO
+34. El Permiso Individual o el Permiso Individual para Registro podrá ser modificado, suspendido o
+revocado por la Autoridad Regulatoria si se advirtiera:
+a. Violación u omisión del cumplimiento de normas regulatorias o requerimientos o de la Licencia de Operación o Registro de la instalación, por parte del Titular de dicho permiso.
+b. Cualquier comportamiento del Titular del permiso que pueda afectar la operación segura
+de la instalación.
+c. Que el Titular del permiso no ha ejercido la Función durante el período de validez del permiso.
+d. Falsedad u omisión en los datos declarados en la solicitud de permiso.
+
+F. RESPONSABILIDADES
+35. El Titular de un Permiso Individual o de un Permiso Individual para Registro debe:
+a. Cumplir con la normativa aplicable de la Autoridad Regulatoria, con los términos establecidos en la Licencia de Operación o Registro de la instalación que corresponda, y con los
+demás requerimientos establecidos por la Autoridad Regulatoria que sean de aplicación a
+la instalación.
+b. Cumplir con los procedimientos establecidos para asegurar su propia protección, la de los
+demás trabajadores y la del público.
+c. Colaborar en el proceso de educación y formación del personal.
+d. Suministrar toda la información sobre temas sujetos a regulación que le sea solicitada por
+personal de la Autoridad Regulatoria.
+e. Comunicar a la ARN en forma inmediata, la ocurrencia de sucesos que afecten o puedan
+afectar, la protección radiológica de las personas y la seguridad de la instalación o práctica
+no rutinaria.
+f.
+
+Mantener actualizados sus datos personales ante la Autoridad Regulatoria.
+
+g. En el caso de ser Responsable, además de cumplir con los restantes requerimientos de
+este Punto, debe informar por escrito a la Autoridad Regulatoria dentro de las veinticuatro
+(24) horas de producida su renuncia o cualquier ausencia temporaria prolongada que le
+imposibilite el ejercicio de tal responsabilidad.
+
+4/4
+
+

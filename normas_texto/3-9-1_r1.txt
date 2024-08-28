@@ -1,0 +1,158 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 3.9.1.
+
+REVISIÓN 1
+
+Criterios generales
+de seguridad para la
+operación de reactores
+nucleares de potencia
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 41/01 (Boletín Oficial 8/2/02)
+
+República Argentina – Reimpresión 2007
+
+NORMA AR 3.9.1
+
+CRITERIOS GENERALES DE SEGURIDAD
+PARA LA OPERACIÓN DE
+REACTORES NUCLEARES DE POTENCIA
+
+A. OBJETIVO
+1. Establecer criterios de seguridad radiológica para la operación.
+
+B. ALCANCE
+2. Esta norma es aplicable a la operación de reactores nucleares de potencia .
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Responsable Primario: Persona que asume la responsabilidad directa por la seguridad
+radiológica de una Instalación Clase I.
+4. Entidad Responsable: Titular de las licencias de una Instalación Clase I.
+5. Licencia: Documento por medio del cual la Autoridad Regulatoria autoriza, bajo ciertas condiciones, la operación de una instalación o la ejecución de una dada etapa de la vida de dicha
+instalación. Estas etapas pueden ser la construcción, puesta en marcha, retiro de servicio o
+cualquier otra que la Autoridad Regulatoria juzgue necesario licenciar.
+
+D. CRITERIOS
+6. La Entidad Responsable solo podrá operar el reactor nuclear de potencia si cuenta previamente con:
+a. Licencia de operación otorgada por la Autoridad Regulatoria.
+b. El personal de la instalación que ocupa funciones especificadas en el organigrama de
+operación, licenciado y autorizado por la Autoridad Regulatoria.
+7. El Responsable Primario tiene la responsabilidad directa por la seguridad radiológica y nuclear de la instalación debiendo hacer todo lo razonable y compatible con sus posibilidades en
+favor de la seguridad durante la operación del reactor nuclear de potencia, cumpliendo como
+mínimo las normas y requerimientos de la Autoridad Regulatoria.
+8. El Responsable Primario debe estar asesorado por un Comité Interno Asesor de Seguridad
+(CIAS) en los aspectos relacionados con la seguridad radiológica y nuclear. Los miembros del
+CIAS serán designados por el Responsable Primario; el 60 % de dichos miembros debe perte-
+
+1/4
+
+NORMA AR 3.9.1 CRITERIOS GENERALES DE SEGURIDAD PARA LA OPERACIÓN
+DE REACTORES NUCLEARES DE POTENCIA – REVISIÓN 1
+
+necer al plantel de la instalación y el resto a otros sectores de la Entidad Responsable, o ser
+expertos independientes.
+9. La Entidad Responsable debe contar con una estructura orgánica adecuada y disponer de
+los recursos necesarios para efectuar una supervisión que garantice que la instalación opera
+en condiciones de seguridad y prestar todo el apoyo que necesite el Responsable Primario
+para cumplir con sus responsabilidades.
+10. La Entidad Responsable debe estar asesorada por un Comité de Revisión Técnica (CRT),
+independiente de la instalación, constituido por profesionales con amplia experiencia en la operación de reactores nucleares de potencia. Este comité se reunirá como mínimo mensualmente
+a fin de revisar el desarrollo de la operación del reactor, analizar la importancia de los incidentes operacionales previstos y eventos relevantes ocurridos y evaluar las propuestas de modificaciones al diseño, que pudiesen afectar los sistemas relacionados con la seguridad.
+11. La Entidad Responsable debe efectuar una realimentación de la experiencia operativa,
+promoviendo las investigaciones que sean necesarias y proponiendo modificaciones a los
+componentes, sistemas o procedimientos que introduzcan mejoras a la seguridad de la instalación.
+12. La Entidad Responsable debe mantener una comunicación apropiada con las entidades
+encargadas del diseño, la construcción y la puesta en marcha, y con otras entidades operadoras de reactores nucleares de potencia semejantes para asegurar el intercambio adecuado de
+información y experiencia.
+13. La Entidad Responsable debe establecer un programa para el reentrenamiento del personal que ocupa las posiciones licenciables del organigrama de operación.
+14. La Entidad Responsable debe establecer un programa de garantía de calidad en operación
+a satisfacción de la Autoridad Regulatoria.
+15. El reactor nuclear de potencia debe ser operado dentro de los límites y condiciones de operación establecidos en la documentación mandatoria que se indica en la Licencia de operación.
+16. Los valores límites de las variables asociadas a la actuación de los sistemas de seguridad
+deben mantenerse en el rango que asegure el cumplimiento de los postulados enunciados en
+la documentación mandatoria.
+17. Después de producida una salida de servicio imprevista del reactor, se deben evaluar las
+causas del evento y, de ser necesario, tomar las acciones correctivas correspondientes para
+asegurar el rearranque del reactor en condiciones seguras. En caso de que el evento haya
+implicado un apartamiento de los límites y condiciones de operación establecidos, las causas
+deben ser debidamente investigadas. En todos los casos debe darse intervención al Comité
+Interno Asesor de Seguridad.
+18. Toda modificación importante propuesta para un sistema, componente o procedimiento
+debe ser evaluada y conformada por el Comité Interno Asesor de Seguridad y, cuando sea
+necesario y posible, se debe requerir la opinión del diseñador. Si dicha modificación pudiera
+tener influencia significativa en la seguridad del reactor, en la protección radiológica o implicase
+un apartamiento de los límites y condiciones de operación establecidos en la documentación
+mandatoria, además debe ser evaluada por el Comité de Revisión Técnica y previamente autorizada por la Autoridad Regulatoria.
+19. El reactor nuclear de potencia debe contar permanentemente con una reserva para almacenar elementos combustibles irradiados, equivalente como mínimo al número de elementos
+combustibles contenidos en el núcleo del reactor.
+20. Debe efectuarse periódicamente en la instalación un ejercicio de aplicación del plan de
+emergencia, debiendo convenirse con antelación con la Autoridad Regulatoria el cronograma y
+contenido del ejercicio.
+
+2/4
+
+NORMA AR 3.9.1 CRITERIOS GENERALES DE SEGURIDAD PARA LA OPERACIÓN
+DE REACTORES NUCLEARES DE POTENCIA – REVISIÓN 1
+
+21. Todas las tareas de mantenimiento, ensayo o inspección que impliquen alguna modificación transitoria de los límites y condiciones de operación, deben ser verificadas por personal
+calificado independiente del que realizó la tarea.
+22. De acuerdo a lo establecido en el organigrama de operación, se deben mantener adecuadamente cubiertos los puestos de trabajo allí establecidos.
+23. El plantel mínimo de operación debe contemplar la cantidad necesaria de personal autorizado de manera de cubrir los turnos de operación, los reemplazos, la permanencia como mínimo de dos operadores en la sala de control y asegurar que cada operador no exceda de un
+turno diario de labor, admitiéndose, en circunstancias debidamente justificadas, la extensión a
+dos (2) turnos como máximo.
+24. Toda la documentación presentada por la Entidad Responsable para la obtención de la
+licencia de operación, a la que la Autoridad Regulatoria otorgue carácter mandatorio, debe
+estar permanentemente actualizada.
+25. El informe final de seguridad debe ser actualizado cada vez que haya modificaciones al
+diseño de la instalación o a los límites y condiciones de operación y revisado al menos una vez
+cada cinco (5) años.
+26. Debe existir un sistema de conservación y archivo de los registros de manera que puedan
+ser adecuadamente recuperados.
+27. Durante la vida útil de la instalación debe mantenerse un conjunto completo y actualizado
+de planos y descripciones de la instalación, del reactor, de sus correspondientes equipos auxiliares y de todos los dispositivos relacionados con la seguridad.
+28. Durante la vida útil de la instalación deben conservarse los registros históricos de componentes y equipos de sistemas importantes para la seguridad.
+29. Deben conservarse los protocolos y registros de operación y los resultados del programa
+de inspección en servicio y de pruebas repetitivas durante la vida útil de la instalación o por los
+plazos que específicamente se indiquen en la licencia de operación.
+30. Deben conservarse durante la vida útil de la instalación las actas de las reuniones del Comité Interno Asesor de Seguridad y del Comité de Revisión Técnica.
+31. Debe registrarse toda modificación de un sistema, componente o procedimiento que tenga
+influencia en la seguridad de la instalación o en la protección radiológica de su personal o del
+público.
+32. Deben registrarse todos los incidentes operacionales que ocurran en la instalación. En
+caso que alguno de estos incidentes sea relevante debe, además, efectuarse la comunicación
+correspondiente a la Autoridad Regulatoria.
+33. Deben conservarse durante la vida útil de la instalación los registros de la actividad y forma
+de descarga de efluentes radiactivos al ambiente.
+34. Deben registrarse mensualmente las dosis ocupacionales debidas a:
+a. La exposición externa.
+b. La incorporación de material radiactivo en ese período.
+
+3/4
+
+NORMA AR 3.9.1 CRITERIOS GENERALES DE SEGURIDAD PARA LA OPERACIÓN
+DE REACTORES NUCLEARES DE POTENCIA – REVISIÓN 1
+
+Estos registros se deben confeccionar de manera tal que la instalación pueda informar:
+a. Las dosis individuales.
+b. Las dosis colectivas resultantes del desarrollo de las distintas tareas de operación,
+mantenimiento y reparación.
+Estos registros deben conservarse durante treinta años contados a partir de la finalización de la
+prestación de servicios del personal involucrado.
+35. Deben registrarse los niveles de radiación y las concentraciones de radionucleidos en aire y
+en superficie de las áreas de trabajo.
+36. Debe registrarse toda reparación o cambio de componentes de sistemas que contengan
+material radiactivo.
+37. Deben conservarse durante la vida útil de la instalación las revisiones fuera de vigencia de
+planos y procedimientos de operación y mantenimiento.
+38. Debe conservarse durante la vida útil de la instalación toda la documentación de montaje y
+puesta en marcha.
+39. Deben conservarse durante la vida útil de la instalación los registros del control de calidad.
+
+4/4
+
+

@@ -1,0 +1,96 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 6.1.1.
+
+REVISIÓN 1
+
+Exposición ocupacional
+de instalaciones
+radiactivas Clase I
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 36/01 (Boletín Oficial 15/1/02)
+
+República Argentina – 2002
+
+NORMA AR 6.1.1.
+
+EXPOSICIÓN OCUPACIONAL
+EN INSTALACIONES RADIACTIVAS CLASE I
+
+A. OBJETIVO
+1. Establecer los criterios de protección radiológica ocupacional que se deben tener en cuenta
+en el diseño.
+
+B. ALCANCE
+2. Esta norma es aplicable a las características de diseño de las instalaciones radiactivas Clase
+I, relacionadas con la exposición de los trabajadores.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Área Controlada: Lugar de trabajo donde se requiere, en condiciones normales de operación, que los trabajadores apliquen procedimientos preestablecidos para controlar la exposición
+a la radiación o para prevenir la dispersión de la contaminación radiactiva, y en la que se requieren medidas específicas para prevenir exposiciones potenciales.
+4. Concentración Derivada en Aire (DAC): Para un dado radionucleido, es el cociente entre
+el valor del límite anual de incorporación de ese radionucleido y 2500 m3 de aire.
+5. Dosis: Medida de la radiación recibida o absorbida por un órgano o cuerpo. Se utilizan, según el contexto, las magnitudes denominadas dosis efectiva, dosis equivalente, dosis colectiva
+y dosis efectiva comprometida. Los términos calificativos se suelen omitir cuando no son necesarios para precisar la magnitud de interés.
+6. Dosis Equivalente Ambiental, H*(d): Dosis equivalente en la esfera ICRU1 -a la profundidad d- cuando se encuentra en un campo de radiación alineado y expandido, en el radio
+opuesto al sentido del campo alineado. Cuando la radiación es penetrante, se adopta d = 10
+milímetros.
+7. Factor de Ocupación: Fracción del año laboral (2000 horas) en la que una persona ocupa
+un determinado local.
+8. Instalación Clase I: Instalación o práctica que requiere un proceso de licenciamiento de
+más de una etapa.
+9. Instalación Radiactiva: Instalación donde se procesa, manipula, almacena transitoriamente
+o utiliza material radiactivo no fisionable.
+
+1
+
+International Commission on Radiation Units and Measurements. ICRU Report 51.
+
+1/2
+
+NORMA AR 6.1.1.
+EXPOSICIÓN OCUPACIONAL EN INSTALACIONES RADIACTIVAS CLASE I
+
+10. Optimización: Procedimiento para reducir tanto como sea razonablemente alcanzable,
+teniendo en cuenta factores sociales y económicos, la dosis colectiva originada en una Instalación o en una práctica.
+
+D. CRITERIOS
+11. Las dosis anuales que reciban los trabajadores expuestos deben ser inferiores a las restricciones de dosis establecidas, y los sistemas de protección deben estar optimizados. Para
+verificar el cumplimiento de este criterio, se podrá tener en cuenta el factor de ocupación previsto para los distintos locales; en cambio no podrá tenerse en cuenta un eventual reemplazo
+de trabajadores.
+12. La protección debe implementarse mediante sistemas propios de la instalación radiactiva,
+en lugar de hacerlo por medios operativos.
+13. La tasa de dosis equivalente ambiental en áreas sin ningún condicionamiento de acceso o
+permanencia no debe exceder de 1 µSv/h.
+14. El acceso a áreas donde la tasa de dosis equivalente ambiental exceda de 200 µSv/h debe
+estar prevenido mediante alguna barrera física apropiada.
+15. En locales sin restricción de acceso, la concentración de radionucleidos en aire no excederá 1/100 DAC.
+16. Ningún trabajador debe estar expuesto a concentraciones de radionucleidos en aire superiores a 1/10 DAC. Deben preverse medios de protección adecuados para las áreas donde
+estos niveles de contaminación radiactiva puedan ocurrir.
+17. El acceso a los locales donde la concentración de radionucleidos en aire exceda 1 DAC
+debe estar prevenido por una barrera física apropiada.
+18. Se debe prever una adecuada distribución de áreas y suficientes blindajes, contención y
+sistemas de ventilación y purificación del aire para cumplir con los criterios 11 a 17.
+19. Cuando la posición o el estado de una o más fuentes radiactivas sea variable y la seguridad dependa de una adecuada prevención de acceso, se deben prever adecuados sistemas
+de monitoreo con sus correspondientes alarmas. Si en estos casos son posibles tasas de dosis
+equivalente ambiental superiores a 20 mSv/h en un área dada, se deben prever enclavamientos
+entre las barreras de acceso a esa área y los sistemas que lleven las fuentes radiactivas a posición segura blindada. Si la tasa de dosis equivalente ambiental puede exceder de 400 mSv/h,
+dichos sistemas deberán poder activarse mediante accionamientos de emergencia en el área.
+20. La confiabilidad de la instrumentación de monitoreo y alarma y de los enclavamientos debe
+ser adecuada para los riesgos involucrados y la tasa de fallas en ningún caso será superior a
+10-2 por demanda.
+21. Se deben prever medios adecuados para probar y calibrar la instrumentación relacionada
+con la seguridad.
+22. Los sistemas de manipulación y visión a distancia, así como los sistemas de transferencia y
+transporte interno de los materiales radiactivos, cuando sean necesarios para la operación
+segura de la instalación radiactiva, deben estar previstos en el diseño.
+23. Se debe permitir el adecuado mantenimiento y las reparaciones de la instalación radiactiva sin
+que el personal esté expuesto a tasas de dosis equivalente ambiental superiores a 200 µSv/h.
+
+2/2
+
+

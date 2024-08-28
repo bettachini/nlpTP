@@ -1,0 +1,518 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 10.14.1.
+
+REVISIÓN 0
+
+Garantías de no desviación
+de materiales nucleares y
+de materiales, instalaciones
+y equipos de interés nuclear
+
+Aprobada por Resolución ENREN Nº 60/95 (Boletín Oficial 8/6/95)
+El ENREN es el organismo antecesor de La AUTORIDAD REGULATORIA
+NUCLEAR, según Ley Nº 24.804 promulgada en 25 de abril de 1997.
+
+República Argentina – Reimpresión 2007
+
+1/3
+
+NORMA AR 10.14.1.
+
+GARANTÍAS DE NO DESVIACIÓN
+DE MATERIALES NUCLEARES Y DE MATERIALES,
+INSTALACIONES Y EQUIPOS DE INTERÉS NUCLEAR
+SECCIÓN 1
+A. OBJETIVO
+Garantizar que los materiales nucleares, y los materiales, instalaciones y equipos de interés nuclear especificados por la Autoridad, que se encuentran bajo jurisdicción de la República Argentina
+no sean desviados a un uso no autorizado por la Autoridad.
+
+SECCIÓN 2
+B. ALCANCE
+1. Esta norma se aplica a:
+a. Aquellos materiales, instalaciones y equipos de interés nuclear que estipule la Autoridad.
+b. Los materiales nucleares a partir de la:
+1.1. Producción de cualquier material nuclear de composición y pureza adecuadas para su uso
+directo en la fabricación de combustible nuclear o para su enriquecimiento isotópico, incluidas
+las generaciones subsecuentes de material nuclear producidas a partir de tales materiales.
+1.2. Importación de cualquier material nuclear que reúna las mismas características establecidas
+en el punto 1.1. u otros materiales nucleares producidos en una fase posterior del ciclo de
+combustible nuclear.
+2. Los materiales, instalaciones y equipos de interés nuclear dejarán de estar sometidos a las
+condiciones estipuladas en esta norma cuando:
+a. Sean trasladados, previa autorización de la Autoridad, fuera de la jurisdicción de la República Argentina.
+b. Se los afecte a una actividad no nuclear y la Autoridad así lo autorice.
+c.
+
+La Autoridad acepte que ya no pueden ser utilizados en ninguna actividad nuclear relevante.
+
+3. A solicitud de la Entidad Responsable, la Autoridad podrá eximir de la aplicación de las condiciones impuestas por esta norma a materiales nucleares, en las siguientes condiciones:
+3.1. Se los afecte a una actividad no nuclear y la Autoridad así lo decida.
+3.2. Si el total de las cantidades de materiales nucleares exentas de conformidad con este párrafo, no exceden en ningún momento las cantidades descriptas a continuación:
+a. 1 kg, en total, de materiales fisionables especiales, que podrán ser uno o más de los que
+se enumeran a continuación:
+I.
+
+Plutonio.
+
+II. Uranio con un enriquecimiento inferior a 0,2 (20%) y superior al del uranio natural, la
+cantidad correspondiente se obtendrá multiplicando su masa por el quíntuplo del cuadrado de su enriquecimiento.
+
+1/13
+
+NORMA AR 10.14.1. GARANTÍAS DE NO DESVIACIÓN DE MATERIALES NUCLEARES Y DE MATERIALES,
+INSTALACIONES Y EQUIPOS DE INTERÉS NUCLEAR – REVISIÓN 0
+
+III. Uranio con un enriquecimiento de 0,2 (20%) como mínimo; la cantidad correspondiente se obtendrá multiplicando su masa por su enriquecimiento.
+b. 10000 kg de uranio natural o uranio empobrecido con un enriquecimiento superior a 0,005.
+c.
+
+20000 kg de torio.
+
+d. El plutonio cuando su concentración isotópica de plutonio-238 sea mayor que el 80%.
+3.3.
+
+En el caso de que los materiales nucleares exentos vayan a ser tratados, utilizados o almacenados junto con materiales nucleares no exentos caducará la exención de los primeros.
+
+3.4.
+
+Los términos utilizados en esta norma se encuentran definidos en el Anexo ll.
+
+SECCIÓN 3
+C. REQUERIMIENTOS GENERALES
+1. No se podrá recibir, utilizar, procesar, producir, almacenar, transferir o poseer, según se aplique, materiales nucleares, o materiales, instalaciones, o equipos de interés nuclear sin la debida
+Licencia o Autorización otorgada por la Autoridad en el contexto de la presente norma.
+2. La Entidad Responsable solicitante de la Licencia o Autorización a que se refiere el punto 1
+precedente deberá suministrar a la Autoridad, como mínimo, la siguiente información:
+a. Las características generales de la instalación u otro lugar, su propósito y capacidad nominal.
+b. Una descripción de la forma y el diagrama de flujo del material nuclear, y del material de
+interés nuclear si correspondiere, así como la disposición de los principales equipos que
+utilicen, produzcan o traten material nuclear.
+c.
+
+Una descripción de las características de la instalación u otro lugar atinentes a la contabilidad del material nuclear y a las medidas de contención y vigilancia, si las hubiese.
+
+d. Los procedimientos que se propone adoptar en la instalación u otro lugar para la contabilidad y control de los materiales nucleares y materiales o equipos de interés nuclear, con
+especial atención a las áreas de balance de material, mediciones de flujo y toma de inventario físico.
+3. Además, la Entidad Responsable solicitante de la licencia deberá suministrar a la Autoridad
+toda otra información que ésta requiera.
+4. La Entidad Responsable designará para las instalaciones u otros lugares un Responsable Primario quien será el responsable directo por el cumplimiento de lo estipulado en la presente norma
+y en la Licencia o Autorización correspondiente y de las normas y requerimientos que pueda dictar
+la Autoridad en el futuro.
+5. El cumplimento de esta norma y de lo estipulado en la Licencia o Autorización, no exime a la
+Entidad Responsable de realizar todo lo razonable y compatible con sus posibilidades para dar
+cuenta en cualquier momento de los materiales nucleares o materiales o equipos de interés nuclear bajo su responsabilidad.
+6. La Entidad Responsable podrá delegar total o parcialmente la ejecución de las tareas necesarias
+para el objetivo de esta norma, pero manteniendo en su totalidad la responsabilidad correspondiente.
+7. Todo cambio en la organización de la Entidad Responsable que pudiera afectar su capacidad
+para afrontar las responsabilidades establecidas en estas normas requerirá para que la vigencia
+de las Licencias o Autorizaciones no se vea afectada, una aprobación formal de la Autoridad.
+
+2/13
+
+NORMA AR 10.14.1. GARANTÍAS DE NO DESVIACIÓN DE MATERIALES NUCLEARES Y DE MATERIALES,
+INSTALACIONES Y EQUIPOS DE INTERÉS NUCLEAR – REVISIÓN 0
+
+8. La intención de introducir cambios significativos que afecten la información de base sobre la
+cual fue otorgada la Licencia o Autorización, deberá ser notificada con suficiente antelación a la
+Autoridad a fin de que ésta pueda examinar los mencionados cambios antes de que sean introducidos. Las informaciones consideradas “significativas", serán las especificadas en la respectiva
+Licencia o Autorización.
+9. Las actividades licenciadas o autorizadas en virtud de esta norma deberán llevarse a cabo dentro de las condiciones estipuladas por el SISTEMA NACIONAL DE CONTABILIDAD Y CONTROL
+(SNCC), que se describe en el ANEXO I a esta norma.
+
+3/13
+
+NORMA AR 10.14.1. GARANTÍAS DE NO DESVIACIÓN DE MATERIALES NUCLEARES Y DE MATERIALES,
+INSTALACIONES Y EQUIPOS DE INTERÉS NUCLEAR – REVISIÓN 0
+
+4/13
+
+NORMA AR 10.14.1. GARANTÍAS DE NO DESVIACIÓN DE MATERIALES NUCLEARES Y DE MATERIALES,
+INSTALACIONES Y EQUIPOS DE INTERÉS NUCLEAR – REVISIÓN 0
+
+ANEXO I de la NORMA AR 10.14.1.
+
+SISTEMA NACIONAL DE CONTABILIDAD
+Y CONTROL (SNCC)
+
+1. El SNCC referido en el punto 9 de la sección 3 de la presente norma se compone de:
+2. Registros
+Las Instalaciones y otros lugares deberán mantener para cada área de balance de material, registros contables y operativos que cumplan con las siguientes condiciones:
+2.1.
+
+Registros Contables
+a. Los Registros Contables reflejarán con respecto a cada área de balance de material:
+I.
+
+Todos los cambios en el inventario de material nuclear o material de interés nuclear, de
+manera que sea posible determinar el inventario contable en todo momento.
+
+II. Todos los resultados de las mediciones que se realicen para determinar el inventario
+físico.
+III: Todos los ajustes y correcciones que se hayan efectuado respecto de los cambios en
+el inventario, los inventarios contables y los inventarios físicos.
+b. Los Registros Contables contendrán con respecto a cada lote de material nuclear o material de interés nuclear y para todos los cambios de inventario e inventarios físicos, la identificación del material nuclear o material de interés nuclear, los datos del lote y los datos
+de origen.
+c.
+
+Los registros contables contendrán como mínimo las informaciones necesarias para confeccionar los informes ordinarios previstos en el punto 5.1. del presente Anexo I.
+
+d. Los Registros Contables con respecto a cada lote se llevarán por separado para cada categoría de material nuclear y para cada material de interés nuclear.
+e. Las instalaciones u otros lugares que contengan equipos de interés nuclear deberán llevar
+un inventario de los mismos.
+f.
+
+2.2.
+
+Las instalaciones u otros lugares que contengan materiales de interés nuclear deberán
+llevar registros contables por origen del material.
+Registros Operativos
+
+Los Registros Operativos establecerán, según proceda, con respecto a cada área de balance de
+material:
+a. Los datos de operación que se utilicen para determinar los cambios en las cantidades y
+composición de los materiales nucleares.
+b. Los datos obtenidos de la calibración de los recipientes e instrumentos y en el muestreo y
+análisis, los procedimientos para controlar la calidad de las mediciones y las estimaciones
+de los errores aleatorios y sistemáticos.
+c.
+
+Una descripción de las medidas adoptadas para averiguar la causa y la magnitud de cualquier pérdida accidental o no medida que pudiera existir.
+
+5/13
+
+NORMA AR 10.14.1. GARANTÍAS DE NO DESVIACIÓN DE MATERIALES NUCLEARES Y DE MATERIALES,
+INSTALACIONES Y EQUIPOS DE INTERÉS NUCLEAR – REVISIÓN 0
+
+d. Una descripción de la secuencia de actividades realizadas para la preparación y realización de los inventarios físicos. Esta descripción deberá contener los procedimientos para
+la determinación y evaluación del material no contabilizado.
+3. Inventario Físico
+3.1.
+
+Las Instalaciones y los otros lugares deberán realizar Inventarios Físicos con la frecuencia
+apropiada a fin de establecer y declarar el material no contabilizado. La frecuencia y los
+procedimientos para la realización del Inventario Físico serán determinados en las correspondientes Licencias o Autorizaciones. El material no contabilizado será determinado según
+la siguiente expresión:
+MNC = Fj + E - S - Ff
+donde:
+Fj : Inventario Físico Inicial para el período "J".
+E:
+
+Es la suma de los cambios de inventario que representen entradas en el inventario para el período "J" importaciones, entradas de otras Areas de Balance de Material, producción nuclear, etc.).
+
+S:
+
+Es la suma de los cambios de inventario que representen salidas del inventario del área
+de balance de material para el período "J" (exportaciones, salidas hacia otras Areas de
+Balance de Material descartados medidos, pérdidas nucleares, exención, pérdidas accidentales, correcciones a salidas, etc.).
+
+Ff: Es el Inventario Físico Final para el área de balance de material para el período "J",
+que será el valor "Fj" para el período "J + 1".
+3.2.
+
+Cada vez que se realice un inventario físico se deberán confeccionar las Listas de Inventario Físico e Informes de Balance de Material que como mínimo, deberán contener la información a que se refieren los puntos 5.1. b) y c) de la presente Sección.
+
+4. Sistema de Mediciones
+Las instalaciones y otros lugares deberán disponer de un sistema adecuado de mediciones que
+les permita determinar, con las incertidumbres que correspondan según el caso, el inventario de
+material nuclear y sus variaciones para cada área de balance de material incluido un programa de
+control de calidad de las mediciones.
+La información referida en el punto 2 de la sección 3 deberá detallar el sistema de medición de las
+instalaciones y otros lugares, contemplando para cada área de balance de material una descripción de los instrumentos, técnicas y puntos de medición utilizados para determinar el inventario de
+material nuclear y sus variaciones, los errores sistemáticos y aleatorios asociados al sistema, la
+base de calculo utilizada en el caso de valores estimados y una descripción del programa de control del sistema de medición (por ejemplo: frecuencia de calibración de los instrumentos de medición, patrones utilizados, etc.). Cualquier modificación del sistema de mediciones o de su
+comportamiento deberá será notificado a la Autoridad a fin de permitirle el seguimiento y evaluación del inventario y sus variaciones, incluidas las diferencias remitente-destinatario (DRD) y el
+material no contabilizado (MNC).
+Los requisitos específicos del sistema de medición, de la base de cálculo y los límites de las diferencias remitente-destinatario y material no contabilizado, como así también las incertidumbres
+asociadas a ellos serán establecidos en la respectiva Licencia o Autorización, para cada área de
+balance de material.
+
+6/13
+
+NORMA AR 10.14.1. GARANTÍAS DE NO DESVIACIÓN DE MATERIALES NUCLEARES Y DE MATERIALES,
+INSTALACIONES Y EQUIPOS DE INTERÉS NUCLEAR – REVISIÓN 0
+
+5. Informes
+5.1. Informes Ordinarios:
+Los Responsables Primarios por las instalaciones y otros lugares deberán preparar y enviar a la
+Autoridad, para cada área de balance de material:
+a. Informes de Cambios de Inventario: Estos informes indicarán todos los cambios de inventario de cada área de balance de material y especificarán como mínimo para cada lote,
+la identificación de los materiales y los datos del lote, la fecha del cambio de inventario y,
+cuando corresponda, las áreas de balance de material de origen y destino o el destinatario. En estos informes también se indicará cualquier ajuste o corrección a los cambios de
+inventario. A estos informes se deberán adjuntar notas concisas que expliquen en detalle los
+cambios en el inventario basados en los registros operativos y describan, además y según
+lo especifique la Autoridad en la respectiva licencia, los datos operativos de las instalaciones y otros lugares.
+b. Informes de Balance de Material: Estos informes indicarán el balance de material nuclear por categoría, basado en un inventario físico de todos los materiales nucleares presentes en cada área de balance de material a un momento dado. Estos informes incluirán,
+como mínimo, los siguientes datos:
+
+c.
+
+−
+
+Inventario físico inicial.
+
+−
+
+Los cambios de inventario en el período considerado (asentando primero los aumentos y luego las disminuciones).
+
+−
+
+Inventario contable final.
+
+−
+
+Las Diferencias Remitente-Destinatario.
+
+−
+
+Inventario Contable Final Ajustado.
+
+−
+
+Inventario Físico Final.
+
+−
+
+Material no Contabilizado.
+
+Listas de Inventario Físico: Estas listas deberán ser confeccionadas y remitidas a la respectiva Autoridad, junto con el Informe de Balance de Material, y deberán contener, como mínimo y por separado para cada lote, la identificación de los materiales y los datos del lote.
+
+Estos informes serán remitidos a la Autoridad con el formato modalidad, frecuencia y en los plazos
+que ella establezca en la respectiva licencia.
+5.2. Informes Especiales
+Los Responsables Primarios por cada instalación u otro lugar deberán enviar a la Autoridad, por la
+vía más expeditiva posible, un informe especial.
+a. Si ocurre un incidente o circunstancia excepcional que dé o pueda dar lugar a una pérdida
+de material nuclear en un área de balance de material.
+b. Si la contención experimenta inesperadamente variaciones respecto de la especificada en
+la licencia.
+c.
+
+Si durante una transferencia de material nuclear entre áreas de balance de material ocurre
+un incidente o circunstancia que dio lugar o pudo dar lugar a una pérdida de material nuclear, así como cualquier demora significativa durante los traslados.
+
+d. Si otra circunstancia requiere la emisión de informes especiales como sea establecido en
+la respectiva licencia, o cuando tales informes sean solicitados por la Autoridad.
+El informe deberá contener una explicación detallada de las circunstancias en que se produjo o
+detectó la pérdida y la cantidad de material nuclear involucrado.
+
+7/13
+
+NORMA AR 10.14.1. GARANTÍAS DE NO DESVIACIÓN DE MATERIALES NUCLEARES Y DE MATERIALES,
+INSTALACIONES Y EQUIPOS DE INTERÉS NUCLEAR – REVISIÓN 0
+
+6. Notificaciones
+6.1. La Entidad Responsable deberá notificar a la Autoridad, con treinta días de antelación como
+mínimo, la intención de trasladar materiales nucleares desde un área de balance de material a un
+destinatario fuera de la jurisdicción del Gobierno Nacional. Además, cuando se vayan a realizar a
+un mismo Estado destinatario, varios envíos que en un período de tres meses superen la masa
+efectiva de un kilogramo, deberán enviar una notificación con una antelación mínima de treinta
+días antes de la fecha prevista para el primer envío. Las notificaciones contendrán, como mínimo,
+la siguiente información:
+a. La identificación, cantidad y composición del material nuclear objeto del traslado y el área
+de balance de material en que se encuentra dicho material.
+b. Las fechas y lugares en que los materiales nucleares estarán preparados para su transporte.
+c.
+
+El Estado de destino, y la instalación u otro lugar de destino cuando se trate de transferencias a la REPÚBLICA FEDERATlVA DEL BRASIL.
+
+d. Las fechas aproximadas de envío y llegada de los materiales nucleares.
+La antelación y contenido de la notificación deberá permitir a la Autoridad efectuar una inspección
+a fin de identificar y verificar la cantidad y composición del material nuclear, y si ella lo considerara
+necesario, aplicar precintos una vez que el material nuclear esté listo para su transporte.
+Los materiales nucleares no podrán ser trasladados fuera de la jurisdicción del Gobierno Nacional
+hasta tanto la Autoridad lo haya autorizado excepto que se trate de transferencias a la
+REPÚBLICA FEDERATIVA DEL BRASIL en cuyo caso no será necesaria tal autorización siempre
+que la instalación u otro lugar de destino cuente con la correspondiente licencia.
+6.2. Los Responsables Primarios deberán notificar a la Autoridad, con treinta días de antelación
+como mínimo la intención de recibir materiales nucleares en un área de balance de material provenientes de un remitente fuera de la jurisdicción del Gobierno Nacional. Además, cuando se vayan a recibir de un mismo Estado remitente varios envíos que en un período de tres meses
+excedan la masa efectiva de un kilogramo, los Responsables Primarios deberán enviar una notificación con una antelación mínima de treinta días antes de la fecha prevista para la recepción del
+primer envío. Las notificaciones contendrán, como mínimo, la siguiente información:
+a. La identificación, cantidad y composición del material nuclear objeto del traslado.
+b. La fecha prevista de llegada y el lugar y fecha en los que se tiene previsto recepciones de
+los materiales nucleares.
+c.
+
+El Estado de origen.
+
+d. El área de balance de material al que ingresará el material nuclear transferido.
+La antelación y contenido de la notificación deberá permitir a la Autoridad efectuar una inspección
+a fin de identificar y verificar la cantidad y composición del material nuclear una vez que haya sido
+desembalado. El material nuclear no podrá ser recibido en ningún área de balance de material de
+una instalación u otro lugar, sin que previamente se haya cumplido con la notificación mencionada
+en este punto.
+6.3. Los Responsables Primarios deberán notificar a la respectiva Autoridad, con treinta días de
+antelación como mínimo, la intención de trasladar materiales nucleares entre distintas áreas de
+balance de material dentro de la jurisdicción del Gobierno Nacional cuando se trate de transferencias que superen la masa efectiva de un kilogramo y no hayan sido previstas en las respectivas
+licencias. La notificación contendrá, como mínimo, la siguiente información:
+a. La identificación, cantidad y composición del material nuclear objeto del traslado y las
+áreas de balance de material de origen y destino.
+b. Las fechas aproximadas del envío y recepción del material nuclear y los lugares y fechas
+aproximadas en que los materiales nucleares serán preparados para su transporte o recepción.
+
+8/13
+
+NORMA AR 10.14.1. GARANTÍAS DE NO DESVIACIÓN DE MATERIALES NUCLEARES Y DE MATERIALES,
+INSTALACIONES Y EQUIPOS DE INTERÉS NUCLEAR – REVISIÓN 0
+
+La antelación y contenido de la notificación deberá permitir a la Autoridad efectuar una inspección
+a fin de identificar y verificar la cantidad y composición del material nuclear, y si ella lo considerara
+necesario, aplicar precintos una vez que el material nuclear esté listo para su transporte o recepción.
+6.4. Cada vez que se produzca una transferencia de material nuclear entre áreas de balance de
+material dentro de la jurisdicción del Gobierno Nacional y de la REPÚBLICA FEDERATIVA DEL
+BRASIL, los Responsables Primarios involucrados, deberán enviar un documento de transferencia a
+la Autoridad y también, si ese fuera el caso, a la correspondiente Autoridad de la REPÚBLICA
+FEDERATIVA DEL BRASIL, en el momento en que se realice la transferencia. Este documento
+contendrá como mínimo la siguiente Información:
+a. Identificación del material nuclear.
+b. Las áreas de balance de material de origen y destino y las fechas de envío y recepción del
+material nuclear.
+c.
+
+Los datos del lote según lo declarado por el remitente y el destinatario.
+
+6.5. Cualquier disposición adicional o excepción a lo dispuesto en este punto 6, será establecida
+en la respectiva licencia.
+6.6. Adicionalmente la Entidad Responsable deberá notificar a la Autoridad de cualquier exportación o importación de material que contenga uranio o torio, que potencialmente pueda ser utilizado
+en la industria nuclear, que no alcancen las condiciones dadas en el punto 1.B. de la presente
+norma.
+6.7. Análogamente se deberá informar de cualquier exportación o importación de equipos o materiales de interés nuclear distintos a los mencionados en el párrafo anterior.
+7. Archivo de la documentación
+Los Responsables Primarios deberán mantener disponibles en las instalaciones y otros lugares
+todos los documentos y registros relativos a la contabilidad y control del material nuclear durante
+por lo menos cinco años.
+
+9/13
+
+NORMA AR 10.14.1. GARANTÍAS DE NO DESVIACIÓN DE MATERIALES NUCLEARES Y DE MATERIALES,
+INSTALACIONES Y EQUIPOS DE INTERÉS NUCLEAR – REVISIÓN 0
+
+10/13
+
+NORMA AR 10.14.1. GARANTÍAS DE NO DESVIACIÓN DE MATERIALES NUCLEARES Y DE MATERIALES,
+INSTALACIONES Y EQUIPOS DE INTERÉS NUCLEAR – REVISIÓN 0
+
+ANEXO II de la NORMA AR 10.14.1.
+
+EXPLICACIÓN DE TÉRMINOS
+
+1. Entidad Responsable: significa aquella organización responsable por una instalación u otro
+lugar que utilice, procese, produzca, transfiera, reciba, almacene o posea por sí o por otro, materiales nucleares o materiales o equipos de interés nuclear y a la cuál esta norma le asigna responsabilidad por el cumplimiento efectivo de los procedimientos y medidas de contabilidad y control
+establecidos por la Autoridad.
+2. Responsable Primario: significa aquella persona a quien la Entidad Responsable le asigna la
+responsabilidad directa por la seguridad radiológica y nuclear y la contabilidad y control cubierta
+por esta norma.
+3. Ajuste: significa un asiento efectuado en un informe o en un registro contable que indique una
+diferencia remitente-destinatario o material no contabilizado.
+4. Área de Balance de Material: significa una zona situada dentro o fuera de una instalación en la
+que:
+a. Pueda determinarse en cada transferencia la cantidad de materiales nucleares que entren
+o salgan de cada área de balance de material.
+b. Pueda determinarse cuando sea necesario, de conformidad con procedimientos especificados, el inventario físico de los materiales nucleares en cada área de balance de material; para que se pueda determinar el balance de material a los fines de la aplicación del SNCC.
+5. Cambio de Inventario: significa un aumento o disminución de la masa de materiales nucleares
+en un área de balance de material, en términos de lotes, tal cambio comprenderá sólo uno de los
+siguientes:
+a. Aumentos
+I.
+
+Importaciones.
+
+II. Entradas de procedencia nacional: entradas de otras zonas de balance de materiales o
+entradas en el punto inicial de la aplicación del SNCC.
+III. Producción nuclear: producción de materiales fisionables especiales en un reactor.
+IV. Exenciones anuladas: reanudación de la aplicación del SNCC a materiales nucleares anteriormente exentos de ella.
+b. Disminuciones
+I.
+
+Exportaciones.
+
+II. Envíos a otras áreas de balance de material.
+III. Pérdidas nucleares: pérdida de materiales nucleares debida a su transformación en otros
+elementos o isótopos como consecuencia de reacciones nucleares.
+IV. Materiales descartados medidos: materiales nucleares que se han medido o estimado sobre la base de mediciones y que han sido dispuestos de forma tal que no son apropiados
+para su ulterior uso en actividades nucleares.
+V. Desechos retenidos: materiales nucleares que se consideran por el momento irrecuperables y se conservan almacenados.
+VI. Exenciones: exención de la aplicación del SNCC a materiales nucleares.
+VII. Otras pérdidas: por ejemplo, pérdidas accidentales o robos.
+
+11/13
+
+NORMA AR 10.14.1. GARANTÍAS DE NO DESVIACIÓN DE MATERIALES NUCLEARES Y DE MATERIALES,
+INSTALACIONES Y EQUIPOS DE INTERÉS NUCLEAR – REVISIÓN 0
+
+6. Cantidad Significativa: significa la cantidad aproximada de material nuclear a partir de la cual
+no se puede excluir la posibilidad de que se fabrique un arma nuclear incluyendo cualquier proceso de conversión involucrado. Salvo que la Autoridad determine otra cosa, los valores son:
+a. Para el plutonio (conteniendo menos del 80% de plutonio-238), 8 kg del elemento.
+b. Para el uranio-233, 8 kg del isótopo.
+c.
+
+Para el uranio con un enriquecimiento del 0,2 o más, 25 kg del isótopo 235.
+
+d. Para el uranio con un enriquecimiento inferior al 0,2, 75 kg del isótopo 235.
+e. Para el torio, 20000 kg del elemento.
+7. Corrección: significa un asiento efectuado en un informe o en un registro contable para rectificar un error identificado o reflejar una medición mejorada de una cantidad ya inscrita en el registro
+o informe.
+8. Datos del lote: significa la masa total de cada elemento de material nuclear, y en el caso del
+plutonio la masa del elemento expresada en gramos y cuando proceda su composición isotópica,
+en el caso del uranio enriquecido la masa de uranio total expresada en gramos y la suma de las
+masas de U 235 y U 233 también expresada en gramos, y en el caso de torio uranio natural o empobrecido, la masa del elemento expresada en kilogramos.
+En los informes se sumarán las masas de los distintos ítems del lote redondeando el resultado final
+a la unidad más próxima.
+9. Datos de origen: significa todos aquellos datos, registrados durante las mediciones o las calibraciones o utilizados para deducir relaciones empíricas, que identifican a los materiales nucleares
+y proporcionan los datos del lote. Los datos de origen pueden comprender, por ejemplo, la masa
+de los compuestos, los factores de conversión para determinar la masa del elemento, la densidad
+relativa, la concentración en elementos, las razones isotópicas, la relación entre el volumen y las
+lecturas manométricas, y Ia relación entre el plutonio producido y la potencia generada.
+10. Diferencia remitente-destinatario: significa la diferencia entre la cantidad de materiales nucleares de un lote declarado por el área de balance de material que Ia remite y Ia cantidad medida
+en el área de balance de material que lo recibe.
+11. Enriquecimiento: significa el cociente entre la suma de las masas de los isótopos uranio 233
+y uranio 235, y la masa total del uranio.
+12. Instalación: significa:
+a. Un reactor, un conjunto crítico, una planta de conversión, una planta de fabricación, una
+planta de re-elaboración, una planta de separación de isótopos o una unidad de almacenamiento por separado.
+b. Cualquier lugar en el que habitualmente se utilicen materiales nucleares en cantidades
+superiores a una masa efectiva de un kilogramo.
+13. Inventario contable: de un área de balance de material significa la suma algebraica del inventario físico más reciente, más todos los cambios que hayan tenido lugar en el inventario después
+de efectuado el inventario físico.
+14. Inventario físico: significa la suma de todas las cantidades medidas o estimadas sobre la
+base de una medición de todos y cada uno de los lotes de material nuclear presentes en un momento dado en un área de balance de material, obtenida de acuerdo con procedimientos especificados.
+15. Masa efectiva: es una magnitud especial referente a materiales nucleares utilizada en la aplicación del SNCC. La masa efectiva, expresada en kilogramos es:
+
+12/13
+
+NORMA AR 10.14.1. GARANTÍAS DE NO DESVIACIÓN DE MATERIALES NUCLEARES Y DE MATERIALES,
+INSTALACIONES Y EQUIPOS DE INTERÉS NUCLEAR – REVISIÓN 0
+
+a. Para el plutonio, su masa.
+b. Para el uranio empobrecido con un enriquecimiento no superior al 0,005 y para el torio su
+masa multiplicada por 5 x 10-5.
+c.
+
+Para el uranio con un enriquecimiento superior al 0,005 e inferior al 0,01 su masa multiplicada por 1 x 10-4.
+
+d. Para el uranio con un enriquecimiento del 0,001 como mínimo su masa multiplicada por el
+cuadrado del enriquecimiento.
+16. Lote: significa una porción de materiales nucleares que se manipula como una unidad a efectos de la contabilidad en un punto clave de medición y para el cual la composición y la cantidad
+se definen por un solo conjunto de especificaciones o mediciones. Dichos materiales nucleares
+pueden hallarse a granel o distribuidos en una serie de ítems distintos.
+17. Material no contabilizado: significa la diferencia entre el inventario contable y el inventario
+físico.
+18. Materiales nucleares: significa plutonio-239, uranio-233, uranio enriquecido en los isótopos
+235 ó 233, uranio conteniendo una mezcla isotópica igual a la encontrada en la naturaleza, uranio
+empobrecido en el isótopo 235, torio con pureza nuclear o cualquier material que contenga uno o
+más de los anteriores y además cualquier otro material que la Autoridad estipule en el futuro. Se
+excluyen de esta definición los minerales y la ganga.
+19. Otro lugar: significa cualquier lugar, distinto de una instalación que contenga o utilice materiales nucleares en cantidades iguales o inferiores a un kilogramo de masa efectiva.
+20. Punto clave de medición: significa un punto en que los materiales nucleares se encuentren
+en una forma tal que puedan medirse para determinar el flujo o inventario de materiales. Por lo
+tanto, los puntos clave de medición comprenden, sin quedar limitados a ellos, los puntos de entrada y los puntos de salida de materiales nucleares (incluidos los materiales descartados medidos) y
+los puntos de almacenamiento de las áreas de balance de material.
+21. Punto estratégico: significa un punto seleccionado durante el examen de la información sobre el diseño en el que, en condiciones normales y cuando se combina con la información obtenida en todos los puntos estratégicos considerados conjuntamente, pueda obtenerse y verificarse la
+información necesaria y suficiente para la aplicación del SNCC. Un punto estratégico puede comprender cualquier punto en el que se realicen mediciones clave en relación con la contabilidad del
+balance de materiales en el que se apliquen medidas de contención y de vigilancia.
+22. Material, instalación y equipo de interés nuclear: significa el material distinto del material nuclear, la instalación o el equipo que la Autoridad especifique como tal.
+
+13/13
+
+

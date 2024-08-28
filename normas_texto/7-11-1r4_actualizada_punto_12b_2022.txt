@@ -1,0 +1,253 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 7.11.1.
+
+REVISIÓN 4
+
+Permisos individuales
+para operadores
+de equipos de
+gammagrafía industrial
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 200/21 (Boletín Oficial 25/6/21) y
+modificada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 392/22 en el punto 12.b
+(Boletín Oficial 9/8/22)
+
+República Argentina – 2022
+
+1/6
+
+AUTORIDAD REGULATORIA NUCLEAR
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires
+ARGENTINA
+Teléfonos (011) 6323-1300 / 5789-7600
+www.argentina.gob.ar/arn
+
+1/6
+
+NORMA AR 7.11.1
+
+PERMISOS INDIVIDUALES PARA OPERADORES
+DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL
+La Ley Nº 24.804, Ley Nacional de la Actividad Nuclear, establece que la Autoridad Regulatoria
+Nuclear tiene la función de regular la actividad nuclear en lo referente a temas de seguridad
+radiológica y nuclear, protección física, salvaguardias y no proliferación; y le otorga la facultad
+de dictar normas, de cumplimiento obligatorio, referentes a los temas de su incumbencia.
+
+ÍNDICE
+A. OBJETIVO
+
+3
+
+B. ALCANCE
+
+3
+
+C. EXPLICACIÓN DE TÉRMINOS
+
+3
+
+D. REQUISITOS
+
+4
+
+D.1. Requisitos generales
+
+4
+
+D.2. Solicitud de un permiso individual para operador de equipos de
+gammagrafía industrial
+
+4
+
+D.2.1. Requisitos para el entrenamiento en la práctica de
+gammagrafía industrial
+
+4
+
+D.2.2. Requisitos y responsabilidades del preceptor
+
+5
+
+D.3. Responsabilidades del titular de un permiso individual para
+operador de equipos de gammagrafía industrial
+
+5
+
+D.4. Validez y renovación de un permiso individual para
+operador de equipos de gammagrafía industrial
+
+6
+
+1/6
+
+NORMA AR 7.11.1 PERMISOS INDIVIDUALES PARA OPERADORES DE EQUIPOS
+DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 4
+
+2/6
+
+NORMA AR 7.11.1 PERMISOS INDIVIDUALES PARA OPERADORES DE EQUIPOS
+DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 4
+
+A. OBJETIVO
+La presente norma establece los requisitos para obtener y renovar un permiso individual para
+operador de equipos de gammagrafía industrial.
+
+B. ALCANCE
+La presente norma se aplica a toda persona que solicita un permiso individual para operar
+equipos de gammagrafía industrial.
+El cumplimiento de esta norma, y de las normas y los requerimientos establecidos por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos establecidos
+por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+Aptitud psicofísica: compatibilidad adecuada, evaluada por el médico examinador, entre el
+profesiograma psicofísico de una función especificada y el conjunto de cualidades y condiciones psicofísicas del postulante a dicha función.
+Autoridad Regulatoria: Autoridad Regulatoria Nuclear.
+Entidad Responsable: persona humana o jurídica a la que la Autoridad Regulatoria le ha otorgado una o varias licencias, registros o autorizaciones de práctica no rutinaria.
+Equipo de gammagrafía industrial (o Equipo): Sistema o conjunto de dispositivos destinado
+a la práctica de gammagrafía industrial constituido por el proyector, la fuente sellada de radiación gamma y accesorios necesarios para la operación.
+Gammagrafía industrial: Técnica del método de ensayo no destructivo de materiales de radiografía industrial, que utiliza fuentes selladas de radiación gamma en forma controlada.
+Licencia de operación: Documento legal expedido por la Autoridad Regulatoria por medio del
+cual se autoriza a la Entidad Responsable a operar una instalación clase I o instalación clase II.
+Médico examinador: médico especialista en Medicina del Trabajo, designado por la Entidad
+Responsable para evaluar la aptitud psicofísica del solicitante de permiso individual para operador de equipos de gammagrafía industrial.
+Operador: persona con permiso individual para operar equipos de gammagrafía industrial.
+Operación de gammagrafía industrial: secuencia completa de tareas para ejecutar la práctica
+de gammagrafía industrial, que comprende:
+a. el retiro del Equipo de su depósito.
+b. la preparación y verificación del Equipo
+c.
+
+el transporte o traslado del Equipo desde su depósito hacia el área de operación
+
+d. el armado del área controlada y la realización de la práctica propiamente dicha
+e. el transporte o traslado del Equipo desde el área de operación al depósito
+f.
+
+la guarda del Equipo en su depósito
+
+Permiso individual: documento legal expedido por la Autoridad Regulatoria por medio del cual
+se autoriza a una persona, que ha cumplido con todos los requisitos de capacitación y entre-
+
+3/6
+
+NORMA AR 7.11.1 PERMISOS INDIVIDUALES PARA OPERADORES DE EQUIPOS
+DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 4
+
+namiento establecidos en la normativa vigente, a trabajar con fuentes de radiación en una instalación clase II o en una práctica no rutinaria asociada a una instalación clase II.
+Preceptor: persona que reúne los requisitos establecidos en la presente norma para supervisar
+el entrenamiento de un solicitante de permiso individual para operador de equipos de gammagrafía industrial.
+Radiografía industrial: método de ensayo no destructivo de materiales que utiliza un campo
+de radiación ionizante (gamma o X) en forma controlada.
+
+D. REQUISITOS
+D.1. Requisitos generales
+1. Toda persona podrá realizar la operación de gammagrafía industrial si la Autoridad Regulatoria le ha otorgado un permiso individual para operador de equipos de gammagrafía industrial, o
+en el curso de un entrenamiento bajo supervisión de un preceptor, o en los casos en que la
+Autoridad Regulatoria, lo autorice.
+2. El titular de un permiso individual para operador de equipos de gammagrafía industrial sólo
+está autorizado a operar Equipos para una Entidad Responsable con Licencia de operación
+vigente para ese propósito.
+D.2. Solicitud de un permiso individual para operador de equipos de gammagrafía industrial
+3. El solicitante de un permiso individual debe ser mayor de dieciocho (18) años y poseer estudios secundarios completos o equivalentes reconocidos por autoridades competentes argentinas.
+4. El solicitante debe acreditar su formación específica mediante la asistencia y aprobación de
+un curso teórico – práctico reconocido por la Autoridad Regulatoria. El certificado de aprobación
+del curso tiene una validez de dos (2) años desde su emisión.
+5. El solicitante debe acreditar haber aprobado un examen de aptitud psicofísica, mediante la
+presentación del correspondiente certificado extendido por el médico examinador.
+6. El solicitante debe acreditar estar calificado en el nivel 1 en el método de radiografía industrial de acuerdo a la norma IRAM-NM-ISO 9712 “Ensayos no destructivos. Calificación y certificación del personal para END”, por un organismo certificador acreditado.
+7. El solicitante debe acreditar que ha efectuado el entrenamiento en la práctica de gammagrafía industrial, demostrando haber realizado un mínimo de cincuenta (50) operaciones de gammagrafía industrial, bajo la supervisión de un preceptor propuesto por el solicitante y aceptado
+por la Autoridad Regulatoria. El entrenamiento debe realizarse en un lapso no menor de cinco
+(5) meses y no mayor de dieciocho (18) meses.
+D.2.1. Requisitos para el entrenamiento en la práctica de gammagrafía industrial
+8. El solicitante, para obtener la aceptación por parte de la Autoridad Regulatoria del inicio del
+entrenamiento en la práctica de gammagrafía industrial, debe acreditar haber aprobado:
+a. el curso mencionado en el requisito Nº 4.
+b. el examen de aptitud psicofísica mencionado en el requisito Nº 5, y
+c. el examen de calificación para el nivel 1 en el método de radiografía industrial de
+acuerdo a la norma IRAM-NM-ISO 9712 mencionado en el requisito Nº 6.
+9. El solicitante debe realizar el entrenamiento de acuerdo a lo establecido en el requisito 7.
+10. La Entidad Responsable poseedora de la Licencia de operación en gammagrafía industrial,
+en el marco de la cual se realizará el entrenamiento del solicitante, debe prestar su conformi-
+
+4/6
+
+NORMA AR 7.11.1 PERMISOS INDIVIDUALES PARA OPERADORES DE EQUIPOS
+DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 4
+
+dad fehaciente con el entrenamiento, acreditar la inclusión del solicitante en la nómina de trabajadores con dosimetría personal y asegurarle las condiciones de seguridad radiológica.
+11. El solicitante solo podrá iniciar el entrenamiento cuando cuente con la aceptación de la
+Autoridad Regulatoria.
+D. 2.2. Requisitos y responsabilidades del preceptor
+12. El preceptor debe:
+a. poseer un permiso individual para operador de equipos de gammagrafía industrial, vigente durante el período de entrenamiento
+b. acreditar, como mínimo, una experiencia de 5 años como operador de equipos de
+gammagrafía industrial
+c.
+
+no haber sido sancionado por incumplimiento a la normativa de la Autoridad Regulatoria dentro de los dos (2) años previos al inicio de sus actividades como preceptor, y
+
+d. haber demostrado, a satisfacción de la Autoridad Regulatoria, su responsabilidad y
+compromiso permanentes con relación a la seguridad.
+13. El preceptor puede supervisar el entrenamiento simultáneo de un máximo de tres (3) personas, y debe asegurar la necesaria dedicación horaria para la supervisión de cada uno de
+ellos.
+14. El preceptor debe comunicar a la Autoridad Regulatoria la fecha propuesta de inicio del
+entrenamiento del solicitante.
+15. El preceptor debe certificar la efectiva realización del entrenamiento a través de un informe
+cuyo contenido pueda verificarse. El reconocimiento del entrenamiento por parte de la Autoridad Regulatoria en base a dicho informe, estará sujeto a la verificación del cumplimiento de los
+requisitos establecidos en las correspondientes normas regulatorias.
+16. El preceptor debe certificar, a través de su informe, que el solicitante posee la adecuada
+formación en la práctica de gammagrafía industrial para operar un equipo sin necesidad de
+supervisión.
+17. El Informe del preceptor tiene una validez de un (1) año, desde la fecha de finalización de
+las prácticas.
+D.3. Responsabilidades del titular de un permiso individual para operador de equipos de gammagrafía industrial
+18. El titular de un permiso individual debe cumplir con la normativa aplicable de la Autoridad
+Regulatoria.
+19. El titular de un permiso individual debe:
+a. cumplir con los procedimientos establecidos para asegurar su propia protección, la de
+los demás trabajadores y la del público
+b. mantener actualizados sus datos personales ante la Autoridad Regulatoria
+c.
+
+suministrar la información sobre temas sujetos a regulación que le sea requerida por la
+Autoridad Regulatoria, y
+
+d. comunicar a la Autoridad Regulatoria en forma inmediata, la ocurrencia de sucesos que
+afecten o puedan afectar, la protección radiológica de las personas, la seguridad física
+de las fuentes selladas o la seguridad de la instalación.
+
+5/6
+
+NORMA AR 7.11.1 PERMISOS INDIVIDUALES PARA OPERADORES DE EQUIPOS
+DE GAMMAGRAFÍA INDUSTRIAL – REVISIÓN 4
+
+D.4. Validez y renovación de un permiso individual para operador de equipos de gammagrafía
+industrial
+20. El permiso individual para operador de equipos de gammagrafía industrial tiene una validez
+máxima de cinco (5) años y está supeditada a la validez que especifique el certificado de aptitud psicofísica extendido por el médico examinador.
+21. Para la renovación de un permiso individual, antes de su vencimiento y con suficiente antelación, su titular debe acreditar:
+a. la aprobación del examen de aptitud psicofísica mencionado en el requisito Nº 5
+b. la asistencia y aprobación, de un curso de actualización para solicitar la renovación del
+permiso individual para operador de equipos de gammagrafía industrial, reconocido por
+la Autoridad Regulatoria. El certificado de aprobación del curso tiene una validez de
+dieciocho (18) meses desde su emisión, y
+c. la realización de trabajos de gammagrafía industrial por un lapso de al menos seis (6)
+meses durante el último año de vigencia del permiso individual.
+22. Para la renovación del permiso individual, dentro del año posterior a la fecha de su vencimiento, o teniendo que renovar el permiso individual antes de su vencimiento no pudiendo dar
+cumplimiento al punto 21 c., el titular debe acreditar a satisfacción de la Autoridad Regulatoria:
+a. el cumplimiento de los requisitos Nº 21 a. y b. y
+b. un entrenamiento que incluya como mínimo diez (10) operaciones de gammagrafía industrial, durante un lapso no menor de un (1) mes bajo la supervisión de un preceptor
+propuesto y aceptado por la Autoridad Regulatoria, cumpliendo los requisitos de D2.2.
+“Requisitos y Responsabilidades del preceptor”
+23. Para la renovación del permiso individual después del año posterior a la fecha de su vencimiento el solicitante debe dar cumplimiento a lo requerido en D.2. “Solicitud de un permiso individual para operador de equipos de gammagrafía industrial”.
+En relación a la capacitación, el solicitante debe acreditar haber aprobado el curso mencionado
+en el requisito Nº 4 o el curso mencionado en el requisito Nº 21 b., a satisfacción de la Autoridad Regulatoria.
+
+6/6
+
+

@@ -1,0 +1,249 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 4.2.2.
+
+Diseño de reactores
+de investigación
+
+REVISIÓN 1
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 18/02 (Boletín Oficial 22/7/02)
+
+República Argentina – 2002
+1/6
+
+NORMA AR 4.2.2.
+
+DISEÑO DE REACTORES DE INVESTIGACIÓN
+
+A. OBJETIVO
+1. Establecer los criterios a los que debe ajustarse el diseño.
+
+B. ALCANCE
+2. Esta norma es aplicable al diseño de reactores de investigación tipo piscina y a las modificaciones de los sistemas importantes para la seguridad, que se realicen en los reactores existentes.
+Los reactores de investigación con potencia de varias decenas de megavatios, con espectro de
+neutrones rápidos o con dispositivos especiales tales como circuitos de alta presión para ensayos de combustible o fuente fría o caliente de neutrones, deben cumplir los requisitos de seguridad adicionales que determine la Autoridad Regulatoria en cada caso.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Accidente: Suceso de carácter aleatorio que puede ocurrir en una instalación, cuyas consecuencias reales o potenciales son significativas desde el punto de vista de la seguridad radiológica y nuclear.
+4. Canal de Activación: Sistema compuesto por dos o más detectores de una variable física, y
+otros dispositivos electrónicos, eléctricos y mecánicos que, ante demanda, pueden generar
+una señal para iniciar la ejecución de una función de seguridad.
+5. Coeficiente de Reactividad Global por Potencia: Función que expresa la dependencia de
+la reactividad ρ con la potencia global P, y cuya variación es debida a los mecanismos de realimentación de reactividad intrínsecos del reactor. Su expresión matemática es:
+
+αP =
+
+∂ ρ
+∂P
+
+6. Criterio de la Falla Única: Criterio para diseñar un sistema de manera tal que admita la
+ocurrencia de una falla única en cualquier subsistema o componente del mismo, sin que por
+ello el sistema deje de prestar la función que le compete.
+7. Dispositivo Experimental: Dispositivo instalado en el reactor o en torno a él para utilizar los
+neutrones y las otras radiaciones ionizantes del reactor con fines de investigación, desarrollo,
+producción de isótopos o con otros propósitos.
+8. Diversidad: Provisión de diferentes medios para lograr el mismo objetivo.
+
+1/6
+
+NORMA AR 4.2.2. DISEÑO DE REACTORES DE INVESTIGACIÓN – REVISIÓN 1
+
+9. Edificio del Reactor: Sistema que comprende las estructuras, el sistema de ventilación, las
+penetraciones al edificio del reactor y cualquier otro dispositivo que sea importante para la función de confinamiento.
+10. Entidad Responsable: Titular de las licencias de una instalación Clase I.
+11. Extinción del Reactor: Proceso mediante el cual el núcleo del reactor es llevado al estado
+subcrítico, permaneciendo en este estado con un margen suficiente de antirreactividad durante
+un intervalo de tiempo apropiado.
+12. Falla: Suceso aleatorio que produce la pérdida de la capacidad de un componente, equipo
+o sistema para cumplir con su función de diseño.
+13. Falla Dependiente: Falla que puede ocurrir en uno o más componentes, equipos o sistemas y que depende de la falla de otros componentes, equipos o sistemas o de una única causa.
+14. Funcionamiento Normal: Operación de una instalación Clase I dentro de los límites y condiciones operacionales especificados, incluidos el estado de parada, el funcionamiento en régimen, la parada, la puesta en marcha, el mantenimiento, las pruebas y, en el caso de reactores nucleares, la recarga de combustible.
+15. Función de Seguridad: Función destinada a lograr un objetivo específico con fines de
+seguridad.
+16. Instalación: Instalación Nuclear, Instalación Radiactiva, Instalación Minero Fabril o Acelerador de Partículas.
+17. Instalación Clase I: Instalación o práctica que requiere un proceso de licenciamiento de
+más de una etapa.
+18. Máximo Exceso de Reactividad: Exceso de reactividad que tendría el reactor con los
+experimentos removibles en operación y las demás variables que afectan la reactividad en la
+condición más reactiva posible.
+19. Parada Segura: Estado en el cual el reactor se mantiene extinguido y adecuadamente
+refrigerado, durante un intervalo de tiempo apropiado.
+20. Redundancia: Provisión de dos o más sistemas –idénticos o diversos- independientes
+entre sí, cada uno de los cuales puede llevar a cabo una misma función.
+21. Sistema de Calidad: Conjunto de actividades planificadas y desarrolladas para asegurar el
+nivel de calidad de una instalación o de una práctica.
+22. Sistema de Extinción: Sistema que provoca la extinción del reactor. El sistema incluye
+cada uno de los componentes necesarios para cumplir su función, desde el sensor de la señal
+de disparo del mecanismo activador hasta el material absorbente de neutrones.
+23. Sistema de Protección: Equipamiento provisto para actuar directamente en el caso de
+fallas de la instalación, mala operación o eventos externos, garantizando la seguridad mediante
+acciones protectivas apropiadas.
+24. Sistema de Seguridad: Sistema que lleva a cabo una función de seguridad para prevenir o
+mitigar las consecuencias resultantes de una falla, mal función o mala operación.
+25. Situación Accidental: Alteración grave de una situación operacional que puede conducir a
+consecuencias radiológicas significativas para las personas expuestas a radiación, si los correspondientes sistemas de seguridad no funcionan según se ha previsto en el diseño.
+
+2/6
+
+NORMA AR 4.2.2 DISEÑO DE REACTORES DE INVESTIGACIÓN – REVISIÓN 1
+
+26. Situación Operacional: Situación definida como funcionamiento normal o incidente operacional.
+27. Umbrales de Disparo: Valores escogidos de las variables del proceso para la actuación
+del sistema de protección.
+
+D. CRITERIOS
+28. Se debe garantizar que durante la operación normal de la instalación las dosis que reciban
+los trabajadores y los miembros del público resulten tan bajas como sea razonablemente obtenible y que no se superen las restricciones de dosis anuales establecidas por la Autoridad Regulatoria.
+29. Deben identificarse y analizarse las eventuales fallas y secuencias accidentales y proveerse
+las funciones de seguridad necesarias, todo lo cual permita cumplir con la norma AR 4.1.3.
+"Criterios Radiológicos Relativos a Accidentes en Reactores de Investigación”.
+30. El diseño debe tener en cuenta, además de los aspectos de seguridad inherentes al reactor en sí mismo, cualquier interacción entre éste y otras instalaciones asociadas ubicadas en el
+mismo emplazamiento, que pudieren afectar a la seguridad.
+31. En el diseño del reactor debe contemplarse adecuadamente la aplicación del criterio de
+defensa en profundidad.
+32. Debe aplicarse redundancia, diversidad, independencia y el criterio de la falla única, para
+asegurar una apropiada confiabilidad de los sistemas importantes para la seguridad.
+33. Los canales de activación de los sistemas de extinción del reactor de investigación deben
+ser redundantes y, en lo posible, diversos y diseñarse con una lógica 2 de 3 como mínimo.
+34. Debe determinarse, mediante la aplicación de la técnica de árbol de fallas o cualquier otra
+metodología de validez equivalente, la probabilidad de falla de los sistemas de seguridad. La
+-3
+tasa de falla por demanda para cada sistema de seguridad debe ser inferior a 10 .
+35. La redundancia de los sistemas de seguridad debe ser tal que, en las condiciones de mínimo equipamiento mencionadas en el criterio N° 43, ninguna falla única debe impedir la actuación de dichos sistemas en caso de demanda.
+36. El diseño debe prever que la operación del reactor se realice en adecuadas condiciones de
+seguridad, y que los valores de las variables de proceso se mantengan dentro de los límites de
+seguridad durante todas las situaciones operacionales.
+37. Se deben prever, en relación con los factores humanos, adecuadas interfaces hombremáquina y aplicar principios ergonómicos al diseño de la sala de control para que el operador
+disponga de representaciones visuales claras y señales sonoras audibles de aquellas variables
+o parámetros que sean de importancia para la seguridad.
+38. Se debe prever que la respuesta del reactor y sistemas conexos ante cualquier situación
+operacional permita el funcionamiento normal del reactor, la reducción de potencia o su extinción sin necesidad de recurrir a los sistemas de seguridad.
+39. El coeficiente de reactividad global por potencia debe ser negativo para todas las situaciones operacionales y accidentales postuladas.
+40. El diseño debe prever la verificación periódica del nivel de confiabilidad de los sistemas de
+seguridad. Las pruebas que se realicen durante el funcionamiento normal no deben afectar las
+funciones de seguridad que esos sistemas tengan asignadas.
+
+3/6
+
+NORMA AR 4.2.2. DISEÑO DE REACTORES DE INVESTIGACIÓN – REVISIÓN 1
+
+41. El diseño debe prever que todos los componentes de los sistemas de seguridad puedan ser
+adecuadamente inspeccionados y verificados antes de la puesta en marcha y a intervalos regulares durante la etapa de operación.
+42. Cuando un equipo o componente tiene varias funciones y una de las cuales es de seguridad, debe ser clasificado como parte del sistema de seguridad. La función de seguridad no
+debe ser afectada por las otras funciones que ese equipo o componente tenga asignadas.
+43. Debe especificarse la cantidad mínima de componentes de los sistemas de seguridad que
+deban mantenerse operativos para garantizar el cumplimiento de la función de seguridad en
+cualquier situación operacional. Los equipos bajo prueba o mantenimiento no deben ser considerados en estado operativo.
+44. El diseño debe prever accesibilidad apropiada, blindajes adecuados y los dispositivos de
+manipulación y descontaminación necesarios para facilitar las tareas de inspección y mantenimiento de los sistemas importantes para la seguridad y de los dispositivos experimentales.
+45. Se debe prever la vigilancia y seguimiento de aquellos materiales utilizados en los componentes de los sistemas de seguridad cuyas propiedades mecánicas puedan cambiar durante la
+vida útil del reactor debido a factores tales como corrosión bajo tensiones o modificaciones
+inducidas por la radiación.
+46. El diseño debe prever una adecuada selección de los materiales estructurales, en especial
+los utilizados en la cercanía del núcleo, con el fin de reducir las dosis ocupacionales durante la
+operación, el mantenimiento y el retiro de servicio.
+47. Se debe prever enclavamientos adecuados que impidan inhibir o modificar de manera no
+autorizada los valores de los umbrales de disparo.
+48. Se debe diseñar el reactor de forma tal que la falla de un sistema importante para la seguridad no afecte la seguridad del reactor.
+49. Debe preverse un sistema de comunicaciones que funcione adecuadamente durante todas
+las situaciones operacionales o accidentales postuladas.
+50. La Entidad Responsable debe implementar un adecuado sistema de calidad en el diseño
+que, como mínimo, cubra los sistemas importantes para la seguridad.
+51. Se deben prever las características específicas que permitan el retiro de servicio del reactor en condiciones adecuadas de seguridad.
+52. Deben identificarse y justificarse los códigos y normas utilizados para el diseño de los sistemas importantes para la seguridad.
+53. En el diseño de estructuras, sistemas o componentes de los sistemas importantes para la
+seguridad para los que no existan códigos o normas apropiados, se pueden aplicar códigos o
+normas para estructuras, sistemas o componentes similares, o aplicar los resultados de experiencias, ensayos y análisis, o una combinación de ambos métodos. Tal aplicación debe ser
+justificada apropiadamente.
+54. Se debe prever un lugar separado y aislado de la sala de control con equipamiento suficiente para llevar al reactor a parada segura y que permita monitorear las variables de proceso
+esenciales durante situaciones accidentales postuladas.
+55. Se debe prever que se pueda verificar el funcionamiento adecuado de los sistemas importantes para la seguridad durante y después de la ocurrencia de accidentes postulados.
+56. Se debe prever que los elementos de importancia para la seguridad puedan resistir los
+efectos de cargas y condiciones ambientales extremas en el caso de ocurrencia de accidentes
+postulados.
+
+4/6
+
+NORMA AR 4.2.2 DISEÑO DE REACTORES DE INVESTIGACIÓN – REVISIÓN 1
+
+57. El diseño del núcleo del reactor debe prever que en caso de un accidente postulado se
+pueda mantener la integridad del combustible, la de los dispositivos experimentales y la de los
+sistemas de seguridad.
+58. El sistema de protección debe permitir que el operador pueda iniciar acciones de protección
+pero que éste no pueda impedir su funcionamiento si el mismo fuera solicitado en forma automática.
+59. Debe asegurarse que una vez actuado el sistema de protección éste no reinicie el funcionamiento normal del reactor en forma automática, sino mediante una acción deliberada del
+operador.
+60. Debe preverse por lo menos un sistema capaz de producir la extinción rápida del reactor en
+cualquier situación operacional y accidental postulada, aun en la condición de máximo exceso
+de reactividad.
+61. En caso que se requiera un segundo sistema de extinción, éste debe ser diverso e independiente del primero y tener un margen suficiente de antirreactividad, sin la activación del
+primero.
+62. El diseño debe asegurar que el o los sistemas de extinción y el de refrigeración primario
+tengan la capacidad suficiente para llevar el reactor a parada segura y mantenerlo en ese estado durante un lapso ilimitado, aún en la condición de máximo exceso de reactividad.
+63. Se debe garantizar la extinción del reactor, cualquiera sea la situación operacional en que
+se encuentre, en caso de ocurrencia de alguno de los siguientes sucesos:
+a. Pérdida total de suministro de energía eléctrica.
+b. Incendio interno.
+c.
+
+Inundación interna.
+
+d. Eventos externos iniciantes inherentes al lugar del emplazamiento (terremoto, tornado,
+inundación, etc.).
+e. Sucesos inducidos por el hombre.
+64. El sistema de refrigeración debe diseñarse de modo tal que proporcione suficiente refrigeración al núcleo del reactor en cualquier situación operacional y que, en funcionamiento normal,
+en ningún punto del refrigerante se alcance la ebullición local.
+65. Se debe prevenir la caída de objetos o personas en el interior de la piscina. En el caso de
+caída de objetos, se debe asimismo prevenir la obstrucción de los canales de refrigeración.
+66. Se debe prever un sistema de detección de la eventual presencia de productos de fisión en
+el sistema de refrigeración primario.
+67. A los efectos del cumplimiento de la norma AR 4.1.3, “Criterios Radiológicos Relativos a
+Accidentes en Reactores de Investigación”, el edificio del reactor debe ser considerado como
+parte del sistema de confinamiento.
+68. Las penetraciones, los conductos y las cañerías que constituyan prolongaciones selladas
+del sistema de confinamiento deben cumplir con los mismos requisitos de seguridad que el
+sistema de confinamiento.
+69. El número de conductos de ventilación que atraviesen el sistema de confinamiento debe
+reducirse al mínimo. Los conductos que no presenten filtros deben poder cerrarse automáticamente en caso de accidente. Las válvulas de cierre deben tener el mismo nivel de confiabilidad
+que el de los demás componentes del sistema de confinamiento.
+
+5/6
+
+NORMA AR 4.2.2. DISEÑO DE REACTORES DE INVESTIGACIÓN – REVISIÓN 1
+
+70. El diseño debe prever que en caso de que la falla de un sistema relacionado con la seguridad produzca la emisión de efluentes radiactivos al ambiente por encima de los valores estimados como límites de descarga, dicho sistema debe incluirse en el de confinamiento.
+71. El diseño debe prever el ensayo y sustitución periódica de los filtros del sistema de ventilación.
+72. El diseño debe prever el almacenamiento de los elementos combustibles frescos e irradiados en disposiciones geométricas que garanticen un margen apropiado de antirreactividad, aún
+en el caso de situaciones accidentales postuladas.
+73. Se debe prever barreras físicas adecuadas para prevenir el acceso libre de personas no
+autorizadas a ciertas áreas o recintos del edificio del reactor.
+74. El diseño de los sistemas de confinamiento debe prever que en situaciones accidentales
+postuladas, la tasa de fuga de la atmósfera confinada se reduzca al valor más bajo que pueda
+razonablemente alcanzarse. Los daños que puedan producirse en el sistema de confinamiento
+no deben impedir que se pueda llevar al reactor a parada segura.
+75. El diseño debe prever suficiente instrumentación de indicación y registro para vigilar los
+elementos o sistemas importantes para la seguridad del reactor durante situaciones operacionales, accidentales postuladas y post-accidentales.
+76. Se debe prever la instalación de sistemas de alarma acústica y visual que proporcionen una
+rápida indicación de aquellas modificaciones en las condiciones de operación del reactor que
+conduzcan a una degradación de la seguridad.
+77. Se debe prever un sistema de monitoreo de las radiaciones, que posea sensores ubicados
+convenientemente en el reactor y provistos de alarmas locales.
+78. La tasa de falla de los sistemas de alarma y monitoreo de las radiaciones debe ser inferior a
+-2
+10 por demanda.
+79. Los dispositivos experimentales que se introduzcan en el reactor deben diseñarse con los
+mismos criterios de seguridad establecidos para el mismo y deben ser compatibles con el reactor en términos de materiales utilizados e integridad estructural.
+80. Los dispositivos experimentales que penetren las barreras del reactor deben diseñarse de
+modo que se mantengan las condiciones requeridas para el confinamiento y el blindaje del
+reactor.
+81.El diseño de dispositivos experimentales debe basarse en requisitos de seguridad aplicables
+a situaciones operacionales y situaciones accidentales postuladas.
+
+6/6
+
+

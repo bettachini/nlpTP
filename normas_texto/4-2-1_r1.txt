@@ -1,0 +1,236 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 4.2.1.
+
+Diseño de
+conjuntos críticos
+
+REVISIÓN 1
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 18/02 (Boletín Oficial 22/7/02)
+
+República Argentina – 2002
+1/6
+
+NORMA AR 4.2.1
+
+DISEÑO DE CONJUNTOS CRÍTICOS
+
+A. OBJETIVO
+1. Establecer los criterios a los que debe ajustarse el diseño.
+
+B. ALCANCE
+2. Esta norma es aplicable al diseño de conjuntos críticos, con una potencia máxima de 100
+vatios.
+Los conjuntos críticos que pueden operar produciendo pulsos controlados de potencia o cuyos
+núcleos estén configurados con elementos combustibles que hayan sido irradiados en un reactor de investigación, deben cumplir los requisitos de seguridad adicionales que determine la
+Autoridad Regulatoria en cada caso.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Accidente: Suceso de carácter aleatorio que puede ocurrir en una instalación, cuyas consecuencias reales o potenciales son significativas desde el punto de vista de la seguridad radiológica y nuclear.
+4.- Canal de Activación: Sistema compuesto por dos o más detectores de una variable física,
+y otros dispositivos electrónicos, eléctricos y mecánicos que, ante demanda, pueden generar
+una señal para iniciar la ejecución de una función de seguridad.
+5. Coeficiente de Reactividad Global por Potencia: Función que expresa la dependencia de
+la reactividad ρ con la potencia global P, y cuya variación es debida a los mecanismos de realimentación de reactividad intrínsecos del reactor. Su expresión matemática es:
+
+αP =
+
+∂ ρ
+∂P
+
+6. Criterio de la Falla Única: Criterio para diseñar un sistema de manera tal que admita la
+ocurrencia de una falla única en cualquier subsistema o componente del mismo, sin que por
+ello el sistema deje de prestar la función que le compete.
+7. Dispositivo Experimental: Dispositivo instalado en el reactor o en torno a él para utilizar los
+neutrones y las otras radiaciones ionizantes del reactor con fines de investigación, desarrollo,
+producción de isótopos o con otros propósitos.
+8. Diversidad: Provisión de diferentes medios para lograr el mismo objetivo.
+
+1/6
+
+NORMA 4.2.1. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 1
+
+9. Entidad Responsable: Titular de las licencias de una instalación Clase I.
+10. Extinción del Conjunto Crítico: Proceso mediante el cual el núcleo del conjunto crítico es
+llevado al estado subcrítico, permaneciendo en este estado con un margen suficiente de antirreactividad durante un intervalo de tiempo indefinido.
+11. Falla: Suceso aleatorio que produce la pérdida de la capacidad de un componente, equipo
+o sistema para cumplir con su función de diseño.
+12. Funcionamiento Normal: Operación de una instalación Clase I dentro de los límites y condiciones operacionales especificados, incluidos el estado de parada, el funcionamiento en régimen, la parada, la puesta en marcha, el mantenimiento, las pruebas y, en el caso de reactores nucleares, la recarga de combustible.
+13. Función de Seguridad: Función destinada a lograr un objetivo específico con fines de
+seguridad.
+14. Instalación: Instalación Nuclear, Instalación Radiactiva, Instalación Minero Fabril o Acelerador de Partículas.
+15. Instalación Clase I: Instalación o práctica que requiere un proceso de licenciamiento de
+más de una etapa.
+16. Máximo Exceso de Reactividad: Exceso de reactividad que tendría el reactor con los
+experimentos removibles en operación y las demás variables que afectan la reactividad en la
+condición más reactiva posible.
+17. Parada Segura: Estado en el cual el reactor se mantiene extinguido y adecuadamente
+refrigerado, durante un intervalo de tiempo apropiado.
+18. Redundancia: Provisión de dos o más sistemas -idénticos o diversos- independientes entre
+sí, cada uno de los cuales puede llevar a cabo una misma función.
+19. Sistema de Calidad: Conjunto de actividades planificadas y desarrolladas para asegurar el
+nivel de calidad de una instalación o de una práctica.
+20. Sistema de Extinción: Sistema que provoca la extinción del reactor. El sistema incluye
+cada uno de los componentes necesarios para cumplir su función, desde el sensor de la señal
+de disparo del mecanismo activador hasta el material absorbente de neutrones.
+21. Sistema de Protección: Equipamiento provisto para actuar directamente en el caso de
+fallas de la instalación, mala operación o eventos externos, garantizando la seguridad mediante
+acciones protectivas apropiadas.
+22. Sistema de Seguridad: Sistema que lleva a cabo una función de seguridad para prevenir o
+mitigar las consecuencias resultantes de una falla, mal función o mala operación.
+23. Situación Accidental: Alteración grave de una situación operacional que puede conducir a
+consecuencias radiológicas significativas para las personas expuestas a radiación, si los correspondientes sistemas de seguridad no funcionan según se ha previsto en el diseño.
+24. Situación Operacional: Situación definida como funcionamiento normal o incidente operacional.
+25. Umbrales de Disparo: Valores escogidos de las variables del proceso para la actuación
+del sistema de protección.
+
+2/6
+
+NORMA 4.2.1. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 1
+
+D. CRITERIOS
+26. Se debe garantizar que durante la operación normal del conjunto crítico las dosis que reciban los trabajadores y los miembros del público resulten tan bajas como sea razonablemente
+obtenible y que no se superen las restricciones de dosis anuales establecidas por la Autoridad
+Regulatoria.
+27. El diseño debe tener en cuenta, además de los aspectos de seguridad inherentes al conjunto crítico en sí mismo, cualquier interacción entre éste y otras instalaciones asociadas ubicadas
+en el mismo emplazamiento, que pudieren afectar a la seguridad.
+28. En el diseño del conjunto crítico debe contemplarse adecuadamente la aplicación del criterio de defensa en profundidad.
+29. Debe aplicarse redundancia, diversidad, independencia y el criterio de la falla única, para
+asegurar una apropiada confiabilidad de los sistemas importantes para la seguridad.
+30. El diseño debe asegurar una adecuada extinción del conjunto crítico en todas las situaciones operacionales y accidentales postuladas, aun en las condiciones de máximo exceso de
+reactividad.
+31. Los canales de activación de los sistemas de extinción del conjunto crítico deberán ser
+redundantes y, en lo posible, diversos y diseñarse con una lógica 1 de 3 como mínimo.
+32. Debe determinarse, mediante la aplicación de la técnica del árbol de fallas o cualquier otra
+metodología de validez equivalente, la probabilidad de falla de los sistemas de seguridad. La
+-3
+tasa de falla por demanda para cada sistema de seguridad debe ser inferior a 10 .
+33. La redundancia de los sistemas de seguridad será tal que en las condiciones de mínimo
+equipamiento mencionadas en el criterio N° 41 , ninguna falla única debe impedir la actuación
+de dichos sistemas en caso de demanda.
+34. El diseño debe prever que la operación del conjunto crítico se realice en adecuadas condiciones de seguridad, y que los valores de las variables de proceso se mantengan dentro de los
+límites de seguridad durante todas las situaciones operacionales.
+35. Se deben prever, en relación con los factores humanos, adecuadas interfaces hombremáquina y aplicar principios ergonómicos al diseño de la sala de control para que el operador
+disponga de representaciones visuales claras y señales sonoras audibles de aquellas variables
+o parámetros que sean de importancia para la seguridad.
+36. Se debe prever que la respuesta del conjunto crítico y sistemas conexos ante cualquier
+situación operacional permita el funcionamiento normal del conjunto crítico, la reducción de
+potencia o su extinción sin necesidad de recurrir a los sistemas de seguridad.
+37. El coeficiente de reactividad global por potencia debe ser negativo para todas las situaciones operacionales y accidentales postuladas.
+38. El diseño debe prever la verificación periódica del nivel de confiabilidad de los sistemas de
+seguridad. Las pruebas que se realicen durante el funcionamiento normal no deben afectar las
+funciones de seguridad de dichos sistemas.
+39. El diseño debe prever que todos los componentes de los sistemas de seguridad puedan ser
+adecuadamente inspeccionados y verificados antes de la puesta en marcha y a intervalos regulares durante la etapa de operación.
+40. Cuando un equipo o componente tenga varias funciones y una de las cuales sea de seguridad, debe ser clasificado como parte del sistema de seguridad. La función de seguridad no
+debe ser afectada por las otras funciones que ese equipo o componente tenga asignadas.
+
+3/6
+
+NORMA 4.2.1. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 1
+
+41. Debe especificarse la cantidad mínima de componentes de los sistemas de seguridad que
+deban mantenerse operativos para garantizar el cumplimiento de la función de seguridad en
+cualquier situación operacional. Los equipos bajo prueba o mantenimiento no deben ser considerados en estado operativo.
+42. El diseño del blindaje del conjunto crítico debe garantizar el cumplimiento de los criterios
+N° 26 y 45.
+43. El blindaje del conjunto crítico debe ser fijo. En el caso que se usen mampuestos deben
+poder ser removidos mediante medios adecuados.
+44. El diseño debe prever accesibilidad apropiada, blindajes adecuados y los dispositivos de
+manipulación y descontaminación necesarios para facilitar las tareas de inspección y mantenimiento de los sistemas importantes para la seguridad y de los dispositivos experimentales.
+45. En el caso de conjuntos críticos tipo piscina, la dosis efectiva en cualquier puesto de trabajo
+18
+en una excursión crítica que implique 10 fisiones (aproximadamente 32 MJoule de energía
+liberada) debe ser inferior a 50 mSv, considerando la radiación directa y reflejada.
+46. El diseño de dispositivos experimentales debe basarse en requisitos de seguridad aplicables a situaciones operacionales y accidentales postuladas.
+47. El diseño debe prever una adecuada selección de los materiales estructurales, en especial
+los utilizados en la cercanía del núcleo, con el fin de que mantengan sus propiedades mecánicas durante la operación del conjunto crítico y se reduzcan las dosis ocupacionales.
+48. Se deben prever enclavamientos adecuados que impidan inhibir o modificar de manera no
+autorizada los valores de los umbrales de disparo.
+49. En el caso de conjuntos críticos tipo piscina deben existir enclavamientos que impidan
+cambios de configuración en presencia del moderador.
+50. Se debe prever la existencia de enclavamientos que limiten adecuadamente la probabilidad
+de ocurrencia de accidentes de reactividad.
+51. Se debe diseñar el conjunto crítico de forma tal que la falla de un sistema relacionado con
+la seguridad no afecte la seguridad del conjunto crítico.
+52. Debe preverse un sistema de comunicaciones que funcione adecuadamente durante todas
+las situaciones operacionales o accidentales postuladas.
+53. La Entidad Responsable debe implementar un adecuado sistema de calidad en el diseño
+que, como mínimo, cubra los sistemas importantes para la seguridad.
+54. Se deben prever las características específicas de diseño que permitan el retiro de servicio
+del conjunto crítico en condiciones adecuadas de seguridad.
+55. Deben identificarse y justificarse los códigos y normas utilizados para el diseño de los sistemas importantes para la seguridad.
+56. En el diseño de estructuras, sistemas o componentes de los sistemas importantes para la
+seguridad para los que no existan códigos o normas apropiados, se pueden aplicar códigos o
+normas para estructuras, sistemas o componentes similares, o aplicar los resultados de experiencias, ensayos y análisis, o una combinación de ambos métodos. Tal aplicación debe ser
+justificada apropiadamente.
+57. Se debe prever que se pueda verificar el funcionamiento adecuado de los sistemas importantes para la seguridad durante y después de la ocurrencia de accidentes postulados.
+
+4/6
+
+NORMA 4.2.1. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 1
+
+58. El diseño del núcleo del conjunto crítico debe prever que en caso de accidentes postulados,
+se pueda mantener la integridad del combustible, la de los dispositivos experimentales y la de
+los sistemas de seguridad.
+59. El sistema de protección debe permitir que el operador pueda iniciar acciones de protección
+pero que éste no pueda impedir su funcionamiento si el mismo fuera solicitado en forma automática.
+60. Debe asegurarse que una vez actuado el sistema de protección éste no reinicie el funcionamiento normal del conjunto crítico en forma automática, sino mediante una acción deliberada
+del operador.
+61. El conjunto crítico debe contar como mínimo con dos sistemas de extinción funcionalmente
+independientes y diversos. Al menos uno de ellos debe producir la extinción rápida del conjunto
+crítico.
+62. Ambos sistemas deben ser capaces de producir la extinción del reactor en cualquier situación operacional y accidental postulada, aún en la condición de máxima reactividad. El diseño
+debe asegurar que estos sistemas puedan llevar al conjunto crítico a parada segura y mantenerlo en ese estado durante un lapso ilimitado.
+63. El sistema de protección debe ser capaz de producir la actuación simultánea de los sistemas de extinción.
+64. Se debe garantizar la extinción del conjunto crítico, cualquiera sea la situación operacional
+en que se encuentre, en caso de ocurrencia de alguno de los siguientes sucesos:
+a. Pérdida total de suministro de energía eléctrica.
+b. Incendio interno.
+c.
+
+Inundación interna.
+
+d. Eventos externos iniciantes inherentes al lugar del emplazamiento (terremoto, tornado,
+inundación, etc.).
+e. Sucesos inducidos por el hombre.
+65. La probabilidad de falla de los sistemas de extinción considerados como un solo conjunto,
+-4
+debe ser menor a 10 por demanda.
+66. En el caso de conjuntos críticos tipo piscina se debe prevenir la caída de objetos o personas en el interior de la piscina. En el caso de caída de objetos se debe, asimismo, prevenir la
+obstrucción de los canales de refrigeración.
+67. Se deben prever barreras físicas adecuadas para prevenir el acceso libre de personas no
+autorizadas a ciertas áreas o recintos del edificio del conjunto crítico.
+68. El diseño debe prever suficiente instrumentación de indicación y registro para vigilar los
+elementos o sistemas importantes para la seguridad del conjunto crítico durante situaciones
+operacionales, accidentales postuladas y post-accidentales.
+69. Se debe prever la instalación de sistemas de alarma acústica y visual que proporcionen una
+indicación adecuada de aquellas modificaciones en las condiciones de operación del conjunto
+crítico que conduzcan a una degradación de la seguridad.
+70. Se debe prever un sistema de monitoreo de las radiaciones, que posea sensores ubicados
+convenientemente en el conjunto crítico y provistos de alarmas locales.
+71. La tasa de falla de los sistemas de alarma y monitoreo de las radiaciones debe ser inferior a
+-2
+10 por demanda.
+
+5/6
+
+NORMA 4.2.1. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 1
+
+72. Los dispositivos experimentales que se introduzcan en el conjunto crítico deben diseñarse
+con los mismos criterios de seguridad establecidos para el mismo y deben ser compatibles con
+el conjunto crítico en términos de comportamiento de materiales utilizados e integridad estructural.
+73. Los dispositivos experimentales que se introduzcan en el conjunto crítico, deben diseñarse
+de modo que se mantengan las condiciones originales para el blindaje del conjunto crítico.
+74. El diseño de dispositivos experimentales debe basarse en requisitos de seguridad aplicables a situaciones operacionales y situaciones accidentales postuladas.
+75. Los criterios N° 31, 43, 45 y 64 no son aplicables a conjuntos críticos cuyo exceso de reactividad sea tal que el período sea mayor a 20 s, en cualquier condición operativa. Para este tipo
+de conjuntos críticos , los canales de activación de los sistemas de extinción del mismo deberán ser redundantes y en lo posible diversos y diseñarse con una lógica 1 de 2 como mínimo.
+
+6/6
+
+

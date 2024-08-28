@@ -1,0 +1,204 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 6.2.1.
+
+Diseño de plantas de
+irradiación fijas con fuentes
+de irradiación móviles
+depositadas bajo agua
+
+REVISIÓN 2
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 15/03 (Boletín Oficial 5/8/03)
+
+República Argentina – 2003
+
+1/5
+
+AUTORIDAD REGULATORIA NUCLEAR
+
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires
+ARGENTINA
+Teléfono (011) 6323-1356
+Fax (011) 6323-1771/1798
+http://www.arn.gov.ar
+
+NORMA AR 6.2.1.
+
+DISEÑO DE PLANTAS DE IRRADIACIÓN FIJAS CON FUENTES
+DE IRRADIACIÓN MÓVILES DEPOSITADAS BAJO AGUA
+
+OBJETIVO
+Establecer criterios de seguridad radiológica para el diseño de plantas de irradiación fijas que
+posean fuentes de irradiación móviles.
+
+ALCANCE
+Esta norma es aplicable al diseño de plantas de irradiación fijas cuyas fuentes de irradiación
+sean móviles y se encuentren sumergidas en agua durante su posición de depósito.
+
+CUMPLIMIENTO
+El cumplimiento de la presente norma no excluye la observancia de cualquier otra norma o
+requerimiento aplicable establecido por la Autoridad Regulatoria.
+Asimismo, el cumplimiento de las normas y requerimientos de la Autoridad Regulatoria no exime de la observancia de otras normas y requerimientos no relacionados con la seguridad radiológica establecidos por otras autoridades competentes.
+
+CRITERIOS
+1. El diseño debe garantizar que durante la operación normal de la planta de irradiación los
+límites de dosis anuales establecidos por la Autoridad Regulatoria no sean superados y las
+dosis que reciban los trabajadores y los miembros del público resulten tan bajas como sea razonablemente obtenible. Además, el diseño debe prevenir adecuadamente la posibilidad de
+accidentes.
+2. Se debe demostrar que la protección radiológica de las personas y la seguridad de las fuentes de radiación se basa en el adecuado diseño de estructuras, componentes, equipos y sistemas, y no en procedimientos operativos.
+3. Los niveles de seguridad de las variables de proceso deben contemplar un margen de seguridad adecuado respecto de los límites de seguridad asociados.
+4. El diseño debe tener en cuenta las características del emplazamiento que pudieran afectar la
+integridad de los blindajes y demás estructuras, sistemas, equipos y componentes de importancia para la seguridad.
+5. Se deben identificar el recinto de irradiación y las áreas controladas, supervisadas y no reglamentadas.
+6. La sala de control debe ubicarse en un área de acceso no reglamentado pero restringido, por
+medios físicos, a personal no autorizado.
+
+1/5
+
+NORMA AR 6.2.1. DISEÑO DE PLANTAS DE IRRADIACIÓN FIJAS CON FUENTES
+DE IRRADIACIÓN MÓVILES DEPOSITADAS BAJO AGUA – REVISIÓN 2
+
+7. Se debe prever que en ningún momento el personal de la instalación se vea expuestos a una
+concentración de gases tóxicos superior a los límites establecidos en la normativa correspondiente.
+8. Se debe prever, en la selección de los materiales, la degradación que los campos intensos
+de radiación pueden producir en las estructuras, sistemas, equipos y componentes de importancia para la seguridad.
+9. Se debe prever que las tareas de mantenimiento en la instalación se puedan desarrollar
+dentro de las condiciones de seguridad radiológica requeridas.
+10. Se debe concebir y ejecutar un sistema de calidad efectivo a satisfacción de la Autoridad
+Regulatoria, particularmente en relación con las estructuras, sistemas, equipos y componentes
+de importancia para la seguridad.
+11. Los blindajes - de hormigón u otros materiales - deben ser monolíticos.
+12. La tasa de falla de los componentes de la instrumentación, alarmas y enclavamientos en
+-2
+ningún caso debe ser superior a 10 por demanda.
+13. La barrera de acceso de personas al recinto de irradiación debe permanecer enclavada
+siempre que ocurra una de las siguientes situaciones:
+a. La tasa de dosis equivalente ambiental en el recinto de irradiación supera el nivel de
+seguridad.
+b. El nivel del agua de la pileta está por debajo del nivel de seguridad.
+c.
+
+Los detectores de radiación no emiten señal.
+
+d. La fuente de irradiación no se encuentra en la posición de depósito.
+e. Se interrumpe la alimentación eléctrica a la instalación.
+Estas condiciones deben anunciarse mediante alarmas de señal acústica y luminosa. Cada uno
+de los canales correspondientes debe actuar al menos con lógica 1 de 2.
+14. El sistema que lleva la fuente de irradiación a su posición de depósito se accionará automáticamente toda vez que se viole el enclavamiento de la barrera de acceso de personas al recinto de irradiación. Dicho accionamiento incluirá una alarma por señal acústica y luminosa ubicada en la consola.
+15. Se debe disponer de un sistema que detecte mediante sistemas adecuados (v.g. rayos
+infrarrojos) el ingreso de personas al recinto de irradiación cuando la fuente de irradiación se
+aparte de su posición de depósito. Dicho sistema debe accionar automáticamente el retorno de
+la fuente a su posición de depósito.
+16. Debe existir un dispositivo de accionamiento manual ubicado perimetralmente en el recinto
+de irradiación que lleve la fuente de irradiación a su posición de depósito en el caso de ocupación indebida de este recinto.
+17. El recinto de irradiación debe permanecer a oscuras cuando la fuente de irradiación se
+encuentre en su posición de irradiación; no obstante, se deben disponer los medios que permitan la inmediata salida de personas en el caso de ocupación indebida del recinto.
+18. El diseño debe prever barreras físicas que impidan el ingreso de personas al recinto de
+irradiación por la zona de carga-descarga de material; también debe prever para el caso que se
+intente violar estas barreras, el retorno automático de la fuente de irradiación a su posición de
+depósito y la existencia de una alarma por señal acústica y luminosa.
+19. En los casos en que el recinto de irradiación no posea un laberinto de acceso a la sala de
+irradiación debe preverse la visión directa o indirecta de la fuente de irradiación.
+
+2/5
+
+NORMA AR 6.2.1. DISEÑO DE PLANTAS DE IRRADIACIÓN FIJAS CON FUENTES
+DE IRRADIACIÓN MÓVILES DEPOSITADAS BAJO AGUA – REVISIÓN 2
+
+20. El eventual arrastre de material radiactivo por el sistema de transporte del producto a ser
+irradiado debe poder detectarse mediante un monitor fijo con alarma por señal acústica y luminosa ubicada en la consola. El accionamiento de esta alarma debe causar la detención inmediata del sistema de transporte.
+21. El diseño debe asegurar que la secuencia de izado de la fuente de irradiación esté temporizada y se inicie en la sala de irradiación con el accionamiento obligatorio de un dispositivo adecuado. Dicho accionamiento debe disparar una alarma por señal acústica y luminosa detectable en el recinto de irradiación, barrera de acceso de personas y sala de comando, la cual debe
+permanecer en funcionamiento durante toda la secuencia de izado de la fuente de irradiación.
+22. El dispositivo que acciona el sistema temporizado debe ser el mismo que habilita, en la
+consola, el izado de la fuente de irradiación.
+23. El correcto cierre de la barrera de acceso de personas al recinto de irradiación debe ser
+una de las condiciones a cumplir para la secuencia de izado de la fuente de irradiación. Al respecto:
+f.
+
+Debe estar claramente identificada la posición "cerrada" de la barrera.
+
+g. Debe existir un mecanismo que asegure que la barrera no se puede abrir con la fuente
+de irradiación fuera de su posición de depósito.
+24. El diseño debe ser tal que cualquier modificación de la secuencia de izado de la fuente de
+irradiación obligue a reiniciar dicha operación.
+25. El recinto de irradiación y el área controlada deben disponer de señalización luminosa de
+advertencia durante la irradiación.
+26. En caso de resultar bloqueado el movimiento de la fuente de irradiación en alguna posición
+de su recorrido, el diseño debe prever las acciones correctivas, de modo tal que las dosis que
+reciba el personal interviniente resulten tan bajas como sea razonablemente posible.
+27. El diseño debe prever, entre otras señalizaciones, la de las posiciones de irradiación y de
+depósito de la fuente de irradiación, en la sala de comando.
+28. Deben preverse medios adecuados en lugares apropiados para llevar manualmente y de
+manera segura a la fuente de irradiación a su posición de depósito.
+29. El diseño debe prever que la instalación disponga de un sistema eléctrico de emergencia
+adecuado que alimente los sistemas, equipos y componentes de importancia para la seguridad.
+30. El diseño debe prever los medios adecuados de detección y extinción de incendios en la
+instalación para proteger la integridad de la fuente de irradiación y los sistemas de seguridad.
+31. El diseño debe prever la existencia de detectores de humo adecuados ubicados en la entrada de los conductos de extracción de aire conectados a una alarma por señal acústica y
+luminosa ubicada en la consola.
+32. En caso de utilizarse sistemas de extinción de incendios por inundación total de gas en el
+recinto de irradiación, el diseño debe prever que el funcionamiento del sistema de ventilación
+se interrumpa automáticamente.
+33. El material radiactivo contenido en la fuente de irradiación debe estar bajo forma sólida no
+dispersable.
+34. La fuente de irradiación debe contener fuentes selladas que respondan a estándares aceptables para la Autoridad Regulatoria en base a modelos que contemplen los posibles efectos
+del fuego, las explosiones, la corrosión y el uso continuo de tales fuentes.
+
+3/5
+
+NORMA AR 6.2.1. DISEÑO DE PLANTAS DE IRRADIACIÓN FIJAS CON FUENTES
+DE IRRADIACIÓN MÓVILES DEPOSITADAS BAJO AGUA – REVISIÓN 2
+
+35. Se debe prever una adecuada protección mecánica de la fuente de irradiación con el fin de
+evitar su interacción con los productos tratados y con los sistemas mecánicos en movimiento.
+36. El diseño debe prever, dentro de la instalación, el traslado, el almacenamiento. la carga y
+descarga, y el retiro de las fuentes selladas en condiciones seguras. Asimismo, debe contemplar el retiro de dichas fuentes.
+37. La pileta debe ser estanca y estar diseñada para soportar los contenedores de transporte
+de las fuentes selladas de forma tal que éstos no comprometan su integridad.
+38. Se debe prevenir un vaciamiento accidental de la pileta por fallas o incidentes operacionales.
+39. Se debe prever el mantenimiento del nivel de seguridad del agua de la pileta en forma automática.
+40. Los componentes que estén en contacto con el agua de la pileta deben fabricarse con materiales que minimicen los efectos físico-químicos que puedan deteriorar las estructuras, sistemas, equipos y componentes de importancia para la seguridad.
+41. La pileta debe estar equipada con un sistema de purificación del agua tal que la conductividad del agua no exceda los 10 µS/cm.
+42. Se debe prever una barrera física en la pileta para evitar la caída accidental de personas u
+objetos.
+
+GLOSARIO
+Área Controlada: Lugar de trabajo donde se requiere, en condiciones normales de operación,
+que los trabajadores apliquen procedimientos preestablecidos para controlar la exposición a la
+radiación o para prevenir la dispersión de la contaminación radiactiva, y en la que se requieren
+medidas específicas para prevenir exposiciones potenciales.
+Área Supervisada: Lugar de trabajo donde las condiciones radiológicas deben mantenerse
+bajo supervisión aun cuando no se requieran rutinariamente procedimientos especiales.
+Enclavamiento: Dispositivo que actúa para impedir la entrada o permanencia inadvertida de
+personas en zonas peligrosas, a fin de evitar su exposición indebida.
+Fuente de Irradiación: Conjunto de fuentes selladas montadas en un portafuentes al cual será
+expuesto el producto a irradiar.
+Fuente Sellada: Fuente radiactiva en la que el material radiactivo se halla en una o más
+cápsulas suficientemente resistentes como para prevenir el contacto y la dispersión del material
+radiactivo, bajo las condiciones de uso para la cual fue diseñada.
+Límite de Seguridad: Valor máximo que puede tomar una variable de importancia para la seguridad, sin afectar la seguridad de la instalación.
+Nivel de Seguridad: Valor especificado de las variables de proceso para el cual deben iniciarse acciones automáticas de los sistemas de seguridad.
+Ocupación Indebida: Presencia de personas en el recinto de irradiación desde que se inicia la
+secuencia de izado de la fuente de irradiación.
+Posición de Depósito: Es aquella posición de la fuente de irradiación correspondiente al límite
+inferior de su recorrido.
+
+4/5
+
+NORMA AR 6.2.1. DISEÑO DE PLANTAS DE IRRADIACIÓN FIJAS CON FUENTES
+DE IRRADIACIÓN MÓVILES DEPOSITADAS BAJO AGUA – REVISIÓN 2
+
+Posición de Irradiación: Es aquella posición de la fuente de irradiación a lo largo de su recorrido, necesaria para satisfacer una dada geometría de irradiación.
+Recinto de Irradiación: Local de la instalación destinado a la irradiación, con suficiente blindaje para limitar adecuadamente las dosis en el exterior del mismo. Incluye la sala de irradiación y
+las zonas o laberinto de acceso.
+Sala de Irradiación: Sala donde se expone el producto a tratar, a la fuente de irradiación.
+Secuencia de Izado: Conjunto de acciones y condiciones que se cumplen ordenadamente
+para llevar a la fuente de irradiación desde la posición de depósito a la posición de irradiación.
+
+5/5
+
+

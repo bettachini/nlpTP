@@ -1,0 +1,80 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 4.1.1.
+
+REVISIÓN 0
+
+Exposición ocupacional
+en reactores nucleares
+de investigación
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 37/01 (Boletín Oficial 15/1/02)
+
+República Argentina – 2002
+
+1/2
+
+NORMA AR 4.1.1.
+
+EXPOSICIÓN OCUPACIONAL EN
+REACTORES NUCLEARES DE INVESTIGACIÓN
+
+A. OBJETIVO
+1. Establecer los criterios de protección radiológica ocupacional que se deben tener en cuenta en
+el diseño.
+
+B. ALCANCE
+2. Esta norma es aplicable a las características de diseño de los reactores nucleares de investigación, relacionadas con la exposición de los trabajadores.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con
+la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Área Controlada: Lugar de trabajo donde se requiere, en condiciones normales de operación,
+que los trabajadores apliquen procedimientos preestablecidos para controlar la exposición a la
+radiación o para prevenir la dispersión de la contaminación radiactiva, y en la que se requieren
+medidas específicas para prevenir exposiciones potenciales.
+4. Concentración Derivada en Aire (DAC): Para un dado radionucleido, es el cociente entre el
+valor del límite anual de incorporación de ese radionucleido y 2500 m3 de aire.
+5. Dosis: Medida de la radiación recibida o absorbida por un órgano o cuerpo. Se utilizan, según
+el contexto, las magnitudes denominadas dosis efectiva, dosis equivalente, dosis colectiva y dosis
+efectiva comprometida. Los términos calificativos se suelen omitir cuando no son necesarios para
+precisar la magnitud de interés
+6. Dosis Equivalente Ambiental, H*(d): Dosis equivalente en la esfera ICRU1 -a la profundidad dcuando se encuentra en un campo de radiación alineado y expandido, en el radio opuesto al sentido del campo alineado. Cuando la radiación es penetrante, se adopta d = 10 milímetros.
+7. Factor de Ocupación: Fracción del año laboral (2000 horas) en la que una persona ocupa un
+determinado local.
+8. Optimización: Procedimiento para reducir tanto como sea razonablemente alcanzable, teniendo en cuenta factores sociales y económicos, la dosis colectiva originada en una Instalación o en
+una práctica.
+
+1
+
+International Commission on Radiation Units and Measurements. ICRU Report 51.
+
+1/2
+
+NORMA AR 4.1.1. EXPOSICIÓN OCUPACIONAL EN REACTORES NUCLEARES DE INVESTIGACIÓN
+
+D. CRITERIOS
+9. Las dosis anuales que reciban los trabajadores expuestos deben ser inferiores a las restricciones de dosis establecidas, y los sistemas de protección deben estar optimizados. Para verificar el
+cumplimiento de este criterio, se podrá tener en cuenta el factor de ocupación previsto para los
+distintos locales; en cambio no podrá tenerse en cuenta un eventual reemplazo de trabajadores.
+10. Debe darse preferencia a la protección radiológica lograda mediante los sistemas propios de la
+instalación, frente a la obtenible por medios operativos.
+11. La tasa de dosis equivalente ambiental en locales sin restricción de acceso para trabajadores,
+no debe exceder 3 µSv/h; en aquellos lugares donde sea superado este valor deberán preverse
+procedimientos adicionales de protección. En particular, el acceso a los locales donde la tasa de
+dosis equivalente ambiental exceda 200 µSv/h debe estar prevenido mediante una barrera física
+apropiada.
+12. En locales sin restricción de acceso, la concentración de radionucleidos en aire no excederá
+1/100 DAC.
+13. Ningún trabajador debe estar expuesto a concentraciones de radionucleidos en aire superiores
+a 1/10 DAC. En los locales donde estos valores de concentración puedan detectarse, deben preverse dispositivos para monitoreo y medios de protección adecuados.
+14. El acceso a los locales donde la concentración de radionucleidos en aire exceda 1 DAC debe
+estar prevenido por una barrera física apropiada.
+15. El diseño debe permitir el adecuado mantenimiento y las reparaciones del reactor sin que los
+trabajadores estén expuesto a tasas de dosis equivalente ambiental superiores a 200 µSv/h.
+
+2/2
+
+

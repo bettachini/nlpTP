@@ -1,0 +1,378 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 10.6.1.
+
+REVISIÓN 0
+
+Sistema de gestión para
+la seguridad en las
+instalaciones y prácticas
+
+Aprobada por Resolución del Directorio de la Autoridad Regulatoria
+Nuclear Nº 36/20 (Boletín Oficial 11/02/20).
+
+República Argentina – Impresión 2020
+
+1/8
+
+NORMA AR 10.6.1.
+SISTEMA DE GESTIÓN PARA LA SEGURIDAD EN LAS INSTALACIONES Y PRÁCTICAS - REVISIÓN 0
+
+AUTORIDAD REGULATORIA NUCLEAR
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires
+ARGENTINA
+Teléfonos (011) 6323-1300 / 5789-7600
+www.argentina.gob.ar/arn
+
+2/8
+
+NORMA AR 10.6.1.
+
+SISTEMA DE GESTIÓN PARA LA SEGURIDAD EN LAS
+INSTALACIONES Y PRÁCTICAS
+La Ley Nº 24.804, Ley Nacional de la Actividad Nuclear, establece que la Autoridad Regulatoria
+Nuclear tiene la función de regular la actividad nuclear en lo referente a temas de seguridad radiológica y nuclear, protección física y salvaguardias; y le otorga la facultad de dictar normas, de
+cumplimiento obligatorio, referentes a los temas de su incumbencia.
+
+ÍNDICE
+A. OBJETIVO
+
+3
+
+B. ALCANCE
+
+3
+
+C. EXPLICACIÓN DE TÉRMINOS
+
+3
+
+D. REQUISITOS
+
+5
+
+D.1. Responsabilidad por el sistema de gestión
+
+5
+
+D.2. Generalidades del sistema de gestión
+
+6
+
+D.3. Integración del sistema de gestión
+
+6
+
+D.4. Documentación del sistema de gestión
+
+6
+
+D.5. Provisión de los recursos
+
+7
+
+D.6. Gestión de los procesos
+
+7
+
+D.7. Gestión de la cadena de suministro
+
+8
+
+D.8. Fomento de la cultura de seguridad
+
+8
+
+D.9. Evaluación y mejora del sistema de gestión
+
+8
+
+1/8
+
+NORMA AR 10.6.1.
+SISTEMA DE GESTIÓN PARA LA SEGURIDAD EN LAS INSTALACIONES Y PRÁCTICAS - REVISIÓN 0
+
+2/8
+
+NORMA AR 10.6.1.
+SISTEMA DE GESTIÓN PARA LA SEGURIDAD EN LAS INSTALACIONES Y PRÁCTICAS - REVISIÓN 0
+
+A. OBJETIVO
+Establecer los requisitos para el desarrollo y la implementación de un sistema de gestión que contribuya a asegurar la seguridad radiológica y nuclear, la seguridad y la protección física y las salvaguardias.
+
+B. ALCANCE
+La presente norma se aplica a todas las instalaciones y prácticas que regula la Autoridad Regulatoria, de acuerdo a las atribuciones que le confiere la legislación vigente.
+El cumplimiento de esta norma y de las normas y requerimientos establecidos por la Autoridad
+Regulatoria, no exime del cumplimiento de otras normas y requerimientos establecidos por otras
+autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+Acción correctiva: acción o actividad necesaria para:
+a. Eliminar la causa de una no conformidad, y
+b. Evitar la ocurrencia o mitigar las consecuencias de eventos, previamente determinados,
+que afectan o puedan afectar a la seguridad.
+Auditoría: proceso sistemático, independiente y documentado para la obtención y la evaluación
+de evidencias de manera objetiva, con el fin de determinar el grado de cumplimiento de los requisitos.
+Cadena de suministro: diseñadores, constructores, vendedores, fabricantes, empleadores, contratistas, subcontratistas, consignatarios y transportistas. La cadena de suministro puede incluir
+partes de la organización.
+Calibración: conjunto de operaciones que establecen, en condiciones específicas, la relación
+entre los valores de magnitudes indicados por un instrumento de medida o sistema de medición, o
+los valores representados por una medida de material o un material de referencia, y los valores
+correspondientes obtenidos a partir de estándares de medición.
+Competencia: conjunto de conocimientos, habilidades, aptitudes y actitudes para desempeñarse
+en una actividad o proceso con el fin de lograr los resultados previstos.
+Corrección: acción para eliminar una no conformidad detectada.
+Cultura de seguridad: conjunto de características y actitudes de las organizaciones y las personas que asegura, como prioridad, que las cuestiones relativas a la seguridad reciben la atención
+que merecen por su importancia.
+Cultura organizacional: conjunto de normas, tradiciones, valores y actitudes que guían el comportamiento del personal y de las relaciones entre ellos.
+Eficacia: grado en el que se realizan las actividades planificadas y se logran los resultados esperados.
+Enfoque graduado: proceso o método en el que el rigor de las acciones de control y las condiciones a ser aplicadas se corresponden con el nivel de riesgos asociados, esto es con la probabilidad
+de ocurrencia y las posibles consecuencias de la pérdida de control.
+Entidad Responsable: persona humana o jurídica a la que la Autoridad Regulatoria le ha otorgado una o varias licencias, registros o autorizaciones de práctica no rutinaria.
+Evento: suceso incidental (incluidos sucesos iniciadores, precursores de accidentes y cuasi accidentes), suceso accidental o acto malicioso.
+
+3/8
+
+NORMA AR 10.6.1.
+SISTEMA DE GESTIÓN PARA LA SEGURIDAD EN LAS INSTALACIONES Y PRÁCTICAS - REVISIÓN 0
+
+Gestión del conocimiento: enfoque integrado y sistemático encaminado a identificar, gestionar y
+compartir los conocimientos de una organización, y a posibilitar que grupos de personas mantengan y creen colectivamente conocimientos para facilitar la consecución de los objetivos de la organización.
+Indicador: dato o conjunto de datos para cuantificar objetivamente la evolución de un proceso o
+de una actividad.
+Instalación: instalación nuclear, instalación radiactiva, instalación minero fabril, acelerador de
+partículas o gestionadora de residuos radiactivos.
+Liderazgo: competencia para dirigir, influenciar y comprometer a personas y grupos de personas
+hacia el logro de objetivos.
+Manual de gestión: documento que establece requisitos para el sistema de gestión de una organización.
+No conformidad: no satisfacción de un requisito.
+Objetivo: resultado a lograr.
+Organización: persona o grupo de personas que tienen sus propias funciones con responsabilidades, autoridades y relaciones para lograr sus objetivos.
+Parte interesada: persona humana o jurídica que puede afectar, verse afectada o percibirse como
+afectada por una decisión o actividad.
+Política de seguridad: orientaciones y directrices, formalmente expresadas por la Entidad Responsable, que rigen la actuación de la organización en lo relativo a la seguridad.
+Práctica: toda tarea con fuente de radiación que produzca un incremento real o potencial de la
+exposición de las personas a la radiación ionizante, o de la cantidad de personas expuestas.
+Proceso: conjunto de actividades, mutuamente relacionadas, que utilizan las entradas para proporcionar un resultado previsto.
+Punto de detención: etapa, en la secuencia de un proceso, más allá de la cual el elemento no
+puede ser procesado hasta ser liberado por la persona de la Entidad Responsable que solicita la
+detención.
+Punto de presencia: etapa, en la secuencia de un proceso, que debe ser notificada a la persona
+que realiza la inspección por parte de la Entidad Responsable, a fin de que pueda presenciar el
+desarrollo de las actividades involucradas. En el caso que dicha persona no pueda asistir, se puede avanzar hasta la próxima etapa.
+Requisito: característica exigible.
+Sistema de gestión: conjunto de elementos interrelacionados o interactuantes (sistema) destinado a establecer políticas y objetivos, y a posibilitar que se logren dichos objetivos de manera eficaz.
+Trazabilidad: capacidad para seguir la historia, la aplicación o la localización de un objeto, tal
+como producto, servicio, proceso, persona, organización, sistema o recurso.
+Validación: confirmación, mediante la provisión de evidencia objetiva, de que se han cumplido los
+requisitos para la utilización o aplicación específica prevista.
+Verificación: confirmación, mediante la provisión de evidencia objetiva, de que se han cumplido
+los requisitos especificados.
+
+4/8
+
+NORMA AR 10.6.1.
+SISTEMA DE GESTIÓN PARA LA SEGURIDAD EN LAS INSTALACIONES Y PRÁCTICAS - REVISIÓN 0
+
+D. REQUISITOS
+D.1. RESPONSABILIDAD POR EL SISTEMA DE GESTIÓN
+1. La Entidad Responsable debe establecer la política de seguridad y comunicarla en forma
+apropiada.
+2. La Entidad Responsable debe establecer objetivos, planes y estrategias consistentes con la
+política de seguridad establecida.
+3. La Entidad Responsable debe desarrollar, implementar, evaluar y mejorar en forma continua el
+sistema de gestión para la seguridad compatible con la política de seguridad.
+4. La Entidad Responsable debe:
+a. asegurar la protección de las personas y del ambiente contra los efectos nocivos de la radiación ionizante
+b. fomentar una cultura organizacional que priorice los aspectos de seguridad radiológica y
+nuclear, seguridad y protección física, y salvaguardias
+c.
+
+asegurar que todas las etapas de la vida de una instalación o práctica se desarrollan en
+condiciones de seguridad
+
+d. cumplir con las normas aplicables
+e. asegurar que todos los niveles de la organización conocen y gestionan los riesgos radiológicos y las consecuencias potenciales, según sus responsabilidades
+f.
+
+proveer los recursos y el financiamiento adecuado para todas las etapas de la vida de la
+instalación o práctica
+
+g. poseer una planificación para dar respuesta ante emergencias radiológicas y nucleares
+h. buscar la integración de los elementos del sistema de gestión.
+5. La Entidad Responsable debe:
+a. fomentar y apoyar a todo el personal en el logro de los objetivos de seguridad y el desempeño de sus tareas de forma segura
+b. involucrar a todo el personal en la mejora del desempeño del sistema de gestión
+c.
+
+comunicar en forma apropiada sus decisiones a todo el personal.
+
+6. La Entidad Responsable debe efectuar la revisión periódica de los planes y las estrategias en
+relación con los objetivos de seguridad, y tomar acciones en caso de desviación.
+7. La Entidad Responsable debe identificar las partes interesadas y definir una estrategia adecuada para interactuar con ellas.
+8. La Entidad Responsable debe asegurar que los procesos y los planes para interactuar con las
+partes interesadas son oportunos y eficaces respecto a:
+a. la comunicación de los riesgos radiológicos asociados con la operación de las instalaciones y la realización de las prácticas
+b. la comunicación de las circunstancias no previstas
+c. la difusión de la información relevante y necesaria para la seguridad
+d. la consideración de los intereses y las expectativas de las partes interesadas en los procesos de toma de decisiones relacionados con la seguridad.
+9. La Entidad Responsable debe mantener en su totalidad la responsabilidad correspondiente al
+sistema de gestión, pero puede delegar, total o parcialmente, el desarrollo y aplicación del
+mismo.
+
+5/8
+
+NORMA AR 10.6.1.
+SISTEMA DE GESTIÓN PARA LA SEGURIDAD EN LAS INSTALACIONES Y PRÁCTICAS - REVISIÓN 0
+
+D.2. GENERALIDADES DEL SISTEMA DE GESTIÓN
+10. El sistema de gestión debe reflejar los requisitos regulatorios.
+11. El sistema de gestión debe describir:
+a. las decisiones tomadas para la gestión de la organización y sus actividades
+b. las acciones planificadas y sistemáticas necesarias para proporcionar confianza en el
+cumplimiento de todos los requisitos de seguridad.
+12. El sistema de gestión debe incluir las previsiones necesarias para la resolución de conflictos
+que surjan de los procesos de toma de decisiones que afectan a la seguridad.
+13. El sistema de gestión debe definir las estructuras, los procesos, las responsabilidades y los
+canales de comunicación interna y externa de la organización.
+14. El sistema de gestión debe incluir previsiones y requisitos para la revisión independiente de los
+procesos de toma de decisiones que afectan a la seguridad.
+15. Todo cambio que pueda tener consecuencias significativas para la seguridad debe ser identificado y analizado a través del sistema de gestión, incluyendo los cambios en la organización o
+efectos acumulativos de cambios menores.
+D.3. INTEGRACIÓN DEL SISTEMA DE GESTIÓN
+16. El sistema de gestión debe integrar los elementos de seguridad radiológica y nuclear, seguridad y protección física, salvaguardias, calidad, higiene y seguridad convencional, ambientales,
+económicos, sociales, organizacionales y factores humanos, de manera tal que no se comprometa la seguridad.
+17. El sistema de gestión debe ser desarrollado y aplicado adoptando un enfoque graduado y los
+criterios utilizados se deben documentar.
+D.4. DOCUMENTACIÓN DEL SISTEMA DE GESTIÓN
+18. El sistema de gestión debe estar documentado y la documentación debe ser:
+a. controlada (disponible en el lugar, idónea para su uso y protegida)
+b. identificable y
+c. trazable.
+19. La documentación del sistema de gestión debe incluir como mínimo:
+a. la política de seguridad de la Entidad Responsable
+b. el manual de gestión de la organización
+c. la descripción de la organización y su estructura, incluyendo misiones y funciones de los
+puestos
+d. los niveles de autoridad, incluyendo las relaciones entre los que gestionan, llevan a cabo y
+evalúan los procesos
+e. la descripción del cumplimiento de los requisitos regulatorios aplicables a la organización
+f.
+
+la descripción de los canales de comunicación interna y externa
+
+g. los criterios para adoptar el enfoque graduado.
+20. La documentación debe ser preparada, revisada y aprobada por personal de la organización
+con competencias adecuadas y acceso a la información necesaria.
+21. La documentación debe ser revisada en forma periódica y las revisiones deben ser registradas.
+
+6/8
+
+NORMA AR 10.6.1.
+SISTEMA DE GESTIÓN PARA LA SEGURIDAD EN LAS INSTALACIONES Y PRÁCTICAS - REVISIÓN 0
+
+22. Los tiempos de conservación de los registros y de las muestras de materiales para ensayos se
+deben compatibilizar con los requisitos legales y los requisitos de gestión del conocimiento de
+la organización.
+23. La documentación debe incluir previsiones para evitar la omisión de inspecciones o ensayos
+relevantes para la seguridad tales como "puntos de detención" o "puntos de presencia", según
+corresponda.
+D.5. PROVISIÓN DE LOS RECURSOS
+24. La Entidad Responsable debe determinar y proveer los recursos necesarios para realizar en
+forma eficaz los planes de la organización.
+25. La Entidad Responsable, debe:
+a. asegurar que el personal esté capacitado en los requisitos del sistema de gestión
+b. evaluar la eficacia de las acciones realizadas tendientes a preservar las competencias del
+personal
+c.
+
+mantener en todo momento, y como mínimo, las competencias para:
+i.
+
+el liderazgo para la seguridad
+
+ii.
+
+fomentar una sólida cultura de seguridad
+
+iii.
+
+entender los aspectos técnicos, humanos y organizacionales relacionados específicamente con la instalación o la práctica
+
+d. gestionar como recursos el conocimiento y la información de la organización
+e. fomentar que el personal comprenda la importancia de su contribución al logro de los objetivos de seguridad de la organización.
+D.6. GESTIÓN DE LOS PROCESOS
+26. Los procesos deben estar alineados con los objetivos, los planes y las estrategias de la organización.
+27. Cada proceso debe ser desarrollado y gestionado de forma tal que:
+a. el cumplimiento de los requisitos no comprometa la seguridad
+b. la secuencia y sus interrelaciones se especifiquen
+c.
+
+la documentación soporte se documente y preserve
+
+d. la documentación sea consistente con los documentos de la organización
+e. los resultados obtenidos o la evidencia del desempeño, y la eficacia del proceso se registren.
+28. Las actualizaciones o modificaciones de los procesos, y los procesos nuevos se deben diseñar, verificar, validar cuando sea pertinente, aprobar y aplicar de forma tal que no se comprometa la seguridad.
+29. Las actividades de evaluación, inspección, ensayo, verificación y validación, así como sus
+criterios de aceptación y los responsables de llevar a cabo esas actividades deben estar especificados.
+30. Todo proceso que puede tener consecuencias para la seguridad se debe realizar bajo condiciones controladas. Se deben aplicar procedimientos, instrucciones y planos aprobados y actualizados, los cuales deben ser validados antes de su primer uso y revisados periódicamente
+por personal autorizado en el sistema de gestión.
+31. Todo equipo de medición, monitoreo o ensayo que puede afectar a la seguridad debe:
+a. contar con una identificación, incluyendo su estado
+b. estar calibrado o verificado, a intervalos especificados
+
+7/8
+
+NORMA AR 10.6.1.
+SISTEMA DE GESTIÓN PARA LA SEGURIDAD EN LAS INSTALACIONES Y PRÁCTICAS - REVISIÓN 0
+
+c.
+
+estar protegido contra ajustes, daño o deterioro
+
+d. ser apropiado para el tipo de aplicación prevista.
+D.7. GESTIÓN DE LA CADENA DE SUMINISTRO
+32. La Entidad Responsable debe conservar la responsabilidad por la seguridad cuando se subcontrata cualquier proceso y cuando se recibe cualquier elemento, producto o servicio.
+33. La Entidad Responsable debe especificar en forma apropiada los elementos, productos o servicios requeridos, y evaluar, luego de su recepción, si satisfacen los requisitos establecidos.
+34. El sistema de gestión debe incluir mecanismos para evaluar, calificar, y llevar a cabo auditorías a la cadena de suministro y a los procesos de selección y contratación de proveedores.
+D.8. FOMENTO DE LA CULTURA DE SEGURIDAD
+35. La Entidad Responsable debe promover y mantener una sólida cultura de seguridad en todos
+los niveles de la organización, basada en:
+a. un entendimiento común de la seguridad, con toma de conciencia sobre los riesgos radiológicos y los peligros relacionados con el trabajo y el ambiente de trabajo y con un compromiso colectivo con la seguridad
+b. la responsabilidad por actitudes y conductas respecto a la seguridad
+c.
+
+la confianza, la colaboración, la consulta y la comunicación sobre todos los aspectos que
+pueden incidir en la seguridad
+
+d. una actitud cuestionadora y de aprendizaje respecto a la seguridad.
+D.9. EVALUACIÓN Y MEJORA DEL SISTEMA DE GESTIÓN
+36. La Entidad Responsable debe utilizar indicadores apropiados para cuantificar y evaluar la eficacia del sistema de gestión a fin de fortalecer el desempeño en la seguridad, minimizar la
+ocurrencia de eventos que impactan en la seguridad e identificar oportunidades de mejora.
+37. La Entidad Responsable debe asegurar:
+a. la evaluación y gestión de las no conformidades de los procesos y de los eventos que impactan en la seguridad
+b. la implementación de las correcciones y acciones correctivas en tiempo y forma
+c.
+
+el seguimiento y evaluación de la eficacia de las acciones correctivas y las correcciones
+
+d. el correspondiente reporte a los niveles apropiados de la organización.
+38. La Entidad Responsable debe asegurar que se realizan, en forma periódica, autoevaluaciones
+y evaluaciones independientes del sistema de gestión para evaluar su eficacia e identificar las
+oportunidades de mejora.
+39. La Entidad Responsable debe definir las responsabilidades y competencias y designar al responsable de las autoevaluaciones y las evaluaciones independientes del sistema de gestión,
+según corresponda.
+40. El sistema de gestión se debe evaluar considerando:
+a. las lecciones aprendidas de la experiencia y de los eventos ocurridos dentro y fuera de la
+organización
+b. la identificación de buenas prácticas
+c. los avances tecnológicos y los resultados de investigación y desarrollo.
+41. La Entidad Responsable debe asegurar que se realizan autoevaluaciones y evaluaciones independientes sobre el liderazgo para la seguridad y la cultura de seguridad. Los resultados de
+esas autoevaluaciones y evaluaciones independientes deben ser analizados y comunicados
+internamente a todos los niveles de la organización.
+
+8/8
+
+

@@ -1,0 +1,119 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 3.2.1.
+
+REVISIÓN 2
+
+Criterios generales
+de seguridad para
+el diseño de reactores
+nucleares de potencia
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 41/01 (Boletín Oficial Nº 29.834)
+
+República Argentina – 2002
+
+1/3
+
+NORMA AR 3.2.1.
+
+CRITERIOS GENERALES DE SEGURIDAD PARA
+EL DISEÑO DE REACTORES NUCLEARES DE POTENCIA
+
+A. OBJETIVO
+1. Establecer las condiciones generales a las que debe ajustarse el diseño de reactores nucleares
+de potencia.
+
+B. ALCANCE
+2. Esta norma es aplicable al diseño de reactores nucleares de potencia del tipo térmico.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con
+la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Criterio de la Falla Única: Criterio para diseñar un sistema de manera tal que admita la ocurrencia de una única falla en cualquier subsistema o componente del mismo, sin que por ello deje
+de prestar la función que le compete.
+4. Extinción del Reactor: Proceso mediante el cual el núcleo del reactor es llevado al estado
+subcrítico, permaneciendo en este estado con un margen suficiente de antirreactividad durante un
+intervalo de tiempo apropiado.
+5. Falla Dependiente: Falla que puede ocurrir en uno o más componentes, equipos o sistemas y
+que depende de la falla de otros componentes, equipos o sistemas, o de una única causa.
+6. Función de Seguridad: Función destinada a lograr un objetivo específico con fines de seguridad.
+7. Funcionamiento Normal: Operación de una Instalación Clase I dentro de límites y condiciones
+operacionales especificadas, incluidos el estado de parada, el funcionamiento en régimen, la parada, la puesta en marcha, el mantenimiento, las pruebas y , en el caso de reactores nucleares la
+recarga de combustible.
+8. Incidente Operacional: Proceso operacional que produce una alteración del funcionamiento
+normal, pero que, debido a la existencia de características de diseño apropiadas, no ocasiona
+daños significativos a los elementos de importancia para la seguridad ni conduce a situaciones
+accidentales.
+9. Límite de Seguridad: Valor máximo que puede tomar una variable de importancia para la seguridad, sin afectar la seguridad del reactor nuclear de potencia.
+10. Parada Segura: Estado en el cual el reactor se mantiene extinguido y adecuadamente refrigerado, durante un intervalo de tiempo apropiado.
+
+1/3
+
+NORMA AR 3.2.1. CRITERIOS GENERALES DE SEGURIDAD PARA EL DISEÑO
+DE REACTORES NUCLEARES DE POTENCIA
+
+11. Redundancia: Provisión de dos o más sistemas -idénticos o diversos- independientes entre sí,
+cada uno de los cuales puede llevar a cabo una misma función.
+12. Segregación: Separación física entre componentes o subsistemas de un sistema, mediante
+barreras adecuadas que incluyen el simple alejamiento entre ellos.
+13. Sistema de Seguridad: Sistema que lleva a cabo una función de seguridad para prevenir o
+mitigar las consecuencias resultantes de una falla, mal función o mala operación.
+14. Situación Operacional: Situación definida como Funcionamiento Normal o Incidente Operacional.
+
+D. CRITERIOS
+15. Deben identificarse y analizarse las eventuales fallas y secuencias accidentales del reactor
+nuclear de potencia que impliquen riesgos radiológicos, y deben proveerse las funciones de seguridad necesarias, todo lo cual permita cumplir con la norma AR 3.1.3. "Criterios Radiológicos Relativos a Accidentes en Reactores Nucleares de Potencia".
+16. El reactor y sus sistemas asociados deben diseñarse y construirse de manera que siempre se
+pueda efectuar rápidamente la extinción del reactor y mantenerlo en estado de parada segura.
+17. Se debe contemplar la adecuada aplicación del concepto de "Defensa en Profundidad", es
+decir la interposición de múltiples barreras físicas y consecutivos niveles de protección entre el
+material radiactivo del núcleo del reactor y las personas (trabajadores y miembros del público) con
+el objeto de asegurar la protección de éstas.
+18. Se debe minimizar la sensibilidad frente a fallas que puedan preverse. En orden decreciente de
+preferencia, las consecuencias resultantes de una falla, mal función o mala operación deben:
+a. No producir un cambio significativo en el funcionamiento normal del reactor.
+b. Producir un cambio en el estado del reactor llevándolo a una condición segura.
+c.
+
+Transformarse en condición segura por la acción de sistemas de seguridad continuamente
+en funcionamiento.
+
+d. Transformarse en condición segura por la acción de sistemas de seguridad que deben entrar en servicio en respuesta a la situación.
+19. Cada parámetro relacionado con la seguridad debe mantenerse por debajo de su límite de
+seguridad, aún en un incidente operacional o en una secuencia de fallas.
+20. En estructuras, sistemas y componentes importantes para la seguridad deben contemplarse
+márgenes adecuados para cubrir las incertidumbres de los datos y de los métodos de diseño.
+21. Las estructuras, sistemas y componentes importantes para la seguridad deben ser , hasta
+donde resulte practicable, inherentemente seguros. Se debe asegurar que puedan probarse en
+condiciones por lo menos tan severas como las que se prevean para la operación.
+22. Se debe cumplir con el criterio de la falla única, de modo que una falla cualquiera no produzca
+consecuencias radiológicas, ni evite el funcionamiento adecuado de los sistemas de seguridad en
+caso de demanda.
+23. La probabilidad de ocurrencia de fallas dependientes debe reducirse a valores tan bajos como
+resulte practicable, mediante una adecuada redundancia y segregación.
+
+2/3
+
+NORMA AR 3.2.1. CRITERIOS GENERALES DE SEGURIDAD PARA EL DISEÑO
+DE REACTORES NUCLEARES DE POTENCIA
+
+24. Las estructuras, sistemas y componentes importantes para la seguridad deben ser diseñados,
+manufacturados y construidos según normas de ingeniería adecuadas para satisfacer la confiabilidad implicada en el criterio N° 15 teniendo en cuenta la provisión de redundancia cuando ello sea
+necesario. Las normas de ingeniería y el sistema de calidad empleados deben ser identificados.
+25. Las estructuras, sistemas y componentes importantes para la seguridad deben poderse monitorear, probar funcionalmente e inspeccionar durante el servicio. En los casos en que esto no sea
+factible, debe demostrarse que la deficiencia está compensada por provisiones adicionales de
+diseño.
+26. Se debe asegurar que el operador disponga en todo momento de la información necesaria
+para poder tomar decisiones relacionadas con la seguridad.
+27. Se debe asegurar que durante el desarrollo de secuencias accidentales y por un lapso apropiado después de la ocurrencia del evento iniciante, la acción del operador no debe ser indispensable para mantener la seguridad.
+28. El operador debe poder siempre tomar medidas para remediar una situación que afecte la
+seguridad; pero el operador nunca debe poder impedir el funcionamiento necesario de los sistemas de seguridad.
+29. Se debe prevenir, mediante medidas adecuadas de diseño, la modificación no autorizada de
+estructuras, sistemas y componentes importantes para la seguridad.
+
+3/3
+
+

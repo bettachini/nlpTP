@@ -1,0 +1,155 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 4.8.2.
+
+REVISIÓN 1
+
+Pruebas preliminares
+y puesta en marcha
+de reactores de
+investigación
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 18/02 (Boletín Oficial 22/7/02)
+
+República Argentina – 2002
+1/3
+
+NORMA AR 4.8.2
+
+PRUEBAS PRELIMINARES Y PUESTA EN MARCHA
+DE REACTORES DE INVESTIGACIÓN
+
+A. OBJETIVO
+1. Establecer los criterios generales que se deben cumplir en las pruebas preliminares y en la
+puesta en marcha.
+
+B. ALCANCE
+2. La presente norma es aplicable a reactores de investigación.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Construcción: Proceso que comprende la ejecución de obras civiles de una instalación
+Clase I, el montaje de sus componentes, equipos y sistemas, así como la realización de las
+pruebas respectivas. Tal ejecución excluye los trabajos de preparación y excavación del sitio
+del emplazamiento, y se considera iniciada cuando se procede a la colada de hormigón correspondiente.
+4. Entidad Responsable: Titular de las licencias de una instalación Clase I.
+5. Licencia: Documento por medio del cual la Autoridad Regulatoria autoriza, bajo ciertas condiciones, la operación de una instalación o la ejecución de una dada etapa de la vida de dicha
+instalación. Estas etapas pueden ser la construcción, puesta en marcha, retiro de servicio o
+cualquier otra que la Autoridad Regulatoria juzgue necesario licenciar.
+6. Licencia de Puesta en Marcha: Documento por medio del cual la Autoridad Regulatoria
+autoriza a la Entidad Responsable de una instalación nuclear Clase I, bajo ciertas condiciones,
+a que inicie las actividades de puesta en marcha de la misma.
+7. Pruebas Preliminares: Conjunto de pruebas realizadas en una instalación Clase I o Clase II
+antes de la recepción o montaje de aquellos materiales o dispositivos previstos en el diseño
+que generen o sean capaces de generar radiaciones ionizantes, y planificadas para comprobar
+que, previo a la puesta en marcha, los componentes, equipos y sistemas cumplen con sus bases originales de diseño y con los criterios de performance pertinentes.
+8. Puesta en Marcha: Conjunto de pruebas realizadas en una instalación Clase I o Clase II
+después de la recepción o montaje de aquellos materiales o dispositivos previstos en el diseño
+que generen o sean capaces de generar radiaciones ionizantes, y planificadas para comprobar
+que la instalación reúne todas las condiciones para su operación en condiciones de seguridad.
+9. Sistema de Calidad: Conjunto de actividades planificadas y desarrolladas para asegurar el
+nivel de calidad de una instalación o práctica.
+
+1/3
+
+NORMA AR 4.8.2. PRUEBAS PRELIMINARES Y PUESTA EN MARCHA
+DE REACTORES DE INVESTIGACIÓN – REVISIÓN 1
+
+D. CRITERIOS
+10. La puesta en marcha de un reactor de investigación debe considerarse iniciada al recibirse
+el combustible nuclear en la instalación; las pruebas preliminares, en cambio, están comprendidas en la etapa de construcción de la misma.
+11. No puede iniciarse la puesta en marcha de un reactor de investigación sin la previa licencia
+de puesta en marcha solicitada por la Entidad Responsable y otorgada por la Autoridad Regulatoria.
+12. La Entidad Responsable de un reactor de investigación debe establecer un programa de
+pruebas preliminares, un programa de puesta en marcha y una organización que los ponga en
+práctica. Los programas y la descripción de la organización deben ser remitidos a la Autoridad
+Regulatoria, de acuerdo al cronograma y requisitos mínimos establecidos en la Norma AR 4.7.1
+“Cronograma de la Documentación a Presentar Antes de la Operación de un Reactor de Investigación”.
+13. La Entidad Responsable es responsable de coordinar y controlar tanto las pruebas preliminares como la puesta en marcha, pudiendo delegar total o parcialmente la ejecución de las
+mismas, sin perjuicio de mantener en su totalidad la responsabilidad que le corresponde.
+14. La Entidad Responsable debe asignar formalmente las responsabilidades para los ensayos
+de los distintos componentes equipos y sistemas, identificando las personas que tienen asignadas tales responsabilidades, asegurando tanto una adecuada coordinación temporal y funcional como la disponibilidad de los recursos necesarios, y fijando la calificación requerida del
+personal involucrado.
+15. Deben establecerse un sistema de calidad de las actividades comprendidas en las pruebas
+preliminares y en la puesta en marcha que satisfagan, con una adecuada gradación, los criterios de la Norma AR 3.6.1. “Sistema de Calidad”.
+16. El programa de pruebas preliminares y el programa de puesta en marcha deben formularse
+de modo que los objetivos, los métodos, las condiciones y los criterios de aceptación de las
+pruebas de componentes, equipos y sistemas estén clara y explícitamente especificados.
+17. El programa de pruebas preliminares debe demostrar que tales pruebas permitirán verificar
+el cumplimiento, por parte de los componentes, equipos y sistemas de la instalación que correspondan en esta etapa, de los requerimientos y objetivos de diseño incorporados al informe
+de seguridad.
+18. El programa de puesta en marcha debe permitir demostrar que se cumplirán los objetivos
+de diseño de todos los componentes, equipos y sistemas, que la instalación operará en condiciones de seguridad -tanto en funcionamiento normal como en incidentes operacionales- y que
+funcionarán adecuadamente los sistemas destinados a enfrentar situaciones accidentales.
+Pruebas Preliminares
+19. El programa de pruebas preliminares debe enumerar todas las pruebas que sean necesarias para demostrar que el reactor de investigación ha sido diseñado y construido de modo tal
+que podrá ser operado en condiciones adecuadas de seguridad.
+20. El programa de pruebas preliminares debe estar dividido en etapas, especificando qué grupo de pruebas debe completarse en cada etapa y qué aprobaciones son necesarias para empezar la etapa siguiente. El programa debe también prever las acciones correctivas ante deficiencias que puedan encontrarse como resultado de las pruebas preliminares.
+21. El programa de pruebas preliminares debe prever un examen y análisis inicial para asegurar que la construcción y montaje de estructuras, componentes, equipos y sistemas se realizará
+de acuerdo con los requerimientos del diseño y las especificaciones pertinentes.
+
+2/3
+
+NORMA AR 4.8.2. PRUEBAS PRELIMINARES Y PUESTA EN MARCHA
+DE REACTORES DE INVESTIGACIÓN – REVISIÓN 1
+
+22. La Entidad Responsable debe asegurar la adecuada interfaz entre el montaje de componentes, equipos y sistemas, y las pruebas preliminares, facilitando en particular el cumplimiento
+del criterio N° 13; y debe asegurar, también, el adecuado traspase de la información pertinente
+al plantel de operación.
+23. La Entidad Responsable debe identificar una organización que esté a cargo de las pruebas
+preliminares, la que debe estar compuesta y dirigida por personas que acrediten conocimientos
+y experiencia adecuados para cada una de las funciones.
+Puesta en Marcha
+24. La Entidad Responsable debe establecer un comité “ad hoc" para la puesta en marcha
+integrado por personas calificadas y con experiencia en el diseño, construcción, puesta en
+marcha y operación de reactores de investigación.
+25. El programa de puesta en marcha debe estar dividido en etapas las que, como mínimo, son
+las siguientes:
+a. Carga de combustible, moderador y reflector.
+b. Pruebas de los sistemas de refrigeración.
+c.
+
+Pruebas de los núcleos subcríticos.
+
+d. Pruebas del núcleo de primera criticidad.
+e. Pruebas del núcleo de arranque.
+f.
+
+Pruebas a potencia creciente.
+
+g. Pruebas a la máxima potencia autorizada.
+Antes de pasar de una etapa a la siguiente la Entidad Responsable debe efectuar una revisión
+adecuada de los resultados de la etapa previa y contar con la aprobación del comité “ad hoc".
+26. La información obtenida a partir de las pruebas de puesta en marcha debe permitir demostrar que no existen diferencias relevantes entre los parámetros reales del reactor y los utilizados
+en el informe de seguridad, y que se confirman las hipótesis usadas para predecir el comportamiento del reactor en situaciones operacionales y accidentales.
+27. El programa de puesta en marcha debe prever la verificación, mediante pruebas, de que los
+procedimientos operativos para todas las situaciones previstas de la instalación son apropiados
+y de que los límites de operación establecidos son adecuados y practicables.
+28. El programa de puesta en marcha debe describir los aspectos de seguridad adoptados los
+que, como mínimo, deben cubrir:
+a. La garantía de que, como mínimo, las dos primeras configuraciones del núcleo sean
+subcríticas, aún en la condición más reactiva.
+b. La existencia de un plan de emergencia específico destinado a mitigar eventuales accidentes durante la puesta en marcha.
+c.
+
+El adecuado funcionamiento de los sistemas de alarma destinados a alertar sobre un
+incremento indebido de flujo neutrónico durante la carga de combustible y moderador o
+reflector.
+
+d. La verificación del tiempo de actuación del sistema de extinción previo al núcleo de
+primera criticidad y adecuación de los criterios de fijación de los niveles de disparo correspondientes a los canales de activación del sistema de protección.
+e. La verificación de que en el núcleo de arranque se cumplen los requerimientos impuestos al sistema de extinción.
+f.
+
+La verificación del correcto funcionamiento de los sistemas de refrigeración en cada
+modo de operación.
+
+g. La verificación del caudal efectivo a través del núcleo.
+h. La verificación de que no se supere la máxima potencia autorizada.
+
+3/3
+
+

@@ -1,0 +1,115 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 0.0.1.
+
+REVISIÓN 2
+
+Licenciamiento
+de instalaciones
+Clase I
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 39/01 (Boletín Oficial 22/1/02)
+
+República Argentina – 2002
+
+1/3
+
+NORMA AR 0.0.1.
+
+LICENCIAMIENTO DE
+INSTALACIONES CLASE I
+
+A. OBJETIVO
+1. Establecer las condiciones generales a las que deben ajustarse la construcción, la puesta en
+marcha, la operación y el retiro de servicio de instalaciones Clase I (o instalaciones relevantes),
+el alcance de la responsabilidad de la Entidad Responsable y las relaciones que deberán establecerse a esos fines entre la Autoridad Regulatoria y la Entidad Responsable.
+
+B. ALCANCE
+2. Esta norma es aplicable a la construcción, puesta en marcha, la operación y el retiro de servicio de instalaciones Clase I.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Acelerador de Partículas: Instalación que cuenta con un dispositivo tecnológico que acelera partículas cargadas y utiliza las radiaciones ionizantes producidas con fines científicos, industriales o médicos.
+4. Construcción: Proceso que comprende la ejecución de obras civiles de la instalación Clase
+I, el montaje de sus componentes, equipos y sistemas, así como la realización de las pruebas
+respectivas. Tal ejecución excluye los trabajos de preparación y excavación del sitio del emplazamiento, y se considera iniciada cuando se procede a la colada de hormigón correspondiente.
+5. Entidad Responsable: Titular de las licencias de una instalación Clase I.
+6. Instalación: Instalación Nuclear, Instalación Radiactiva, Instalación Minero Fabril o Acelerador de Partículas.
+7. Instalación Clase I: Instalación o práctica que requiere un proceso de licenciamiento de
+más de una etapa. Comprende las siguientes subclases:
+1. Reactores Nucleares de Potencia
+2. Reactores Nucleares de Producción e Investigación.
+3. Conjuntos Críticos.
+4. Instalaciones nucleares con potencial de criticidad.
+5. Aceleradores de Partículas con E>1 MeV (excepto los aceleradores de uso médico).
+6. Plantas de Irradiación.
+
+1/3
+
+NORMA AR 0.0.1. LICENCIAMIENTO DE INSTALACIONES CLASE I
+
+7. Plantas de producción de fuentes radiactivas abiertas o selladas.
+8. Gestionadora de Residuos Radiactivos.
+9. Instalaciones Minero Fabriles que incluyen el sitio de disposición final de los residuos
+radiactivos generados en su operación.
+8. Instalación Minero Fabril: Instalación destinada a la extracción y concentración de minerales que contienen radionucleidos de la serie del uranio o de la serie del torio, a los efectos de
+producir concentrado de uranio o de torio, y que puede incluir el sitio de disposición final de
+residuos radiactivos provenientes de esa producción.
+9. Instalación Nuclear: Instalación donde se procesa, manipula, almacena transitoriamente o
+utiliza material fisionable, excluyendo Instalaciones Minero Fabriles.
+10. Instalación Radiactiva: Instalación donde se procesa, manipula, almacena transitoriamente o utiliza material radiactivo no fisionable.
+11. Instalación Relevante: Toda Instalación clasificada en la Clase I.
+12. Licencia de Construcción: Documento por medio del cual la Autoridad Regulatoria autoriza a la Entidad Responsable, bajo ciertas condiciones, para que inicie la construcción de una
+instalación Clase I.
+13. Licencia de Operación: Documento por medio del cual la Autoridad Regulatoria autoriza a
+la Entidad Responsable, bajo ciertas condiciones, para que opere una instalación Clase I.
+14. Licencia de Puesta en marcha: Documento por medio del cual la Autoridad Competente
+autoriza a la Entidad Responsable de una instalación nuclear Clase I, bajo ciertas condiciones,
+a que inicie las actividades de puesta en marcha de la misma.
+15. Licencia de Retiro de Servicio: Documento por medio del cual la Autoridad Regulatoria
+autoriza a la Entidad Responsable, bajo ciertas condiciones, para que lleve a cabo todas las
+etapas necesarias hasta alcanzar el retiro de servicio de una instalación Clase I.
+16. Responsable Primario: Persona que asume la responsabilidad directa por la seguridad
+radiológica de una Instalación Clase I.
+17. Retiro de Servicio: Proceso en virtud del cual se lleva a cabo el cierre definitivo de una
+instalación Clase I, a los efectos de posibilitar el uso irrestricto del sitio de su emplazamiento.
+
+D. CRITERIOS
+18. No podrá iniciarse la construcción, la puesta en marcha, la operación o el retiro de servicio
+de una instalación Clase I sin una previa licencia de construcción, de puesta en marcha, de
+operación o de retiro de servicio, según corresponda, solicitada por la Entidad Responsable y
+otorgada por la Autoridad Regulatoria.
+19. La Entidad Responsable es la organización responsable por la seguridad radiológica y nuclear de una instalación Clase I. Esa responsabilidad implica además que la Entidad Responsable debe hacer todo lo razonable y compatible con sus posibilidades a favor de la seguridad
+de la instalación Clase I cumpliendo, como mínimo, las normas y requerimientos de la Autoridad Regulatoria. Esta responsabilidad se extiende al desarrollo de la instalación Clase I comprendiendo las etapas de diseño, construcción, puesta en marcha, operación y retiro de
+servicio.
+20. El cumplimiento de las normas y requerimientos no exime a la Entidad Responsable de su
+responsabilidad por la seguridad radiológica y nuclear de la instalación Clase I.
+
+2/3
+
+NORMA AR 0.0.1. LICENCIAMIENTO DE INSTALACIONES CLASE I
+
+21. La Entidad Responsable podrá delegar total o parcialmente la ejecución de tareas necesarias para la seguridad radiológica y nuclear de una instalación Clase I, pero mantendrá en su
+totalidad la responsabilidad correspondiente.
+22. La vigencia de una licencia referente a una instalación Clase I está supeditada al cumplimiento -por parte de la Entidad Responsable- de las condiciones estipuladas en la misma, de
+las normas dictadas por la Autoridad Regulatoria y de los requerimientos emitidos por esta
+autoridad. La inobservancia de uno o más de estos requisitos podrá ser causal para que la
+Autoridad Regulatoria proceda a suspender o cancelar la vigencia de la licencia de que se trate.
+23. Todo cambio en la organización de la Entidad Responsable que pueda afectar su capacidad para afrontar las responsabilidades que se han definido anteriormente requerirá, para que
+las licencias de las instalaciones Clase I afectadas mantengan su vigencia, una aprobación
+formal de la Autoridad Regulatoria.
+24. La Entidad Responsable designará al Responsable Primario de una instalación Clase I,
+quien será el responsable directo de la seguridad radiológica y nuclear, así como del cumplimiento de las licencias, normas y requerimientos. La Entidad Responsable prestará al Responsable Primario todo el apoyo que necesite y realizará una supervisión adecuada para
+garantizar que la instalación Clase I se opere en condiciones seguras y conforme a los términos de la licencia de operación.
+25. Previamente a la solicitud de una licencia, la Entidad Responsable presentará a la Autoridad
+Regulatoria, con la antelación que ésta determine, la documentación técnica necesaria para que
+tal autoridad pueda evaluar la seguridad radiológica y nuclear de la instalación Clase I.
+26. Las licencias de construcción y de puesta en marcha determinarán las etapas cuya iniciación esté condicionada al consentimiento expreso de la Autoridad Regulatoria. En tales oportunidades la prosecución de la construcción o de la puesta en marcha de la instalación Clase I
+quedará sujeta al cumplimiento de los requerimientos que para cada caso establezca la Autoridad Regulatoria.
+
+3/3
+
+

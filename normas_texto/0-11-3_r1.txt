@@ -1,0 +1,152 @@
+NORMA AR 0.11.3. REENTRENAMIENTO DE PERSONAL DE INSTALACIONES RELEVANTES
+
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 0.11.3.
+
+REVISIÓN 1
+
+Reentrenamiento
+de personal
+de instalaciones
+Clase I
+
+Aprobada en la Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 36/01 (Boletín Oficial 15/1/02)
+
+República Argentina - 2002
+
+1/3
+
+NORMA AR 0.11.3. REENTRENAMIENTO DE PERSONAL DE INSTALACIONES RELEVANTES
+
+NORMA AR 0.11.3.
+
+REENTRENAMIENTO DE PERSONAL DE
+INSTALACIONES CLASE I
+
+A. OBJETIVO
+1. Establecer los requisitos que debe cumplir la Entidad Responsable de una instalación Clase I
+para el reentrenamiento de personal.
+
+B. ALCANCE
+2. Esta norma es aplicable al personal que desempeñe una función especificada en una instalación Clase I.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con
+la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Autorización Específica: Certificado, expedido por la Autoridad Regulatoria, por el que se autoriza a una persona, que posee Licencia Individual, a ejercer una función especificada, en una
+Instalación Clase I determinada.
+4. Entidad Responsable: Titular de las licencias de una Instalación Clase I.
+5 Función Especificada: Conjunto de tareas necesarias para la operación de una dada instalación Clase I, cuyo desempeño implica tomar decisiones que podrían incidir sobre la seguridad de
+esa instalación.
+6. Instalación: Instalación Nuclear, Instalación Radiactiva, Instalación Minero Fabril o Acelerador
+de Partículas.
+7. Instalación Clase I: Instalación o práctica que requiere un proceso de licenciamiento de más de
+una etapa.
+8. Reentrenamiento: Realización periódica de cursos y prácticas, por parte del personal que desempeña funciones especificadas en una instalación Clase I determinada, con el objeto de mantener actualizados sus conocimientos y aptitudes para el eficaz desempeño de sus funciones, principalmente ante situaciones no rutinarias incluyendo las accidentales postuladas.
+
+D. CRITERIOS
+D.1. Generales
+9. La Entidad Responsable debe asegurar un adecuado reentrenamiento del personal que desempeña funciones especificadas en una instalación Clase I.
+
+1/3
+
+NORMA AR 0.11.3. REENTRENAMIENTO DE PERSONAL DE INSTALACIONES CLASE I
+
+10. La Entidad Responsable debe proponer a la Autoridad Regulatoria -durante el primer trimestre
+de cada año calendario- la nómina del personal que será reentrenado durante ese año, así como
+el programa de reentrenamiento correspondiente. La propuesta original podrá ser modificada por
+la Entidad Responsable, en caso de ser necesario.
+11. El programa de reentrenamiento debe contener la lista de los cursos que se dictarán durante el
+año calendario para cada función especificada, sus respectivos cronogramas, el temario a
+desarrollarse en cada uno de tales cursos y los docentes designados para el dictado y evaluación
+de los mismos.
+12. La Entidad Responsable llevará a cabo el reentrenamiento del personal que proponga en el
+año calendario. Cuando así lo considere la Autoridad Regulatoria requerirá la inclusión de temas
+adicionales específicos, la ampliación de la nómina de personal a ser reentrenado o modificar la
+nómina de docentes e instructores propuestos.
+13. El temario de los cursos de reentrenamiento debe incluir, como mínimo, los siguientes temas:
+•
+
+Revisión y actualización de conceptos teóricos básicos sobre las características técnicas
+de la instalación Clase I, y de aspectos prácticos sobre su funcionamiento.
+
+•
+
+Análisis de las modificaciones que se hubieren realizado en estructuras, componentes,
+equipos o sistemas importantes para la seguridad.
+
+•
+
+Estudio de cambios que se hubieren producido en la documentación mandatoria.
+
+•
+
+Revisión del procedimiento o plan de emergencia y análisis de los resultados de su aplicación durante simulacros.
+
+•
+
+Análisis de las situaciones de apartamiento de las condiciones normales de operación que
+produzcan o puedan producir una exposición injustificada a la radiación, que hubieren ocurrido últimamente en la propia instalación, o en otras instalaciones semejantes (nacionales
+o extranjeras).
+
+•
+
+Estudio de las situaciones de apartamiento de las condiciones normales de operación previsibles que pudieren ocurrir en la instalación, incluyendo el análisis de los eventos iniciantes, de las acciones preventivas y correctivas a seguir en cada caso, y de las eventuales
+consecuencias radiológicas.
+
+•
+
+Conceptos sobre cultura de la seguridad, incluyendo el análisis y discusión de casos prácticos que permitan el desarrollo de actitudes positivas hacia la seguridad y la prioridad de
+esta última frente a otras cuestiones.
+
+14. Las tareas destinadas a impartir experiencia práctica a ser efectuadas en instalaciones Clase I
+-excepto reactores nucleares de potencia- serán determinadas por la Entidad Responsable acorde
+con las características de dichas instalaciones.
+
+D.2. Específicos y Adicionales para Reactores Nucleares de Potencia
+15. Cuando un reactor nuclear de potencia no cuente con simuladores de "escala completa" ("fullscope" en idioma inglés), las prácticas podrán realizarse en simuladores de reactores semejantes,
+a satisfacción de la Autoridad Regulatoria.
+16. Las prácticas en los simuladores se realizarán en forma periódica; la frecuencia, extensión y
+temario de estas prácticas deben ser propuestos por la Entidad Responsable, y aceptados por la
+Autoridad Regulatoria.
+17. Las prácticas realizadas en simuladores deben contemplar, principalmente, la simulación de
+situaciones de apartamiento de las condiciones normales de operación que produzcan o puedan
+producir una exposición injustificada a la radiación en un reactor nuclear de potencia, así como
+ejercicios de los procedimientos operativos de emergencia.
+
+2/3
+
+NORMA AR 0.11.3. REENTRENAMIENTO DE PERSONAL DE INSTALACIONES CLASE I
+
+18. Para el caso del personal de un reactor nuclear de potencia que desempeña una función especificada, el programa de reentrenamiento correspondiente debe incluir -además de lo requerido
+en los criterios Nº 12 y Nº 13- prácticas en los circuitos de prueba y maquetas pertenecientes al
+mismo reactor.
+19. El personal que haya realizado prácticas en simuladores o en circuitos de prueba y maquetas
+de una reactor nuclear de potencia deberá ser evaluado por instructores calificados. La nómina de
+estos instructores deberá contar con la aceptación de la Autoridad Regulatoria.
+
+D.3. Evaluaciones del Personal Reentrenado
+D.3.1. Evaluaciones del Personal Reentrenado de Instalaciones Clase I, excepto
+Reactores Nucleares de Potencia.
+20. Al término del reentrenamiento, y dentro del año calendario, la Entidad Responsable debe
+efectuar una evaluación del personal reentrenado, para lo cual constituirá una mesa examinadora
+a satisfacción de la Autoridad Regulatoria. En los casos que así lo considere, la Autoridad Regulatoria integrará la mesa examinadora.
+
+D.3.2. Evaluación del Reentrenamiento del personal de Reactores Nucleares de Potencia
+21. Al término del reentrenamiento, y dentro del año calendario, la Entidad Responsable de un
+Reactor Nuclear de Potencia debe efectuar una evaluación del reentrenamiento del personal, para
+lo cual constituirá una mesa examinadora a satisfacción de la Autoridad Regulatoria. La mesa
+examinadora analizará las evaluaciones realizadas por los instructores de los diferentes cursos y
+emitirá un dictamen estableciendo la nómina del personal aprobado. En los casos en que así lo
+considere, la Autoridad Regulatoria integrará la mencionada mesa examinadora y podrá profundizar diversos aspectos de dicha evaluación.
+
+D.3.3. Resultado de las evaluaciones del personal reentrenado
+22. A la persona que no aprobase la evaluación del reentrenamiento anual, la Autoridad Regulatoria le suspenderá la validez de su autorización específica y le concederá un plazo adecuado para
+completar el programa de reentrenamiento. Si esta segunda instancia no se cumpliera le será revocada su autorización específica y, en tal caso, la persona podrá gestionar una nueva.
+
+3/3
+
+

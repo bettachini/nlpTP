@@ -1,0 +1,85 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 3.3.1.
+
+REVISIÓN 2
+
+Diseño del núcleo
+de reactores nucleares
+de potencia
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 41/01 (Boletín Oficial Nº 29.834)
+
+República Argentina - 2002
+
+NORMA AR 3.3.1.
+
+DISEÑO DEL NÚCLEO DE
+REACTORES NUCLEARES DE POTENCIA
+
+A. OBJETIVO
+1. Establecer criterios generales de seguridad para el diseño del núcleo.
+
+B. ALCANCE
+2. Esta norma es aplicable al diseño de reactores nucleares de potencia .
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Criterio de la Falla Única: Criterio para diseñar un sistema de manera tal que admita la
+ocurrencia de una única falla en cualquier subsistema o componente del mismo, sin que por
+ello deje de prestar la función que le compete.
+4. Extinción del Reactor: Proceso mediante el cual el núcleo del reactor es llevado al estado
+subcrítico, permaneciendo en este estado con un margen suficiente de antirreactividad durante
+un intervalo de tiempo apropiado.
+5. Núcleo del Reactor: Conjunto de elementos combustibles, moderador, reflector, refrigerante
+primario, dispositivos de control de reactividad e instrumentación asociada, y componentes
+estructurales que se encuentren ubicados dentro del reactor.
+6. Parada Segura: Estado en el cual el reactor se mantiene extinguido y adecuadamente refrigerado, durante un intervalo de tiempo apropiado.
+
+D. CRITERIOS
+7. Se deben identificar las variables que tienen importancia para la seguridad del núcleo del
+reactor, en condiciones normales y de falla. Los límites de seguridad de estas variables estarán
+específicamente indicados, y debe demostrarse que en la operación normal y en todas las fallas previsibles las variables del núcleo se mantienen dentro de estos límites.
+8. Debe garantizarse el comportamiento estable del núcleo del reactor en el rango normal de
+operación, y la ausencia de cambios abruptos fuera de dicho rango.
+9. El diseño del núcleo del reactor debe estar basado en métodos probados. Se deben usar
+datos de diseño aplicables a las condiciones específicas, con un margen suficiente como para
+cubrir las incertidumbres. En aspectos fundamentales relacionados con el comportamiento neutrónico y termohidráulico del núcleo, los datos deben basarse en información - experimental o
+de otras fuentes, a satisfacción de la Autoridad Regulatoria - aplicable a la configuración y
+composición del núcleo proyectado.
+
+1/2
+
+NORMA AR 3.3.1. DISEÑO DEL NÚCLEO DE REACTORES NUCLEARES DE POTENCIA
+
+10. Se debe garantizar la seguridad del núcleo del reactor contra los efectos adversos de las
+condiciones operativas sobre materiales y estructuras, adoptando márgenes adecuados que
+cubran las incertidumbres.
+11. Las tensiones y deformaciones estructurales del núcleo del reactor deben limitarse de manera de garantizar márgenes adecuados que cubran las incertidumbres durante las pruebas, la
+operación normal y las fallas previsibles.
+12. Se debe prever condiciones que permitan llevar a cabo métodos adecuados de monitoreo
+in-situ o por muestreo, de aquellas características del núcleo que puedan alterarse adversamente por las condiciones operativas del reactor.
+13. Se debe prever una instrumentación adecuada para monitorear las condiciones del núcleo y
+otras partes del reactor, para asegurar el cumplimiento del criterio N° 7.
+14. Debe preverse que, tanto los componentes como la geometría del núcleo del reactor, se
+mantengan siempre en condiciones que aseguren el funcionamiento estable de éste, su refrigeración, el funcionamiento adecuado de la instrumentación, la capacidad de extinguirlo rápidamente, su parada segura y la posibilidad de extraer elementos combustibles u otros componentes.
+15. Deben preverse medios para minimizar la probabilidad de bloqueo de la circulación del
+refrigerante. En el caso de fallar los dispositivos de control o limitación del caudal, no debe ponerse en peligro la integridad de los elementos combustibles o la de otros componentes del
+núcleo del reactor.
+16. Se debe cumplir con el criterio de la falla única, a los efectos de que ninguna falla única de
+un componente impida el funcionamiento de los sistemas de seguridad del reactor ni conduzca
+a situaciones donde no se cumpla con la norma AR 3.1.3. "Criterios Radiológicos Relativos a
+Accidentes en Reactores Nucleares de Potencia”.
+17. El diseño debe prever los medios para:
+a. Verificar que las dimensiones y configuración del núcleo del reactor permanecen, durante toda la vida del reactor, dentro de los límites especificados.
+b. Realizar inspecciones periódicas durante el servicio, y reparar o reemplazar los componentes del núcleo del reactor que se relacionan con la seguridad.
+c.
+
+2/2
+
+Extraer el núcleo del reactor cuando sea necesario.
+
+

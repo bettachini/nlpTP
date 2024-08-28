@@ -1,0 +1,261 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 3.7.1.
+
+REVISIÓN 1
+
+Cronograma de la
+documentación a presentar
+antes de la operación
+comercial de un
+reactor nuclear de potencia
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 18/02 (Boletín Oficial 22/7/02)
+
+República Argentina – 2002
+1/3
+
+NORMA AR 3.7.1.
+
+CRONOGRAMA DE LA DOCUMENTACIÓN A PRESENTAR
+ANTES DE LA OPERACIÓN COMERCIAL DE UN
+REACTOR NUCLEAR DE POTENCIA
+
+A. OBJETIVO
+1. Establecer el cronograma de la documentación que debe presentar la Entidad Responsable
+a la Autoridad Regulatoria para solicitar las licencias de construcción, puesta en marcha y operación.
+
+B. ALCANCE
+2. La presente norma es aplicable a reactores nucleares de potencia.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Construcción: Proceso que comprende la ejecución de obras civiles de la instalación Clase
+I, el montaje de sus componentes, equipos y sistemas, así como la realización de las pruebas
+respectivas. Tal ejecución excluye los trabajos de preparación y excavación del sitio del emplazamiento, y se considera iniciada cuando se procede a la colada de hormigón correspondiente.
+4. Entidad Responsable: Titular de las licencias de una instalación Clase I.
+5. Licencia: Documento por medio del cual la Autoridad Regulatoria autoriza, bajo ciertas condiciones, la operación de una instalación o la ejecución de una dada etapa de la vida de dicha
+instalación. Estas etapas pueden ser la construcción, puesta en marcha, retiro de servicio o
+cualquier otra que la Autoridad Regulatoria juzgue necesario licenciar.
+6. Licencia de Construcción: Documento por medio del cual la Autoridad Regulatoria autoriza
+a la Entidad Responsable, bajo ciertas condiciones, para que inicie la construcción de una instalación Clase I.
+7. Licencia de Operación: Documento por medio del cual la Autoridad Regulatoria autoriza a
+la Entidad Responsable, bajo ciertas condiciones, para que opere una instalación Clase I.
+8. Licencia de Puesta en Marcha: Documento por medio del cual la Autoridad Regulatoria
+autoriza a la Entidad Responsable de una instalación nuclear Clase I, bajo ciertas condiciones,
+a que inicie las actividades de puesta en marcha de la misma.
+9. Programa de Calidad: Programa donde se definen la política de calidad, los objetivos, la
+planificación, la organización, las responsabilidades, los procesos y aquellas actividades que
+requieren procedimientos escritos.
+10. Pruebas Preliminares: Conjunto de pruebas realizadas en una instalación Clase I o Clase
+II antes de la recepción o montaje de aquellos materiales o dispositivos previstos en el diseño
+que generen o sean capaces de generar radiaciones ionizantes, y planificadas para comprobar
+1/3
+
+NORMA AR 3.7.1. CRONOGRAMA DE LA DOCUMENTACIÓN A PRESENTAR ANTES
+DE LA OPERACIÓN COMERCIAL DE UN REACTOR NUCLEAR DE POTENCIA – REVISIÓN 1
+
+que, previo a la puesta en marcha, los componentes, equipos y sistemas cumplen con sus bases originales de diseño y con los criterios de performance pertinentes.
+11. Puesta en Marcha: Conjunto de pruebas realizadas en una instalación Clase I o Clase II
+después de la recepción o montaje de aquellos materiales o dispositivos previstos en el diseño
+que generen o sean capaces de generar radiaciones ionizantes, y planificadas para comprobar
+que la instalación reúne todas las condiciones para su operación en condiciones de seguridad.
+12. Sistema de Calidad: Conjunto de actividades planificadas y desarrolladas para asegurar el
+nivel de calidad de una instalación o práctica.
+
+D. CRITERIOS
+13. La puesta en marcha de un reactor nuclear de potencia debe considerarse iniciada con la
+carga de combustible y moderador en el reactor.
+14. El cronograma de la documentación a presentar es el siguiente:
+
+2/3
+
+1
+
+Presentación del Informe Preliminar de
+Seguridad (IPS).
+
+Nueve (9) meses antes de solicitarse la
+licencia de construcción.
+
+2
+
+Presentación sistemática de informes
+relacionados con los eventuales cambios de diseño y otros aspectos,
+resultantes de la interacción entre la
+Entidad Responsable y la Autoridad
+Regulatoria.
+
+Se inicia dos (2) meses después de la
+presentación del IPS y continúa hasta un
+(1) mes antes de la carga del combustible
+y moderador en el reactor.
+
+3
+
+Presentación del sistema de calidad,
+incluyendo el correspondiente
+programa y toda otra documentación
+relacionada con la calidad.
+
+Se inicia un (1) mes después de la
+presentación del IPS y continúa
+actualizándose progresivamente.
+
+4
+
+Presentación sistemática de informes
+de progreso sobre la construcción del
+reactor, excluyendo las pruebas preliminares.
+
+Mensualmente, a partir de la obtención
+de la licencia de construcción.
+
+5
+
+Presentación del proyecto de
+organigrama de operación y del
+programa de entrenamiento del
+personal.
+
+En la fecha de comienzo de la
+construcción. Debe actualizarse toda
+vez que se produzcan cambios.
+
+6
+
+Presentación del programa de pruebas
+preliminares.
+
+Seis (6) meses antes del inicio de las
+pruebas preliminares.
+
+7
+
+Presentación sistemática de informes
+de progreso sobre el desarrollo del
+programa de pruebas preliminares.
+
+A partir del comienzo de las pruebas
+preliminares y en forma continuada
+durante la ejecución del programa.
+
+8
+
+Presentación del Informe de Seguridad
+(IS).
+
+Doce (12) meses antes de solicitarse la
+licencia de puesta en marcha.
+
+9
+
+Presentación de eventuales informes
+adicionales y modificaciones al IS resultantes de la interacción entre la
+Entidad Responsable y la Autoridad
+Regulatoria.
+
+A partir de la presentación del IS y en
+forma continuada hasta un (1) mes antes
+de solicitarse la licencia de operación.
+
+NORMA AR 3.7.1. CRONOGRAMA DE LA DOCUMENTACIÓN A PRESENTAR ANTES
+DE LA OPERACIÓN COMERCIAL DE UN REACTOR NUCLEAR DE POTENCIA – REVISIÓN 1
+
+10
+
+Presentación del programa de puesta
+en marcha, incluyendo la puesta a
+crítico del reactor, pruebas y subida de
+potencia.
+
+Doce (12) meses antes de solicitarse la
+licencia de puesta en marcha.
+
+11
+
+Presentación sistemática de informes
+de progreso sobre el desarrollo del
+programa de puesta en marcha.
+
+A partir del comienzo de la puesta en
+marcha y en forma continuada durante la
+ejecución del programa.
+
+12
+
+Presentación del código de práctica y
+de la versión preliminar del manual de
+operación.
+
+Cuatro (4) meses antes de la puesta a
+crítico del reactor.
+
+13
+
+Presentación de un informe
+conteniendo los resultados de la
+implementación del programa de
+calidad.
+
+Cuatro (4) meses antes de la puesta a
+crítico del reactor.
+
+14
+
+Presentación del pedido de licencias
+del personal junto con los resultados
+de los exámenes psicofísicos y teóricoprácticos.
+
+Cuatro (4) meses antes de la puesta a
+crítico del reactor.
+
+15
+
+Presentación de la documentación
+referente a la constitución de un
+comité ad-hoc de arranque y subida
+de potencia.
+
+Tres (3) meses antes de la puesta a
+crítico del reactor.
+
+Presentación del plan de emergencia.
+
+Tres (3) meses antes de la puesta a crítico del reactor.
+
+Presentación del manual de
+mantenimiento.
+
+Un (1) mes antes de solicitarse la licencia
+de operación.
+
+18
+
+Presentación del informe del comité
+ad-hoc.
+
+Después de finalizarse la puesta en
+marcha y un (1) mes antes de solicitarse
+la licencia de operación.
+
+19
+
+Presentación de la versión final del
+manual de operación.
+
+Después de finalizarse la puesta en
+marcha y un (1) mes antes de solicitarse
+la licencia de operación.
+
+16
+17
+
+15. Los plazos que figuran en el criterio N° 14, son los mínimos exigidos por la Autoridad Regulatoria.
+
+3/3
+
+

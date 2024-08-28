@@ -1,0 +1,107 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 0.11.2.
+
+REVISIÓN 2
+
+Requerimientos de
+aptitud psicofísica
+para autorizaciones
+específicas
+
+Aprobada en la Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 36/01 (Boletín Oficial 15/1/02)
+
+República Argentina – 2002
+
+1/3
+
+NORMA AR 0.11.2.
+
+REQUERIMIENTOS DE APTITUD PSICOFÍSICA
+PARA AUTORIZACIONES ESPECÍFICAS
+
+A. OBJETIVO
+1. Establecer los requerimientos necesarios para evaluar la aptitud psicofísica de una persona que
+solicita una autorización específica o la renovación de la misma.
+
+B. ALCANCE
+2. Esta norma es aplicable a toda persona propuesta por la Entidad Responsable de una instalación Clase I para obtener o renovar una autorización específica.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con
+la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Aptitud Psicofísica: Compatibilidad adecuada, evaluada por el médico examinador, entre el
+profesiograma psicofísico de una función especificada y el conjunto de cualidades y condiciones
+psicofísicas del postulante a dicha función.
+4. Autorización Específica: Certificado, expedido por la Autoridad Regulatoria, por el que se autoriza a una persona, que posee Licencia Individual, a ejercer una función especificada, en una
+Instalación Clase I determinada.
+5. Entidad Responsable: Titular de las licencias de una Instalación Clase I.
+6 Función Especificada: Conjunto de tareas necesarias para la operación de una dada instalación Clase I, cuyo desempeño implica tomar decisiones que podrían incidir sobre la seguridad de
+esa instalación.
+7. Funcionamiento Normal: Operación de una instalación Clase I dentro de los límites y condiciones operacionales especificados, incluidos el estado de parada, el funcionamiento en régimen,
+la parada, la puesta en marcha, el mantenimiento, las pruebas y, en el caso de reactores nucleares, la recarga de combustible.
+8. Incidente Operacional: Proceso operacional que produce una alteración del funcionamiento
+normal pero que, debido a la existencia de características de diseño apropiadas, no ocasiona daños significativos a los elementos de importancia para la seguridad ni conduce a situaciones accidentales.
+9. Instalación: Instalación Nuclear, Instalación Radiactiva, Instalación Minero Fabril o Acelerador
+de Partículas.
+10. Instalación Clase I: Instalación o práctica que requiere un proceso de licenciamiento de más
+de una etapa.
+
+1/3
+
+NORMA AR 0.11.2. REQUERIMIENTOS DE APTITUD PSICOFÍSICA PARA AUTORIZACIONES ESPECÍFICAS
+
+11. Médico Examinador: Médico designado por la Entidad Responsable y reconocido por la Autoridad Regulatoria, con apoyo profesional suficiente como para establecer los profesiogramas psicofísicos de las funciones especificadas y evaluar la aptitud psicofísica de los postulantes.
+12. Profesiograma Psicofísico: Conjunto de cualidades y condiciones psicofísicas mínimas necesarias para desempeñar, en forma adecuada, una función especificada.
+13. Situación Accidental: Alteración grave de una situación operacional que puede conducir a
+consecuencias radiológicas significativas para las personas expuestas a radiación, si los correspondientes sistemas de seguridad no funcionan según se ha previsto en el diseño.
+14. Situación Operacional: Situación definida como funcionamiento normal o incidente operacional.
+
+D. CRITERIOS
+15. Los postulantes a obtener o renovar la autorización específica deben poseer una aptitud psicofísica tal que les permita desempeñar apropiadamente la función especificada.
+16. La aptitud psicofísica debe estar certificada por un médico examinador mediante un certificado
+de aptitud psicofísica. Si tal certificación se expide con algún condicionamiento especial, éste deberá constar en el certificado correspondiente.
+17. La Entidad Responsable debe designar a un médico examinador, para la ejecución del examen de aptitud psicofísica a los postulantes a obtener o renovar la autorización específica.
+18. La Entidad Responsable debe hacer todos los esfuerzos posibles para verificar que las personas autorizadas mantengan la aptitud psicofísica que fuera requisito para el otorgamiento o renovación de la autorización específica. En particular, debe promover la realización de exámenes de
+verificación, cuando haya razonable evidencia que la aptitud psicofísica pudiera haber disminuido
+en forma significativa.
+19. El médico examinador debe, en consulta con la Entidad Responsable, establecer los profesiogramas psicofísicos de las funciones especificadas para las cuales dicha entidad solicita el otorgamiento o la renovación de la autorización específica, teniendo en cuenta el horario de trabajo
+que desarrollará el postulante.
+20. La Entidad Responsable debe informar al médico examinador, cuales son las responsabilidades y tareas inherentes a cada una de las funciones especificadas que correspondan. En particular, deberá informar sobre la descripción de las tareas y el ambiente de trabajo, incluyendo las
+tareas previstas en potenciales situaciones accidentales; la información debe ser lo suficientemente detallada como para establecer sin dificultades, el profesiograma psicofísico de la función especificada.
+21. La Entidad Responsable debe informar al médico examinador, cual es la función especificada
+que cumplirá la persona examinada. En el caso de renovaciones, el informe deberá contener una
+descripción del comportamiento de la persona verificado desde el primer examen, incluyendo su
+actuación en incidentes operacionales o en situaciones accidentales. Asimismo, debe remitir al
+médico examinador, la información adicional que éste solicite para poder realizar la evaluación.
+22. Para la evaluación de la aptitud psicofísica el médico examinador deberá considerar no sólo
+las tareas asignadas en situaciones operacionales a la persona examinada, sino también las tareas previstas en situaciones no rutinarias, incluyendo las situaciones accidentales postuladas.
+23. El examen de aptitud psicofísica tendrá por objeto verificar que la persona examinada posee,
+en el grado requerido por la función especificada propuesta, las siguientes condiciones generales:
+
+2/3
+
+NORMA AR 0.11.2. REQUERIMIENTOS DE APTITUD PSICOFÍSICA PARA AUTORIZACIONES ESPECÍFICAS
+
+•
+
+Estabilidad emocional y psíquica, así como capacidad de reacción;
+
+•
+
+Agudeza de los sentidos que permita una capacidad normal de recepción de la información hablada y escrita, y de toda otra información audible, visible o palpable en la forma en
+que la proporcionen los aparatos o dispositivos previstos para ello, así como una capacidad de expresión que permita una comunicación rápida y segura;
+
+•
+
+Capacidad física, de potencia motora, de campo de movimientos y de destreza de movimientos, tal que le permitan ejecutar adecuadamente las tareas asignadas.
+
+24. Para otorgar el certificado de aptitud psicofísica el médico examinador debe, en el grado requerido por el profesiograma psicofísico de la función especificada, verificar el cumplimiento de las
+condiciones que correspondan. En la Guía Regulatoria GR 3/AR 0.11.2. se describen condiciones
+que pueden ser seguidas con este propósito.
+
+3/3
+
+

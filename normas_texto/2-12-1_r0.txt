@@ -1,0 +1,157 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 2.12.1.
+
+REVISIÓN 0
+
+Criterios de
+seguridad radiológica para
+la gestión de los residuos
+radiactivos provenientes de
+instalaciones minero fabriles
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 17/06 (Boletín Oficial 2/2/06)
+
+República Argentina – 2006
+
+1/3
+
+NORMA AR 2.12.1.
+CRITERIOS DE SEGURIDAD RADIOLÓGICA PARA LA GESTIÓN DE LOS RESIDUOS
+RADIACTIVOS PROVENIENTES DE INSTALACIONES MINERO FABRILES – REVISIÓN 0
+
+AUTORIDAD REGULATORIA NUCLEAR
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires
+ARGENTINA
+Teléfono (011) 6323-1356
+Fax (011) 6323-1771/1798
+http://www.arn.gov.ar
+
+2/6
+
+NORMA AR 2.12.1.
+
+CRITERIOS DE SEGURIDAD RADIOLÓGICA PARA
+LA GESTIÓN DE LOS RESIDUOS RADIACTIVOS
+PROVENIENTES DE INSTALACIONES MINERO FABRILES
+
+A. OBJETIVO
+1.
+
+Establecer criterios, con el objeto de que la gestión de residuos radiactivos, se realice con un
+nivel adecuado de protección radiológica de las personas y de preservación del ambiente.
+
+B. ALCANCE
+2.
+
+Esta norma es aplicable a la gestión de residuos radiactivos provenientes de instalaciones
+minero fabriles, que se encuentren en operación o hubieran finalizado la operación. La presente norma no es de aplicación a nuevas instalaciones minero fabriles, ni a los casos exentos o
+los casos excluidos del control por la Autoridad Regulatoria de acuerdo a la normativa vigente.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Autoridad Regulatoria no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3.
+
+Almacenamiento de Residuos Radiactivos: Ubicación segura de los residuos radiactivos en
+un sitio en forma temporaria.
+
+4.
+
+Cierre Definitivo: Conjunto de actividades autorizadas por la Autoridad Regulatoria llevadas a
+cabo al final de la etapa de operación de una instalación destinada a la disposición final de residuos radiactivos.
+
+5.
+
+Control Institucional: Acciones, mecanismos y dispositivos implementados para mantener
+durante un lapso definido las restricciones de acceso a los sitios de disposición final de residuos una vez finalizada la etapa del cierre definitivo.
+
+6.
+
+Disposición Final de Residuos Radiactivos: Ubicación segura de los residuos radiactivos,
+sin el propósito de recuperarlos, en instalaciones o sitios licenciados para ese fin.
+
+7.
+
+Generadora de Residuos Radiactivos: Instalación controlada por la Autoridad Regulatoria en
+la que, debido a su operación, se producen residuos radiactivos y en la que se pueden realizar
+cualesquiera de las actividades incluidas en la gestión de residuos radiactivos, excepto la disposición final.
+
+8.
+
+Gestionadora de Residuos Radiactivos: Instalación controlada por la Autoridad Regulatoria
+en la que se realiza la gestión de los residuos radiactivos transferidos por las instalaciones generadoras de residuos radiactivos incluida la disposición final.
+
+9.
+
+Intrusión Humana: Acción no premeditada del hombre que en el futuro podría afectar los
+sistemas de disposición final de residuos radiactivos y, potencialmente, producir consecuencias radiológicas.
+
+1/3
+
+NORMA AR 2.12.1.
+CRITERIOS DE SEGURIDAD RADIOLÓGICA PARA LA GESTIÓN DE LOS RESIDUOS
+RADIACTIVOS PROVENIENTES DE INSTALACIONES MINERO FABRILES – REVISIÓN 0
+
+10. Escenario normal: Escenario donde se considera que se cumplen los objetivos de diseño
+tanto en condiciones normales como ante eventos disruptivos concebibles durante el período
+de aislamiento previsto. Este escenario excluye las situaciones originadas por la intrusión
+humana.
+11. Residuos Radiactivos: Materiales para los cuales no se prevé ningún uso ulterior y que contienen sustancias radiactivas con valores de actividad tales que exceden las restricciones de
+dosis establecidas por la Autoridad Regulatoria para su dispersión en el ambiente.
+
+D. CRITERIOS
+12. El titular de licencia de una instalación minero fabril es responsable del almacenamiento, en
+adecuadas condiciones de seguridad radiológica, de los residuos radiactivos provenientes de
+las actividades que en ella se realizan o realizaron, hasta tanto se transfieran los mismos a una
+Gestionadora de Residuos Radiactivos. Es particularmente responsable de la seguridad radiológica de los trabajadores y del público durante el período de almacenamiento.
+13. La transferencia de residuos radiactivos de una instalación minero fabril a una Gestionadora de
+Residuos Radiactivos, deberá realizarse acorde a procedimientos previamente aprobados a tal
+efecto por la Autoridad Regulatoria.
+14. El titular de licencia de la Gestionadora de Residuos Radiactivos que recibe los residuos radiactivos transferidos por una instalación minero fabril, es responsable de todos los aspectos de
+seguridad radiológica y física de los mismos.
+15. Para la disposición final de los residuos radiactivos provenientes de instalaciones minero fabriles, el titular de licencia de la Gestionadora de Residuos Radiactivos debe solicitar a la Autoridad Regulatoria la correspondiente licencia para el cierre definitivo. Para ello deberá presentar,
+con la debida anticipación y a satisfacción de la Autoridad Regulatoria, la evaluación de seguridad que incluya la documentación técnica describiendo las características del sistema de confinamiento, su adecuación al sitio de disposición final y el período de control institucional
+previsto.
+16. El titular de licencia de la Gestionadora de Residuos Radiactivos es responsable de que se
+establezcan mecanismos apropiados de restricción al uso del terreno en el que se encuentra el
+sitio de disposición final de los residuos radiactivos provenientes de la instalación minero fabril.
+17. El titular de licencia de la Gestionadora de Residuos Radiactivos es responsable de que las
+restricciones mencionadas en el Criterio Nº 16 sean establecidas en documentos que contengan una adecuada descripción de la naturaleza de los residuos ubicados en el sitio, y las limitaciones a la venta y transferencia del terreno. Asimismo dicho titular es responsable de que la
+correspondiente autoridad de aplicación sea debidamente notificada de tales restricciones.
+18. En la documentación técnica mencionada en el Criterio Nº 15, deben acotarse, tanto como sea
+posible, las incertezas asociadas con la complejidad de los sistemas de confinamiento, con el
+período de aislamiento necesario, así como con la probabilidad de intrusión humana y sus potenciales consecuencias.
+19. La selección de un sitio para la disposición final de residuos radiactivos provenientes de una
+instalación minero fabril debe realizarse teniendo en cuenta las dosis estimadas en el escenario normal así como en los posibles escenarios de intrusión humana.
+20. El diseño de los sistemas de disposición final de los residuos radiactivos provenientes de una
+instalación minero fabril debe optimizarse para el escenario normal. Alternativamente, a satisfacción de la Autoridad Regulatoria el Titular de Licencia de la Gestionadora de Residuos Radiactivos podrá demostrar que el diseño de tales sistemas es el más adecuado para el sitio y
+para las características de los residuos involucrados, y que respeta las restricciones de dosis y
+de riesgo establecidas al efecto por la Autoridad Regulatoria
+2/3
+
+NORMA AR 2.12.1.
+CRITERIOS DE SEGURIDAD RADIOLÓGICA PARA LA GESTIÓN DE LOS RESIDUOS
+RADIACTIVOS PROVENIENTES DE INSTALACIONES MINERO FABRILES – REVISIÓN 0
+
+21. En las evaluaciones del escenario normal, las dosis estimadas que recibirían las generaciones
+futuras no deberán exceder las restricciones de dosis establecidas al inicio del período de aislamiento. Dichas evaluaciones de seguridad, en términos de dosis, riesgos u otros indicadores
+de seguridad apropiados para los períodos de aislamiento requeridos, deben ser realizadas a
+satisfacción de la Autoridad Regulatoria.
+22. Las características del sitio de disposición final y el diseño del sistema de confinamiento de los
+residuos radiactivos provenientes de una instalación minero fabril deben ser tales que se minimice la necesidad de control institucional una vez finalizada la etapa de cierre definitivo.
+23. A los efectos de la optimización de la protección radiológica, la selección del sitio de disposición
+final y el diseño de los sistemas de ingeniería deben asegurar, a satisfacción de la Autoridad
+Regulatoria, que en el escenario normal, la dosis en el grupo crítico atribuible a todas las vías
+de exposición consideradas en dicho escenario no exceda 0,3 mSv en un año lo que corres-5
+ponde a una restricción del riesgo del orden de 10 en un año.
+24. Si la dosis proyectada al Grupo Crítico como consecuencia de la intrusión humana excediera el
+valor de 3 mSv en un año, el titular de licencia de la Gestionadora de Residuos Radiactivos deberá adoptar las medidas que sean necesarias para disminuir tanto como sea posible la probabilidad de tal intrusión y limitar sus consecuencias.
+25. Si como resultado de la intrusión humana la dosis proyectada al grupo crítico no excediese
+3 mSv en un año no se consideraría justificable realizar una intervención. Cuando la dosis proyectada al grupo crítico exceda el valor de 30 mSv en un año, la intervención se encuentra generalmente justificada. En los restantes casos deberá analizarse la justificación de la intervención en un análisis caso por caso.
+
+3/3
+
+

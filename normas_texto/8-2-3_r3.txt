@@ -1,0 +1,316 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 8.2.3.
+
+REVISIÓN 3
+
+Operación de
+instalaciones de
+telecobaltoterapia
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 18/02 (Boletín Oficial 22/7/02)
+
+República Argentina – 2002
+1/7
+
+NORMA AR 8.2.3
+
+OPERACIÓN DE INSTALACIONES DE TELECOBALTOTERAPIA
+
+A. OBJETIVO
+1. Establecer los criterios mínimos de seguridad radiológica para la operación.
+
+B. ALCANCE
+2. Esta norma es aplicable a la operación de las instalaciones Clase II que posean equipos de
+telecobaltoterapia para el tratamiento de seres humanos.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Cabezal: Componente del equipo destinado a alojar la fuente sellada y que actúa, además,
+como blindaje.
+4. Documentación Técnica: Documentación que contiene la información técnica requerida por
+la Autoridad Regulatoria para licenciar o registrar una instalación o autorizar una práctica.
+5. Equipo de Telecobaltoterapia: Conjunto formado por el cabezal, el puente, el estativo, la
+consola de control, la camilla y los accesorios.
+6. Recinto de Irradiación: Lugar donde se encuentra instalado el equipo de telecobaltoterapia,
+incluyendo la zona o laberinto de acceso.
+7. Responsable: Persona que asume la responsabilidad directa por la seguridad radiológica de
+una Instalación Clase II o Clase III o de una práctica no rutinaria.
+8. Sistema de Calidad: Conjunto de actividades planificadas y desarrolladas para asegurar el
+nivel de calidad de una instalación o de una práctica.
+9. Titular de Licencia: Persona física o jurídica a la que la Autoridad Regulatoria ha otorgado
+una o más licencias para una instalación Clase I o Clase II.
+
+D. CRITERIOS
+D.1. Licencia de Operación
+10. El solicitante de la licencia de operación debe presentar la documentación técnica necesaria para demostrar, a satisfacción de la Autoridad Regulatoria, que la operación del equipo de
+telecobaltoterapia (en adelante el equipo) se desarrollará en forma segura y que se tomarán
+todas las medidas tendientes a prevenir la ocurrencia de situaciones anormales.
+
+1/7
+
+NORMA AR 8.2.3. OPERACIÓN DE INSTALACIONES DE TELECOBALTOTERAPIA – REVISIÓN 3
+
+11. La documentación técnica incluirá, como mínimo, las especificaciones del equipo y el manual de operación del mismo, los planos y memoria de cálculo del recinto de irradiación, los
+procedimientos para operar en condiciones normales y para enfrentar situaciones anormales, y
+la descripción del sistema de calidad.
+12. El solicitante de la licencia de operación debe demostrar que los sistemas de protección
+radiológica están optimizados. El diseño del recinto de irradiación debe garantizar que en todo
+momento las dosis que reciban los trabajadores y los miembros del público, excluyendo los
+pacientes, resulten tan bajas como sea razonablemente alcanzable y que no superen los límites de dosis aplicables.
+13. Cuando el diseño de los sistemas de protección radiológica asegure que, en condiciones
+normales de operación, ningún trabajador pueda recibir una dosis efectiva superior a 5 mSv en
+un (1) año, que ningún miembro del público pueda recibir una dosis efectiva superior a 100 µSv
+en un (1) año, y que la dosis efectiva colectiva debida a un (1) año de operación sea inferior a
+10 Sv hombre, no es necesario demostrar que los sistemas están optimizados, salvo que la
+Autoridad Regulatoria lo solicite expresamente..
+14. En la consola de control debe existir un dispositivo que permita al operador interrumpir manualmente la irradiación.
+15. En el interior del recinto de irradiación deben existir uno o más interruptores adecuadamente ubicados, que permitan interrumpir manualmente la irradiación.
+16. El recinto de irradiación debe contar con un sistema de seguridad que produzca la interrupción automática de la irradiación si se abre la puerta de acceso al recinto cuando el equipo está
+irradiando.
+17. El recinto de irradiación debe contar con un sistema de monitoreo y alarma que se active
+cuando la tasa de dosis equivalente ambiental, en el interior de dicho recinto, alcance el valor
+de la tasa de dosis que produce la fuente en posición de irradiación.
+18. El acceso al recinto de irradiación debe estar adecuadamente señalizado mediante señales
+luminosas que indiquen si la fuente se encuentra en posición de irradiación o de no-irradiación.
+19. La consola de control debe estar instalada de tal manera que, en todo momento, el operador ubicado frente a ella tenga un control total del acceso al recinto de irradiación.
+20. El operador debe tener desde la consola de control una visión clara y completa del paciente.
+21. El equipo debe poseer un indicador mecánico situado en el cabezal que permita saber inmediatamente si la fuente está en posición de irradiación o de no-irradiación. Además, el equipo deberá poseer un indicador luminoso de la posición de la fuente. Ambos indicadores deben
+ser bien visibles.
+22. El operador, previo a su ingreso al recinto de irradiación, debe tener una visión clara del
+indicador mecánico de posición de la fuente para saber si la fuente está en posición de irradiación o no.
+23. Todo equipo que se instale por primera vez en el país debe contar con dos (2) sistemas de
+control del tiempo de exposición.
+24. El equipo debe poseer un dispositivo que retorne la fuente automáticamente a la posición
+de no-irradiación y permanezca en esta posición, en los siguientes casos:
+a. al finalizar el tiempo prefijado de exposición.
+b. ante una interrupción del suministro eléctrico.
+c.
+
+2/7
+
+ante la falta de suficiente presión en el sistema neumático.
+
+NORMA AR 8.2.3. OPERACIÓN DE INSTALACIONES DE TELECOBALTOTERAPIA – REVISIÓN 3
+
+25. El mecanismo de movimiento de la fuente debe prever que, en caso de falla del sistema
+automático de retorno de la fuente, la exposición pueda ser interrumpida manualmente.
+26. El equipo podrá irradiar fuera de la zona de intersección del haz con el interceptor del haz
+siempre que lo haga en la dirección en que existan barreras primarias con suficiente capacidad
+blindante.
+27. En la consola de control debe existir, como mínimo, un indicador luminoso de las posiciones
+de irradiación y de no-irradiación de la fuente.
+28. Después de una interrupción de la irradiación, sólo será posible reiniciar la operación del
+equipo desde la consola de control.
+29. El equipo debe contar con dos indicadores, uno óptico y otro mecánico, de la distancia
+fuente-superficie de irradiación.
+30. Además de los procedimientos incluidos en la documentación técnica, se debe contar con
+procedimientos escritos para verificar el funcionamiento y para proceder al ajuste de los enclavamientos de seguridad tales como los interruptores de la puerta de acceso al recinto de irradiación, los interruptores de emergencia ubicados dentro y fuera de este recinto, o los dispositivos de bloqueo que impiden comenzar la irradiación ante la ocurrencia de situaciones anormales.
+31. Se debe tener disponible el equipamiento y los medios necesarios para llevar a cabo la
+simulación y planificación de los tratamientos.
+D.2. Operación
+32. El equipo sólo podrá ser operado cuando la instalación cuente con la correspondiente licencia de operación, cuando la dotación de personal cuente con los permisos individuales vigentes
+correspondientes y cuando se encuentre presente la dotación mínima de personal necesaria, a
+juicio del Responsable y a satisfacción de la Autoridad Regulatoria.
+33. Durante la operación del equipo deben respetarse los procedimientos y las condiciones
+establecidas en la documentación técnica.
+34. La documentación técnica debe estar disponible permanentemente en la consola de control.
+35. Toda modificación del recinto de Irradiación, del equipo y/o de la documentación técnica
+directa o indirectamente relacionada con la seguridad, requerirá la aprobación de la Autoridad
+Regulatoria, previo a la implementación de la modificación.
+36. No debe admitirse la permanencia ni circulación de personas no imprescindibles a los fines
+de los tratamientos durante los períodos de irradiación, en las zonas que a tal efecto determine
+el Responsable y que estén establecidas en la documentación técnica.
+37. Deben establecerse los procedimientos de control necesarios para verificar que, como mínimo, las condiciones iniciales de seguridad radiológica del equipo y la instalación se mantienen en el tiempo.
+38. Se debe contar con los elementos auxiliares de colimación y fijación necesarios para proteger el tejido sano del paciente.
+
+3/7
+
+NORMA AR 8.2.3. OPERACIÓN DE INSTALACIONES DE TELECOBALTOTERAPIA – REVISIÓN 3
+
+D.3. Mantenimiento Preventivo y Reparaciones
+39. Debe efectuarse el mantenimiento preventivo de todos los sistemas de la instalación relacionados con la seguridad. Las tareas de mantenimiento preventivo o de reparación que se
+hagan, no deben modificar las características funcionales originales establecidas por el fabricante.
+40. Las reparaciones y el mantenimiento preventivo que impliquen el cambio de la fuente radiactiva, la disminución del blindaje del cabezal o las tareas que directa o indirectamente afecten el mecanismo de accionamiento de la fuente, sólo pueden ser realizadas por personal calificado con permiso individual perteneciente a empresas que cuenten con la licencia de operación, otorgada por la Autoridad Regulatoria para los fines mencionados.
+41. Luego de realizarse un mantenimiento preventivo o una reparación, el Responsable debe
+verificar el correcto funcionamiento del equipo, llevando a cabo las pruebas de aceptación o la
+parte de las mismas que corresponda, acorde a las tareas ejecutadas. Deberá también tener en
+cuenta lo establecido en el criterio N° 49 en lo que corresponda.
+D.4. Sistema de Registros
+42. Se debe implementar un sistema adecuado de registros, los cuales tienen que estar permanentemente actualizados y a disposición de la Autoridad Regulatoria. Los registros deben
+ser conservados durante la vida útil de la instalación y contener, como mínimo, la siguiente
+información:
+a. Las modificaciones o reparaciones realizadas en la instalación.
+b. Las descripciones de las situaciones anormales que se produzcan.
+c.
+
+Las tareas de mantenimiento significativas realizadas en la instalación.
+
+d. Los resultados de las pruebas de sistemas relacionados con la seguridad radiológica.
+e. Los resultados de las pruebas periódicas del equipo.
+f.
+
+El resultado de las pruebas del correcto funcionamiento o de aceptación llevadas a cabo luego de la realización de tareas de mantenimiento preventivo o de reparación.
+
+g. La documentación vinculada con la capacitación y el reentrenamiento del personal.
+43. Las dosis individuales deben computarse e informarse al personal en forma mensual y los
+registros correspondientes deben ser conservados durante treinta (30) años posteriores al momento en que el trabajador haya cesado en las tareas que provocaron su exposición a la radiación. Tales registros deben estar a disposición de la Autoridad Regulatoria.
+D.5. Dotación de Personal
+44. La dotación mínima de personal, con presencia efectiva, debe estar constituida por profesionales médicos, especialistas en física de la radioterapia y técnicos en radioterapia, según se
+indica a continuación:
+a. Profesionales médicos, autorizados por la Autoridad Regulatoria para el uso de equipos
+de telecobaltoterapia que posean permiso individual vigente, en número suficiente para
+cubrir todo el horario de atención a los pacientes.
+b. Especialistas en física de la radioterapia autorizados por la Autoridad Regulatoria que
+posean permiso individual vigente, con una presencia efectiva acorde al número de pacientes y a satisfacción de la Autoridad Regulatoria.
+c.
+
+4/7
+
+Técnicos en radioterapia que posean la certificación correspondiente otorgada por la
+autoridad competente, quienes podrán operar los equipos.
+
+NORMA AR 8.2.3. OPERACIÓN DE INSTALACIONES DE TELECOBALTOTERAPIA – REVISIÓN 3
+
+D.6. Control Dosimétrico del Personal
+45. El Responsable debe determinar la nómina de personal que debe utilizar dosímetro individual para la radiación externa, a satisfacción de la Autoridad Regulatoria.
+46. El titular de licencia debe entregar a cada persona sujeta a dosimetría individual, cuando
+deje de prestar servicio en la instalación, una certificación de la dosis individual recibida por la
+misma en los últimos cinco (5) años de trabajo.
+D.7. Controles Periódicos al Equipo
+47. Se deben efectuar, como mínimo, las siguientes verificaciones en forma adecuada:
+a. Coincidencia entre los indicadores mecánico y luminoso de distancia, y de la imagen
+del retículo proyectada por el campo luminoso.
+b. Coincidencia entre el campo luminoso y el campo irradiado.
+c.
+
+Coincidencia entre el tamaño del campo luminoso y la indicación del colimador, medidos a la distancia fuente-superficie habitual.
+
+d. Coincidencia del eje de rotación del colimador con el eje del retículo.
+e. Simetría de las caras del colimador
+f.
+
+Ubicación del isocentro.
+
+g. Exactitud de las escalas angulares.
+h. Funcionamiento del temporizador.
+i.
+
+k.
+
+Movimientos de la mesa de tratamientos:
+• Planicidad.
+• Verticalidad.
+• Fijación de movimientos.
+Funcionamiento de los sistemas de seguridad:
+• Indicadores luminosos de posición de la fuente.
+• Indicador mecánico de posición de fuente.
+• Interruptor de irradiación de emergencia ubicado en la consola del equipo.
+• Interruptor de irradiación por apertura de la puerta del recinto de irradiación.
+• Dispositivos de visión del paciente (espejo o cámara de TV).
+• Interruptores de movimiento mecánico.
+• Limitadores de movimiento del cabezal.
+• Dispositivos antichoque.
+Geometría del haz (incluye calibración completa).
+
+l.
+
+Verificación de la constancia de los factores de calibración.
+
+j.
+
+48. Cada vez que se cambie la fuente del equipo, el titular de licencia debe demostrar a la Autoridad Regulatoria, que la fuente cumple con las especificaciones de fabricación, calibración y
+calidad correspondientes a fuentes selladas de cobalto-60 para uso en telecobaltoterapia.
+49. Se debe efectuar una calibración completa del haz de radiación, al menos una vez cada
+dos (2) años o en las siguientes circunstancias:
+a. Antes del primer uso médico del equipo.
+b. Luego del reemplazo de la fuente radiactiva.
+c.
+
+Luego de la reinstalación del equipo en una nueva ubicación.
+
+d. Luego de una reparación que implique acciones sobre el alojamiento y/o el sistema de
+exposición y/o guarda segura de la fuente radiactiva.
+e. Cuando un control dosimétrico rutinario arroje una discrepancia mayor que el 10% respecto del obtenido en la última calibración completa, corregida por decaimiento. En este caso deberá notificarse inmediatamente la discrepancia a la Autoridad Regulatoria.
+
+5/7
+
+NORMA AR 8.2.3. OPERACIÓN DE INSTALACIONES DE TELECOBALTOTERAPIA – REVISIÓN 3
+
+50. El instrumento destinado a la calibración dosimétrica del haz debe contar con certificado de
+calibración otorgado por un centro de referencia reconocido por la Autoridad Regulatoria. La
+calibración de dicho instrumento debe hacerse, al menos, una vez cada dos (2) años.
+51. Se deberá participar, como mínimo anualmente, en ejercicios de intercomparación dosimétrica que realicen organismos reconocidos por la Autoridad Regulatoria, y sus resultados deben
+ser informados a la misma.
+D.8. Responsabilidades
+52. Del titular de licencia:
+a. Proveer los medios necesarios para cumplir y hacer cumplir, como mínimo, los requisitos establecidos en la licencia de operación, en las normas aplicables y en todo requerimiento de la Autoridad Regulatoria aplicable a la instalación o práctica.
+b. Podrá delegar total o parcialmente la ejecución de tareas necesarias para la seguridad
+radiológica, pero manteniendo en su totalidad la responsabilidad correspondiente.
+c.
+
+Prestarle al Responsable todo el apoyo que necesite y realizar una adecuada supervisión, para garantizar que la operación del equipo sea realizada en correctas condiciones de seguridad radiológica aplicando, al respecto, sistemas de calidad apropiados.
+
+d. Comunicar a la Autoridad Regulatoria en forma fehaciente e inmediata, en caso que se
+produzca, la ausencia definitiva del Responsable.
+e. Disponer de los recursos humanos necesarios para operar la instalación y asegurar su
+capacitación y reentrenamiento.
+f.
+
+Designar al Responsable y asegurar que la función del mismo esté cubierta mientras
+permanezca vigente la licencia de operación correspondiente. No podrá operarse el
+equipo si se produce el cese en sus funciones, temporal o definitiva, del Responsable
+hasta el nombramiento de un nuevo Responsable, a satisfacción de la Autoridad Regulatoria.
+
+g. Mantener actualizados los registros indicados en los criterios N° 42 y 43 y cualquier
+otro que la Autoridad Regulatoria establezca durante la vida útil de la instalación. Estos
+registros estarán a disposición de la Autoridad Regulatoria.
+h. Facilitar, en todo momento, la realización de inspecciones y auditorias regulatorias por
+parte del personal de la Autoridad Regulatoria o por quien ésta designe.
+i.
+
+Entregar anualmente a la Autoridad Regulatoria los registros dosimétricos anuales del
+personal, incluyendo fechas de altas y bajas dentro del período.
+
+j.
+
+Informar a la Autoridad Regulatoria los resultados de las intercomparaciones dosimétricas periódicas a las que hace referencia el criterio N° 51.
+
+k.
+
+En caso de discontinuar en forma temporal o permanente el uso del equipo deberá notificarse tal situación, en forma inmediata, a la Autoridad Regulatoria.
+
+53. Del Responsable:
+a. Verificar que toda persona que realiza tareas en el recinto de irradiación disponga de
+su permiso individual vigente o posea la calificación requerida para el trabajo a efectuar, según corresponda.
+b. Asegurar que la operación del equipo se realizará, al menos, con la presencia de la dotación mínima de personal acorde a lo establecido en el criterio N° 32.
+c.
+
+Comunicar a la Autoridad Regulatoria, en forma fehaciente e inmediata, la ocurrencia
+de eventos que afecten o puedan afectar la seguridad radiológica de las personas y de
+la instalación.
+
+d. Comunicar a la Autoridad Regulatoria, en forma fehaciente e inmediata, su renuncia o
+ausencia temporaria como Responsable.
+e. Implementar las actividades y tareas establecidas en el sistema de calidad.
+
+6/7
+
+NORMA AR 8.2.3. OPERACIÓN DE INSTALACIONES DE TELECOBALTOTERAPIA – REVISIÓN 3
+
+f.
+
+Informar a la Autoridad Regulatoria cuando, a su entender, el titular de la licencia de
+operación no provee los medios necesarios para garantizar la seguridad radiológica de
+la instalación.
+
+54. Del trabajador:
+a. Cumplir los procedimientos establecidos para asegurar su propia protección, la de los
+demás trabajadores y la del público.
+
+7/7
+
+

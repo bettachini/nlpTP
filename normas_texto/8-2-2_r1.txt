@@ -1,0 +1,233 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 8.2.2.
+
+REVISIÓN 1
+
+Operación de
+aceleradores lineales
+de uso médico
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 18/02 (Boletín Oficial 22/7/02)
+
+República Argentina – 2002
+
+1/3
+
+NORMA AR 8.2.2.
+
+OPERACIÓN DE ACELERADORES LINEALES DE USO MÉDICO
+
+A. OBJETIVO
+1. Establecer los criterios mínimos de seguridad radiológica para la operación.
+
+B. ALCANCE
+2. Esta norma es aplicable a todas las instalaciones Clase II que posean aceleradores lineales de
+electrones para uso médico, con rango de energía entre 4 y 40 MeV.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con
+la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3 Equipo: El conjunto formado por el acelerador propiamente dicho, la consola de control de tratamiento y la camilla.
+4. Gantry: Parte del acelerador propiamente dicho que sostiene y permite realizar los posibles
+movimientos del cabezal de tratamiento.
+5. Interrupción de la Irradiación: Cese de la irradiación y de los movimientos mecánicos de las
+distintas partes.
+6. Responsable: Persona que asume la responsabilidad directa por la seguridad radiológica de
+una instalación Clase II o Clase III o de una práctica no rutinaria.
+7. Recinto de Irradiación: Sala donde se expone al paciente a tratamiento con radiación ionizante
+proveniente del acelerador, con suficiente blindaje para limitar adecuadamente las dosis en el exterior del mismo. Incluye la sala de irradiación y las zonas o laberintos de acceso.
+8. Titular de Licencia: Persona física o jurídica a la que la Autoridad Regulatoria ha otorgado una
+o más licencias para una instalación Clase I o Clase II.
+
+D. CRITERIOS
+D.1. Licencia de Operación
+9. El solicitante de la licencia de operación deberá presentar a la Autoridad Regulatoria la documentación técnica necesaria para demostrar que la operación del equipo se desarrollará en forma
+segura. Asimismo, se especificarán todas las previsiones realizadas tendientes a evitar accidentes
+que puedan ocasionar una exposición indebida. El contenido de la documentación técnica y las
+modificaciones que surjan durante la vida útil de la instalación deberán ser a satisfacción de la
+Autoridad Regulatoria.
+
+1/5
+
+NORMA AR 8.2.2. OPERACIÓN DE ACELERADORES LINEALES DE USO MÉDICO – REVISIÓN 1
+
+10. El diseño del recinto de irradiación deberá garantizar que durante la operación normal del acelerador, las dosis que reciban los trabajadores y los miembros del público, excluyendo los pacientes, resulten tan bajas como sea razonablemente obtenible y que no se superen los límites
+establecidos en las normas vigentes.
+11. Se deberá demostrar que los sistemas de protección están optimizados. En ningún caso la
+dosis efectiva anual, prorrateada por el tiempo que permanezcan en la instalación, podrá ser superior a 10 mSv para los trabajadores y 0,5 mSv para los miembros del público, excepto los pacientes.
+Alternativamente, no deberá efectuarse la optimización de los sistemas de protección si se demuestra que:
+a. Ningún trabajador pueda recibir una dosis efectiva anual superior a 6 mSv.
+b. Ningún individuo del público, excepto los pacientes, pueda recibir una dosis efectiva anual
+superior a 0,2 mSv.
+12. Deberán estar previstos en el diseño de la instalación sistemas o elementos de seguridad para
+limitar, tanto como sea razonablemente obtenible, la probabilidad de ocurrencia de situaciones
+anormales.
+13. Deberá existir en la consola de control de tratamiento, un sistema manual que permita al operador interrumpir manualmente la irradiación.
+14. Deberán existir en el interior del recinto de irradiación uno o más interruptores manuales, adecuadamente ubicados, que permitan interrumpir la irradiación.
+15. El recinto de irradiación deberá contar con un sistema de seguridad que impida la irradiación
+cuando el acceso esté permitido. Dicho sistema, producirá la interrupción automática de la irradiación, si se efectúa el acceso al recinto cuando el equipo está irradiando.
+16. El acceso al recinto de irradiación debe estar adecuadamente señalizado, a través de señales
+luminosas que indiquen la situación de equipo irradiando y de equipo listo para irradiar.
+17. La consola de control deberá estar instalada de tal manera que, en todo momento, el operador
+ubicado frente a ella, tenga un total dominio del acceso al recinto de irradiación.
+18. Deberán proveerse los medios adecuados para que, en todo momento, el operador tenga una
+visión clara y correcta del paciente.
+19. Deberá demostrarse que el equipo interrumpirá automáticamente la irradiación si se presenta
+alguna de las siguientes condiciones:
+a. La energía de los electrones que llegan al blanco o a la ventana de electrones se aparta del
+valor preseleccionado en un factor que supera lo establecido en la documentación técnica.
+b. La tasa de dosis absorbida medida por el sistema monitor de dosis supera el valor preseleccionado en consola en un porcentaje superior al establecido en la documentación técnica.
+20. Se deberá garantizar que la variación en el isocentro debido a la rotación del gantry, del colimador y de la camilla, está confinada en una esfera cuya radio está especificado en la documentación técnica.
+21. Se deberá garantizar que la correspondencia del campo de radiación y del campo lumínico se
+mantiene dentro de los valores establecidos en la documentación técnica.
+22. Deberá garantizarse que los valores alcanzados por los distintos parámetros del equipo, coincidan con las indicaciones correspondientes.
+
+2/ 5
+
+NORMA AR 8.2.2. OPERACIÓN DE ACELERADORES LINEALES DE USO MÉDICO – REVISIÓN 1
+
+23. Se deberá garantizar que la correspondencia de los ejes mecánicos de giro del colimador, del
+haz de radiación y del haz lumínico se mantiene dentro de los valores establecidos en la documentación técnica.
+24. La instalación deberá contar con un sistema que permita el chequeo de los enclavamientos de
+seguridad y el correspondiente ajuste de los mismos. En particular, los interruptores de puerta, los
+de emergencia de dentro y fuera de la sala de irradiación, la correcta actuación de los bloqueos
+que impiden comenzar la irradiación sin haber seleccionado todos los parámetros correspondientes, el correcto funcionamiento del monitor de dosis secundario o redundante y el temporizador de
+seguridad.
+D.2. Operación
+25. Solamente podrá operarse el equipo cuando se haya obtenido la licencia de operación, y la
+dotación de personal prevista para operar el equipo haya obtenido los correspondientes permisos
+individuales y/o autorizaciones.
+26. El equipo será operado dentro de los límites y condiciones establecidos en la documentación
+técnica.
+27. El titular de licencia:
+a. Deberá garantizar que la seguridad radiológica de la instalación no se vea afectada por
+requerimientos de la carga de trabajo del equipo.
+b. Podrá delegar total o parcialmente la ejecución de tareas necesarias para la seguridad radiológica, pero manteniendo en su totalidad la responsabilidad correspondiente.
+c.
+
+Deberá disponer de los recursos humanos necesarios y asegurar su capacitación y reentrenamiento.
+
+d. Deberá designar al responsable primario y asegurar que la función del mismo esté cubierta mientras permanezca vigente el permiso institucional de la Entidad Responsable.
+e. Deberá mantener actualizados los registros indicados en el capítulo correspondiente y
+cualquier otra documentación que la Autoridad Regulatoria establezca, durante la vida útil
+de la instalación. Estos documentos estarán a disposición de la Autoridad Regulatoria.
+28. Toda modificación de la instalación, del equipo y/o de la documentación que sea significativa
+desde el punto de vista de la seguridad radiológica, requerirá la aprobación de la Autoridad Regulatoria, previo a la implementación de la misma.
+29. Para las distintas etapas de operación del equipo, (encendido, en rutina, apagado y programada) deberán seguirse las secuencias operativas establecidas en:
+a. El manual de operaciones (en idioma español).
+b. Los procedimientos adicionales que formule el responsable.
+Todos estos documentos formarán parte de la documentación técnica y deberán estar disponibles
+permanentemente en la vecindad de la consola de control de tratamiento.
+30. No se admitirá la permanencia ni circulación de personas no imprescindibles a los fines de los
+tratamientos, durante los períodos de irradiación, dentro de los límites que a tal efecto determine el
+Responsable y que estarán establecidos en la documentación técnica.
+D.3. Mantenimiento
+31. Las reparaciones y el mantenimiento sólo podrán ser realizados por personas reconocidas por
+la Autoridad Regulatoria.
+32. Se deberá efectuar un mantenimiento preventivo de todos los sistemas, equipos y componentes relacionados con la seguridad, manteniendo las características funcionales originales estable-
+
+3/5
+
+NORMA AR 8.2.2. OPERACIÓN DE ACELERADORES LINEALES DE USO MÉDICO – REVISIÓN 1
+
+cidas por el fabricante. Todos los procedimientos seguidos para desarrollar el mantenimiento y la
+frecuencia asociada, deberán estar contenidos en la documentación técnica.
+33. Para equipos que puedan operar con energías mayores a 10 MeV, deberá existir un procedimiento escrito concerniente a la manipulación de piezas que puedan estar activadas. Este procedimiento estará incluido en la documentación técnica.
+34. Luego de realizarse un mantenimiento, deberá verificarse el correcto funcionamiento del equipo antes de iniciar su operación. Como mínimo deberán chequearse los siguientes parámetros,
+verificando que los mismos se encuentren dentro de los límites establecidos en la documentación
+técnica:
+a. La energía nominal del haz útil.
+b. La variación del isocentro con la rotación del gantry, el colimador y la camilla.
+c.
+
+La correspondencia del campo de radiación con el campo lumínico.
+
+d. La correlación entre la tasa de dosis absorbida medida por el sistema monitor de dosis y la
+indicación en consola de las unidades monitor, para cada energía.
+e. Los enclavamientos de seguridad asociados.
+D.4. Registros
+35. Se deberá implementar un sistema de registro y archivo de todos los datos relevantes obtenidos en las distintas secuencias operativas y de las condiciones que produzcan situaciones anormales, modificaciones, reparaciones y los resultados de los controles relacionados con la
+seguridad radiológica.
+36. Se deberá mantener un registro de todos los parámetros evaluados durante la calibración del
+equipo.
+37. Se deberá mantener un registro de todos los datos relevantes obtenidos en los distintos procedimientos de mantenimiento.
+38. Los precitados registros estarán a disposición de la Autoridad Regulatoria y estarán permanentemente actualizados.
+D.5. Dotación de Personal
+39. La dotación de personal mínima, con presencia efectiva, estará formada por personal médico,
+físico y técnico en radioterapia, según se indica en los criterios N° 40 a 43.
+40. Deberá contarse con personal médico, autorizado para el uso de equipos de radioterapia con
+permisos individuales en vigencia y en número suficiente para cubrir todo el horario de atención de
+la unidad.
+41. Deberá contarse con un profesional especialista en física de la radioterapia, que deberá ser
+secundado, o no, por otro especialista o un técnico en física de radioterapia según el número de
+pacientes nuevos al año, a satisfacción de la Autoridad Regulatoria.
+42. Deberá contarse con técnicos operadores de radioterapia que posean la certificación correspondiente, otorgada por la autoridad competente.
+43. Los profesionales y técnicos de la dotación de personal deberán acreditar su actualización
+profesional con la frecuencia y en las condiciones requeridas por la Autoridad Regulatoria.
+
+4/ 5
+
+NORMA AR 8.2.2. OPERACIÓN DE ACELERADORES LINEALES DE USO MÉDICO – REVISIÓN 1
+
+D.6. Controles Periódicos al Equipo
+44. Deberá garantizarse que, en todo momento, el equipo opere dentro de los límites y condiciones establecidos en la documentación técnica. Para ello deberán realizarse controles periódicos al
+equipo. Solo a los efectos de garantizar la seguridad radiológica de la práctica, como mínimo se
+deberá verificar:
+a. La coincidencia del tamaño del campo lumínico con la indicación de los diales correspondientes.
+b. La coincidencia de la distancia fuente-superficie con la indicación correspondiente.
+c.
+
+La relación unívoca entre la dosis absorbida entregada y las unidades monitor, para cada
+energía en el campo de referencia.
+
+d. La constancia de las energías empleadas, tanto para emisión fotónica como de electrones.
+e. La planicidad y simetría del campo de radiación, en el plano de calibración.
+f.
+
+La coincidencia de los ejes mecánico, de giro del colimador, del haz de radiación y del haz
+luminoso.
+
+g. La coincidencia de la proyección del centro del retículo con la intersección de las diagonales del campo luminoso.
+h. La posición del isocentro y su estabilidad conforme con las especificaciones del fabricante,
+luego de producir giros del gantry, del colimador y de la camilla.
+i.
+
+La coincidencia del campo luminoso con el campo de radiación.
+
+j.
+
+La alineación de los punteros ópticos de techo y pared.
+
+k.
+
+La dependencia de la tasa de dosis absorbida con la orientación del equipo.
+
+l.
+
+La variación de la tasa de dosis absorbida con el tamaño de campo.
+
+m. La alineación mecánica.
+45. Los procedimientos empleados para estas determinaciones y la frecuencia asociada, deberán
+formar parte de la documentación técnica.
+D.7. Responsabilidades
+46. Del Responsable:
+a. Será responsable directo del cumplimiento y la observancia de todo aquello relacionado
+con seguridad radiológica, incluyendo la presente norma.
+b. Será su responsabilidad constatar la calificación y acreditación correspondiente, del personal de operación y de cualquier otra persona que no pertenezca a la dotación de personal y sea asignada a tareas de instalación y mantenimiento.
+c.
+
+Será su responsabilidad facilitar, en todo momento, la realización de inspecciones y auditorías regulatorias.
+
+d. Será su responsabilidad comunicar a la Autoridad Regulatoria, en forma fehaciente, la
+ocurrencia de eventos relevantes significativos que afecten a la seguridad radiológica de
+las personas y de la instalación en los plazos establecidos en la documentación correspondiente. Asimismo deberá mantener una comunicación apropiada con la Autoridad Regulatoria y con los trabajadores asignados a la instalación.
+47. De los trabajadores:
+a. Son responsables del cumplimiento de los procedimientos establecidos para asegurar su
+propia protección, la de los demás trabajadores y la del público.
+
+5/5
+
+

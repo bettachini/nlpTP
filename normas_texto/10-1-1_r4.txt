@@ -1,0 +1,871 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 10.1.1.
+
+Norma básica de
+seguridad radiológica
+
+REVISIÓN 4
+
+Aprobada por Resolución del Directorio de la Autoridad Regulatoria
+Nuclear Nº 521/19 (Boletín Oficial 19/11/19).
+
+República Argentina – Impresión 2019
+
+1/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+AUTORIDAD REGULATORIA NUCLEAR
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires
+ARGENTINA
+Teléfonos (011) 6323-1300 / 5789-7600
+www.argentina.gob.ar/arn
+
+2/8
+
+NORMA AR 10.1.1.
+
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA
+La Ley Nº 24.804, Ley Nacional de la Actividad Nuclear, establece que la Autoridad Regulatoria
+Nuclear tiene la función de regular la actividad nuclear en lo referente a temas de seguridad radiológica y nuclear, protección física, salvaguardias y no proliferación; y le otorga la facultad de dictar
+normas, de cumplimiento obligatorio, referentes a los temas de su incumbencia.
+
+ÍNDICE
+A. OBJETIVO
+
+3
+
+B. ALCANCE
+
+3
+
+C. EXPLICACIÓN DE TÉRMINOS
+
+3
+
+D. REQUISITOS
+
+8
+
+D.1. SITUACIÓN DE EXPOSICIÓN PLANIFICADA
+
+8
+
+D.1.1. Requisitos generales
+
+8
+
+D.1.2. Responsabilidad por la seguridad radiológica
+
+10
+
+D.1.3
+
+Seguridad radiológica
+
+11
+
+D.1.3.1. Justificación de las prácticas
+
+11
+
+D.1.3.2. Optimización de la seguridad radiológica
+
+11
+
+D.1.3.3. Límites de dosis
+
+12
+
+D.1.4. Exposiciones potenciales
+
+12
+
+D.1.5. Requisitos operativos
+
+13
+
+D.1.6. Planes y procedimientos de emergencia
+
+13
+
+D.1.7. Exposición ocupacional
+
+14
+
+D.1.7.1. Límites de dosis
+
+14
+
+D.1.7.2. Seguridad radiológica de las trabajadoras y de los estudiantes
+menores de 18 años
+
+14
+
+D.1.7.3. Clasificación de las áreas de trabajo
+
+15
+
+D.1.7.4. Vigilancia de la salud de los trabajadores
+
+15
+
+D.1.8. Exposición del público
+
+16
+
+D.1.9. Exposición médica
+
+16
+
+D.1.10. Comunicaciones
+
+17
+
+D.2. SITUACIÓN DE EXPOSICIÓN EN EMERGENCIA
+
+17
+
+D.2.1. Exposición del público
+
+17
+
+D.2.2. Exposición de los trabajadores de emergencia
+
+17
+
+D.3. SITUACIÓN DE EXPOSICIÓN EXISTENTE
+
+18
+
+D.3.1. Exposición del público
+
+18
+
+D.3.2. Exposición de los trabajadores
+
+18
+
+FIGURA 1. Curva criterio para los trabajadores
+
+19
+
+FIGURA 2. Curva criterio para el público
+
+19
+
+1/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+A. OBJETIVO
+La presente norma establece los requisitos para la protección de las personas y el ambiente contra
+los efectos nocivos de la radiación ionizante y para la seguridad de las fuentes de radiación.
+
+B. ALCANCE
+La presente norma se aplica a todas las instalaciones y prácticas que regula la Autoridad Regulatoria, de acuerdo a las atribuciones que le confiere la legislación vigente.
+Esta norma no abarca los equipos destinados específicamente a generar rayos X, en los términos
+de la Ley Nº 17.557, y sí comprende los aceleradores lineales de uso médico que, como consecuencia de su operación, den lugar o produzcan radiación ionizante adicional a los rayos X.
+En esta norma se consideran tres situaciones de exposición a la radiación ionizante: situación de
+exposición planificada, situación de exposición en emergencia y situación de exposición existente;
+para la exposición ocupacional, la exposición del público y la exposición médica, según corresponda.
+El cumplimiento de esta norma, y de las normas y los requerimientos establecidos por la Autoridad
+Regulatoria, no exime del cumplimiento de otras normas y requerimientos establecidos por otras
+autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+Accidente: todo suceso involuntario, incluidos errores de operación, fallas de equipos u otros sucesos de carácter aleatorio, cuyas consecuencias, reales o potenciales, no sean despreciables
+desde el punto de vista de la seguridad radiológica.
+Acelerador de partículas: instalación que cuenta con un dispositivo tecnológico que acelera
+partículas cargadas y utiliza la radiación ionizante producida con fines científicos, industriales o
+médicos.
+Área controlada: zona de trabajo delimitada donde, en situación de exposición planificada, se
+requiere la aplicación de procedimientos preestablecidos para prevenir y controlar la exposición a
+fuentes de radiación, y medidas específicas para prevenir y mitigar las consecuencias de las exposiciones potenciales.
+Área supervisada: zona de trabajo delimitada donde, en situación de exposición planificada, se
+deben mantener bajo supervisión las condiciones radiológicas, aunque no se requieran procedimientos específicos.
+Autoridad Regulatoria: Autoridad Regulatoria Nuclear.
+Autorización de práctica no rutinaria: documento legal expedido por la Autoridad Regulatoria
+por medio del cual se autoriza a la Entidad Responsable, por un lapso expresamente determinado,
+a realizar una práctica no rutinaria.
+Autorización específica: documento legal expedido por la Autoridad Regulatoria por medio del
+cual se autoriza a una persona, que posee la licencia individual apropiada y que ha cumplido con
+todos los requisitos establecidos en la normativa vigente, a ejercer una función especificada en
+una instalación clase I determinada.
+Cultura de seguridad: conjunto de características y actitudes de las organizaciones y las personas que asegura, como prioridad, que las cuestiones relativas a la seguridad reciben la atención
+que merecen por su importancia.
+Descarga: emisión planificada, controlada y autorizada de material radiactivo al ambiente.
+Dispensa: liberación de la aplicación de todo control ulterior por parte de la Autoridad Regulatoria
+del material con contenido radiactivo utilizado en prácticas licenciadas, autorizadas o registradas
+por dicha autoridad.
+
+3/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+Dosis: medida de la energía absorbida por un órgano, un tejido o el cuerpo entero. Se utilizan,
+según el contexto, las magnitudes denominadas dosis efectiva, dosis equivalente en órgano o
+tejido, dosis colectiva y dosis efectiva comprometida. Los términos calificativos se suelen omitir
+cuando no son necesarios para precisar la magnitud de interés.
+Dosis colectiva: dosis total incurrida por una población (trabajadores o público).
+Dosis efectiva, E: suma de los productos de las dosis equivalentes en órgano o tejido, HT, y de
+los factores de ponderación del órgano o tejido correspondiente, wT.
+
+La unidad de la dosis efectiva, E, es joule por kilogramo (J/kg) y su nombre especial es sievert
+(Sv).
+Dosis efectiva comprometida, E(ԏ): suma de los productos de las dosis equivalentes comprometidas en órganos o tejidos y de los factores de ponderación del órgano o tejido correspondiente,
+wT, donde ԏ es el tiempo de integración, expresado en años, después de la incorporación. El período de compromiso se considera como 50 años para adultos y hasta la edad de 70 años para
+niños.
+La unidad de la dosis efectiva comprometida, E(ԏ), es joule por kilogramo (J/kg) y su nombre especial es sievert (Sv).
+Dosis equivalente comprometida en órgano o tejido, HT(ԏ): integral en el tiempo de la tasa de
+dosis equivalente en un órgano o tejido particular debido a la incorporación de material radiactivo
+en el cuerpo de la persona de referencia, donde ԏ es el tiempo de integración expresado en años.
+La unidad de la dosis equivalente comprometida en órgano o tejido, HT, es joule por kilogramo
+(J/kg) y su nombre especial es sievert (Sv).
+Dosis equivalente en órgano o tejido, HT: producto de la dosis absorbida debida a un tipo determinado de radiación, R, promediada sobre un órgano o tejido por el factor de ponderación de la
+radiación considerada.
+,
+
+Donde, DT,R es la dosis absorbida media en un órgano o tejido “T” debida a la radiación “R” y wR es
+el factor de ponderación de la radiación.
+La unidad de la dosis equivalente en órgano o tejido, HT, es joule por kilogramo (J/kg) y su nombre
+especial es sievert (Sv).
+Dosis proyectada: dosis que se prevé recibir si no se tomaran las medidas de protección previstas.
+Dosis residual: dosis que se prevé recibir después de haber dado por terminadas las medidas de
+protección (o se haya decidido no aplicar medidas de protección) en situación de exposición en
+emergencia o situación de exposición existente.
+Emergencia: situación no rutinaria que hace necesaria la pronta adopción de medidas, principalmente para mitigar un riesgo o las consecuencias adversas para la vida, la salud y los bienes de
+las personas o para el ambiente.
+Enfoque graduado: proceso o método en el que el rigor de las acciones de control y las condiciones a ser aplicadas se corresponden con el nivel de riesgos asociados, esto es con la probabilidad
+de ocurrencia y las posibles consecuencias de la pérdida de control.
+Entidad Responsable: persona humana o jurídica a la que la Autoridad Regulatoria le ha otorgado una o varias licencias, registros o autorizaciones de práctica no rutinaria.
+Equivalente de dosis personal: equivalente de dosis en tejido blando a una profundidad adecuada, d, debajo de un punto específico del cuerpo humano, donde “d” es 0,07 mm, 3 mm o 10 mm.
+La unidad es joule por kilogramo (J/kg) y su nombre especial es sievert (Sv).
+
+4/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+Evaluación de seguridad: proceso sistemático de análisis y evaluación de los riesgos asociados
+a las instalaciones y prácticas, y de las correspondientes medidas de seguridad radiológica.
+Exención: decisión de la Autoridad Regulatoria que exime a una práctica o a una fuente de radiación adscripta a una práctica del cumplimiento de alguno o todos los requisitos establecidos en la
+normativa regulatoria.
+Exposición: estado o situación de estar sometido a irradiación.
+Exposición del público: exposición de la población a la radiación ionizante debida a fuentes de
+radiación asociadas a una situación de exposición planificada, situación de exposición en emergencia o situación de exposición existente, excluyendo la exposición médica y la exposición ocupacional.
+Exposición externa: exposición a la radiación emitida por una fuente de radiación situada fuera
+del cuerpo.
+Exposición interna: exposición a la radiación emitida por una fuente de radiación situada dentro
+del cuerpo.
+Exposición médica: exposición del paciente a la radiación ionizante en situación de diagnóstico o
+terapia y de aquella persona no ocupacionalmente expuesta que lo acompaña voluntariamente y
+de la persona expuesta voluntariamente en un programa de investigación biomédica.
+Exposición ocupacional: exposición del trabajador a la radiación ionizante por su trabajo.
+Exposición potencial: exposición que puede ocurrir como consecuencia de un accidente en una
+instalación o práctica.
+Fuente de radiación: todo lo que pueda causar exposición por emisión de radiación ionizante o
+liberación de material radiactivo, y que pueda tratarse como una unidad a efectos de la seguridad
+radiológica.
+Fuente radiactiva: fuente de radiación que contiene material radiactivo.
+Generadora de residuos radiactivos: instalación regulada y fiscalizada por la Autoridad Regulatoria en la que, como consecuencia de su operación, se generan residuos radiactivos y en la que
+se pueden realizar cualesquiera de las actividades incluidas en la gestión de residuos radiactivos,
+excepto la disposición final.
+Gestionadora de residuos radiactivos: instalación regulada y fiscalizada por la Autoridad Regulatoria en la que se realiza la gestión de residuos radiactivos transferidos por las generadoras de
+residuos radiactivos.
+Gestión de residuos radiactivos: conjunto de actividades, relativas al manejo administrativo y
+operativo de residuos radiactivos, que incluye segregación, registro de inventario, caracterización,
+tratamiento, acondicionamiento, almacenamiento, transporte y disposición final.
+Instalación: instalación nuclear, instalación radiactiva, instalación minero fabril, acelerador de
+partículas o gestionadora de residuos radiactivos.
+Instalación clase I o instalación clase II o instalación clase III: instalación o práctica clasificada, siguiendo un enfoque graduado, en función del riesgo radiológico asociado a las fuentes de
+radiación en la instalación o práctica, el impacto radiológico ambiental o las consecuencias radiológicas de las exposiciones potenciales o las dosis ocupacionales involucradas y, de corresponder
+la complejidad tecnológica.
+Instalación de gestión de residuos radiactivos: instalación en la que se realiza alguna o todas
+las etapas de la gestión de residuos radiactivos, excepto la disposición final.
+Instalación minero fabril: instalación destinada a la extracción y concentración de minerales que
+contienen radionucleidos de la serie del uranio o de la serie del torio, para producir concentrado de
+uranio o de torio respectivamente.
+Instalación nuclear: instalación donde se procesa, manipula, almacena transitoriamente o utiliza
+material radiactivo fisionable.
+Instalación radiactiva: instalación donde se procesa, manipula, almacena transitoriamente o utiliza material radiactivo no fisionable.
+
+5/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+Instalación relevante: instalación clase I.
+Intervención: toda aplicación de una medida de protección.
+Justificación: proceso mediante el cual se evalúa:
+a. en situación de exposición planificada, si la iniciación o continuidad de una práctica es globalmente beneficiosa para las personas y para la sociedad, es decir, si los beneficios previstos superan los perjuicios (incluido el detrimento debido a la radiación) que resultan de dicha
+práctica.
+b. en situación de exposición en emergencia o en situación de exposición existente, si la iniciación o la continuidad de la aplicación de una medida de protección puede resultar globalmente beneficiosa para las personas y la sociedad, es decir, si los beneficios previstos,
+incluyendo la reducción del detrimento por la radiación, superan el costo de la aplicación de
+la medida de protección y cualquier perjuicio o daño producido por dicha medida.
+Licencia: documento legal expedido por la Autoridad Regulatoria que autoriza a ejecutar las actividades correspondientes a una determinada etapa de la vida de una instalación clase I o de una
+instalación clase II. Las etapas pueden ser construcción, puesta en marcha, operación, retiro de
+servicio o cualquier otra que la Autoridad Regulatoria considere necesario licenciar.
+Licencia individual: documento legal expedido por la Autoridad Regulatoria, por medio del cual
+se reconocen los conocimientos teóricos necesarios (correspondientes a una función genérica de
+un tipo de instalación clase I), para poder iniciar el entrenamiento en el trabajo en una función especificada determinada, a los fines de obtener la autorización específica correspondiente.
+Límite anual de incorporación: valor de la actividad de un dado radionucleido cuya incorporación
+da lugar a una dosis efectiva comprometida igual al límite de dosis efectiva en un año.
+Límite de dosis: en una situación de exposición planificada, valor de la dosis efectiva o de la dosis equivalente en órgano o tejido, establecido por la Autoridad Regulatoria y que no debe ser superado en un período determinado.
+Material radiactivo: material que, según lo establecido por la Autoridad Regulatoria, está sometido al control regulatorio debido a su radiactividad.
+Medida de protección: medida encaminada a evitar o reducir las dosis que de otro modo podrían
+recibirse en situación de exposición en emergencia o situación de exposición existente.
+Monitoreo de área: monitoreo radiológico que se lleva a cabo en el ambiente de trabajo.
+Monitoreo personal: monitoreo radiológico de un dado trabajador.
+Monitoreo radiológico: conjunto de mediciones e interpretación de los resultados, que se realiza
+para evaluar la exposición a la radiación.
+Nivel de referencia: en situación de exposición en emergencia o en situación de exposición existente, es el nivel de dosis o el nivel de concentración de actividad por encima del cual no es apropiado hacer planes para permitir que se produzcan exposiciones y por debajo del cual se seguiría
+aplicando el principio de optimización de la seguridad radiológica.
+Optimización de la seguridad radiológica: proceso para determinar el nivel de seguridad que
+hace que la magnitud de las dosis individuales, el número de personas (trabajadores y público)
+expuestas a radiación ionizante y la probabilidad de ocurrencia de exposiciones se mantengan en
+el valor más bajo que pueda razonablemente alcanzarse, teniendo en cuenta los factores económicos y sociales pertinentes.
+Permiso individual: documento legal expedido por la Autoridad Regulatoria por medio del cual se
+autoriza a una persona, que ha cumplido con todos los requisitos de capacitación y entrenamiento
+establecidos en la normativa vigente, a trabajar con fuentes de radiación en una instalación clase II
+o en una práctica no rutinaria asociada a una instalación clase II.
+Permiso individual para registro: documento legal expedido por la Autoridad Regulatoria por
+medio del cual se autoriza a una persona, que ha cumplido con todos los requisitos de capacitación y entrenamiento establecidos en la normativa vigente, a trabajar con fuentes de radiación en
+una instalación clase III o en una práctica no rutinaria asociada a una instalación clase III.
+
+6/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+Persona representativa: persona del público que recibe una dosis que es representativa de las
+dosis que reciben las personas más expuestas en la población.
+Plan de emergencia: descripción de los objetivos, la política y los conceptos de las operaciones
+para dar respuesta a una emergencia, así como de la estructura, las autoridades y las responsabilidades inherentes para una respuesta sistemática, coordinada y eficaz.
+Práctica: toda tarea con fuente de radiación que produzca un incremento real o potencial de la
+exposición de las personas a la radiación ionizante, o de la cantidad de personas expuestas.
+Práctica no rutinaria: práctica que no forma parte del proceso rutinario de operación de una instalación y que para realizarse requiere una autorización de práctica no rutinaria.
+Producto de consumo: dispositivo o artículo fabricado en el que se han incorporado radionucleidos o producido radionucleidos por activación de forma deliberada, o que genera radiación ionizante, y que se puede poner a disposición del público sin control regulatorio posterior.
+Proveedores de productos de consumo: diseñadores, fabricantes, productores, constructores,
+instaladores, distribuidores, vendedores, e importadores y exportadores de productos de consumo.
+Público: a los fines de seguridad radiológica, y en sentido general, cualquier persona de la población excepto aquella expuesta a la radiación ionizante como trabajador o paciente.
+Registro: documento legal expedido por la Autoridad Regulatoria, por medio del cual se autoriza
+la operación de una instalación clase III.
+Remediación: cualquier medida que sea posible realizar para reducir la exposición a la radiación
+debida a la contaminación existente de áreas terrestres, mediante la aplicación de acciones sobre
+la fuente de radiación o sobre las vías de exposición para las personas.
+Requerimiento: requisito que debe ser cumplido por la Entidad Responsable tal como lo requiere
+la Autoridad Regulatoria.
+Residuos radiactivos: materiales para los cuales no se prevé ningún uso ulterior y que contienen
+sustancias radiactivas con valores de actividad tales que exceden los valores autorizados establecidos por la Autoridad Regulatoria para su dispersión en el ambiente o los niveles genéricos de
+dispensa, según corresponda.
+Responsable por la Seguridad Radiológica: persona humana designada por la Entidad Responsable, y aceptada por la Autoridad Regulatoria, que asume la responsabilidad directa por la
+seguridad radiológica de una instalación clase II, instalación clase III o de una práctica no rutinaria.
+Responsable Primario: persona humana designada por la Entidad Responsable, y aceptada por
+la Autoridad Regulatoria, que asume la responsabilidad directa por la seguridad radiológica, la
+seguridad nuclear, la seguridad y protección física, y las salvaguardias de una instalación clase I.
+Restricción de dosis: valor prospectivo de la dosis individual, relacionada directamente con la
+fuente de radiación que la produce y que se utiliza en una situación de exposición planificada como parámetro para la optimización de la seguridad radiológica. Las opciones aceptables para la
+optimización son las que se encuentran por debajo del valor asignado a la restricción de dosis.
+Riesgo radiológico: riesgo de efectos nocivos para la salud debidos a la exposición a la radiación
+ionizante (incluida la probabilidad de que se produzcan esos efectos) y cualquier otro riesgo relacionado con la seguridad (incluidos los riesgos para el ambiente) que podrían surgir como consecuencia directa de la exposición a la radiación ionizante, la presencia de material radiactivo o su
+emisión al ambiente, o la pérdida de control de una fuente de radiación.
+Secuencia accidental: serie de fallas que, eventualmente, pueden acontecer a partir de la ocurrencia de un evento iniciante.
+Seguridad radiológica: protección de las personas y el ambiente contra los efectos nocivos de la
+radiación ionizante y seguridad de las fuentes de radiación.
+Sistema de gestión: conjunto de elementos interrelacionados o interactuantes (sistema) destinado a
+establecer políticas y objetivos, y a posibilitar que se logren dichos objetivos de manera eficaz.
+Situación de exposición en emergencia: situación de exposición que surge como resultado de
+un accidente, acto malicioso o cualquier otro suceso inesperado, y que requiere la pronta aplica-
+
+7/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+ción de medidas para evitar o reducir las consecuencias radiológicas y otras consecuencias adversas.
+Situación de exposición existente: situación de exposición que ya existe cuando se necesita
+tomar una decisión sobre la pertinencia de su control.
+Situación de exposición planificada: situación de exposición que surge a raíz del uso planificado de una fuente de radiación y que tiene como resultado una exposición debida a dicha fuente.
+Trabajador: toda persona que trabaja, ya sea en jornada completa, jornada parcial o temporalmente, para un empleador o por cuenta propia, y que tiene derechos y deberes reconocidos en lo
+que atañe a la protección radiológica ocupacional.
+Trabajador de emergencia: persona con funciones específicas como trabajador en respuesta a
+una emergencia.
+Vida de la instalación o práctica: período comprendido desde el inicio de las acciones regulatorias vinculadas a una dada instalación o práctica hasta la liberación del control regulatorio de dicha
+instalación o práctica.
+Vigilancia de la salud: supervisión médica cuya finalidad es asegurar la aptitud inicial y permanente de los trabajadores para la tarea a que se los destine.
+
+D. REQUISITOS
+D.1. SITUACIÓN DE EXPOSICIÓN PLANIFICADA
+D.1.1. Requisitos generales
+1. Toda persona humana o jurídica podrá, entre otras acciones, adoptar, introducir, realizar,
+interrumpir o cesar una práctica, extraer, tratar, diseñar, manufacturar, construir, ensamblar,
+instalar, adquirir, importar, exportar, suministrar, proveer, distribuir, prestar, alquilar, recibir, emplazar, ubicar, poner en servicio, poseer, utilizar, explotar, mantener, reparar, transferir, retirar
+de servicio, desmontar, transportar, almacenar o someter a disposición final fuentes de radiación
+si y solo si lo hace de conformidad con las normas y los requerimientos establecidos por la Autoridad Regulatoria.
+2. Toda persona humana o jurídica podrá operar una instalación o realizar una práctica si y solo
+si la Autoridad Regulatoria le ha otorgado la licencia o el registro correspondiente.
+3. Toda persona humana o jurídica podrá realizar una práctica no rutinaria si y solo si la Autoridad Regulatoria le ha otorgado la autorización de práctica no rutinaria correspondiente.
+4. Las siguientes instalaciones o prácticas han sido clasificadas como instalaciones clase I (también llamadas instalaciones relevantes):
+a. Reactores nucleares de potencia
+b. Reactores nucleares de investigación
+c. Instalaciones nucleares con potencial de criticidad
+d. Plantas de irradiación
+e. Plantas de producción de fuentes radiactivas
+f.
+
+Gestionadora de residuos radiactivos
+
+g. Instalaciones con celdas calientes que operan con productos de fisión, productos de activación o ambos
+h. Instalaciones para almacenamiento transitorio de elementos combustibles irradiados u
+otras fuentes radiactivas.
+
+8/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+5. Las siguientes instalaciones o prácticas han sido clasificadas como instalaciones clase II:
+a. Instalaciones de teleterapia con aceleradores lineales de uso médico
+b. Instalaciones de teleterapia con equipos de cobalto
+c. Instalaciones de braquiterapia
+d. Instalaciones de medicina nuclear
+e. Instalaciones nucleares sin potencial de criticidad
+f.
+
+Gammagrafía industrial
+
+g. Instalaciones que operan medidores industriales
+h. Instalaciones que usan fuentes de radiación en la industria del petróleo y en el perfilaje de
+pozos
+i.
+
+Importación o exportación, venta o transferencia, y depósito de fuentes de radiación
+
+j.
+
+Instalaciones de radiofarmacia para fraccionamiento, venta o transferencia de fuentes de
+radiación
+
+k. Instalaciones que usan fuentes de radiación para calibración o verificación
+l.
+
+Control, mantenimiento y reparación de equipos industriales con fuentes de radiación
+
+m. Trasvase de fuentes de radiación, mantenimiento y reparación de equipos.
+6. Las siguientes instalaciones o prácticas han sido clasificadas como instalaciones clase III:
+a. Diagnóstico in vitro para seres humanos
+b. Uso de fuentes radiactivas selladas y no selladas de muy baja actividad en investigación,
+en docencia o en otras aplicaciones
+c.
+
+Importación, exportación y transferencia de materiales radiactivos en dispositivos cuyo uso
+estará exceptuado del control regulatorio con excepción de las salvaguardias en los casos
+de aplicación.
+
+7. Las siguientes instalaciones o prácticas serán clasificadas por la Autoridad Regulatoria como
+instalaciones clase I o instalaciones clase II:
+a. Aceleradores de partículas
+b. Instalaciones de gestión de residuos radiactivos
+c. Instalaciones minero fabriles.
+8. Las instalaciones de investigación y desarrollo en áreas físico-químicas y biomédicas serán
+clasificadas por la Autoridad Regulatoria como instalaciones clase II o instalaciones clase III.
+9. Las instalaciones o prácticas no comprendidas en los Requisitos Nº 4, 5 y 6 serán clasificadas
+por la Autoridad Regulatoria caso por caso, con un enfoque graduado en función del riesgo radiológico asociado a las fuentes de radiación en la instalación o práctica, el impacto radiológico ambiental, las consecuencias radiológicas de exposiciones potenciales o las dosis ocupacionales
+involucradas y de corresponder, la complejidad tecnológica.
+10. La Autoridad Regulatoria puede cambiar la clasificación de una instalación o práctica en el
+caso de que existan nuevos elementos de juicio y que nuevas evaluaciones de seguridad así lo
+justifiquen.
+11. Toda práctica o fuente de radiación adscripta a ella podrá quedar exenta, si en todas las circunstancias razonablemente previsibles, la dosis efectiva que se prevé que recibirá cualquier persona, debida a dicha práctica o fuente de radiación, no excede 10 μSv en un año, y siempre que la
+Autoridad Regulatoria no entienda lo contrario. Para escenarios de baja probabilidad de ocurrencia, la exención se aplica si la dosis efectiva que se prevé que recibirá cualquier persona no excede 1 mSv en un año.
+
+9/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+12. Los materiales radiactivos o cualquier objeto con contenido radiactivo podrán ser dispensados,
+si en todas las circunstancias razonablemente previsibles, la dosis efectiva que se prevé que recibirá cualquier persona, debido a dichos materiales, no excede 10 μSv en un año, y siempre que la
+Autoridad Regulatoria no entienda lo contrario. Para escenarios de baja probabilidad de ocurrencia, la dispensa se aplica si la dosis efectiva que se prevé que recibirá cualquier persona no excede 1 mSv en un año.
+13. El solicitante de licencia, registro o autorización de práctica no rutinaria debe presentar a la
+Autoridad Regulatoria la documentación técnica pertinente para evaluar la seguridad radiológica
+de la instalación, práctica o práctica no rutinaria, con el alcance y la antelación que la Autoridad
+Regulatoria determine.
+14. La solicitud de licencia, registro o autorización de práctica no rutinaria debe contener, si corresponde, información sobre la generación de residuos radiactivos y propuestas para su gestión,
+descargas al ambiente y transporte de material radiactivo, para ser evaluada por la Autoridad Regulatoria.
+15. La Entidad Responsable no podrá iniciar modificación alguna de la instalación o práctica, o de
+la práctica no rutinaria que altere las características de seguridad de diseño u operación en base a
+las cuales éstas fueron licenciadas, registradas o autorizadas, sin la autorización previa de la Autoridad Regulatoria.
+D.1.2. Responsabilidad por la seguridad radiológica
+16. La responsabilidad por la seguridad radiológica de las instalaciones o prácticas señaladas en
+los Requisitos Nº 4, 5, 6, 7 y 8 y de las prácticas no rutinarias es de la Entidad Responsable.
+17. La Entidad Responsable debe cumplir, como mínimo, con lo establecido en esta norma, y en
+otras normas y requerimientos establecidos por la Autoridad Regulatoria, y su cumplimiento no la
+exime de la responsabilidad de realizar todo lo razonable y compatible con sus posibilidades para
+mejorar la seguridad radiológica.
+18. La Entidad Responsable mantiene la responsabilidad durante toda la vida de la instalación o
+práctica hasta que finalice el control regulatorio o se transfiera la responsabilidad a otra Entidad
+Responsable, la cual debe aceptarla formalmente y ser aprobada por la Autoridad Regulatoria.
+19. La Entidad Responsable debe promover la cultura de seguridad en la organización.
+20. La Entidad Responsable puede delegar, total o parcialmente, la ejecución de las tareas inherentes a la seguridad radiológica, pero mantiene en su totalidad la responsabilidad correspondiente.
+21. La Entidad Responsable de una instalación clase I debe designar a un Responsable Primario
+a satisfacción de la Autoridad Regulatoria.
+22. La Entidad Responsable de una instalación clase II, instalación clase III o de una práctica no
+rutinaria debe designar a un Responsable por la Seguridad Radiológica a satisfacción de la Autoridad Regulatoria.
+23. La Entidad Responsable debe prestarle al Responsable Primario o al Responsable por la Seguridad Radiológica, según corresponda, todo el apoyo necesario, y debe realizar una supervisión
+adecuada, para asegurar que las actividades se lleven a cabo en condiciones apropiadas de seguridad radiológica, con la aplicación de un sistema de gestión adecuado.
+24. La Entidad Responsable y el Responsable Primario o el Responsable por la Seguridad Radiológica, según corresponda, deben promover las buenas prácticas de trabajo para asegurar la reducción de la probabilidad de fallas humanas con consecuencias radiológicas.
+25. Los trabajadores son responsables del cumplimiento de los procedimientos establecidos por la
+Entidad Responsable para asegurar su propia protección, la protección de los demás trabajadores,
+la protección del público, la protección del ambiente y en el caso de las exposiciones médicas, la
+protección de los pacientes y acompañantes voluntarios.
+26. La Entidad Responsable y el Responsable Primario o el Responsable por la Seguridad Radiológica, según corresponda, deben facilitar en todo momento, la realización de inspecciones y auditorías regulatorias, que lleve a cabo la Autoridad Regulatoria.
+
+10/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+27. Sólo se podrán iniciar las actividades concernientes a una etapa de licenciamiento en una
+instalación clase I cuando se cuente con la correspondiente licencia emitida por la Autoridad Regulatoria.
+28. Sólo se podrá iniciar la operación en una instalación clase II o en una instalación clase III o la
+realización de una práctica no rutinaria cuando se cuente con la licencia, el registro o la autorización de práctica no rutinaria correspondiente, emitida por la Autoridad Regulatoria.
+29. La Entidad Responsable de una instalación clase I debe asegurar que el organigrama de operación esté cubierto por trabajadores debidamente capacitados y que, en los casos que determine
+la Autoridad Regulatoria, cuenten con la licencia individual y la autorización específica correspondiente.
+30. La Entidad Responsable debe asegurar que todo trabajador de una instalación clase II, instalación clase III o práctica no rutinaria esté debidamente capacitado para la función que le compete
+y que, en los casos que determine la Autoridad Regulatoria, cuente con el permiso individual o
+permiso individual para registro, según corresponda.
+31. Toda modificación que se pretenda realizar en la organización de una instalación clase I, instalación clase II o instalación clase III, que pueda afectar su capacidad para afrontar las responsabilidades por la seguridad radiológica, requiere la comunicación formal a la Autoridad Regulatoria
+para la aprobación respectiva.
+D.1.3. Seguridad radiológica
+32. La Entidad Responsable debe justificar las prácticas, realizar la optimización de la seguridad
+radiológica, y respetar los límites de dosis y las restricciones de dosis establecidos.
+33. La Entidad Responsable debe prevenir la ocurrencia de accidentes y mitigar sus consecuencias.
+34. La Entidad Responsable debe asegurar que en la evaluación de seguridad se consideran la
+exposición de los trabajadores, la exposición del público y, en el caso de las exposiciones médicas, la exposición de los pacientes y de los acompañantes voluntarios.
+D.1.3.1. Justificación de las prácticas
+35. Las prácticas ya autorizadas pueden dejar de estar justificadas, si se demuestra que ya no
+existe un beneficio neto originado en la continuación de dichas prácticas.
+36. No están justificadas las prácticas que involucran la adición de material radiactivo en alimentos, bebidas, cosméticos u otros elementos que puedan ser incorporados al organismo de las personas, excepto las prácticas médicas justificadas.
+37. No están justificadas las prácticas que involucran el uso de material radiactivo o la activación,
+en productos de uso corriente tales como juguetes, adornos personales o elementos decorativos.
+38. No está justificada la obtención de imágenes de personas mediante fuentes de radiación para
+ser utilizadas como expresión artística o con fines publicitarios.
+D.1.3.2. Optimización de la seguridad radiológica
+39. Los sistemas de seguridad radiológica deben estar optimizados a satisfacción de la Autoridad
+Regulatoria.
+40. Cuando el diseño de los sistemas de seguridad radiológica asegure que, en condiciones normales de operación, ningún trabajador puede recibir una dosis efectiva superior a 5 mSv en un
+año y ningún miembro del público puede recibir una dosis efectiva superior a 0,1 mSv en un año
+no es necesario demostrar que los sistemas están optimizados, salvo que la Autoridad Regulatoria
+lo requiera expresamente.
+
+11/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+D.1.3.3. Límites de dosis
+41. Durante la operación normal de una instalación o la realización de una práctica, ninguna persona debe ser expuesta a dosis de radiación superiores a los límites establecidos. Estos límites de
+dosis se aplican a cada trabajador y al público. En el caso de la exposición del público, los límites
+se aplican a la dosis en la persona representativa.
+42. Para verificar el cumplimiento del límite de dosis efectiva en un año, se deben sumar la dosis
+efectiva debida a la exposición externa en ese año y la dosis efectiva comprometida debida a la
+exposición interna en el mismo período.
+43. Para verificar el cumplimiento de los límites de dosis equivalente en cristalino o dosis equivalente en piel o extremidades en un año, se deben sumar la dosis equivalente en órgano o tejido
+debida a la exposición externa y, cuando corresponda, la dosis equivalente comprometida debida
+a la exposición interna en ese mismo año, en el órgano o tejido correspondiente.
+44. La dosis efectiva comprometida y la dosis equivalente comprometida se deben calcular a partir
+del momento de la incorporación del material radiactivo, integrando las tasas de dosis debidas a la
+exposición interna sobre 50 años para adultos (trabajadores o público) y sobre 70 años para niños.
+45. En el cómputo de las dosis recibidas por los trabajadores y el público, no deben incluirse las
+dosis debidas a la exposición médica ni las provenientes del fondo natural de radiación.
+D.1.4. Exposiciones potenciales
+46. Para instalaciones clase I, instalaciones clase II y para la realización de una práctica no rutinaria, la Entidad Responsable debe asegurar que el diseño, la selección del emplazamiento y la
+construcción, según corresponda, sean consecuentes con el objetivo de prevenir la ocurrencia de
+accidentes, durante la puesta en marcha y la operación de la instalación o la realización de la
+práctica no rutinaria, y de mitigar las consecuencias radiológicas en el caso de que estos accidentes ocurran.
+47. Para instalaciones clase I, la Entidad Responsable, debe asegurar que se identifiquen todas
+las secuencias accidentales previsibles, se analicen los casos representativos de ellas, sus probabilidades anuales de ocurrencia, y las consecuencias esperadas en términos de exposición a la
+radiación. Siempre que sea factible, se debe usar la experiencia de eventos ocurridos para la estimación de probabilidades: si los datos disponibles son abundantes se podrá usar la inferencia
+frecuentista, si los datos son escasos se deberá optar por la inferencia bayesiana y si no hay eventos ocurridos se realizará un juicio de ingeniería.
+48. Para instalaciones clase I, la Entidad Responsable debe asegurar que se verifique que la probabilidad anual de ocurrencia de una secuencia accidental postulada, estimada según el requisito
+47 con potenciales implicancias radiológicas para los trabajadores, y la estimación de dosis efectiva resultante de esa secuencia en el trabajador más expuesto no definan un punto en la zona no
+aceptable de la Figura 1.
+49. En el diseño de una instalación clase I, la Entidad Responsable debe asegurar que se verifique que la probabilidad anual de ocurrencia de una secuencia accidental postulada (o categoría
+de liberación), estimada según el requisito 47, con potenciales implicancias radiológicas en el público, y la estimación de dosis efectiva resultante de esa secuencia en la persona representativa
+no definan un punto en la zona no aceptable de la Figura 2.
+50. En el diseño de una instalación clase I, tanto para los trabajadores como para el público, se
+pueden agrupar las secuencias accidentales según sus consecuencias radiológicas (también denominada categoría de liberación para los accidentes con liberación al ambiente), seleccionando
+como representativa del grupo aquella secuencia que dé lugar a la peor consecuencia radiológica
+y asignando como probabilidad del grupo la suma de las probabilidades anuales de ocurrencia de
+las secuencias accidentales que componen el grupo. Si el número N de grupos de secuencias
+accidentales postuladas fuese mayor que 10, los valores de la escala de ordenadas de la Figura 1
+o la Figura 2, según corresponda, deben ser divididos por la relación N/10 antes de ubicar los puntos en la figura.
+
+12/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+D.1.5. Requisitos operativos
+51. La Entidad Responsable debe presentar a la Autoridad Regulatoria el programa de seguridad
+radiológica para la instalación, práctica o práctica no rutinaria, según corresponda. Dicho programa
+debe incluir los objetivos, procesos y tareas en materia de seguridad radiológica, definir la estructura organizativa y prever los recursos para su implementación.
+52. La Entidad Responsable debe asegurar que la planificación de la operación de la instalación,
+la realización de la práctica o la práctica no rutinaria, se lleven a cabo de modo tal que las dosis
+resulten tan bajas como sea razonablemente alcanzable.
+53. La Entidad Responsable debe asegurar que existan procedimientos operativos escritos en
+relación con la seguridad radiológica, los cuales deben ser sometidos a revisiones periódicas y
+actualizaciones, según corresponda, en el marco del sistema de gestión.
+54. La Entidad Responsable debe asegurar que todo trabajador tenga la información, la capacitación y el entrenamiento apropiados para sus tareas, y el monitoreo radiológico adecuado.
+55. La Entidad Responsable debe asegurar que todo trabajador tenga un apropiado reentrenamiento periódico.
+56. La Entidad Responsable debe implementar, en acuerdo con el empleador de los trabajadores
+que deban desempeñarse en la instalación y que no pertenecen a la dotación de la misma, las
+medidas de seguridad radiológica conforme con la normativa vigente, previo al ingreso a dicha
+instalación de tales trabajadores.
+57. La Entidad Responsable debe asegurar que a los trabajadores no se les ofrecen compensaciones en sustitución de medidas de seguridad.
+D.1.6. Planes y procedimientos de emergencia
+58. La Entidad Responsable de una instalación clase I debe establecer un plan de emergencia
+interno, que debe estar aprobado por la Autoridad Regulatoria. Aquellas instalaciones en las que
+las consecuencias radiológicas de un accidente puedan ser significativas para miembros del público y el ambiente, también deben contar con un plan de emergencia externo, acordado con la Autoridad Regulatoria. Dichos planes deben prever las medidas y los medios disponibles para controlar
+la emergencia y mitigar sus consecuencias en sus zonas de aplicación.
+59. Los planes de emergencia interno y externo de una instalación clase I deben tener en cuenta,
+según corresponda, las características de la instalación, del emplazamiento y de los alrededores
+del emplazamiento (incluyendo la infraestructura y la población), y los eventos externos que podrían obstaculizar significativamente la respuesta a la emergencia.
+60. La Entidad Responsable de una instalación clase I debe asegurar que se evalúa la viabilidad
+de la implementación de las acciones de respuesta a las emergencias de manera que resulten
+eficaces en el emplazamiento y en los alrededores del mismo.
+61. La Entidad Responsable de una instalación clase I debe mantener actualizado y operativo el
+plan de emergencia interno y asegurar que se mantiene actualizado y operativo el plan de emergencia externo.
+62. La Entidad Responsable de una instalación clase I debe asegurar la realización periódica de
+ejercicios de aplicación de ambos planes de emergencia, con la frecuencia que la Autoridad Regulatoria establezca.
+63. La Entidad Responsable de una instalación clase II o de una práctica no rutinaria debe asegurar la existencia de procedimientos de emergencia, los cuales deben contar con la aceptación de
+la Autoridad Regulatoria.
+64. Los planes de emergencia interno y externo y los procedimientos de emergencia deben incluir
+acciones para evaluar y mitigar cualquier consecuencia derivada de la emergencia considerada.
+
+13/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+D.1.7. Exposición ocupacional
+D.1.7.1. Límites de dosis
+65. La Entidad Responsable debe asegurar que no se superen los siguientes límites de dosis para
+trabajadores:
+a. una dosis efectiva de 20 mSv por año. Este valor debe ser considerado como el promedio
+en 5 años consecutivos (100 mSv en 5 años), no pudiendo excederse 50 mSv en ninguno
+de los años individuales
+b. una dosis equivalente en cristalino de 20 mSv por año. Este valor debe ser considerado
+como el promedio en 5 años consecutivos (100 mSv en 5 años), no pudiendo excederse
+50 mSv en ninguno de los años individuales
+c.
+
+una dosis equivalente en piel o extremidades de 500 mSv por año.
+
+66. La Entidad Responsable debe asegurar el cumplimiento de los límites de dosis para trabajadores expuestos a la incorporación de radón-222 y sus productos de decaimiento de período corto.
+67. Los límites de dosis para trabajadores se aplican a las dosis recibidas durante un año de
+trabajo, y para la verificación del cumplimiento de tales límites se debe proceder de la siguiente
+manera
+,
+
+Donde,
+Hp(0,07) es el equivalente de dosis personal a una profundidad d = 0,07 mm, integrada en un año.
+Hp(3) es el equivalente de dosis personal a una profundidad d = 3 mm, integrada en un año.
+Hp(10) es el equivalente de dosis personal a una profundidad d = 10 mm, integrada en un año.
+Ij es la incorporación del radionucleido j en un año.
+LIj es el límite anual de incorporación para el radionucleido j, resultante de dividir 20 mSv por el
+factor dosimétrico de dosis efectiva comprometida para trabajadores, por unidad de incorporación
+de dicho radionucleido j.
+68. Todo trabajador debe ser mayor de 18 años.
+69. La Autoridad Regulatoria podrá establecer restricciones de dosis para la exposición ocupacional en los casos que considere apropiado.
+D.1.7.2. Seguridad radiológica de las trabajadoras y de los estudiantes menores de 18 años
+70. La Entidad Responsable y el Responsable Primario o el Responsable por la Seguridad Radiológica, según corresponda, deben informar a toda trabajadora la importancia de comunicar su embarazo o si está amamantando a efectos de implementar las condiciones de trabajo, en relación
+con la exposición ocupacional, para asegurar que el embrión/feto o el lactante reciban el mismo
+grado de seguridad radiológica que se requiere para el público.
+
+14/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+71. La Entidad Responsable debe brindar el acceso a la información pertinente a toda trabajadora
+que esté embarazada o amamantando.
+72. Para estudiantes de 16 a 18 años de edad, que en sus estudios requieran el uso de fuentes de
+radiación, el límite de dosis efectiva es 6 mSv por año, el límite de dosis equivalente en cristalino
+es 20 mSv por año y el límite de dosis equivalente en piel o extremidades es 150 mSv por año.
+D.1.7.3. Clasificación de las áreas de trabajo
+73. La Entidad Responsable y el Responsable Primario o el Responsable por la Seguridad Radiológica, según corresponda, deben asegurar la delimitación, la clasificación y el control de las áreas
+de trabajo de acuerdo con las características de la instalación y la experiencia operativa.
+74. En las áreas controladas se debe implementar la delimitación mediante barreras físicas apropiadas, la señalización, el control de accesos, el monitoreo personal y el monitoreo de área.
+75. En las áreas supervisadas se debe implementar la señalización, la revisión periódica de las
+condiciones de trabajo y el monitoreo de área.
+D.1.7.4. Vigilancia de la salud de los trabajadores
+76. La Entidad Responsable debe asegurar la vigilancia de la salud de los trabajadores.
+77. La vigilancia de la salud de los trabajadores debe basarse en los principios generales de la
+medicina ocupacional y debe, según corresponda:
+a. evaluar la salud de los trabajadores
+b. evaluar la compatibilidad de la salud y la aptitud psicofísica de los trabajadores con las
+condiciones de su trabajo
+c.
+
+mantener actualizados los registros requeridos
+
+d. recopilar información pertinente y necesaria en caso de enfermedad profesional o exposición en un accidente.
+78. Ningún trabajador puede emprender sus tareas o continuar en las mismas en oposición al
+dictamen médico competente.
+79. Cuando se estime que un trabajador ha recibido una dosis efectiva superior a 100 mSv en un
+año, se debe realizar una evaluación dosimétrica y médica previa a su reintegro al trabajo. La Entidad Responsable admitirá o no su reintegro a tareas inherentes a las de un trabajador conforme
+con el dictamen médico competente.
+80. La Entidad Responsable debe asegurar que se lleven registros individuales de cada trabajador
+que realiza tareas en área controlada, y dichos registros deben estar a disposición de la Autoridad
+Regulatoria. En los registros, según corresponda, se debe consignar la siguiente información:
+a. las tareas que realiza el trabajador y el tipo exposición
+b. el registro dosimétrico o registro de dosimetría individual
+c.
+
+el resultado de las evaluaciones de las dosis ocupacionales
+
+d. los dictámenes médicos competentes.
+81. La Entidad Responsable debe notificar al trabajador el registro dosimétrico con la periodicidad
+que corresponda y debe entregar a todo trabajador que se desvincula de la organización su registro dosimétrico correspondiente a todo el lapso que estuvo vinculado a la misma.
+82. La Entidad Responsable debe conservar los registros del requisito Nº 80 durante 30 años posteriores al momento en que el trabajador haya cesado en las tareas asociadas a exposición ocupacional.
+83. La Entidad Responsable debe requerir a todo trabajador ingresante a la organización el registro dosimétrico correspondiente a las tareas previamente desarrolladas en otra organización.
+
+15/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+84. Cuando la Entidad Responsable de una instalación o de una práctica no rutinaria cese en su
+actividad, debe remitir los registros del requisito Nº 80 de esa instalación o de esa práctica no rutinaria a la Autoridad Regulatoria.
+85. Todas las dosis recibidas en accidentes se deben registrar distinguiéndolas claramente de las
+dosis recibidas en operación normal. Estas dosis no se incorporan al cómputo anual de dosis.
+86. La Entidad Responsable debe asegurar que se lleven, además de los registros mencionados
+en el requisito Nº 80, aquellos registros particulares que en cada caso determine la Autoridad Regulatoria.
+D.1.8. Exposición del público
+87. Los límites de dosis para el público se aplican a la dosis efectiva y a las dosis equivalentes en
+órgano o tejido en la persona representativa.
+88. Los límites de dosis para el público son:
+a. una dosis efectiva de 1 mSv por año; y en circunstancias especiales, podría aplicarse un
+valor más elevado de dosis efectiva en un solo año, siempre que el promedio de la dosis
+efectiva durante cinco años consecutivos no exceda de 1 mSv
+b. una dosis equivalente en cristalino de 15 mSv por año
+c.
+
+una dosis equivalente en piel o extremidades de 50 mSv por año.
+
+89. Para una instalación en particular, la Autoridad Regulatoria podrá establecer, en la licencia o
+en la autorización de práctica no rutinaria, restricciones de dosis para la persona representativa,
+las que actuarán restringiendo el proceso de optimización de la seguridad radiológica.
+90. Los proveedores de productos de consumo deben asegurar que los productos de consumo
+solo se pongan a disposición del público si su uso ha quedado exento de todo requisito de la normativa regulatoria o que la Autoridad Regulatoria haya autorizado su suministro al público.
+D.1.9. Exposición médica
+91. La Entidad Responsable debe asegurar que las prácticas que se realicen estén justificadas, se
+efectúe la optimización de la seguridad radiológica y se prevenga la ocurrencia accidentes; y se
+respeten las restricciones de dosis si correspondiera.
+92. La justificación de la exposición médica de un paciente se debe realizar en consulta entre el
+médico responsable de la realización de la práctica y el médico prescriptor, según corresponda.
+93. La Entidad Responsable y el Responsable por la Seguridad Radiológica de la instalación o de
+la práctica no rutinaria deben asegurar la optimización de la seguridad radiológica en toda exposición médica.
+94. Los límites de dosis no se aplican a las dosis recibidas por los pacientes debidas a prácticas
+diagnósticas o terapéuticas.
+95. La Entidad Responsable y el Responsable por la Seguridad Radiológica deben prever e implementar procedimientos adecuados para asegurar la protección radiológica del embrión/feto y
+del lactante en pacientes que estén o puedan estar embarazadas o estar amamantando, respectivamente, y según corresponda.
+96. La Entidad Responsable y el Responsable por la Seguridad Radiológica deben asegurar que
+se adopten todas las medidas para reducir al mínimo la probabilidad de que se produzcan exposiciones médicas no intencionales o accidentales. En el caso de que se produzcan, deben asegurar
+la realización de una investigación y la aplicación de las acciones correctivas correspondientes.
+97. La Entidad Responsable debe desarrollar e implementar un sistema de gestión adecuado para
+las exposiciones médicas.
+
+16/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+D.1.10. Comunicaciones
+98. La Entidad Responsable debe comunicar formalmente a la Autoridad Regulatoria la información que esta requiera, y dentro de los plazos que se establezcan, para cada caso.
+99. La Entidad Responsable debe asegurar la comunicación en forma inmediata a la Autoridad
+Regulatoria de los apartamientos de la operación normal que hubiesen provocado o pudiesen provocar incrementos significativos de las dosis en el trabajador, el público o el paciente; o de las
+descargas al ambiente.
+D.2. SITUACIÓN DE EXPOSICIÓN EN EMERGENCIA
+100. Solo se considera justificada una intervención si se prevé que con ella se obtiene una mejora
+de la situación.
+101. La intervención está justificada cuando la dosis proyectada excede el umbral de los efectos
+determinísticos severos.
+102. La intervención está generalmente justificada en aquellas situaciones en que la dosis proyectada pueda exceder el nivel de referencia.
+103. Una vez justificada la intervención, los niveles a partir de los cuales se interviene y el tiempo
+durante el cual se mantiene la intervención deben surgir de un análisis genérico de optimización,
+realizado durante la preparación de la respuesta a la emergencia.
+D.2.1. Exposición del público
+104. El plan de emergencia debe incluir estrategias de protección, justificadas y optimizadas, para
+evitar la ocurrencia de efectos determinísticos y reducir la probabilidad de efectos estocásticos en
+el público.
+105. Las estrategias de protección deben ser tales que para la dosis residual se apliquen niveles
+de referencia, expresados en dosis efectiva, en el rango de 20 a 100 mSv.
+D.2.2. Exposición de los trabajadores de emergencia
+106. Los trabajadores de emergencia deben estar apropiadamente capacitados y entrenados para
+las acciones que deben realizar en la emergencia.
+107. Cuando la dosis proyectada, expresada en dosis efectiva, supere 50 mSv, las tareas a cumplir en operaciones de intervención deben ser llevadas a cabo por voluntarios. Los voluntarios
+deben ser informados acerca de los riesgos a asumir, tener conocimiento de los dispositivos de
+protección disponibles, estar apropiadamente entrenados para las acciones que deben realizar y
+haber firmado su consentimiento para realizar las operaciones de intervención.
+108. La intervención en una situación de exposición en emergencia que implique la exposición de
+voluntarios a una dosis efectiva de hasta 100 mSv, sólo está justificada para evitar dosis colectivas
+altas.
+109. La intervención en una situación de exposición en emergencia que implique la exposición de
+voluntarios a una dosis efectiva de hasta 500 mSv, sólo está justificada para:
+a. salvar vidas humanas
+b. prevenir la ocurrencia de efectos determinísticos severos
+c.
+
+prevenir el desarrollo de condiciones catastróficas que podrían afectar severamente al público y al ambiente.
+
+110. La participación de un mismo trabajador de emergencia en más de una situación de exposición en emergencia debe, en todos los casos, estar autorizada por la Entidad Responsable y el
+Responsable Primario o el Responsable por la Seguridad Radiológica, según corresponda.
+
+17/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+111. Cuando se estime que un trabajador de emergencia ha recibido una dosis efectiva superior a
+100 mSv en un año, se debe realizar una evaluación dosimétrica y médica previa a su reintegro al
+trabajo. La Entidad Responsable admitirá o no el reintegro a tareas inherentes a las de un trabajador conforme con el dictamen médico competente.
+D.3. SITUACIÓN DE EXPOSICIÓN EXISTENTE
+112. Las situaciones de exposición existente consideradas son las derivadas de la exposición debida a áreas con presencia de materiales radiactivos residuales resultante de:
+a. actividades del pasado que no han sido reguladas o fueron reguladas en un marco regulatorio distinto del vigente y que requieren una reevaluación
+b. consecuencias de una emergencia nuclear o radiológica una vez que se haya declarado
+terminada la situación de exposición en emergencia.
+113. En toda situación de exposición existente se debe evaluar el riesgo radiológico en los trabajadores y en el público y el impacto radiológico en el ambiente.
+114. La realización de la remediación en una situación de exposición existente debe estar justificada y la seguridad radiológica debe estar optimizada.
+115. La realización de la remediación debe ser autorizada por la Autoridad Regulatoria.
+D.3.1. Exposición del público
+116. La remediación debe estar en concordancia con el riesgo radiológico asociado a la situación
+de exposición existente, priorizando al público cuyas dosis superan el nivel de referencia.
+117. El nivel de referencia para la dosis efectiva anual en la persona representativa está en el rango de 1 a 20 mSv.
+118. En las situaciones de exposición existente debidas a la exposición a radionucleidos en productos básicos como materiales de construcción, alimentos, piensos y agua potable, el nivel de
+referencia para la dosis efectiva anual en la persona representativa es 1 mSv.
+D.3.2. Exposición de los trabajadores
+119. La Entidad Responsable debe asegurar que para los trabajadores que realicen la remediación en situación de exposición existente se cumplan los requisitos correspondientes a una situación de exposición planificada.
+
+18/19
+
+NORMA AR 10.1.1.
+NORMA BÁSICA DE SEGURIDAD RADIOLÓGICA - REVISIÓN 4
+
+FIGURA 1
+CURVA CRITERIO PARA LOS TRABAJADORES
+
+FIGURA 2
+CURVA CRITERIO PARA EL PÚBLICO
+
+19/19
+
+

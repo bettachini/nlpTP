@@ -1,0 +1,334 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 3.2.3.
+
+REVISIÓN 2
+
+Seguridad contra
+incendios en reactores
+nucleares de potencia
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 03/02 (Boletín Oficial 5/3/02)
+
+República Argentina – 2002
+
+1/3
+
+NORMA AR 3.2.3.
+
+SEGURIDAD CONTRA INCENDIOS EN REACTORES
+NUCLEARES DE POTENCIA
+
+A. OBJETIVO
+1. Establecer los criterios de seguridad contra incendios -o los eventos generados por estos- y
+las explosiones derivadas de incendios, que puedan afectar la seguridad radiológica y nuclear.
+
+B. ALCANCE
+2. Esta norma es aplicable al diseño, puesta en marcha y operación de reactores nucleares de
+potencia.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Barrera contra Incendios: Barrera estructural, parcial o completa, utilizada para atenuar las
+consecuencias de un incendio.
+4. Carga de Fuego: Masa de madera por unidad de superficie (kg/m2) capaz de desarrollar una
+cantidad de calor equivalente a la de los materiales contenidos en el sector de incendio. Como
+patrón de referencia se considera madera con un poder calorífico no inferior a 18,41 MJ/kg.
+5. Combustión: Reacción exotérmica de una sustancia, llamada combustible, con un oxidante,
+llamado comburente (el fenómeno viene acompañado generalmente con una emisión lumínica
+en forma de llamas o incandescencia con desprendimiento de productos volátiles y/o humos y
+que puede dejar un residuo de cenizas).
+6. Componente Activo: Componente del sistema de seguridad contra incendios cuyo funcionamiento depende del aporte de algún tipo de energía externa.
+7. Componente Pasivo: Componente del sistema de seguridad contra incendios cuya función
+está asegurada por su sola presencia.
+8. Escape: Medio de salida exigido, que constituye la línea natural de tránsito que garantiza
+una evacuación rápida y segura.
+9. Estanquidad al Fuego: Aptitud de un elemento de construcción de impedir el paso de llamas y productos de combustión a través del mismo, por un determinado período.
+10. Explosión: Reacción abrupta de oxidación o descomposición que produce un aumento
+brusco de temperatura o de presión, o de ambas cosas simultáneamente.
+11. Humo: Conjunto visible de partículas sólidas y líquidas en suspensión en el aire, o en los
+productos volátiles, resultantes de una combustión.
+
+1/8
+
+NORMA AR 3.2.3. SEGURIDAD CONTRA INCENDIOS EN REACTORES NUCLEARES DE POTENCIA
+
+12. Ignición: Acción y efecto de estar un cuerpo encendido, si es combustible, o enrojecido por
+un fuerte calor, si es incombustible.
+13. Incendio: Fuego que se desarrolla sin control en el tiempo y el espacio.
+14. Líquido Inflamable: Líquido que puede emitir vapores los que, mezclados en proporciones
+adecuadas con el aire, originan mezclas combustibles.
+15. Material Combustible: Material que puede mantener la combustión aún después de suprimida la fuente externa de ignición; por lo general necesita un abundante flujo de aire. En
+particular se aplica a aquellos materiales que pueden arder en hornos diseñados para ensayos
+de incendios o a los que están integrados por hasta un 30% de su peso por materiales "muy
+combustibles".
+16. Material muy Combustible: Material que expuesto al aire puede ser encendido y continúa
+ardiendo una vez retirada la fuente de ignición.
+17. Muro Cortafuego: Muro divisor de sectores de incendio construido con materiales de resistencia al fuego similar a la exigida para los materiales del sector de incendio más comprometido.
+18. Propagación del Fuego: Desplazamiento del frente de una llama.
+19. Protección Estructural: Estructura pasiva que impide o limita la propagación de incendios
+brindando a las personas una posibilidad de escape y la máxima protección contra el fuego.
+20. Resistencia al Fuego: Aptitud de un elemento de construcción, estructura, componente,
+equipo o sistema de conservar, durante un tiempo determinado, la estabilidad, la estanquidad,
+el aislamiento térmico requerido y la no emisión de gases inflamables, especificados en los
+ensayos de resistencia al fuego.
+21. Sector de Incendio: Local, conjunto de locales, o áreas delimitados por muros y/o entrepisos de resistencia al fuego acorde con el riesgo y la carga de fuego que contienen, comunicados con un medio de escape. Las áreas al aire libre donde se desarrollan trabajos se
+consideran sector de incendio.
+22. Sistema de Seguridad: Sistema que lleva a cabo una función de seguridad para prevenir o
+mitigar las consecuencias resultantes de una falla, mal función o mala operación
+23. Sistema de Seguridad contra Incendios: Sistema para la prevención, detección, alarma,
+extinción y atenuación de incendios.
+
+D. CRITERIOS
+D1. REFERENTES AL DISEÑO
+Generales
+24. La Entidad Responsable debe demostrar, a satisfacción de la Autoridad Regulatoria, que el
+reactor nuclear de potencia está diseñado de manera de cumplir con los criterios de diseño
+establecidos en la presente norma.
+25. La seguridad del reactor nuclear de potencia debe depender, en lo posible, de la protección
+estructural y no de los sistemas de extinción de incendios.
+26. La seguridad contra incendios debe basarse preferentemente en sistemas propios de la
+instalación y no en medios operativos.
+
+2/8
+
+NORMA AR 3.2.3. SEGURIDAD CONTRA INCENDIOS EN REACTORES NUCLEARES DE POTENCIA
+
+27. Deben analizarse los incendios postulados para todas las zonas en que haya elementos
+importantes para la seguridad y para las zonas adyacentes.
+28. La prevención de incendios debe considerar las medidas a aplicar en el diseño del reactor
+nuclear de potencia para reducir, tanto como sea razonablemente posible, la probabilidad de
+ocurrencia de un incendio.
+29. Se debe contar con sistemas adecuados que permitan la pronta detección de incendios y
+con medios para extinguirlos; tales medios deben incluir la utilización de componentes activos.
+30. Para la atenuación de los efectos de los incendios debe considerarse la utilización de componentes pasivos que minimicen las consecuencias del evento.
+31. Se debe prever el uso racional del espacio y ubicación de equipos o instrumentos, de manera que el mantenimiento, prueba y calibración de los mismos se pueda desarrollar normalmente y en las condiciones de seguridad establecidas.
+32. Se debe prever una adecuada planificación de la lucha contra el fuego.
+D1.2. Prevención de Incendios
+33. Al seleccionar los materiales a emplear en la confección de estructuras, componentes,
+equipos y sistemas del reactor nuclear de potencia, la Entidad Responsable debe comparar el
+grado de combustibilidad de aquellos materiales potencialmente utilizables, y debe optar por los
+menos combustibles.
+34. Todos los sistemas del reactor nuclear de potencia deben, en lo posible, diseñarse de manera que su funcionamiento o sus fallas no puedan ocasionar incendios.
+35. Los edificios que conforman un reactor nuclear de potencia se deben construir y ubicar de
+manera tal que los efectos de una combustión queden circunscriptos a la zona en que se desarrolla. Además, prioritariamente debe asegurarse la estanquidad al fuego y cuando esto no sea
+posible, la contención al fuego debe asegurarse por otros medios y por la posibilidad de una
+correcta intervención.
+36. Cuando un local no pueda ser subdividido en sectores de incendio, el diseño debe tener en
+cuenta la separación de su contenido en base a la disposición geométrica.
+37. Todos los sistemas de seguridad y de importancia para la seguridad del reactor nuclear de
+potencia, se deben situar en sectores de incendio especialmente diseñados para alojarlos. Las
+redundancias de los sistemas de seguridad se deben ubicar en distintos sectores de incendio.
+D1.3. Sistemas de Detección, Alarma y Extinción de Incendios
+38. Debe disponerse de equipos que detecten y extingan incendios, que sean autosuficientes y
+estén diseñados de acuerdo a normas reconocidas por la Autoridad Regulatoria.
+39. En los sectores de incendio que contengan elementos importantes para la seguridad, los
+componentes de mayor probabilidad de falla de los sistemas de detección y extinción de incendios deben tener la redundancia suficiente para asegurar su funcionamiento.
+40. Los sistemas de detección y extinción de incendios deben protegerse contra posibles roturas, ya sea debido a movimientos sísmicos o a eventuales golpes.
+41. Los sistemas de detección de incendios deben tener capacidad y funcionalidad apropiadas
+para dar la alarma temprana.
+
+3/8
+
+NORMA AR 3.2.3. SEGURIDAD CONTRA INCENDIOS EN REACTORES NUCLEARES DE POTENCIA
+
+42. En el diseño de los sistemas de extinción de incendios deben tenerse en cuenta aquellos
+incendios que concebiblemente pudieran producirse simultánea o independientemente en cualquier parte del reactor nuclear de potencia.
+43. Deben instalarse sistemas de extinción de incendios que permitan reducir al mínimo razonablemente posible los efectos del fuego que resulten perjudiciales para los elementos de importancia para la seguridad.
+44. Los equipos automáticos de extinción de incendios podrán poseer un dispositivo manual de
+retardo y/o corte que permita al operador evaluar las consecuencias de la descarga del agente
+extintor.
+45. Los sistemas de extinción de incendios deben diseñarse y ubicarse de manera que sus
+fallas o su accionamiento indebido o accidental, no afecten la capacidad funcional de los elementos de importancia para la seguridad.
+D1.3.1. Sistemas de Detección y de Alarma en Caso de Incendios
+46. En los sectores de incendio que contengan elementos importantes para la seguridad y en
+los sectores de incendio con alto riesgo de originar incendios, se deben instalar sistemas de
+detección y alarma de incendios.
+47. Los sistemas de detección de incendios deben cumplimentar, como mínimo, los siguientes
+requisitos:
+a. Dar aviso del incendio, identificar el área de ocurrencia, dar señal de falla e indicar circuitos fuera de servicio.
+b. Operar en caso de siniestro las aberturas y los dispositivos de clapetas de los conductos de los sistemas de ventilación y/o poner en funcionamiento los dispositivos automáticos de extinción de incendios donde ello fuera requerido.
+48. Se debe prever la prueba periódica de los sistemas de detección de incendios.
+49. Para la instalación de los detectores se deben tener en cuenta las características particulares de cada uno de los recintos a proteger.
+50. Los detectores se deben instalar por sector de incendio. Se ubicarán teniendo en cuenta su
+capacidad de respuesta ante la presencia de productos de la combustión de los equipos instalados en el local y de los materiales constructivos.
+51. El accionamiento de los sistemas de extinción de incendios debe realizarse mediante la
+señal proveniente de dos detectores de distintos circuitos, como mínimo, a efectos de evitar
+disparos por señales espúreas.
+52. La alimentación eléctrica de todo el sistema debe ser redundante y separada físicamente,
+para garantizar su operación segura.
+D1.3.2. Sistemas de Extinción de Incendios
+53. Los sistemas fijos de extinción de incendios contendrán sustancias extintoras adecuadas al
+riesgo a cubrir.
+54. Cualquier sistema de extinción de incendios del reactor nuclear de potencia, independientemente de su ubicación en la red antiincendio y de su relación funcional con otros sistemas del
+mismo tipo, debe satisfacer las condiciones de diseño y tener alimentación eléctrica y suministro de sustancia extintora de incendios asegurados.
+
+4/8
+
+NORMA AR 3.2.3. SEGURIDAD CONTRA INCENDIOS EN REACTORES NUCLEARES DE POTENCIA
+
+55. En todos los sectores de incendio que conforman un reactor nuclear de potencia, se deben
+instalar extinguidores de incendio portátiles y móviles, los que cumplirán con las características
+y pruebas exigidas en las reglamentaciones vigentes en el país.
+56. La cantidad, calidad y capacidad de los extinguidores portátiles y móviles se debe regular
+teniendo en cuenta las situaciones particulares de los locales y sectores de incendio que conforman el reactor nuclear de potencia.
+57. Para la adecuada intervención de brigadas contra incendios, el diseño debe contemplar:
+a. La facilidad de desplazamiento hacia y en todos los sectores de incendio internos y externos.
+b. La autonomía de sistemas y equipos, debiendo para ello considerarse el tiempo de arribo de los servicios de bomberos externos a la instalación.
+c.
+
+El equipamiento compatible con el de las unidades operativas de bomberos urbanos y
+rurales.
+
+D1.4. Atenuación de los Efectos de los Incendios
+58. Cada uno de los subsistemas redundantes que conforman los sistemas de seguridad para
+la extinción de la fisión nuclear en el reactor y para la extracción del calor residual deben estar
+suficientemente protegidos contra las consecuencias de posibles incendios, de forma que si
+alguno de ellos resultase afectado por tal evento, sus funciones puedan ser desempeñadas por
+los restantes subsistemas de seguridad análogos.
+59. Los materiales radiactivos deben ser protegidos de los efectos de un eventual incendio,
+para evitar su liberación a la atmósfera.
+60. Los sistemas de extinción de incendios y sus sistemas auxiliares que pertenezcan a un
+sector de incendio deben ser independientes de los sistemas análogos que pertenezcan a
+cualquier otro sector de incendio.
+D1.4.1. Disposición de los Edificios que Integran un Reactor Nuclear de Potencia
+61. La distribución de los edificios debe cumplimentar los siguientes requisitos:
+a. tendrán que conformar sectores de incendio;
+b. los servicios que interrelacionan a los edificios deberán ser diseñados de tal manera
+que el conducto de comunicación no se transforme en un medio de propagación de un
+eventual siniestro;
+c.
+
+las escaleras utilizadas para el acceso y escape en casos de emergencia se dotarán de
+ventilación forzada, para mantenerlas libres de humo.
+
+D1.4.2. Ventilación
+62. Los sistemas de ventilación se deben diseñar de forma tal que se impida la propagación -a
+través de ellos- del fuego, el calor o el humo, de un sector de incendio a otro.
+63. Los componentes y equipos de los sistemas de ventilación se deben diseñar e instalar de
+manera tal que posean, por sí mismos o por las estructuras que los contienen, una resistencia
+al fuego acorde al riesgo del sector de incendio al que pertenecen.
+
+5/8
+
+NORMA AR 3.2.3. SEGURIDAD CONTRA INCENDIOS EN REACTORES NUCLEARES DE POTENCIA
+
+64. Cuando los filtros utilizados en los sistemas de ventilación contengan sustancias combustibles que presenten riesgos de incendio para los elementos de importancia para la seguridad,
+tales filtros deben cumplir los siguientes requisitos:
+a. Las baterías de filtros se deben separar de todo otro equipo, mediante barreras contra
+incendio.
+b. Se deben utilizar métodos adecuados para la protección automática de los filtros, contra los efectos del fuego.
+c.
+
+Se deben instalar detectores de incendio en el interior de los ductos, antes y después
+de la batería de filtros.
+
+65. Las tomas de aire exterior deben ubicarse a distancia suficiente de las salidas de aire y
+humos, y de toda fuente potencial de ignición.
+D1.4.3. Extracción de Humos
+66. Con el objeto de dar salida a los productos de combustión, se instalarán dispositivos de
+extracción de humos en los siguientes sectores de incendio:
+a. Sectores con alta carga de fuego.
+b. Sectores donde existan sistemas de seguridad, y que estén normalmente ocupados por
+el personal de operación.
+c.
+
+Sectores donde haya materiales cuya combustión produzca gases tóxicos o alta concentración de humos.
+
+D1.4.4. Sistemas Eléctricos
+67. Los dispositivos eléctricos que pudieran generar incendios deben estar segregados físicamente.
+68. Los componentes eléctricos de los sistemas de seguridad se deben proteger contra las
+consecuencias de los incendios.
+69. La longitud total del conductor entre el suministro y los aparatos a servir deben estar libre
+de toda derivación y/o empalme.
+70. En los casos de muros cortafuegos que sean atravesados por cables, el paso de los mismos debe poseer una resistencia al fuego no menor que la exigible a dicho muro.
+71. Los medios de interrupción de la alimentación eléctrica deben estar ubicados en lugares de
+fácil acceso.
+72. La disposición de los cables sobre bandejas debe ser tal que impida cualquier influencia
+inadmisible entre ellos.
+D1.4.5 Incendios Originados en el Exterior
+73. Se debe tener en cuenta la eventual ocurrencia de incendios en las zonas exteriores a los
+edificios del reactor, cuyas consecuencias pudieran afectarlo, con el fin de minimizar los efectos.
+74. Las señales de alarma provenientes de los detectores de incendios ubicados en las tomas
+de aire exterior deben indicar, también, la ubicación del detector emisor.
+
+6/8
+
+NORMA AR 3.2.3. SEGURIDAD CONTRA INCENDIOS EN REACTORES NUCLEARES DE POTENCIA
+
+75. Se deben instalar clapetas en el sistema de toma de aire exterior, las que deben tener como función primordial la aislación del humo y servir como barrera de fuego.
+76. Las clapetas del sistema de toma de aire exterior deben tener dos dispositivos de accionamiento: uno automático y otro manual. Se debe prever que el accionamiento de dichas clapetas
+no comprometa el desempeño de las funciones de seguridad indispensables.
+D1.4.6. Sectores de Incendio que Contienen Elementos de Importancia para la Seguridad
+77. Los elementos de importancia para la seguridad cuyo mal funcionamiento o falla pudieran
+dar lugar a exposiciones indebidas a la radiación o descargas inaceptables de material radiactivo al ambiente se protegerán contra los eventos que puedan causar incendios.
+78. Los sistemas de detección de incendios deben contar con indicadores acústicos y luminosos ubicados en las salas de control. En los casos en que corresponda, la señal emitida por
+cada sensor debe, además, activar el cierre de clapetas de los sistemas de ventilación.
+D1.4.7. Sala de Generadores Diesel
+79. Deben existir barreras entre los generadores Diesel que, a modo de protección estructural,
+conformen sectores de incendios diferenciados, de forma tal que impidan la propagación del
+fuego durante un tiempo no inferior a 3 horas.
+80. Se debe instalar un sistema fijo automático de extinción de incendios, con dispositivos de
+retardo de disparo no mayor a 1 minuto. El equipo para la provisión del agente extintor al sistema, debe ser redundante e independiente.
+D1.4.8. Sala de Control Principal, Sala de Control Secundaria y Sala de Computadoras
+81. Se debe instalar un sistema fijo automático de extinción de incendios adecuado que produzca la inundación total del local y permita al personal la continuación de sus tareas dentro del
+mismo, debiéndose descargar en forma manual y/o automática. El equipo para la provisión del
+agente extintor al sistema, debe ser redundante e independiente.
+D1.4.9. Sala de Derivación de Cables
+82. Se debe instalar un sistema fijo automático de extinción de incendios adecuado que produzca la inundación total del local y permita al personal la realización de las tareas que sean
+necesarias dentro del mismo. El equipo para la provisión del agente extintor al sistema debe
+ser redundante e independiente.
+D1.4.10. Transformadores
+83. Se debe instalar un sistema fijo automático de extinción de incendios. Debe optarse entre
+un sistema de rociadores automáticos o un sistema de cañería seca ("mulcifire").
+
+D2. REFERENTES A LA PUESTA EN MARCHA Y OPERACIÓN
+84. Se debe minimizar la utilización y evitar el almacenamiento de sustancias combustibles,
+inflamables o explosivas, en zonas en las que haya elementos de importancia para la seguridad
+o en zonas adyacentes a éstas.
+
+7/8
+
+NORMA AR 3.2.3. SEGURIDAD CONTRA INCENDIOS EN REACTORES NUCLEARES DE POTENCIA
+
+85. Los locales o áreas destinadas al almacenamiento de gases peligrosos deben ser secos y
+bien ventilados, tener una resistencia acorde a la carga de fuego y estar ubicados lejos de fuentes de ignición.
+86. Se debe evitar, en lo posible, el almacenamiento de gases peligrosos en sótanos o zonas
+de bajo nivel. Los contenedores deben estar permanentemente protegidos y amarrados.
+87. El Responsable Primario debe mantener disponible un programa escrito de protección contra incendios que contemple, como mínimo, los siguientes puntos:
+a. Definición de la organización que implementará el programa y asignación de las responsabilidades.
+b. Identificación de los sistemas de seguridad del reactor y de los relacionados con la seguridad del mismo.
+c.
+
+Identificación de las posibles situaciones de incendio y una evaluación del riesgo asociado a cada una de ellas.
+
+d. Procedimientos para todas las actividades relacionadas con la protección contra incendios.
+e. Procedimientos para la utilización de equipos no previstos en el diseño y que puedan
+ser fuentes de ignición.
+f.
+
+Procedimientos para la inspección, pruebas, calibración y mantenimiento de los sistemas de seguridad contra incendios.
+
+g. Procedimientos para el registro de las actividades relacionadas con la protección contra
+incendios.
+h. Formación, entrenamiento y reentrenamiento de una brigada contra incendios, planeamiento de la lucha contra el fuego, coordinación de las acciones con las unidades operativas de bomberos urbanas y rurales.
+i.
+
+Entrenamiento del personal, para que en las operaciones que se realicen en la instalación se contemple el riesgo de incendio y se controlen las operaciones peligrosas.
+
+j.
+
+Disponibilidad de medios técnicos adecuados.
+
+88. El programa de lucha contra incendios debe garantizar que se preserve la capacidad de la
+instalación, para llevar al reactor al estado de extinción segura de la fisión nuclear. Dicho programa debe incluir una evaluación de los sistemas de seguridad y de los sistemas de seguridad
+contra incendios, con posterioridad a la ocurrencia de un siniestro.
+89. Se debe evaluar periódicamente el programa contra incendios a fin de verificar que el mismo sigue siendo adecuado. Los cambios que surjan de dicha evaluación deben provocar la
+identificación, corrección y registro del proceso en la documentación correspondiente.
+
+8/8
+
+

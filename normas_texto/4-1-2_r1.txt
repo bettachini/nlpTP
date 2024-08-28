@@ -1,0 +1,73 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 4.1.2.
+
+REVISIÓN 1
+
+Limitación de
+efluentes radiactivos
+en reactores nucleares
+de investigación
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 36/01 (Boletín Oficial 15/1/02)
+
+República Argentina – 2002
+
+1/2
+
+NORMA AR 4.1.2.
+
+LIMITACIÓN DE EFLUENTES RADIACTIVOS EN
+REACTORES NUCLEARES DE INVESTIGACIÓN
+A. OBJETIVO
+1. Establecer los criterios de protección radiológica que se deben tener en cuenta en el diseño
+para limitar las descargas de efluentes radiactivos al ambiente.
+
+B. ALCANCE
+2. Esta norma es aplicable al diseño de reactores nucleares de investigación.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con
+la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Efluente Radiactivo: Cualquier material radiactivo líquido, gaseoso o en forma de aerosol procedente de una instalación, que la Entidad Responsable somete a control antes de su descarga al
+ambiente de manera que la actividad descargada resulte compatible con los límites establecidos
+por la Autoridad Regulatoria.
+4. Grupo Crítico: Grupo de población representativo de los individuos más expuestos y homogéneo en cuanto a los parámetros que influyen en las dosis recibidas, durante la operación normal o
+en caso de accidentes, en una instalación o práctica no rutinaria.
+
+D. CRITERIOS
+5. Deben optimizarse los sistemas de limitación de las descargas de efluentes radiactivos teniendo
+en cuenta el costo correspondiente a cada alternativa factible y la dosis colectiva total resultante
+de la liberación de efluentes radiactivos durante toda la vida de la instalación.
+6. Debe preverse como mínimo suficiente retención de modo tal que se cumplan las siguientes
+restricciones de dosis:
+a) La dosis efectiva anual en el grupo crítico debida a la liberación de efluentes radiactivos no
+exceda de 0,3 mSv.
+b) La dosis efectiva colectiva por unidad de energía térmica generada no exceda de 5 mSv
+hombre por MW año.
+7. Debe preverse que la actividad descargada al ambiente en un (1) trimestre calendario no debe
+exceder 1/3 del valor anual deducido a partir de los criterios N° 5 y N° 6.
+8. Debe preverse que la actividad descargada al ambiente en un (1) día no debe exceder de cuatro veces el valor promedio deducido a partir de los criterios N° 5 y N° 6.
+9. Las descargas de efluentes radiactivos al ambiente deben tener lugar solamente por rutas controladas. Las descargas a la atmósfera deben realizarse por rutas controladas que terminen en
+una chimenea adecuada.
+
+1/2
+
+NORMA AR 4.1.2. LIMITACIÓN DE EFLUENTES RADIACTIVOS EN REACTORES NUCLEARES DE INVESTIGACIÓN
+
+10. Los efluentes radiactivos líquidos deben ser contenidos en tanques ubicados en una contención secundaria cuya superficie sea fácilmente descontaminable. El volumen de la contención
+secundaria debe ser al menos igual al del mayor tanque primario. La contención secundaria debe
+poder drenarse a un sumidero con medios adecuados de monitoreo y de remoción de los líquidos.
+El sistema de monitoreo debe accionar una alarma en el caso de falla de tanques primarios.
+11. Debe preverse una planta adecuada de tratamiento de efluentes líquidos, incluyendo: tanques
+de retardo, sistemas de remoción de material en suspensión y sistemas de monitoreo previo a la
+descarga ambiental.
+12. Debe preverse que los lugares de almacenamiento, tanques y tuberías del sistema de efluentes estén identificados con señalización adecuada.
+13. Debe preverse la realización del monitoreo de las descargas al ambiente, de efluentes radiactivos preferentemente de manera continua o, como alternativa, a intervalos a determinarse de
+acuerdo con las condiciones de operación y a satisfacción de la Autoridad Regulatoria.
+
+2/2
+
+

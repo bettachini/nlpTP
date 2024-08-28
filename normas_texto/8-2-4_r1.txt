@@ -1,0 +1,405 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 8.2.4.
+
+REVISIÓN 1
+
+Uso de fuentes
+radiactivas no selladas
+en instalaciones de
+medicina nuclear
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 18/02 (Boletín Oficial 22/7/02)
+
+República Argentina – 2003
+1/9
+
+AUTORIDAD REGULATORIA NUCLEAR
+
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires
+ARGENTINA
+Teléfono (011) 6323-1356
+Fax (011) 6323-1771/1798
+http://www.arn.gov.ar
+
+NORMA AR 8.2.4
+
+USO DE FUENTES RADIACTIVAS NO SELLADAS
+EN INSTALACIONES DE MEDICINA NUCLEAR
+
+A. OBJETIVO
+1. Establecer los criterios mínimos de seguridad radiológica para la operación.
+
+B. ALCANCE
+2. La presente norma es aplicable a la operación de instalaciones o a la realización de prácticas
+de medicina nuclear que usen fuentes radiactivas no selladas con fines terapéuticos o de diagnóstico “in vivo”.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Calibrador de Actividades (“Activímetro”): Equipo destinado a medir las actividades de
+los radionucleidos que se administrarán a los pacientes, con fines de diagnóstico o terapéuticos.
+4. Documentación Técnica: Documentación que contiene la información técnica requerida por
+la Autoridad Regulatoria para solicitar la licencia o registro de una instalación o la autorización
+de una práctica.
+5. Equipamiento de Medicina Nuclear: Equipos destinados a la obtención de información a
+partir de la actividad incorporada por los pacientes en estudios “in vivo” de medicina nuclear
+1
+2
+(brazo de captación, cámara gamma planar, SPECT , PET u otros).
+6. Equipamiento de Protección Radiológica: Instrumental empleado en una instalación o
+práctica para la medición de radiación ambiental y de contaminación superficial.
+7. Especialista en Física Médica: Profesional universitario con formación y experiencia en
+física aplicada a la medicina nuclear.
+8. Medicina Nuclear: Especialidad médica en la que se emplean fuentes radiactivas no selladas en seres humanos, con fines de diagnóstico o tratamiento.
+9. Responsable: Persona que asume la responsabilidad directa por la seguridad radiológica de
+una instalación Clase II o Clase III o de una práctica no rutinaria.
+10. Sistema de Calidad: Conjunto de actividades planificadas y desarrolladas para asegurar
+un nivel de calidad adecuado en una instalación o práctica.
+
+1
+2
+
+SPECT: Tomografía por emisión de fotón único
+PET: Tomografía por emisión de positrones.
+
+1/9
+
+NORMA AR 8.2.4. USO DE FUENTES RADIACTIVAS NO SELLADAS EN
+INSTALACIONES DE MEDICINA NUCLEAR – REVISIÓN 1
+
+11. Titular de Licencia: Persona física o jurídica a la que la Autoridad Regulatoria ha otorgado
+una o más licencias para una instalación Clase I o Clase II.
+
+D. CRITERIOS
+D.1. Generales
+12. Para operar una instalación o para llevar a cabo una práctica de medicina nuclear, se debe
+contar con la licencia de operación otorgada por la Autoridad Regulatoria y con un Responsable.
+13. En las instalaciones de medicina nuclear, los sistemas de protección deben estar optimizados para que la dosis efectiva de radiación que reciba cada trabajador no supere el valor de 6
+mSv en un (1) año. Cuando la jornada de labor sea menor que ocho (8) horas, no deberá superarse la parte proporcional de la restricción de dosis establecida.
+14. Los radionucleidos que se utilicen o estén almacenados en la instalación deben ser los
+autorizados, y la actividad total de cada uno de ellos no debe exceder los valores establecidos
+en la licencia de operación.
+15. Los radionucleidos o radiofármacos sólo pueden adquirirse a proveedores autorizados por
+la Autoridad Regulatoria o ser importados en forma directa por el titular de la licencia de operación. Sólo pueden transferirse a otros titulares de licencia, para la misma práctica.
+D.2. Licencia de Operación
+D.2.1. Solicitud de la Licencia de Operación
+16. El solicitante debe presentar la documentación técnica necesaria para demostrar, a satisfacción de la Autoridad Regulatoria, que el diseño y la operación de la instalación de medicina
+nuclear cumplen, como mínimo, los requisitos de seguridad radiológica establecidos en la presente norma y en las demás normas de la Autoridad Regulatoria que sean de aplicación.
+17. La documentación técnica debe contener como mínimo, lo siguiente:
+a. Descripción de la instalación, incluyendo:
+• la distribución en planta (acompañada de esquemas o planos).
+• los detalles constructivos vinculados a la seguridad radiológica de los locales donde se emplee material radiactivo (p. ej. revestimientos en pisos, paredes y superficies de trabajo).
+• los blindajes previstos.
+• los sistemas de ventilación, cuando corresponda.
+b. Detalle del equipamiento previsto.
+c.
+
+Detalle del personal de operación previsto.
+
+d. Descripción del sistema de calidad.
+D.2.2. Instalación
+18. La instalación debe contar como mínimo con:
+a. Un local exclusivo (cuarto de preparados o “cuarto caliente”) para la preparación de los
+radionucleidos, que deberá contar con materiales de construcción, dimensiones y blindajes apropiados, y con áreas debidamente separadas y señalizadas para el almacenamiento del material radiactivo y el almacenamiento transitorio de los residuos radiactivos.
+b. Un local destinado a la administración de radionucleidos al paciente.
+c.
+
+2/9
+
+Un local con dimensiones apropiadas para cada equipo de medicina nuclear.
+
+NORMA AR 8.2.4. USO DE FUENTES RADIACTIVAS NO SELLADAS EN
+INSTALACIONES DE MEDICINA NUCLEAR – REVISIÓN 1
+
+d. Una sala de espera con un área exclusiva y debidamente delimitada, para pacientes a
+los cuales se les hayan administrado radionucleidos con fines de diagnóstico.
+e. Un cuarto de baño exclusivo para pacientes a los cuales se les haya administrado radionucleidos.
+19. En aquellas instalaciones de medicina nuclear en las que se internen los pacientes tratados
+con dosis terapéuticas de I 131 u otros radionucleidos, se deberá disponer de una sala de internación, con cuarto de baño exclusivo y adecuadamente acondicionada para tal fin.
+20. El revestimiento de los pisos y las superficies de trabajo de los locales donde se utilice material radiactivo, debe ser de acabado liso, libre de discontinuidades, impermeable y fácilmente
+descontaminable.
+21. Aquellos locales en los que se utilicen sustancias volátiles, gases o aerosoles radiactivos,
+deberán contar con un sistema de ventilación a satisfacción de la Autoridad Regulatoria.
+22. El cuarto de preparados debe contar, como mínimo, con dos piletas separadas. Una de
+ellas estará destinada al lavado de elementos contaminados (“pileta activa”), y la otra al lavado
+de elementos no contaminados. Esta última debe estar ubicada en una zona dentro del cuarto
+caliente en la cual la probabilidad de contaminación sea baja.
+23. Los desagües de la “pileta activa” deben conectarse a la red cloacal de forma tal que se
+minimicen las dosis a trabajadores debidas a eventuales retenciones de material radiactivo en
+la cañería de desagote.
+24. Deben existir barreras físicas y señalizaciones de seguridad, que permitan restringir el acceso a los locales en los que se trabaja con materiales radiactivos.
+25. Cualquier proyecto de modificación al diseño de la instalación descripta en la documentación
+técnica y que pudiere afectar la seguridad radiológica, deberá ser comunicado a la Autoridad
+Regulatoria por el solicitante de la licencia de operación, previamente a la ejecución del proyecto.
+26. En el caso de instalaciones de medicina nuclear nuevas, el diseño debe prever una ubicación de los locales tal que se minimicen los recorridos en el transporte interno del material radiactivo y se evite el paso de este material a través de locales tales como consultorios, salas de
+espera, etc.
+D.2.3. Dotación de Personal
+27. La dotación de personal de la instalación de medicina nuclear debe estar de acuerdo con
+los tipos de estudios o tratamientos que se realicen en ella, el equipamiento de medicina nuclear utilizado y la carga de trabajo. La dotación mínima debe estar integrada por:
+a. Personal médico con permiso individual para los estudios o tratamientos que se realizan, en número suficiente para cubrir todo el horario en que se administre material radiactivo a los pacientes.
+b. Personal profesional o técnico con permiso individual y preparación adecuada para la
+manipulación de material radiactivo, en número adecuado a la carga de trabajo de la
+instalación de medicina nuclear.
+28. En aquellas instalaciones que utilicen equipamiento de medicina nuclear de alta complejidad (tal como PET o SPECT con más de un cabezal) que se emplee para mediciones en coincidencia, el plantel mínimo debe completarse, a satisfacción de la Autoridad Regulatoria, con
+un especialista en física médica según lo definido en la definición N° 7, con dedicación parcial.
+29. Cuando la complejidad de los procesos radioquímicos que se realicen en la instalación de
+medicina nuclear así lo requiera, el plantel mínimo deberá completarse con un especialista en
+radioquímica o radiofarmacia con permiso individual, con dedicación parcial a satisfacción de la
+Autoridad Regulatoria,.
+
+3/9
+
+NORMA AR 8.2.4. USO DE FUENTES RADIACTIVAS NO SELLADAS EN
+INSTALACIONES DE MEDICINA NUCLEAR – REVISIÓN 1
+
+D.2.4. Equipamiento Mínimo
+30. El equipamiento mínimo requerido para la operación de la instalación de medicina nuclear
+debe consistir en:
+a. Monitor portátil de radiación y contaminación con respuesta adecuada a los radionucleídos y actividades empleadas
+b. Calibrador de actividades (“activímetro”) que utilice como elemento de medición una
+cámara de ionización o un sistema de medición de tecnología más avanzada, con respuesta adecuada a los radionucleidos y actividades empleados.
+c.
+
+Equipamiento de medicina nuclear en cantidad y tipo acordes con la licencia de operación solicitada.
+
+D.3. Operación
+31. La operación de la instalación de medicina nuclear debe enmarcarse dentro de un sistema de
+calidad que contenga procedimientos escritos, como mínimo para:
+a. Compra, recepción y almacenamiento, e inventario del material radiactivo.
+b. Manipulación del material radiactivo dentro de la instalación y para aquellos casos en
+que deba ser utilizado fuera de ella (quirófanos, salas de internación, etc.).
+c.
+
+Vigilancia radiológica de áreas y personal.
+
+d. Mantenimiento y control de calidad del equipamiento de medicina nuclear, del “activímetro” y del equipamiento de protección radiológica.
+e. Protección radiológica del paciente.
+f.
+
+Gestión de los residuos radiactivos.
+
+g. Situaciones anormales.
+32. Toda modificación en las condiciones de operación autorizadas debe ser aprobada previamente por la Autoridad Regulatoria.
+33. Al efectuarse la recepción de material radiactivo debe verificarse la integridad del bulto y del
+contenido, y la ausencia de contaminación superficial arrastrable.
+34. La manipulación del material radiactivo debe realizarse exclusivamente en los locales correspondientes, descriptos en el criterio N° 18, y en condiciones de seguridad que permitan
+minimizar las dosis por irradiación y la probabilidad de contaminación.
+35. Si se llevaran a cabo estudios o tratamientos que requirieran el traslado de material radiactivo fuera del ámbito de la instalación de medicina nuclear (p. ej. estudios intra operatorios), los
+mismos deberán ser realizados bajo supervisión del Responsable y en adecuadas condiciones
+de seguridad radiológica.
+36. Cualquier acción que implique el traslado de material radiactivo por la vía pública debe llevarse a cabo en las condiciones establecidas por la Norma A.R. 10.16.1 – “Transporte de Materiales Radiactivos”.
+37. Todos los trabajadores que se desempeñen en la instalación de medicina nuclear deben recibir capacitación y entrenamiento apropiados en protección radiológica antes de comenzar a desempeñar sus funciones y con posterioridad, con una periodicidad adecuada. Además, la instrucción del personal se realizará cada vez que ocurran cambios significativos en sus responsabilidades, en las técnicas empleadas, en la instalación, en las funciones, en las normas aplicables o en
+las condiciones de la licencia de operación.
+38. El personal que deba concurrir esporádicamente a la instalación en razón de sus funciones o
+responsabilidades (personal de mantenimiento, personal de servicio, etc.) debe recibir, previamente a su concurrencia, instrucciones básicas de protección radiológica.
+
+4/9
+
+NORMA AR 8.2.4. USO DE FUENTES RADIACTIVAS NO SELLADAS EN
+INSTALACIONES DE MEDICINA NUCLEAR – REVISIÓN 1
+
+39. El personal de la instalación de medicina nuclear debe contar con los elementos de protección personal adecuados para cada tarea.
+40. La instalación de medicina nuclear debe contar con los elementos de descontaminación
+adecuados al tipo de radionucleidos que se empleen, su actividad y su forma física y química.
+Las previsiones para la gestión de los residuos radiactivos resultantes de la eventual descontaminación, deben estar incluidas en el procedimiento mencionado en el criterio N° 31 f.
+41. La liberación de efluentes líquidos, gaseosos o aerosoles debe ser tan baja como resulte
+posible. Si se han establecido límites de descarga en la licencia de operación, éstos no deben
+excederse.
+42. Los pacientes a los que se les administre radionucleidos con fines terapéuticos deben recibir, previamente, instrucciones escritas sobre las acciones a tomar para mantener las dosis de
+familiares y público en general, tan bajas como sea posible.
+43. En aquellas instalaciones de medicina nuclear en las que se internen los pacientes tratados
+con dosis terapéuticas de I-131 u otros radionucleidos, las salas de internación deberán contar
+con una señalización adecuada. Todas las operaciones vinculadas con la atención de los pacientes, así como el régimen de visitas si lo hubiere, deberán llevarse a cabo siguiendo procedimientos que aseguren que las dosis a los trabajadores y al público sean tan bajas como resulte posible.
+44. Los procedimientos para situaciones anormales mencionados en el criterio N° 31 g deben
+incluir evaluaciones dosimétricas y acciones correctivas apropiadas para el caso de contaminaciones significativas.
+45. Las fuentes radiactivas selladas o no selladas destinadas a controles de calidad o calibraciones deben estar inventariadas y deben guardarse debidamente blindadas y señalizadas, en
+un área especialmente destinada a tal fin, en el cuarto de preparados.
+D.4. Vigilancia Radiológica
+D.4.1. Vigilancia Radiológica de Áreas
+46. Debe contarse con un programa de vigilancia radiológica destinado a mantener los niveles
+de radiación y contaminación tan bajos como sea razonablemente alcanzable y que contemple,
+como mínimo, lo siguiente.
+a. El monitoreo periódico de la radiación ambiental y la contaminación superficial en todas
+las áreas de la instalación en las que se emplee material radiactivo y de todos los objetos que pudieran resultar contaminados con material radiactivo (guardapolvos, pinzas,
+material reutilizable, portajeringas, portamuestra del “activímetro”, etc.).
+b. El monitoreo de la contaminación superficial en aquellas áreas en que no se emplea
+material radiactivo cuando se sospeche el arrastre incidental de dicha contaminación.
+D.4.2. Vigilancia Radiológica Individual
+47. Debe llevarse a cabo el control dosimétrico individual de los trabajadores en los casos que
+corresponda.
+48. El Responsable debe determinar la nómina de los trabajadores afectados al control dosimétrico individual. El personal que realiza tareas de elución, fraccionamiento, administración o
+cualquier otra tarea relacionada con la manipulación de radionucleidos, debe contar, además,
+con dosímetro de mano.
+49. El dosímetro personal de cada trabajador debe ser de uso exclusivo en cada instalación de
+medicina nuclear.
+
+5/9
+
+NORMA AR 8.2.4. USO DE FUENTES RADIACTIVAS NO SELLADAS EN
+INSTALACIONES DE MEDICINA NUCLEAR – REVISIÓN 1
+
+50. La dosimetría personal sólo podrá ser llevada a cabo por aquellos servicios de dosimetría
+que participen en ejercicios periódicos de intercomparación efectuados por organismos reconocidos por la Autoridad Regulatoria.
+51. Debe vigilarse la contaminación interna del personal que realiza rutinariamente tareas con
+radionucleidos que puedan dar lugar a una incorporación, con una frecuencia adecuada a la
+carga de trabajo o cuando se sospeche la existencia de una contaminación resultante de una
+situación anormal.
+52. Las dosis individuales deben computarse e informarse al personal en forma mensual. El
+titular de la licencia de operación debe entregar a cada persona sujeta a dosimetría individual,
+cuando deje de prestar servicio en la instalación de medicina nuclear, una certificación de la
+dosis individual recibida en cada año de trabajo en dicha instalación.
+D.5. Mantenimiento y Calibración Periódica del Equipamiento de Protección Radiológica
+53. Debe efectuarse el mantenimiento y el control periódico del equipamiento de protección
+radiológica.
+54. El equipamiento de protección radiológica debe ser adecuadamente calibrado como mínimo:
+a. una vez cada dos (2) años;
+b. cada vez que sea sometido a una reparación;
+c.
+
+cuando existan motivos para suponer una alteración de su calibración.
+
+55. La calibración debe ser realizada por un laboratorio de calibración dosimétrica reconocido
+por la Autoridad Regulatoria o bien se deberá presentar en la documentación técnica un procedimiento de calibración a satisfacción de la Autoridad Regulatoria.
+D.6. Mantenimiento y Control Periódico del Equipamiento de Medicina Nuclear y del “Activímetro”
+56. Debe efectuarse el mantenimiento del equipamiento de medicina nuclear y del “activímetro”.
+Las tareas de mantenimiento o reparación que pudieran implicar modificaciones significativas al
+diseño, desde el punto de vista de la seguridad radiológica, deberán ser comunicadas a la Autoridad Regulatoria, previamente a su ejecución.
+57. Luego de realizarse un mantenimiento o una reparación, el Responsable debe verificar el
+correcto funcionamiento del equipo, llevando a cabo las pruebas de aceptación que correspondan, según las tareas ejecutadas.
+58. El “activímetro” y el equipamiento de medicina nuclear deben someterse a un protocolo de
+controles periódicos con periodicidad y extensión adecuados a su complejidad, sus funciones y
+su frecuencia de utilización. En particular, para “activímetros” la calibración en energía (medición de la fuente patrón) debe efectuarse al menos una vez al día, y el resultado de este control
+debe registrarse.
+D.7. Protección Radiológica del Paciente
+59. La actividad del material radiactivo administrado con fines diagnósticos debe ser tal que la
+dosis al paciente sea la mínima necesaria y suficiente para conseguir el objetivo perseguido.
+60. La actividad del material radiactivo administrado con fines terapéuticos debe ser tal que la
+dosis al tejido sano sea la mínima que pueda razonablemente alcanzarse compatible con la dosis
+de tratamiento requerida.
+61. Previamente a la administración de un radionucleido con fines terapéuticos a una mujer en
+edad de gestación, se le debe efectuar una prueba de embarazo.
+
+6/9
+
+NORMA AR 8.2.4. USO DE FUENTES RADIACTIVAS NO SELLADAS EN
+INSTALACIONES DE MEDICINA NUCLEAR – REVISIÓN 1
+
+62. La prescripción de las actividades diagnósticas o terapéuticas debe ser realizada y firmada
+por un médico que cuente con el correspondiente permiso individual.
+63. Debe verificarse la actividad a ser administrada previamente a la realización de cada estudio
+o tratamiento. El resultado de la calibración de dicha actividad debe ser registrado.
+64. Antes de administrar el material radiactivo se debe verificar que el radionucleido y la actividad a administrar sean las prescriptas. Los procedimientos escritos incluirán métodos inequívocos de identificación del paciente y del o los órganos a estudiar o tratar.
+65. Se deben usar métodos adecuados para bloquear la absorción de los radionucleidos por
+órganos que no sean objeto de estudio y para acelerar su excreción, cuando proceda.
+66. Previamente a la administración de material radiactivo en procedimientos diagnósticos o terapéuticos a mujeres embarazadas, debe evaluarse la dosis que recibiría el embrión o feto.
+67. En los casos que corresponda, el Responsable debe recomendar a las madres en período de
+lactancia -que sean objeto de estudios o tratamientos con material radiactivo- la interrupción del
+amamantamiento, hasta que la cantidad secretada del radioisótopo suministrado no cause al
+lactante una dosis efectiva inaceptable
+D.8. Gestión de Residuos Radiactivos
+68. El titular de la licencia de operación de una instalación de medicina nuclear debe prever, a
+satisfacción de la Autoridad Regulatoria, las alternativas para la gestión de los residuos radiactivos que se generen como consecuencia de la práctica, antes del inicio de la operación.
+69. Cuando el período de semidesintegración y la actividad de los radionucleidos utilizados sea
+tal que no se prevean tiempos de almacenamiento superiores a un (1) año, se podrán almacenar los residuos radiactivos transitoriamente para su decaimiento en la propia instalación.
+70. Los residuos radiactivos que se almacenen transitoriamente en la instalación de medicina
+nuclear para decaimiento, deben retenerse por un tiempo igual o superior a ocho (8) períodos
+de semidesintegración, al cabo del cual serán gestionados como residuos convencionales o
+como residuos patogénicos, según corresponda, retirando previamente su identificación como
+material radiactivo.
+71. Cuando el período de semidesintegración, la actividad de los radionucleidos utilizados o la
+capacidad de almacenamiento de la instalación de medicina nuclear no permita realizar en ella
+el almacenamiento transitorio, deben gestionarse los residuos radiactivos transfiriéndolos a una
+gestionadora de residuos radiactivos, según lo establecido en la norma AR. 10.12.1 “Gestión de
+Residuos Radiactivos”.
+72. Los residuos radiactivos deben ser minimizados (reduciendo volúmenes y racionalizando
+operaciones), clasificados, segregados e identificados por radionucleido, actividad, fecha de
+generación y período de almacenamiento requerido. Además deben ser acondicionados adecuadamente para permitir su almacenamiento o transporte para su disposición final.
+73. Los residuos sólidos (tales como jeringas, agujas y material de vidrio) conteniendo material
+radiactivo deben ser acondicionados de manera adecuada para evitar heridas o lesiones que
+pudieran ocasionar contaminación interna.
+74. Los filtros de los sistemas de ventilación existentes en la instalación de medicina nuclear
+deben ser gestionados como residuo radiactivo cuando corresponda.
+D 9. Registros
+75. El titular de licencia debe asegurar que se mantengan actualizados, como mínimo, los siguientes registros:
+
+7/9
+
+NORMA AR 8.2.4. USO DE FUENTES RADIACTIVAS NO SELLADAS EN
+INSTALACIONES DE MEDICINA NUCLEAR – REVISIÓN 1
+
+a. Contabilidad de material radiactivo que incluya como mínimo: radionucleidos ingresados al servicio, forma física y química, actividad y fecha de ingreso o egreso.
+b. Residuos eliminados a través de una gestionadora de residuos radiactivos: material
+eliminado, actividad estimada y fecha de eliminación.
+c.
+
+Dosis diagnósticas y terapéuticas: nombre del paciente, radioisótopo y actividad administrados, y fecha de administración. En los casos en que haya internación: lugar de internación y fecha de alta. Estos registros deberán mantenerse como mínimo durante
+diez (10) años.
+
+d. Calibraciones y controles del equipamiento de medicina nuclear y del equipamiento de
+protección radiológica.
+e. Dosis del personal. Estos registros deberán conservarse como mínimo durante treinta
+(30) años con posterioridad a la fecha en que el trabajador deje de prestar servicios para la instalación.
+Aquellos registros para los que no se prescriba explícitamente un plazo, deben mantenerse por
+un período mínimo de tres (3) años. Los registros precedentes deben ser puestos a disposición
+de la Autoridad Regulatoria cuando ésta lo requiera.
+D.10 Responsabilidades
+76. Del Titular de Licencia
+a. Proveer los medios necesarios para cumplir y hacer cumplir, como mínimo, los requisitos establecidos en la licencia de operación, en las normas aplicables y en todo otro
+requerimiento de la Autoridad Regulatoria aplicable a la instalación o práctica.
+b. Designar al Responsable, asegurar que la función del mismo esté cubierta mientras
+permanezca vigente la licencia de operación correspondiente y prestarle al Responsable todo el apoyo que necesite para garantizar la calidad técnica de los estudios y que
+la práctica se desarrolle en adecuadas condiciones de seguridad radiológica.
+c.
+
+Comunicar a la Autoridad Regulatoria en forma fehaciente e inmediata, el caso en que
+se produzca la ausencia definitiva del Responsable. Si se produce el cese en funciones
+(temporal o definitivo) del mismo, la instalación no podrá operar hasta tanto se designe
+un nuevo Responsable, a satisfacción de la Autoridad Regulatoria.
+
+d. Establecer un sistema de calidad adecuado y supervisar su correcta implementación.
+e. Contar con el personal necesario para operar la instalación y asegurar su capacitación
+y reentrenamiento.
+f.
+
+Facilitar, en todo momento, la realización de inspecciones y auditorias regulatorias por
+parte del personal de la Autoridad Regulatoria o por quien ésta designe.
+
+g. Remitir anualmente a la Autoridad Regulatoria los registros dosimétricos del personal,
+incluyendo fechas de altas y bajas dentro del período.
+h. Notificar a la Autoridad Regulatoria la intención de cesar en forma temporaria o definitiva el uso de material radiactivo.
+i.
+
+Tramitar, con la debida anticipación, la renovación, modificación o ampliación de la licencia de operación.
+
+77. Del Responsable
+a. Asegurar que la operación de la instalación se realizará, al menos, con la presencia de
+la dotación mínima de personal acorde a lo establecido en el criterio N° 27 y en los criterios Nº 28 ó 29, cuando corresponda.
+b. Implementar el sistema de calidad.
+c.
+
+8/9
+
+Comunicar a la Autoridad Regulatoria, en forma fehaciente e inmediata, la ocurrencia
+de eventos que afecten o puedan afectar la seguridad radiológica, investigar sus causas y consecuencias e implementar las medidas correctivas que correspondan.
+
+NORMA AR 8.2.4. USO DE FUENTES RADIACTIVAS NO SELLADAS EN
+INSTALACIONES DE MEDICINA NUCLEAR – REVISIÓN 1
+
+d. Comunicar a la Autoridad Regulatoria, en forma fehaciente e inmediata, su renuncia o
+ausencia temporaria como Responsable.
+e. Informar en forma fehaciente a la Autoridad Regulatoria cuando, a su entender, el titular de licencia no provee los recursos necesarios para garantizar la seguridad radiológica.
+f.
+
+Mantener actualizados los registros indicados en el criterio Nº 75.
+
+78. Del Trabajador
+a. Cumplir los procedimientos establecidos para asegurar su propia protección, la de los
+demás trabajadores, la de los pacientes y la del público.
+
+9/9
+
+

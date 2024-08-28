@@ -1,0 +1,287 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 4.2.3.
+
+REVISIÓN 2
+
+Seguridad contra
+incendios en reactores
+de investigación
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 03/02 (Boletín Oficial 5/3/02)
+
+República Argentina – 2002
+
+1/6
+
+NORMA AR 4.2.3
+
+SEGURIDAD CONTRA INCENDIOS
+EN REACTORES DE INVESTIGACIÓN
+
+A. OBJETIVO
+1. Establecer los criterios de seguridad contra incendios -o los eventos generados por estos- y
+explosiones derivadas de incendios, que puedan afectar la seguridad radiológica o nuclear.
+
+B. ALCANCE
+2. Esta norma es aplicable al diseño, puesta en marcha y operación de reactores de investigación.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con
+la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Barrera contra Incendios: Barrera estructural, parcial o completa, utilizada para atenuar las
+consecuencias de un incendio.
+4. Carga de Fuego: Masa de madera por unidad de superficie (kg/m2) capaz de desarrollar una
+cantidad de calor equivalente a la de los materiales contenidos en el sector de incendio. Como
+patrón de referencia se considera madera con un poder calorífero no inferior a 18,41 MJ/kg.
+5. Combustión: Reacción exotérmica de una sustancia, llamada combustible, con un oxidante,
+llamado comburente (el fenómeno viene acompañado generalmente con una emisión lumínica en
+forma de llamas o incandescencia con desprendimiento de productos volátiles y/o humos y que
+puede dejar un residuo de cenizas).
+6. Componente Activo: Componente del sistema de seguridad contra incendios cuyo funcionamiento depende del aporte de algún tipo de energía externa.
+7. Componente Pasivo: Componente del sistema de seguridad contra incendios cuya función
+está asegurada por su sola presencia.
+8. Escape: Medio de salida exigido, que constituye la línea natural de tránsito que garantiza una
+evacuación rápida y segura.
+9. Estanquidad al Fuego: Aptitud de un elemento de construcción de impedir el paso de llamas y
+productos de combustión a través del mismo, por un determinado lapso.
+10. Explosión: Reacción abrupta de oxidación o descomposición que produce un aumento brusco
+de temperatura o de presión, o de ambas cosas simultáneamente.
+11. Humo: Conjunto visible de partículas sólidas y líquidas en suspensión en el aire, o en los productos volátiles, resultantes de una combustión.
+12. Ignición: Acción y efecto de estar un cuerpo encendido, si es combustible, o enrojecido por un
+fuerte calor, si es incombustible.
+13. Incendio: Fuego que se desarrolla sin control en el tiempo y el espacio.
+
+1/6
+
+NORMA AR 4.2.3. SEGURIDAD CONTRA INCENDIOS EN REACTORES DE INVESTIGACIÓN
+
+14. Líquido Inflamable: Líquido que puede emitir vapores los que, mezclados en proporciones
+adecuadas con el aire, originan mezclas combustibles.
+15. Material Combustible: Material que puede mantener la combustión aún después de suprimida
+la fuente externa de calor; por lo general necesitan un abundante flujo de aire. En particular se
+aplica a aquellos materiales que pueden arder en hornos diseñados para ensayos de incendios y a
+los que están integrados por hasta un 30% de su peso por materiales "muy combustibles".
+16. Material muy Combustible: Material que expuesto al aire puede ser encendido y continúa
+ardiendo una vez retirada la fuente de ignición.
+17. Muro Cortafuego: Muro divisor de sectores construido con materiales de resistencia al fuego
+similar a la exigida para los materiales del sector de incendio más comprometido.
+18. Propagación del Fuego: Desplazamiento del frente de una llama.
+19. Protección Estructural: Estructura pasiva que impide o limita la propagación de incendios
+brindando a las personas una posibilidad de escape y la máxima protección contra el fuego.
+20. Resistencia al Fuego: Aptitud de un elemento de construcción, estructura, componente, equipo o sistema, de conservar durante un tiempo determinado la estabilidad, la estanquidad, el aislamiento térmico requerido y la no emisión de gases inflamables, especificados en los ensayos de
+resistencia al fuego.
+21. Sector de Incendio: Local, conjunto de locales o áreas delimitados por muros y/o entrepisos
+de resistencia al fuego acorde con el riesgo y la carga de fuego que contienen, comunicados con
+un medio de escape. Las áreas al aire libre donde se desarrollan trabajos se consideran sector de
+incendio.
+22. Sistema de Seguridad: Sistema que lleva a cabo una función de seguridad para prevenir o
+mitigar las consecuencias resultantes de una falla, mal función o mala operación.
+23. Sistema de Seguridad contra Incendios: Sistema para la prevención, detección, alarma,
+extinción y atenuación de incendios.
+
+D. CRITERIOS
+REFERENTES AL DISEÑO
+Generales
+24. La seguridad contra incendios de un reactor de investigación debe depender fundamentalmente de la protección estructural antes que de los sistemas de extinción de incendios.
+25. La extinción de incendios debe basarse en sistemas propios de la instalación y no en medios
+operativos.
+26. Deben postularse y analizarse incendios que pudieran ocurrir en todas las zonas en las que
+haya componentes importantes para la seguridad y en las zonas adyacentes.
+27. Todos los sistemas de seguridad y de importancia para la seguridad deben situarse en sectores
+de incendio especialmente diseñados para alojarlos. Los componentes redundantes de los sistemas
+de seguridad se deben ubicar en distintos sectores de incendio, siempre que sea posible.
+28. Para la prevención de incendios se deben aplicar medidas en el diseño del reactor de investigación para reducir, tanto como sea razonablemente posible, su probabilidad de ocurrencia.
+29. Se debe limitar la carga máxima de fuego en todos los locales de la instalación.
+30. Los sistemas de detección de incendios deben lograr la detección temprana de los mismos.
+31. Los sistemas de extinción de incendios deben utilizar componentes activos.
+
+2/6
+
+NORMA AR 4.2.3. SEGURIDAD CONTRA INCENDIOS EN REACTORES DE INVESTIGACIÓN
+
+32. Deben utilizarse componentes pasivos para minimizar las consecuencias de los incendios.
+33. El diseño de un reactor de investigación debe prever el uso racional del espacio y ubicaciones
+apropiadas de equipos o instrumentos contra incendios para que el mantenimiento, prueba y calibración de los mismos puedan desarrollarse adecuadamente y en las condiciones de trabajo apropiadas.
+34. Se debe prever una adecuada planificación de la lucha contra el fuego.
+Prevención de Incendios
+35. Para la selección de los materiales se debe tener en cuenta el grado de combustibilidad de los
+mismos y se debe optar, preferentemente, por el menos combustible.
+36. Los locales que conforman un reactor de investigación se deben construir y ubicar de manera
+tal que los efectos de una combustión queden circunscriptos a la zona en que se desarrolla. En
+todos los casos debe asegurarse la contención y estanquidad al fuego y que pueda realizarse una
+correcta intervención para la lucha contra el fuego.
+Sistemas de Detección, Alarma y Extinción de Incendios
+37. Debe disponerse de equipos que detecten y extingan incendios, que sean autosuficientes y
+estén diseñados de acuerdo a normas reconocidas por la Autoridad Regulatoria.
+38. Para asegurar una confiabilidad adecuada, los sistemas de detección, alarma y extinción de
+incendios se deben diseñar aplicando los criterios de redundancia, diversidad, independencia y
+-2
+falla única. La tasa de falla por demanda para cada uno de los sistemas deberá ser inferior a 10
+39. El diseño de los sistemas de detección, alarma y extinción debe:
+a. Ser antisísmico, cuando sea necesario.
+b. Tratar de evitar roturas debido a eventuales golpes.
+40. Los sistemas de detección de incendios deben tener capacidad y funcionalidad apropiadas
+para dar la alarma temprana.
+41. En los locales que contengan componentes importantes para la seguridad y en los de alto
+riesgo de origen de incendios, se deben instalar sistemas de detección y alarma.
+42. Los sistemas de detección deben cumplimentar, como mínimo, los siguientes requisitos:
+a. Dar aviso de incendio, identificar el área de ocurrencia, dar señal de falla e indicar circuitos
+fuera de servicio;
+b. Operar, en caso de incendio, los dispositivos de clapetas de los conductos de los sistemas
+de ventilación que correspondan en las distintas situaciones operacionales y/o poner en
+funcionamiento los dispositivos automáticos de extinción, donde ello fuera requerido.
+43. El diseño de los sistemas de detección de incendios debe prever la prueba periódica de los
+mismos.
+44. Para la elección de los tipos de detectores a instalar se deben tener en cuenta las características particulares de cada uno de los recintos a proteger.
+45. Los detectores se deben ubicar teniendo en cuenta su capacidad de respuesta ante la presencia de productos de la combustión de los equipos instalados en el local y de los materiales constructivos.
+
+3/6
+
+NORMA AR 4.2.3. SEGURIDAD CONTRA INCENDIOS EN REACTORES DE INVESTIGACIÓN
+
+46. En el diseño de los sistemas de extinción de incendios deben tenerse en cuenta aquellos incendios que concebiblemente pudieran producirse simultánea o independientemente en cualquier
+parte del reactor de investigación.
+47. Deben instalarse sistemas de extinción de incendios que permitan reducir al mínimo razonablemente posible los efectos del fuego que resulten perjudiciales para los elementos de importancia para la seguridad.
+48. Los equipos automáticos de extinción deben poseer un dispositivo manual de retardo y/o corte
+que permita al operador evaluar las consecuencias de la descarga del agente extintor.
+49. Los sistemas de extinción de incendios deben diseñarse y ubicarse de manera que sus fallas o
+su accionamiento indebido o accidental no afecten la capacidad funcional de los componentes de
+importancia para la seguridad.
+50. El accionamiento de los sistemas de extinción de incendios debe realizarse mediante las señales provenientes de dos detectores de distintos circuitos, a efectos de evitar disparos por señales
+espurias.
+51. Los sistemas fijos de extinción de incendios deben contener sustancias extintoras adecuadas
+al riesgo a cubrir.
+52. Deben determinarse y justificarse los códigos y normas utilizados para el diseño de los sistemas de extinción de incendios, independientemente de su ubicación en la red antiincendio y de su
+relación funcional con otros sistemas del mismo tipo. Asimismo, deberá tener alimentación eléctrica o todo otro servicio necesario y suministro de sustancia extintora asegurados.
+53. En todos los sectores de la instalación, se deben instalar extinguidores de incendio portátiles y
+móviles, los que cumplirán con las características y pruebas exigidas en las reglamentaciones
+vigentes en el país.
+54. La cantidad, calidad y capacidad de los extinguidores portátiles y móviles se debe regular teniendo en cuenta las situaciones particulares de los locales y sectores del reactor de investigación.
+55. Para la adecuada intervención de brigadas contra incendios, el diseño debe contemplar:
+a. Facilidad de desplazamiento hacia y en todos los sectores internos y externos.
+b. Autonomía de sistemas y equipos, debiendo para ello considerarse el tiempo de arribo de
+los servicios de bomberos externos a la instalación.
+c.
+
+Equipamiento compatible con el de las unidades operativas de bomberos urbanos y rurales.
+
+Atenuación de los Efectos de los Incendios
+56. Los sistemas de seguridad para la parada del reactor y para la extracción del calor residual
+deben estar suficientemente protegidos contra las consecuencias de posibles incendios.
+57. Los materiales radiactivos deben ser protegidos de los efectos de un eventual incendio, para
+evitar su liberación a la atmósfera.
+58. Los sistemas de extinción de incendios y sus sistemas auxiliares pertenecientes a un determinado sector deben ser independientes de los sistemas homólogos pertenecientes a los restantes
+sectores.
+59. La distribución de los locales debe cumplimentar los siguientes requisitos:
+a. Deben conformar sectores de incendio.
+b. Los servicios que interrelacionan a los distintos sectores de incendio deben ser diseñados
+de tal manera que el conducto de comunicación no se transforme en un medio de propagación de un eventual incendio.
+
+4/6
+
+NORMA AR 4.2.3. SEGURIDAD CONTRA INCENDIOS EN REACTORES DE INVESTIGACIÓN
+
+c.
+
+Las escaleras utilizadas para el acceso y escape en casos de emergencia se deben dotar
+de ventilación forzada para mantenerlas libres de humo.
+
+Ventilación
+60. Los sistemas de ventilación se deben diseñar de forma tal que se impida la propagación -a
+través de ellos- del fuego, el calor o el humo de un sector de incendio a otro.
+61. Los componentes y equipos de los sistemas de ventilación se deben diseñar e instalar de manera tal que posean por sí mismos o por las estructuras que los contienen una resistencia al fuego
+acorde al riesgo del sector al que pertenecen.
+62. Cuando los filtros utilizados en los sistemas de ventilación contengan sustancias combustibles
+que presenten riesgos de incendio para los componentes de importancia para la seguridad, se
+deben cumplir los siguientes requisitos:
+a. Las baterías de filtros deben separarse de todo otro equipo mediante barreras contra incendio.
+b. Se deben utilizar métodos adecuados para la protección automática de los filtros contra los
+efectos del fuego.
+c.
+
+Se deben instalar detectores de incendio en el interior de los conductos, antes y después
+de la batería de filtros.
+
+63. Las tomas de aire exterior deben estar a distancia suficiente de las salidas de aire y humos y
+de toda fuente potencial de ignición.
+Extracción de Humos
+64. Con el objeto de dar salida a los productos de combustión, se deben instalar dispositivos de
+extracción de humos en:
+a. Sectores con alta carga de fuego.
+b. Sectores con sistemas de seguridad normalmente ocupados por el personal de operación.
+c.
+
+Sectores donde haya materiales cuya combustión produzca gases tóxicos o alta concentración de humos.
+
+Sistemas Eléctricos
+65. La alimentación eléctrica debe cumplir con la norma AR 4.5.1. "Diseño del Sistema de Suministro de Energía Eléctrica de Reactores de Investigación".
+66. Los dispositivos eléctricos que pudieran generar incendios deben estar segregados físicamente.
+67. Los componentes eléctricos de los sistemas de seguridad se deben proteger contra las consecuencias de los incendios.
+68. La longitud total de los conductores entre los suministros y los aparatos a servir debe estar
+libre de toda derivación y/o empalme. Se pueden usar cajas de paso, con borneras de compresión,
+para facilitar la agrupación de circuitos y solucionar los casos de cables de gran longitud.
+69. En los casos de muros cortafuegos que sean atravesados por cables, el paso de los mismos
+debe poseer una resistencia al fuego no menor que la exigible a dicho muro.
+70. Los equipos o aparatos de interrupción de la alimentación eléctrica deben estar ubicados en
+lugares de fácil acceso.
+71. La disposición de los cables sobre bandejas debe ser tal que impida cualquier propagación de
+fuego entre ellos.
+
+5/6
+
+NORMA AR 4.2.3. SEGURIDAD CONTRA INCENDIOS EN REACTORES DE INVESTIGACIÓN
+
+Incendios Originados en el Exterior
+72. Se debe tener en cuenta la ocurrencia de incendios en las zonas exteriores y/o aledañas a la
+propiedad de la instalación, cuyas consecuencias pudieran afectarla, con el fin de minimizar los
+efectos.
+73. Las señales de alarma de los detectores ubicados en las tomas de aire exterior deben establecer inequívocamente la ubicación del detector emisor.
+74. Se deben instalar clapetas en el sistema de toma de aire exterior, las que deben tener como
+función primordial la aislación del humo y servir como barrera de fuego.
+75. Las clapetas del sistema de toma de aire exterior deben tener dos dispositivos de accionamiento, uno automático y otro manual. Se debe prever que el accionamiento de dichas clapetas no
+comprometa el funcionamiento de los sistemas de seguridad.
+REFERENTES A LA PUESTA EN MARCHA Y OPERACIÓN
+76. Se debe contar con un programa escrito de protección contra incendios. Dicho programa debe
+incluir como mínimo los siguientes puntos:
+a. Definición de la organización que debe implementar el programa y asignación de las responsabilidades.
+b. Identificación de los sistemas importantes para la seguridad.
+c.
+
+Identificación de las posibles situaciones de incendio y una evaluación del riesgo asociado
+a cada una de ellas.
+
+d. Procedimientos para todas las actividades relacionadas con la protección contra incendios.
+e. Procedimientos para la utilización de equipos no previstos en el diseño y que puedan ser
+fuentes de ignición.
+f.
+
+Procedimientos para la inspección, pruebas, calibración y mantenimiento de los sistemas
+de seguridad contra incendios.
+
+g. Procedimientos para el registro de las actividades relacionadas con la protección contra
+incendios.
+h. Formación, entrenamiento y reentrenamiento de una brigada contra incendios, planeamiento de la lucha contra el fuego, coordinación de las acciones con las unidades operativas de bomberos urbanas y rurales.
+i.
+
+Entrenamiento del personal, para que en las operaciones que se realicen en la instalación
+se contemple el riesgo de incendio y se controlen las operaciones peligrosas.
+
+j.
+
+Disponibilidad de medios técnicos adecuados.
+
+77. El programa de lucha contra incendios debe garantizar que se preserva la capacidad de la
+instalación de llevar a parada segura el reactor. Dicho programa debe incluir una evaluación de los
+sistemas de seguridad y de seguridad contra incendios con posterioridad a la ocurrencia de un
+siniestro.
+78. Se debe evaluar periódicamente el programa contra incendios a fin de verificar que el mismo
+sigue siendo adecuado. Los cambios que surjan de dicha evaluación deben provocar la identificación, corrección y registro del proceso en la documentación correspondiente.
+79. Se debe minimizar la utilización y evitar el almacenamiento de sustancias combustibles, inflamables o explosivas en zonas en las que haya componentes de importancia para la seguridad o
+en zonas adyacentes a ellas.
+
+6/6
+
+

@@ -1,0 +1,263 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 8.11.1.
+
+REVISIÓN 2
+
+Permisos individuales
+para el empleo de material
+radiactivo o radiaciones
+ionizantes en seres humanos
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 62/04 (Boletín Oficial 8/09/04)
+
+República Argentina – 2006
+
+1/5
+
+NORMA AR 8.11.1.
+
+PERMISOS INDIVIDUALES PARA
+EL EMPLEO DE MATERIAL RADIACTIVO O
+RADIACIONES IONIZANTES EN SERES HUMANOS
+
+A. OBJETIVO
+1. Establecer los requisitos que debe cumplir un médico para solicitar y renovar permisos
+individuales.
+
+B. ALCANCE
+2. Esta norma es aplicable a todo médico que solicite un permiso individual para realizar prácticas
+en instalaciones Clase II licenciadas por la Autoridad Regulatoria que involucren el empleo de
+1
+material radiactivo o radiaciones ionizantes en seres humanos.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no
+relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Instalación Clase II: Instalación o práctica que sólo requiere licencia de operación.
+4. Licencia: Documento por medio del cual la Autoridad Regulatoria autoriza, bajo ciertas
+condiciones, la operación de una instalación o la ejecución de una dada etapa de la vida de
+dicha instalación. Estas etapas pueden ser la construcción, puesta en marcha, retiro de servicio
+o cualquier otra que la Autoridad Regulatoria juzgue necesario licenciar.
+5. Permiso Individual: Certificado, expedido por la Autoridad Regulatoria, por el que se
+autoriza a una persona a trabajar con fuentes de radiación, en una instalación Clase II o en una
+práctica no rutinaria.
+6. Práctica: Toda tarea con fuentes de radiación que produzca un incremento real o potencial de la
+exposición de personas a radiaciones ionizantes, o de la cantidad de personas expuestas.
+7. Preceptor: Médico de reconocida trayectoria profesional, poseedor de un permiso individual
+vigente para la práctica en la que entrenará al médico solicitante del permiso individual para el uso
+de material radiactivo o radiaciones ionizantes, que haya renovado al menos una vez su permiso
+individual y que cumple, a satisfacción de la Autoridad Regulatoria, los requisitos necesarios para
+entrenar a solicitantes de permisos individuales.
+
+1
+
+Incluyendo a los aceleradores lineales de uso médico. En concordancia con los términos de la
+Ley 17.557, se excluyen los equipos destinados a generar específicamente rayos x.
+
+1/5
+
+NORMA AR 8.11.1. PERMISOS INDIVIDUALES PARA EL EMPLEO DE
+MATERIAL RADIACTIVO O RADIACIONES IONIZANTES EN SERES HUMANOS – REVISIÓN 2
+
+D. REQUISITOS
+D1. Requisitos Generales
+8. Sólo se podrá emplear material radiactivo o radiaciones ionizantes en seres humanos cuando se
+posea un permiso individual para tal propósito, otorgado por la Autoridad Regulatoria.
+9. El poseedor de un permiso individual estará autorizado a realizar sólo aquellas prácticas
+expresamente indicadas en el mismo, y podrá efectuarlas únicamente en instalaciones que
+cuenten con la correspondiente Licencia de operación otorgada por la Autoridad Regulatoria.
+D.2. Solicitud de Permisos Individuales
+10. El médico que solicita un permiso individual debe estar habilitado para ejercer su profesión,
+tener una adecuada formación teórica en el empleo de material radiactivo o radiaciones
+ionizantes en seres humanos adquirida mediante la realización de cursos reconocidos por la
+Autoridad Regulatoria, y haber realizado un entrenamiento apropiado por medio de una
+participación clínica activa.
+11. La formación teórica mencionada en el requisito N° 10 debe proporcionar al médico, como
+mínimo, un conocimiento general sobre:
+a.
+
+Principios de física nuclear, radiactividad e interacción de la radiación con la materia.
+Magnitudes y unidades dosimétricas y radiométricas.
+
+b.
+
+Sistemas de detección y medición de la radiación. Criterios para su adecuada utilización y
+calibración.
+
+c.
+
+Efectos biológicos de las radiaciones ionizantes.
+
+d.
+
+Criterios de protección radiológica y seguridad aplicables a los usos médicos de las
+radiaciones ionizantes. Estudio de la normativa regulatoria de aplicación.
+
+e.
+
+Dosimetría de la radiación externa y de la contaminación interna. Cálculo de las dosis a
+administrar y evaluación de las dosis administradas.
+
+f.
+
+Criterios de gestión de residuos radiactivos generados en la práctica médica.
+
+g.
+
+Criterios asociados a la seguridad de las fuentes de radiaciones ionizantes utilizadas
+en aplicaciones médicas. Control del inventario de fuentes radiactivas. Análisis de
+situaciones accidentales.
+
+h.
+
+Aspectos de la garantía de calidad y la cultura de seguridad en la práctica médica.
+
+12. El entrenamiento mencionado en el requisito N° 10 consistirá en la realización de períodos
+de capacitación sujetos a las condiciones particulares establecidas por la Autoridad Regulatoria
+para cada tipo de práctica e incluirá, como mínimo, una participación clínica activa en los
+siguientes aspectos:
+
+2/5
+
+a.
+
+Examen de un número apropiado de pacientes para analizar la conveniencia de emplear
+material radiactivo o radiaciones ionizantes en diagnóstico o tratamiento y la formulación
+de recomendaciones sobre la dosificación a ser prescripta.
+
+b.
+
+Participación apropiada para cada práctica en la calibración y administración de dosis
+para el diagnóstico o el tratamiento.
+
+c.
+
+Seguimiento de la evolución de los pacientes durante el tratamiento y post-tratamiento,
+a fin de evaluar la eficiencia de los métodos utilizados y sus posibles implicancias
+desde el punto de vista de la protección radiológica del paciente.
+
+NORMA AR 8.11.1. PERMISOS INDIVIDUALES PARA EL EMPLEO DE
+MATERIAL RADIACTIVO O RADIACIONES IONIZANTES EN SERES HUMANOS – REVISIÓN 2
+
+13. El entrenamiento a que hace mención el criterio N° 10 debe ser realizado en una instalación
+Clase II con Licencia de operación vigente, que cuente con los medios adecuados para su
+realización y ser supervisada por un preceptor aceptado previamente por la Autoridad
+Regulatoria. La instalación y su Licencia de operación deberán ser acordes a la práctica para la
+cual se realiza el entrenamiento. El respectivo titular de licencia deberá prestar conformidad
+para la realización del entrenamiento.
+14. El preceptor debe haber desempeñado en forma continua la práctica médica de que se
+trate y podrá supervisar entrenamientos sólo en los casos en que no se presenten
+incompatibilidades ni vínculos de orden profesional, familiar o comercial con el practicante.
+15. El preceptor debe comunicar a la Autoridad Regulatoria la iniciación del entrenamiento de
+todo solicitante de un permiso individual, dentro de los quince (15) días de ocurrida tal
+iniciación. Dicha comunicación debe incluir el programa y la duración estimada del
+entrenamiento a ser realizado. La falta de dicha comunicación implicará el desconocimiento por
+parte de la Autoridad Regulatoria del entrenamiento efectuado.
+16. El preceptor debe acreditar la efectiva realización del entrenamiento a través de una declaración
+jurada. La información consignada en dicha declaración deberá ser verificable. El preceptor debe
+asegurar, de igual forma, que la realización del entrenamiento ha proporcionado al solicitante una
+adecuada formación en la práctica pertinente que le permita emplear materiales radiactivos o
+radiaciones ionizantes en seres humanos sin necesidad de supervisión.
+17. La aprobación de cursos universitarios de postgrado o de cursos terciarios nacionales o
+extranjeros de distintas sociedades o asociaciones médicas, reconocidos por la Autoridad
+Regulatoria, en especialidades médicas que contemplen el empleo de material radiactivo o
+radiaciones ionizantes en seres humanos, permitirá al solicitante demostrar que ha obtenido la
+formación teórica necesaria mencionada en el requisito N° 10. Para acreditar el cumplimiento del
+entrenamiento, en aquellos casos en que los cursos no lo incluyeran, deben cumplimentarse los
+requisitos N° 12 a N° 16 inclusive.
+18. En forma alternativa y en los casos en que el solicitante de un permiso individual no pueda
+acreditar conocimientos y experiencia en el empleo de material radiactivo o radiaciones ionizantes
+de acuerdo a los requisitos N° 10 a N° 16 inclusive podrá solicitar, con carácter de excepción, un
+reconocimiento de su formación teórico-práctica. Para que la excepción sea considerada, el
+solicitante deberá adjuntar a la solicitud de permiso individual, la documentación probatoria de sus
+conocimientos y experiencia y, eventualmente, rendir una evaluación ante la Autoridad Regulatoria.
+19. El médico que solicite un permiso individual para usos experimentales de material radiactivo o
+radiaciones ionizantes en seres humanos, ya sea con fines de investigación, diagnóstico o
+terapéutica, debe acreditar experiencia adecuada en la implementación de programas de protección
+radiológica en prácticas relacionadas con la experimentación propuesta.
+20. La solicitud de un permiso individual para usos experimentales de material radiactivo o
+radiaciones ionizantes en seres humanos debe ser acompañada por el programa de
+investigación presentado a consideración de la autoridad competente y por las condiciones de
+protección radiológica y seguridad previstas.
+D.3. Validez y Renovación de Permisos Individuales
+21. Los permisos individuales otorgados para el empleo de material radiactivo o radiaciones
+ionizantes en seres humanos tendrán una validez de cinco (5) años, salvo que la Autoridad
+Regulatoria especifique un período de validez menor.
+22. El médico que desee renovar un permiso individual debe iniciar la pertinente tramitación
+ante la Autoridad Regulatoria sesenta (60) días antes de la fecha de vencimiento establecida
+en el permiso. Asimismo deberá acreditar que:
+
+3/5
+
+NORMA AR 8.11.1. PERMISOS INDIVIDUALES PARA EL EMPLEO DE
+MATERIAL RADIACTIVO O RADIACIONES IONIZANTES EN SERES HUMANOS – REVISIÓN 2
+
+a.
+
+Durante la vigencia del permiso se ha desempeñado efectivamente en la práctica indicada
+en el mismo.
+
+b. Cuenta con antecedentes curriculares y con una adecuada actualización en la práctica
+contemplada en el permiso a renovar, incluyendo aspectos de protección radiológica
+asociados a la misma.
+23. El médico que no haya cumplido lo establecido en el requisito N° 22 y desee renovar su
+permiso individual dentro del año posterior a la fecha de su vencimiento deberá acreditar, a
+satisfacción de la Autoridad Regulatoria, que se ha desempeñado bajo supervisión de un
+profesional con permiso individual vigente durante dicho plazo.
+24. El médico que no haya cumplido lo establecido en el requisito N° 22 y desee renovar su
+permiso individual luego del año posterior a su vencimiento, deberá realizar nuevamente el
+entrenamiento establecido en la Sección D2.
+D4. Responsabilidades del Poseedor de un Permiso Individual
+25. El poseedor de un permiso individual debe:
+a. Optimizar el empleo de equipos y técnicas para que las dosis innecesarias, a los fines
+del procedimiento, resulten tan bajas como sea razonablemente alcanzable.
+b. Cumplir con los procedimientos establecidos para asegurar su propia protección, la de
+los demás trabajadores, la de los pacientes y la del público.
+c.
+
+Suministrar toda la información sobre temas sujetos a regulación que le sea solicitada
+por personal de la Autoridad Regulatoria.
+
+d. Comunicar al responsable de la instalación Clase II en la que desarrolla sus tareas, en
+forma inmediata, la ocurrencia de sucesos que afecten, o puedan afectar, la protección
+radiológica de las personas y la seguridad de la instalación. Dicha comunicación al
+Responsable de la instalación debe realizarse por escrito dentro de las cuarenta y ocho
+(48) horas de producido el o los sucesos, adjuntando un primer informe de lo
+acontecido.
+e. Presentar el permiso en cada oportunidad en que le sea requerido por personal de la
+Autoridad Regulatoria.
+D5. Permisos Individuales para Prácticas Específicas con Radioisótopos o Radiaciones
+Ionizantes que no sean un Uso Clínico Establecido ni se enmarquen en un Programa de
+Investigación o Protocolo de Usos Experimentales
+26. El médico que solicite un permiso individual para llevar a cabo en un paciente determinado,
+una práctica específica con radioisótopos o radiaciones ionizantes que no se enmarque en un
+Uso Clínico Establecido ni se enmarque en un Programa de Investigación o Protocolo de Usos
+Experimentales, debe cumplir con los criterios establecidos en la presente norma, y con los
+siguientes requisitos:
+a. Acreditar que la práctica ha sido autorizada específicamente para ese paciente por la
+Administración Nacional de Medicamentos Alimentos y Tecnología Médica (ANMAT)
+dentro de los alcances de la Disposición ANMAT 840/95.
+b.
+
+4/5
+
+Declarar que ese paciente no puede ser incluido dentro de un Programa de Investigación o
+Protocolo de Usos Experimentales de radioisótopos o radiaciones ionizantes en seres
+humanos.
+
+NORMA AR 8.11.1. PERMISOS INDIVIDUALES PARA EL EMPLEO DE
+MATERIAL RADIACTIVO O RADIACIONES IONIZANTES EN SERES HUMANOS – REVISIÓN 2
+
+c. La solicitud debe ser acompañada por la descripción de la práctica y de las medidas de
+protección radiológica que implementará, las que deberán incorporar los criterios de
+justificación y optimización aplicados en los Programas de Investigación o Protocolo de
+Usos Experimentales que se hubieren desarrollado para dicha práctica en el país o en
+el extranjero, así como las conclusiones obtenidas de los mismos.
+
+5/5
+
+

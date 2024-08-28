@@ -1,0 +1,69 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 3.9.2.
+
+REVISIÓN 1
+
+Comunicación de
+eventos relevantes en
+reactores nucleares
+de potencia
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 03/02 (Boletín Oficial 5/3/02)
+
+República Argentina – 2002
+
+1/3
+
+NORMA AR 3.9.2.
+
+COMUNICACIÓN DE EVENTOS RELEVANTES
+EN REACTORES NUCLEARES DE POTENCIA
+
+A. OBJETIVO
+1. Establecer los criterios que deben seguirse para la comunicación de eventos relevantes.
+
+B. ALCANCE
+2. Esta norma es aplicable a reactores nucleares de potencia.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Evento Relevante: Evento anormal durante la operación considerado como significativo
+desde el punto de vista de la seguridad nuclear.
+
+D. CRITERIOS
+4. La Entidad Responsable debe informar a la Autoridad Regulatoria, tan pronto como sea posible, la ocurrencia de un evento relevante y, posteriormente, presentar un informe analítico, en
+el plazo y con la modalidad establecida en la licencia de operación.
+5. Se deben considerar como eventos relevantes aquellos que impliquen:
+a. Una disminución significativa del nivel de la seguridad de los sistemas relacionados
+con: el control de la reactividad, de la presión, del caudal o de la temperatura del circuito primario; los parámetros del sistema del moderador; los parámetros del sistema secundario.
+b. Una indisponibilidad verificada de sistemas de protección, de la instrumentación relacionada con la seguridad y de los suministros esenciales.
+c.
+
+Una degradación significativa de una de las barreras principales de seguridad (vainas
+de elementos combustibles, circuito primario de presión y sistema de confinamiento).
+
+d. Una exposición ocupacional o una descarga de efluentes radiactivos al ambiente, en
+exceso de los límites autorizados correspondientes.
+6. También se deben considerar eventos relevantes:
+a. Eventos internos o externos, de origen natural o resultantes de la acción humana, que
+concebiblemente puedan afectar directa o indirectamente la seguridad de la instalación.
+b. Todo otro evento considerado como relevante por el Comité Interno Asesor de Seguridad de la instalación.
+
+1/1
+
+NORMA AR 3.9.2. COMUNICACIÓN DE EVENTOS RELEVANTES EN REACTORES NUCLEARES DE POTENCIA
+
+7. El informe analítico de los eventos relevantes debe incluir una descripción del estado de la
+instalación antes del evento; una descripción del evento con la secuencia de acontecimientos;
+análisis de las fallas o secuencias de fallas de componentes o sistemas; las acciones de los
+operadores en relación con el evento, y las consecuencias del evento. Debe, además, hacer
+referencia a eventos similares o relacionados que hayan ocurrido en la instalación, y analizar
+las implicancias del evento para la seguridad, indicando si correspondiera las acciones correctivas.
+
+2/2
+
+

@@ -1,0 +1,155 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 3.3.2.
+
+REVISIÓN 2
+
+Sistemas de remoción
+de calor de reactores
+nucleares de potencia
+
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 03/02 (Boletín Oficial 5/3/02)
+
+República Argentina – 2002
+
+1/3
+
+NORMA AR 3.3.2.
+
+SISTEMAS DE REMOCIÓN DE CALOR
+DE REACTORES NUCLEARES DE POTENCIA
+
+A. OBJETIVO
+1. Establecer criterios de seguridad para el diseño de los sistemas de remoción de calor.
+
+B. ALCANCE
+2. Esta norma es aplicable al diseño de los sistemas de remoción de calor de reactores nucleares de potencia .
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la
+Autoridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados con la seguridad radiológica, establecidos por otras autoridades competentes.
+
+C. EXPLICACIÓN DE TÉRMINOS
+3. Calor Residual: Calor desarrollado posteriormente a la extinción del reactor, resultante de
+sumar el calor generado en el núcleo debido al decaimiento radiactivo, a las fisiones por neutrones retardados y a otros procesos de fisión, más el calor acumulado transitoriamente en
+estructuras, sistemas y componentes relacionados con el reactor y con los medios de transferencia de calor.
+4. Criterio de la Falla Única: Criterio para diseñar un sistema de manera tal que admita la
+ocurrencia de una falla única en cualquier subsistema o componente del mismo, sin que por
+ello deje de prestar la función que le compete.
+5. Extinción del Reactor: Proceso mediante el cual el núcleo del reactor es llevado al estado
+subcrítico, permaneciendo en este estado con un margen suficiente de reactividad negativa
+durante un intervalo de tiempo apropiado.
+6. Falla Única: Conjunto de fallas compuesto por una falla inicial y por todas las eventuales
+fallas en cascada consecuentes de la inicial, que pudieran acontecer.
+7. Funcionamiento Normal: Operación de una instalación Clase I dentro de los límites y condiciones operacionales especificados, incluidos el estado de parada, el funcionamiento en régimen, la parada, la puesta en marcha, el mantenimiento, las pruebas y, en el caso de
+reactores nucleares, la recarga de combustible.
+8. Incidente Operacional: Proceso operacional que produce una alteración del funcionamiento
+normal pero que, debido a la existencia de características de diseño apropiadas, no ocasiona
+daños significativos a los elementos de importancia para la seguridad ni conduce a situaciones
+accidentales.
+9. Sistema de Remoción de Calor: Sistema necesario para mantener la temperatura de una
+dada estructura, sistema, subsistema o componente de un reactor nuclear de potencia, dentro
+de valores inferiores al respectivo límite de seguridad prefijado.
+
+1/4
+
+NORMA AR 3.3.2. SISTEMAS DE REMOCIÓN DE CALOR DE REACTORES NUCLEARES DE POTENCIA
+
+10. Situación Accidental: Alteración grave de una situación operacional que puede conducir a
+consecuencias radiológicas significativas para las personas expuestas a radiación, si los correspondientes sistemas de seguridad no funcionan según se ha previsto en el diseño.
+11. Situación Operacional: Situación definida como funcionamiento normal o incidente operacional.
+12. Sumidero Final de Calor: La atmósfera o una masa de agua asociada a un reactor nuclear
+de potencia, capaz de absorber el calor residual correspondiente a estados operacionales o
+accidentales del reactor, sin que se observen en tales medios cambios apreciables de estado
+físico o aumentos sensibles de la temperatura media.
+
+D. CRITERIOS
+D1. Generales
+13. Para todas las situaciones operacionales y accidentales postuladas de un reactor nuclear
+de potencia, el diseño de los sistemas de remoción de calor debe prevenir -mediante una adecuada refrigeración- la eventual ocurrencia de daños por sobrecalentamiento en:
+a. Los elementos combustibles irradiados que se encuentren alojados: en el núcleo del
+reactor, en el sistema de recarga de combustible y en los sistemas de almacenamiento
+de estos elementos.
+b. Los sistemas de seguridad o relacionados con la seguridad.
+14. Los sistemas de remoción de calor deben diseñarse de manera que:
+a. Cumplan la función que les compete, con una confiabilidad adecuada.
+b. Tengan capacidad suficiente, con un adecuado margen, para soportar las solicitaciones
+físico - químicas producidas por cualquier situación operacional o accidental postulada.
+15. En todos los casos mencionados en el criterio N° 13 se deben identificar las diferentes fuentes de calor y las cantidades de calor a ser removidas de cada una de ellas; la identificación
+tendrá en cuenta, principalmente, los procesos de fisión, de decaimiento radiactivo y de moderación, las reacciones químicas, así como el calor almacenado en estructuras, sistemas y componentes relacionados con el reactor y con los medios de transferencia de calor.
+16. La evaluación de las cantidades de calor a ser removidas y de las variables relacionadas
+con la transferencia y transporte de calor debe basarse en información específica para el tipo
+de reactor nuclear considerado. La extrapolación o interpolación de datos será aceptable sólo si
+se cuenta con una adecuada justificación. Debe dejarse un margen apropiado para cubrir las
+incertidumbres de los datos.
+17. Se deben prever sistemas para monitorear, registrar y controlar las variables asociadas con
+la generación y remoción del calor que se produzca en situaciones operacionales, y en situaciones accidentales postuladas.
+18. Debe asegurarse la transferencia del calor residual al sumidero final de calor, en todas las
+condiciones previsibles externas o internas del reactor, de manera de cumplir las previsiones
+del criterio N° 13.
+19. Se deben tener en cuenta las interacciones físico-químicas que existan entre los sistemas
+de remoción de calor y sus respectivos sistemas interconectados.
+20. Se debe asegurar que cada sistema de remoción de calor cumpla con el criterio de la falla
+única.
+
+2/4
+
+NORMA AR 3.3.2. SISTEMAS DE REMOCIÓN DE CALOR DE REACTORES NUCLEARES DE POTENCIA
+
+21. Se deben prever medios para minimizar aquellas consecuencias de eventos iniciantes externos al recipiente del reactor, que pudieran propagarse por los sistemas de remoción de calor
+dañando a los elementos combustibles u otros componentes alojados en el núcleo del reactor,
+en el sistema de recarga de combustible o en los sistemas de almacenamiento de elementos
+combustibles irradiados.
+22. Si es posible postular una secuencia accidental que provoque la falla de algún sistema de
+remoción de calor tal que se invalide el criterio N° 13, se debe prever un sistema de remoción
+de calor adicional e independiente del afectado.
+23. Si el sobrecalentamiento de los elementos combustibles puede causar o estar asociado con
+la falla de la integridad del circuito primario (accidentes con pérdida de refrigerante) o con la
+falla de alguna otra barrera de seguridad, se debe prever que la probabilidad de ocurrencia de
+cada una de las secuencias accidentales asociadas a estas fallas y las consecuencias radiológicas correspondientes, cumplan con la Norma AR 3.1.3. "Criterios Radiológicos Relativos a
+Accidentes en Reactores Nucleares de Potencia". Para ello, y si fuera necesario, el diseño debe prever sistemas de seguridad adicionales.
+24. En el caso de reactores con refrigerante líquido, se debe asegurar un adecuado margen
+para los valores de las variables que influyen en el régimen de transferencia de calor durante el
+1
+funcionamiento normal, teniendo en cuenta el apartamiento de la ebullición nucleada (DNBR) .
+El valor mínimo de este margen debe justificarse en relación con la incertidumbre de los datos y
+de los métodos de cálculo usados, a satisfacción de la Autoridad Regulatoria.
+25. Se debe prever que los sistemas de remoción de calor puedan ser inspeccionados periódicamente a fin de verificar que en estos sistemas se mantiene dentro de lo previsto:
+a. La degradación de las propiedades estructurales de aquellos subsistemas y componentes expuestos a la radiación.
+b. La capacidad para remover calor en las condiciones especificadas por diseño.
+c.
+
+La estabilidad estructural de aquellos subsistemas y componentes que, a su vez, sean
+parte de la barrera de presión.
+
+D2. Sobre el Fluido Refrigerante
+26. Se deben prever las especificaciones técnicas del refrigerante permitidas para la operación
+del reactor nuclear, incluyendo la composición química y los valores límites del grado de impurezas y de la actividad. Los respectivos parámetros deben ser adecuadamente monitoreados,
+con indicación en la sala de control.
+27. Se debe prever que el refrigerante tenga una composición química y un grado de impurezas
+tales que su interacción con estructuras, sistemas y componentes importantes para la seguridad cuyo reemplazo no esté previsto en el mantenimiento normal del reactor, no limite la vida
+útil de los mismos. Se debe prever un adecuado monitoreo para la verificación de estas propiedades del refrigerante.
+28. Se debe prever una reserva apropiada de refrigerante, independiente del suministro normal,
+para la reposición inmediata de éste en caso de pérdida accidental.
+29. Se debe prever que las pérdidas de refrigerante durante el funcionamiento normal se mantengan tan bajas como resulte practicable, y que se puedan monitorear para verificar que se
+cumplen los límites especificados.
+30. Se debe prever que las estructuras, sistemas y componentes de seguridad o relacionados
+con la seguridad así como las personas que se encuentren en el reactor nuclear sean protegidas de efectos físico-químicos resultantes de eventuales pérdidas anormales de refrigerante. El
+1
+
+Sigla de la expresión en idioma inglés: “Departure from Nucleate Boiling Ratio”
+
+3/4
+
+NORMA AR 3.3.2. SISTEMAS DE REMOCIÓN DE CALOR DE REACTORES NUCLEARES DE POTENCIA
+
+diseño debe prever, también, que la gestión de estas pérdidas pueda efectuarse cumpliendo
+con los requisitos radiológicos pertinentes. La eficiencia de esta gestión debe poderse probar
+en cualquier momento.
+31. Se deben prever medios para extraer completamente el refrigerante primario y almacenarlo
+íntegramente, a fin de que en el reactor puedan llevarse a cabo tareas de mantenimiento o
+reparación, así como pruebas e inspecciones periódicas.
+
+4/4
+
+

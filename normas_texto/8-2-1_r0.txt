@@ -1,0 +1,412 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+AR 8.2.1.
+
+REVISIÓN 0
+
+Uso de fuentes
+selladas en
+braquiterapia
+
+Aprobada por Resolución ENREN Nº 60/95 (Boletín Oficial 8/6/95)
+El ENREN es el organismo antecesor de La AUTORIDAD REGULATORIA
+NUCLEAR, según Ley Nº 24.804 promulgada en 25 de abril de 1997.
+
+República Argentina – 2004
+
+1/3
+
+AUTORIDAD REGULATORIA NUCLEAR
+
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires
+ARGENTINA
+Teléfono (011) 6323-1356
+Fax (011) 6323-1771/1798
+http://www.arn.gov.ar
+
+NORMA AR 8.2.1.
+
+USO DE FUENTES SELLADAS EN BRAQUITERAPIA
+
+1. OBJETIVO
+1. Establecer los requisitos mínimos de seguridad radiológica aplicables a la utilización de fuentes
+radiactivas sólidas no dispersables, con fines terapéuticos en aplicaciones de braquiterapia intersticiales, superficiales e intracavitarias.
+
+2. ALCANCE
+2. Esta norma será aplicable a todas las actividades relacionadas con el uso de fuentes radiactivas
+sólidas no dispersables en braquiterapia.
+
+3. EXPLICACIÓN DE TÉRMINOS
+3. Aplicación Intersticial: técnica de braquiterapia en la que el material radiactivo se implanta en el
+tumor.
+4. Aplicación Intracavitaria: técnica de braquiterapia en la que el material radiactivo se coloca en
+cavidades naturales.
+5. Aplicación Superficial: técnica de braquiterapia para tratamiento de lesiones malignas dérmicas u oftálmicas.
+6. Blindaje: recinto, pantalla o elemento capaz de atenuar la intensidad de la radiación.
+7. Braquiterapia: técnica de tratamiento en la que el material radiactivo se coloca dentro, o muy
+próximo al volumen de tejido a tratar.
+8. Carga Diferida: técnica mediante la cual se ubican en el paciente los aplicadores o guías, previo a la
+colocación del material radiactivo, que permite efectuar la verificación de su correcto posicionamiento así como una rápida carga y descarga de la/s fuente/s.
+9. Contenedor Primario: recipiente blindado, ubicado dentro del depósito, que aloja el material
+radiactivo mientras permanece almacenado.
+10. Depósito: construcción blindada, ubicada en el local de almacenamiento, que aloja a los contenedores primarios.
+1
+
+11. Dosis equivalente ambiental, H*(d): Dosis equivalente en la esfera ICRU -a la profundidad dcuando se encuentra en un campo de radiación alineado y expandido, en el radio opuesto al sentido
+del campo alineado. Cuando la radiación es penetrante, se adopta d = 10 milímetros.
+12. Dosis equivalente individual, (Hp(d)): Dosis equivalente en tejido blando a una profundidad
+d, debajo de un punto especificado sobre el cuerpo, definida para el monitoreo individual y para
+radiaciones tanto penetrantes como poco penetrantes. Se adopta d = 10 milímetros, para radiación
+penetrante y d = 0,07 milímetros, para radiación poco penetrante.
+1
+
+International Commission on Radiation Units and Measurements. ICRU Report 39
+
+1/9
+
+NORMA AR 8.2.1. USO DE FUENTES SELLADAS EN BRAQUITERAPIA – REVISIÓN 0
+
+13. Entidad autorizada: persona física o jurídica autorizada por la autoridad de aplicación para la
+tenencia y/o el uso de fuentes radiactivas en braquiterapia.
+14. Equipo de carga diferida remota: equipo con el que se efectúan tratamientos por técnicas de
+carga a distancia.
+15. Exposición: evento en el cual una persona recibe una dosis de radiación ionizante.
+16. Fuente no dispersable: fuente radiactiva que por sus características constructivas puede considerarse no dispersable en las condiciones normales de uso.
+17. Límite de dosis aplicable: límite de dosis equivalente o límite de dosis efectiva para personal
+ocupacionalmente expuesto o para miembros individuales del público, según lo establecido por la
+autoridad de aplicación.
+18. Local de almacenamiento: local destinado al alojamiento, preparación, control y esterilización
+de fuentes radiactivas.
+19. Local de colocación: local donde se efectúa la colocación de las fuentes en el paciente.
+20. Local de tratamiento: local en el cual el paciente permanece durante su tratamiento con fuentes radiactivas.
+21. Mesa de preparados: plano de trabajo ubicado en el local de almacenamiento de diseño adecuado para la manipulación segura de material radiactivo.
+22. Monitoraje: conjunto de mediciones para la evaluación o control de la exposición a la radiación
+e interpretación de sus resultados.
+23. Personal ocupacionalmente expuesto: personal que presta servicios para la entidad autorizada y que está expuesto a las radiaciones ionizantes originadas en las actividades que se desarrollan por cuenta de la misma.
+24. Proyecto: diseño de una instalación nueva o adecuación de una existente destinada a un propósito que implique la manipulación de fuentes radiactivas. Comprende la planta física, el equipamiento y las condiciones de utilización.
+25. Responsable: persona física designada por la entidad autorizada para implementar la seguridad radiológica, el cumplimiento de la presente norma y todo otro requerimiento de la autoridad de
+aplicación.
+26. Situación anormal: apartamiento de las condiciones normales que puede producir una exposición injustificada.
+
+4. CRITERIOS
+27. Las dosis de radiación originadas en tareas de braquiterapia deberán ser tan bajas como sea
+razonablemente alcanzable y no superar los siguientes valores:
+a. 100 µSv/año en el caso de miembros del público.
+b. 6 mSv/año en el caso de personal ocupacionalmente expuesto que cumpla una jornada laboral de ocho horas o la parte proporcional de este valor cuando la jornada de labor sea
+menor.
+28. Deberá limitarse tanto como sea razonablemente posible la probabilidad de ocurrencia de situaciones anormales utilizando procedimientos y elementos de seguridad apropiados, que permitan
+además la detección temprana de tales situaciones.
+
+2/9
+
+NORMA AR 8.2.1. USO DE FUENTES SELLADAS EN BRAQUITERAPIA – REVISIÓN 0
+
+29. En caso de situaciones anormales, deberán llevarse a cabo las acciones correctivas necesarias
+de modo que las dosis que se generen sean tan bajas como sea razonablemente alcanzable mediante los procedimientos y los elementos apropiados.
+30. El personal ocupacionalmente expuesto como consecuencia de prácticas no relacionadas directamente con su actividad no deberá exceder los límites de dosis aplicables a miembros individuales del público.
+
+5. REQUISITOS PARA LA AUTORIZACIÓN
+5.1. Requisitos Generales
+31. La entidad solicitante deberá designar un responsable que satisfaga los requisitos que establezca la autoridad de aplicación y como mínimo:
+a. En el caso de entidades que posean material radiactivo en depósito: que sea un profesional
+médico autorizado de acuerdo con la Resolución de la CNEA N° 1790/76 o la normativa que
+la reemplace.
+b. En el caso de entidades que solo dispongan de salas de internación para ser utilizadas por
+terceros: que acredite una formación suficiente para el cumplimiento de sus funciones.
+32. La persona designada como responsable según lo establecido en el punto anterior deberá
+aceptar dicha responsabilidad por escrito.
+33. La entidad solicitante deberá disponer de locales de almacenamiento y de tratamiento que satisfagan lo establecido en la presente norma.
+34. La entidad solicitante deberá disponer de los elementos necesarios para cumplir en forma satisfactoria los requisitos del punto 6 (Operación) del presente documento.
+5.2. Local de Almacenamiento
+35. El local de almacenamiento deberá destinarse en forma exclusiva al alojamiento, preparación,
+control y/o esterilización de fuentes radiactivas.
+36. Las puertas del local de almacenamiento y del depósito deberán contar con elementos de seguridad que impidan su apertura por personas no autorizadas.
+37. La superficie de la mesa de preparados deberá ser lisa, continua e impermeable.
+38. A menos que la entidad solicitante demuestre que no es necesario, la mesa de preparados
+deberá contar con un blindaje que permita la visión y manipulación de las fuentes sin alterar la
+capacidad blindante del mismo.
+39. El proyecto deberá contemplar la manera en que se almacenarán las fuentes radiactivas dentro
+de sus respectivos contenedores primarios.
+40. Las fuentes radiactivas deberán identificarse de tal manera que puedan diferenciarse por actividad y/o nucleido.
+41. Los contenedores deberán tener adherida una placa que indique, para cada tipo de fuente:
+isótopo, actividad y cantidad.
+5.3. Locales de Tratamiento
+42. Cuando se incluya el uso de blindajes móviles, se deberán contemplar las condiciones de uso
+de tales elementos.
+
+3/9
+
+NORMA AR 8.2.1. USO DE FUENTES SELLADAS EN BRAQUITERAPIA – REVISIÓN 0
+
+43. Cuando se utilicen equipos de carga diferida remota, la instalación deberá disponer, independientemente de los dispositivos de seguridad con que cuente el equipo, de:
+a. Una alarma acústica y lumínica en el exterior del local de tratamiento que se active cuando
+la fuente no retorne al blindaje.
+b. Un sistema que active una señal lumínica en el exterior del local de tratamiento siempre
+que las fuentes se encuentren fuera de su blindaje.
+44. El local de tratamiento deberá contar con instalaciones sanitarias para uso exclusivo del paciente y de diseño adecuado para impedir el extravío de material radiactivo.
+
+6. OPERACIÓN
+6.1. Requerimientos Generales
+45. Ninguna entidad podrá adquirir, utilizar, vender, alquilar, ceder ni dar de baja fuentes radiactivas
+sin autorización previa de la autoridad de aplicación.
+46. El uso, control y mantenimiento de fuentes y equipos deberá realizarse teniendo en cuenta las
+recomendaciones del fabricante y/o de la autoridad de aplicación.
+47 La manipulación de fuentes deberá efectuarse utilizando pinzas u otros elementos adecuados para
+ese propósito.
+48. La colocación en el paciente de fuentes radiactivas deberá efectuarse por técnicas de carga
+diferida, siempre que sea posible.
+49. Cuando sea necesario efectuar la localización radiográfica o radioscópica del material radiactivo colocado en un paciente, se deberán utilizar procedimientos que contemplen la optimización del
+tiempo de localización y la distancia entre el paciente y el personal afectado a dicha tarea. Además,
+deberán seguirse los procedimientos de seguridad aplicables a un servicio de radiología convencional.
+50. Para la señalización de áreas en las que exista material radiactivo deberá aplicarse la norma
+IRAM 10005.
+6.2. Responsabilidades
+51. La Entidad Autorizada deberá:
+a. Asegurar que el responsable disponga de las facilidades y el apoyo necesarios para el
+cumplimiento de sus funciones.
+b. Efectuar una adecuada supervisión de las condiciones de seguridad radiológica en que se
+desarrollen las actividades de braquiterapia.
+c.
+
+Designar al responsable y asegurar que dicha función se mantenga cubierta.
+
+52. El Responsable deberá:
+a. Implementar las medidas necesarias para garantizar la seguridad radiológica de los pacientes, del personal ocupacionalmente expuesto y de los miembros del público.
+b. Asegurar que el personal afectado a las tareas con fuentes radiactivas sea instruido respecto de las medidas de seguridad que deban tomar en su trabajo.
+
+4/9
+
+NORMA AR 8.2.1. USO DE FUENTES SELLADAS EN BRAQUITERAPIA – REVISIÓN 0
+
+53. Los profesionales médicos autorizados deberán:
+a. Llevar a cabo los trabajos con fuentes radiactivas de acuerdo con las reglas del arte y
+cumpliendo como mínimo con los procedimientos establecidos por la entidad autorizada,
+con lo especificado en la presente norma y con los requerimientos de la autoridad de aplicación, teniendo en cuenta las recomendaciones del responsable.
+b. Asegurar que se cumplan los requerimientos de seguridad radiológica relacionados con los
+pacientes portadores de fuentes que se encuentren bajo su responsabilidad médica e intervenir inmediatamente en la solución de cualquier situación anormal que surja con los
+mismos.
+54. Las tareas relacionadas con el uso de fuentes radiactivas deberán ser efectuadas por personal
+específicamente entrenado.
+55. La manipulación de fuentes radiactivas solamente podrá ser efectuada por personal con permiso específico vigente otorgado por la autoridad de aplicación o bajo la supervisión del mismo.
+6.3. Monitoraje y Control Dosimétrico
+56. Deberán efectuarse las tareas de monitoraje que sean necesarias para:
+a. Evaluar la eficacia de los procedimientos y elementos destinados a la seguridad radiológica, y
+mejorarla si es necesario.
+b. Evitar que ocurran situaciones anormales.
+c.
+
+Determinar las acciones inmediatas que deban tomarse en situaciones anormales.
+
+57. Para cumplir con lo establecido en el punto 56. la entidad autorizada deberá disponer, como
+mínimo, de un instrumento para monitoraje de área de las siguientes características:
+a. Indicación en unidades de dosis equivalente ambiental
+b. Valores a fondo de escala desde 10 µSv/h (o menor) hasta 1 mSv/h (o mayor).
+c.
+
+Exactitud no menor de ± 30%.
+
+58. Monitoraje individual:
+a. Deberá monitorearse la dosis equivalente individual, de todo el personal, excepto el referido en el párrafo (30).
+b. La decisión de reclasificar a un trabajador al que se le efectúa monitoraje individual, para
+ubicarlo en la categoría indicada en el párrafo (30), deberá ser tomada por el responsable
+o con el asesoramiento del mismo.
+c.
+
+Los trabajadores que manipulen fuentes radiactivas deberán utilizar anillos dosimétricos.
+
+d. Los informes de dosis deberán tener una periodicidad no superior a un mes.
+e. La entidad autorizada deberá notificar a cada persona afectada a monitoraje individual su
+correspondiente informe dosimétrico mensual y la dosis acumulada en el año.
+f.
+
+La entidad autorizada deberá entregar una certificación de la dosis individual acumulada a
+toda persona sujeta a monitoraje individual cada vez que la misma lo requiera y cuando deje de prestar servicios para la entidad autorizada.
+
+6.4. Controles
+59. Deberá verificarse el estado de cada fuente como mínimo una vez por año y toda vez que la
+misma haya sido sometida a una solicitación mecánica no habitual o haya estado expuesta a la
+acción de agentes corrosivos.
+
+5/9
+
+NORMA AR 8.2.1. USO DE FUENTES SELLADAS EN BRAQUITERAPIA – REVISIÓN 0
+
+60. Deberá verificarse el correcto funcionamiento de los equipos de carga diferida remota y de los
+sistemas de seguridad asociados, de acuerdo con las recomendaciones del fabricante.
+61 Deberá verificarse periódicamente el funcionamiento de los sistemas de seguridad de los locales donde se trabaje con material radiactivo.
+62. El instrumental de medición indicado en el párrafo (57) deberá ser adecuadamente calibrado como
+mínimo:
+a. Una vez por año.
+b. Cada vez que el instrumento sea sometido a una reparación.
+c.
+
+Cuando existan motivos para suponer una alteración de su calibración.
+
+6.5. Local de Almacenamiento
+63. El local de almacenamiento y el depósito deberán permanecer bajo llave cuando no se efectúen tareas en los mismos.
+64. Sólo podrá ingresar y permanecer en el local de almacenamiento el personal autorizado. El
+tiempo de permanencia deberá ser el mínimo compatible con las tareas a realizar.
+65. Durante las tareas de cortado de alambres radiactivos y toda otra actividad como consecuencia
+de la cual pueda haber desprendimiento de material radiactivo deberán:
+a. Tomarse las medidas necesarias para evitar la contaminación de personas.
+b. Recolectarse y colocarse en contenedores adecuados los residuos radiactivos.
+c.
+
+Descontaminarse las superficies y/o herramientas que resulten contaminadas.
+
+d. Gestionar como residuo radiactivo, cuando corresponda, los elementos indicados en b) y c).
+6.6. Traslado de Fuentes o Pacientes con Fuentes
+66. El traslado de fuentes radiactivas deberá ser efectuado en contenedores adecuados a satisfacción de la autoridad de aplicación.
+67. El traslado de fuentes deberá ser realizado por personal entrenado, evitando en lo posible el
+paso y permanencia en locales ocupados por miembros del público cuando el traslado se efectúe
+dentro del mismo edificio.
+68. Durante el traslado del contenedor con las fuentes o del paciente, según sea el caso, deberá
+mantenerse a los mismos bajo la vigilancia constante del personal a cargo del traslado.
+69. Si las fuentes se ven involucradas en un accidente durante su transporte dentro del edificio, deberán
+seguirse los procedimientos de emergencia preparados al efecto.
+70. Para el transporte de fuentes por la vía pública se aplicará el "Reglamento para el transporte
+seguro de material radiactivo" (Norma AR 10.16.1.).
+6.7. Locales de Tratamiento
+71. El tratamiento de los pacientes deberá efectuarse exclusivamente en los locales que la entidad
+autorizada esté autorizada a emplear para este propósito.
+72. En cada local sólo podrán usarse los radionucleidos que la entidad autorizada haya sido autorizada a emplear en el mismo.
+
+6/9
+
+NORMA AR 8.2.1. USO DE FUENTES SELLADAS EN BRAQUITERAPIA – REVISIÓN 0
+
+73. Los pacientes portadores de fuentes deberán permanecer bajo el cuidado de personal debidamente instruido.
+74. No deberán permanecer en el mismo local de tratamiento en forma simultánea pacientes portadores y no portadores de material radiactivo, a menos que esta circunstancia haya sido contemplada en el diseño y el mismo haya sido autorizado en esas condiciones.
+75. Deberá efectuarse en forma rutinaria el monitoraje del local de tratamiento, de la ropa de cama
+y de todo otro elemento que pudiera contener material radiactivo desprendido del implante.
+76. Al finalizar cada tratamiento deberá verificarse que la cantidad de fuentes que se retiren del
+paciente coincida con la de fuentes colocadas.
+77. Mientras el paciente permanezca bajo tratamiento deberán fijarse las señalizaciones e instrucciones indicadas a continuación:
+a. En la parte exterior de la puerta de acceso:
+−
+
+Señalización
+
+−
+
+Régimen de visitas.
+
+−
+
+Condiciones de uso autorizado del local.
+
+b. En lugar visible dentro de la habitación: instrucciones para el personal dedicado a la
+atención del paciente. Estas instrucciones deberán, como mínimo, describir:
+−
+
+Tamaño y apariencia de las fuentes.
+
+−
+
+Manipulación, almacenamiento seguro y comunicación inmediata en caso de situaciones
+anormales o de emergencia.
+
+−
+
+Atención del paciente.
+
+−
+
+Control de visitas.
+
+−
+
+Notificación al responsable en caso de emergencia médica o muerte del paciente.
+
+c.
+
+Al pie de la cama: enumeración de las fuentes colocadas y esquema demostrativo.
+
+78. Un duplicado de la información indicada en el párrafo (77) punto c) deberá permanecer en la
+historia clínica del paciente.
+79. Los pacientes portadores de fuentes no deberán abandonar el local de tratamiento, salvo que
+razones médicas u otras de fuerza mayor así lo requieran.
+80. No se permitirán las visitas de menores de 18 años a los pacientes portadores de fuentes radiactivas.
+81. Deberá disponerse de un contenedor para casos de emergencia dentro del local de tratamiento.
+6.8. Implantes Radiactivos Permanentes
+82. Ningún paciente con fuentes radiactivas implantadas en forma permanente podrá retirarse del
+establecimiento a menos que:
+a. Se haya comprobado que las fuentes quedaron colocadas en forma segura.
+b. Los niveles de radiación emergentes del paciente no excedan lo razonable.
+83. Los pacientes que se retiren del establecimiento con implantes permanentes y/o sus familiares
+deberán ser instruidos por personal idóneo respecto de la forma de mantener las dosis tan bajas
+como sea razonablemente posible.
+
+7/9
+
+NORMA AR 8.2.1. USO DE FUENTES SELLADAS EN BRAQUITERAPIA – REVISIÓN 0
+
+6.9. Situaciones Anormales
+84. Deberán existir procedimientos de emergencia que describan las acciones a tomar en caso de:
+a. Extravío o robo de material radiactivo.
+b. Rotura o daño de fuentes radiactivas.
+c.
+
+Emergencia médica que involucre a pacientes portadores de fuentes.
+
+d. Eventos externos o catástrofes que afecten a los locales donde existen fuentes.
+e. Toda otra situación anormal que pueda llegar a ocurrir teniendo en cuenta las características particulares de cada instalación.
+85. Los procedimientos para situaciones anormales deberán estar escritos y ubicados en lugar
+visible dentro de las áreas donde tales situaciones puedan llegar a ocurrir. En el caso de equipos
+de carga diferida remota, los procedimientos deberán ubicarse junto a la consola de mando del
+equipo.
+86. Cuando un paciente portador de fuentes radiactivas deba pasar a condición de cuidado intensivo tendrá prioridad la atención del mismo, pero las fuentes deberán retirarse tan pronto como sea
+posible. Deberá instruirse sobre estos aspectos al personal que puede llegar a intervenir en tales
+situaciones.
+87. En el caso de muerte de un paciente con material radiactivo implantado, las fuentes deberán
+ser retiradas y trasladadas al depósito. Cuando se trate de implantes permanentes toda acción
+relativa al tratamiento del cuerpo deberá ser efectuada con el asesoramiento de personal idóneo
+en seguridad radiológica.
+88. En caso de catástrofe que requiera la evacuación inmediata del paciente y del personal, las
+acciones a tomar deberán seguir el siguiente orden:
+a. Atención de las víctimas.
+b. Segregación de los pacientes portadores de fuentes.
+c.
+
+Retiro de las fuentes, verificación de su cantidad y colocación dentro de un blindaje apropiado.
+
+89. La entidad autorizada deberá comunicar a la autoridad de aplicación en forma inmediata, por el
+medio más rápido, toda situación anormal que implique riesgo de irradiación de personal del servicio o ajeno al mismo.
+90. Toda situación anormal resuelta sin la intervención de la Autoridad Regulatoria deberá informarse a ésta dentro de las 24 h de producida.
+6.10. Documentación y Registros
+91. La entidad autorizada deberá poner a disposición de la autoridad de aplicación la documentación y registros que la misma determine, además de los indicados en los puntos siguientes.
+92. La entidad autorizada deberá conservar la siguiente documentación mientras tenga la posesión
+de los elementos a que se haga referencia a continuación:
+a. Certificado de fabricación, calibración y características de cada fuente.
+b. Manual de operación y mantenimiento de los equipos de carga diferida remota.
+c.
+
+Manual de operación y mantenimiento del instrumental de radioprotección.
+
+d. Registro de los controles y mantenimiento que se efectúen en cumplimiento de lo indicado
+en (46); (60); (61) y (62).
+
+8/9
+
+NORMA AR 8.2.1. USO DE FUENTES SELLADAS EN BRAQUITERAPIA – REVISIÓN 0
+
+93. Deberá implementarse un registro de material radiactivo, que contenga como mínimo:
+a. Inventario de fuentes radiactivas.
+b. Movimiento de fuentes y novedades operativas.
+c.
+
+Inventario del instrumental de protección radiológica.
+
+94. Se deberá consignar en cada caso toda la información necesaria para documentar, en medida
+suficiente, el movimiento de fuentes o modificaciones en el inventario.
+95. En el caso de instituciones que solamente tengan autorizadas salas de internación, deberá
+implementarse un registro en el se que detalle cada implante e internación efectuados, y los responsables de los mismos.
+96. Los informes de los monitorajes individuales deberán ser registrados y archivados por la entidad autorizada durante un período no menor de 30 años, a partir de la finalización de la prestación
+de servicios del personal involucrado. Los registros deberán incluir la fecha de incorporación y/o
+desafectación de cada persona al sistema de monitoraje individual.
+
+9/9
+
+
