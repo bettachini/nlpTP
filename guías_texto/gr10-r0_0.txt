@@ -1,0 +1,278 @@
+Programas de formación
+especializada y capacitación
+específica para el
+licenciamiento de personal
+de instalaciones radiactivas
+Clase I
+
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+República Argentina – 2004
+
+GUÍA AR 10
+
+REVISIÓN 0
+
+Aprobada por Resolución
+ARN Nº 3/04
+
+AUTORIDAD REGULATORIA NUCLEAR
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires, ARGENTINA
+Tel.: (011) 6323-1356
+Fax: (011) 6323-1771/1798
+http://www.arn.gov.ar
+
+GUÍA AR 10 – Revisión 0
+
+PROGRAMAS DE FORMACIÓN ESPECIALIZADA
+Y CAPACITACIÓN ESPECÍFICA PARA EL LICENCIAMIENTO
+DE PERSONAL DE INSTALACIONES RADIACTIVAS CLASE I
+
+PREFACIO
+La presente guía formula recomendaciones en relación con programas de examen para acreditar la formación especializada y la capacitación específica requeridas para la obtención de licencias individuales y autorizaciones específicas respectivamente del personal que
+desempeña funciones especificadas en instalaciones radiactivas clase l.
+Los contenidos de los programas sugeridos deben considerarse de carácter mínimo.
+La información presentada en esta guía no tiene carácter obligatorio y puede ser utilizada para
+facilitar el cumplimiento - en lo que a instalaciones radiactivas clase I se refiere - de la norma
+AR 0.11.1 “Licenciamiento de Personal de Instalaciones Clase I” (en sus distintas revisiones).
+
+RECOMENDACIONES
+CARACTERÍSTICAS DE LOS PROGRAMAS DE EXAMEN
+1. Los programas de formación especializada están divididos en dos niveles según la función
+genérica de que se trate:
+Nivel 1:
+Jefe de la Instalación
+Jefe de Operaciones
+Jefe de Radioprotección
+Nivel 2:
+Operador
+Oficial de Radioprotección
+Jefe de Mantenimiento
+2. Para asignar niveles a funciones genéricas de otras instalaciones que tengan una denominación distinta a las indicadas en el punto N°1, deben considerarse funciones de responsabilidad equivalente.
+3. Los programas de capacitación específica están divididos según la función especificada de
+que se trate.
+
+GUÍA AR 10. Programas de formación especializada y capacitación... - REVISIÓN 0
+
+1/8
+
+PROGRAMAS DE EXAMEN RECOMENDADOS (Contenidos mínimos)
+Formación Especializada - Nivel 1
+1. Estructura del átomo, dimensiones, características, número atómico, número de masa. Nucleidos, isótopos, isóbaros, isómeros. Equivalencia masa-energía. Energía de unión.
+2. Radiactividad: Desintegración nuclear y energía de desintegración; constante de desintegración; período de semidesintegración. Radiactividad natural: series de decaimiento.
+3. Emisión alfa, beta (positiva y negativa), neutrinos; captura electrónica, rayos x característicos; transición isomérica; emisión gamma; conversión interna; electrones Auger; tabla de nucleidos.
+4. Actividad, magnitudes y unidades, leyes de desintegración, actividad específica; esquemas
+de desintegración, curva de mezcla de nucleidos, relación madre-hija y la implicancia de diferentes períodos; ecuaciones de Bateman; radiactividad artificial.
+5. Conceptos generales; ionización, ionización específica, excitación, frenamiento.
+6. Interacción de la radiación directamente ionizante: interacción elástica e inelástica con núcleos y electrones; bremsstrahlung (frenamiento) y su dependencia con el número atómico; ley
+de Bragg.
+7. Interacción de la radiación electromagnética: efectos fotoeléctrico, Compton y de formación
+de pares; coeficiente de atenuación, hemiespesor, factor de build-up; radiación de aniquilamiento.
+8. Interacción de neutrones: reacciones nucleares, dispersión elástica e inelástica, atenuación
+de un haz de neutrones.
+9. Modelo de núcleo compuesto. Sección eficaz. Fisión. Energía liberada, rendimiento. Fusión.
+10. Detectores por ionización: detectores gaseosos; cámara de ionización; contador proporcional; tubo Geiger-Müller. Detectores semiconductores.
+11. Detectores por excitación: Detectores inmediatos: centelladores sólidos y líquidos; fotomultiplicadores. Detectores retardados: termoluminiscentes (TLD) y por emulsión fotográfica (film).
+12. Detectores de neutrones: gaseosos y sólidos por reacción (n;γ), (n;α) y por fisión.
+13. Objetivos de la protección radiológica. Evolución de los conceptos de protección radiológica. Conceptos de riesgo y detrimento. Criterios actuales de protección radiológica: justificación,
+optimización y limitación de la dosis individual. Radiodosimetría. Bases radiobiológicas. Magnitudes y unidades. Efectos de la radiación en el hombre. Efectos inmediatos. Efectos tardíos.
+Límites de dosis. Clasificación de áreas de trabajo. Contaminación interna (dosimetría, cálculos). Irradiación externa (dosimetría, cálculos). Conducta en caso de emergencia. Intervención.
+Protección radiológica del público. Criterios generales para la limitación de descarga de efluentes radiactivos al ambiente. Limitación de la dosis en el grupo crítico, identificación de las vías.
+14. Principios de criticidad. Modelo del núcleo compuesto. Sección eficaz. Fisión. Energía liberada por la fisión. Factores que afectan a la criticidad: homogeneidad, dilución, absorbentes,
+moderadores, geometría. Ejemplos de problemas de interacción. Consecuencias radiológicas y
+su mitigación ante un accidente de criticidad. Parámetros característicos de un accidente, características de una excursión crítica, riesgo asociado a un accidente de criticidad, detección de
+excursiones críticas y acciones a seguir.
+15. Seguridad convencional que puede afectar a la seguridad radiológica y nuclear. Concepto
+de accidente y lesión. Riesgo personal. Riesgo en las instalaciones. Elementos de protección
+personal. Seguridad de las instalaciones. Incendio y explosión. Accidentes con lesiones.
+
+2/8
+
+GUÍA AR 10. Programas de formación especializada y capacitación... - REVISIÓN 0
+
+16. Cálculo de blindaje para una fuente puntual gamma monoenergética. Fuentes multienergéticas. Dispersión y reenfoque. Factor de build-up. Radiación dispersa.
+17. Blindaje para fuentes beta. Radiación de frenamiento. Selección de materiales. Consideraciones sobre fuentes alfa.
+18. Elementos de manipulación a distancia. Telemanipuladores, visión indirecta. Ventanas y
+periscopios. Celdas calientes.
+19. Física de aerosoles. Aerosoles por fragmentación y por condensación. Velocidad de sedimentación. Filtros. Prueba de filtros.
+20. Sistemas de ventilación. Eliminación de fumantes y aerosoles. Ventilación de celdas calientes. Campanas para gases.
+21. Gestión de residuos radiactivos, criterios aplicables de protección radiológica. Alternativas
+de gestión y disposición final.
+22. Transporte seguro de material radiactivo. Reglamento, propósito y aplicación. Embalajes.
+Actividades límites.
+23. Cultura de la seguridad. Características: conciencia individual, conocimientos y competencia, compromiso, motivación, supervisión, responsabilidad. Elementos básicos en la actitud de
+un individuo (actitud crítica, enfoque riguroso, comunicación).
+Formación Especializada - Nivel 2
+1. Constitución de la materia: estructura del átomo, dimensiones, características, número atómico, número de masa. Nucleidos, isótopos, isóbaros, isómeros, Equivalencia masa-energía.
+Energía de unión.
+2. Elementos de radiactividad. Desintegración nuclear. Tipos de desintegración (alfa; beta positiva y negativa; gamma). Tabla de nucleidos. Ley de decaimiento exponencial. Constante de
+desintegración; período de semidesintegración y vida media.
+3. Actividad, magnitudes y unidades, actividad específica, transformaciones radiactivas sucesivas, equilibrio radiactivo. Series radiactivas naturales. Nucleidos artificiales.
+4. Interacción de la radiación con la materia, conceptos generales; ionización específica; excitación; frenamiento; sección eficaz; camino libre medio. Interacción de la radiación directamente ionizante. Interacción de la radiación electromagnética. Interacción de neutrones.
+5. Detección y medición de las radiaciones. Detectores gaseosos: cámara de ionización, contadores proporcionales, tubos Geiger-Müller. Detectores de centelleo, termoluminiscentes
+(TLD) y de emulsión fotográfica (film).
+6. Protección radiológica. Criterios: justificación, optimización y limitación de la dosis individual.
+Limitación de dosis en el grupo crítico. Magnitudes y unidades de aplicación en protección radiológica. Dosimetría. Efectos biológicos. Efectos inmediatos. Efectos tardíos. Límites de dosis.
+Clasificación de los lugares de trabajo, áreas controladas y supervisadas. Condiciones para el
+acceso y permanencia. Contaminación interna e irradiación externa. Protección personal. Conducta en caso de emergencia.
+7. Principios de criticidad. Modelo del núcleo compuesto. Sección eficaz. Fisión. Energía liberada por la fisión. Factores que afectan a la criticidad: homogeneidad, dilución, absorbentes,
+moderadores, geometría. Ejemplos de problemas de interacción. Consecuencias radiológicas y
+mitigación de un accidente de criticidad. Parámetros característicos de un accidente, características de una excursión crítica, riesgo asociado a un accidente de criticidad, detección de
+excursiones críticas y acciones a seguir.
+
+GUÍA AR 10. Programas de formación especializada y capacitación... - REVISIÓN 0
+
+3/8
+
+8. Seguridad convencional que puede afectar a la seguridad radiológica y nuclear. Concepto de
+accidente y lesión. Riesgo personal. Riesgo de las instalaciones. Elementos de protección personal. Protección de las instalaciones. Incendio y explosión. Accidentes con lesiones.
+9. Concepto y cálculos elementales de blindaje para fuentes gamma. Factor de multiplicación.
+Blindaje para radiación beta. Elección de materiales absorbentes.
+10. Telemanipuladores. Ventanas. Visión indirecta. Celdas calientes.
+11. Física de aerosoles. Tipos de aerosoles. Filtros. Sistemas de ventilación de celdas calientes. Campanas para gases.
+12. Gestión de residuos radiactivos, criterios aplicables de protección radiológica. Alternativas
+de gestión y disposición final.
+13. Transporte seguro de material radiactivo. Reglamento. Embalajes. Actividades límites.
+14. Cultura de la seguridad. Características: conciencia individual, conocimientos y competencia, compromiso, motivación, supervisión, responsabilidad. Elementos básicos en la actitud de
+un individuo (actitud crítica, enfoque riguroso, comunicación).
+Capacitación Específica - Jefe de la Instalación
+1. Misiones y funciones correspondientes a su función especificada.
+2. Distribución de la instalación (layout); zonificación; recorrido del material radiactivo durante
+los procesos en la instalación.
+3. Procesos y secuencia de las operaciones. Riesgo involucrado en el trabajo.
+4. Características particulares del blindaje de las instalaciones.
+5. Conocimiento de los límites de descarga establecidos para los efluentes generados en los
+distintos procesos. Sistemas de monitoreo de efluentes.
+6. Parámetros fundamentales para el control de la criticidad. Seguridad por diseño, controles
+administrativos.
+7. Características de los sistemas de extracción e inyección de aire y de las barreras de retención, de los sistemas de alimentación eléctrica y de los componentes mecánicos instalados.
+8. Fundamentos del mantenimiento preventivo y correctivo. Programa rutinario de mantenimiento. Frecuencia y tipo de controles periódicos.
+9. Monitoreo de área e individual. Características y ubicación de los distintos monitores. Equipos de protección radiológica.
+10. Procedimientos para el manejo de los residuos radiactivos generados en la operación de la
+instalación.
+11. Alarmas. Clasificación y reconocimiento de las mismas, acciones a tomar.
+12. Identificación de las situaciones anormales que podrían ocasionar una liberación de material radiactivo, contramedidas a adoptar; previsiones de diseño u operación.
+13. Conocimiento y capacidad para la instrucción del personal sobre los procedimientos de
+operación y de protección radiológica a aplicar.
+
+4/8
+
+GUÍA AR 10. Programas de formación especializada y capacitación... - REVISIÓN 0
+
+14. Documentación mandatoria: licencia de operación, informe de seguridad, código de prácticas, manual de operación, manual de mantenimiento, plan de monitoraje, plan de emergencia.
+Normas regulatorias de protección radiológica y seguridad, salvaguardias y protección física
+aplicables a la instalación.
+Capacitación Específica - Jefe de Operaciones
+1. Misiones y funciones correspondientes a su función especificada.
+2. Distribución de la instalación (layout); zonificación; recorrido del material radiactivo durante
+los procesos de la instalación.
+3. Procesos y secuencia de las operaciones. Riesgo involucrado en el trabajo.
+4. Características particulares del blindaje de las instalaciones.
+5. Límites de descarga establecidos para los efluentes generados en los distintos procesos.
+Sistemas de monitoreo de efluentes.
+6. Parámetros fundamentales para el control de la criticidad. Seguridad por diseño, controles
+administrativos.
+7. Características de los sistemas de extracción e inyección de aire y de las barreras de retención, de los sistemas de alimentación eléctrica y de los componentes mecánicos instalados.
+8. Programa rutinario de mantenimiento preventivo. Frecuencia y tipo de controles periódicos.
+9. Monitoreo de área e individual. Características y ubicación de los distintos monitores. Equipos de protección radiológica.
+10. Procedimientos para el manejo de los residuos radiactivos generados en la operación de la
+instalación.
+11. Alarmas. Clasificación y reconocimiento de las mismas, acciones a tomar.
+12. Identificación de las situaciones anormales que podrían ocasionar una liberación de material radiactivo, contramedidas a adoptar; previsiones de diseño u operación.
+13. Conocimiento y capacidad para la instrucción del personal sobre los procedimientos de
+operación a aplicar.
+14. Documentación mandatoria: licencia de operación, informe de seguridad, código de prácticas, manual de operación, manual de mantenimiento, plan de emergencia. Normas regulatorias
+de protección radiológica y seguridad, salvaguardias y protección física aplicables a la instalación.
+Capacitación Específica - Jefe de Mantenimiento
+1. Misiones y funciones correspondientes a su función especificada.
+2. Distribución de la instalación (layout); zonificación; recorrido del material radiactivo durante
+los procesos en la instalación.
+3. Características de los sistemas de extracción e inyección de aire y de las barreras de retención, de los sistemas de alimentación eléctrica y de los componentes mecánicos instalados.
+
+GUÍA AR 10. Programas de formación especializada y capacitación... - REVISIÓN 0
+
+5/8
+
+4. Fundamento del mantenimiento preventivo y correctivo. Programa rutinario de mantenimiento y de los requerimientos de protección radiológica para efectuarlo. Frecuencia y tipo de controles periódicos.
+5. Alarmas. Clasificación y reconocimiento de las mismas, acciones a tomar.
+6. Identificación de las situaciones anormales que podrían ocasionar una liberación de material
+radiactivo, contramedidas a adoptar; previsiones de diseño u operación.
+7. Documentación mandatoria: licencia de operación, código de prácticas, manual de mantenimiento, plan de emergencia. Normas regulatorias de protección radiológica y seguridad, salvaguardias y protección física aplicables a la instalación.
+
+Capacitación Específica - Jefe de Radioprotección
+1. Misiones y funciones correspondientes a su función especificada.
+2. Distribución de la instalación (layout); zonificación; recorrido del material radiactivo durante
+los procesos en la instalación.
+3. Procesos y secuencia de las operaciones. Riesgo involucrado en el trabajo.
+4. Características particulares del blindaje de las instalaciones.
+5. Límites de descarga establecidos para los efluentes generados en los distintos procesos.
+Sistemas de monitoreo de efluentes.
+6. Parámetros fundamentales para el control de la criticidad. Seguridad por diseño, controles
+administrativos.
+7. Características de los sistemas de extracción e inyección de aire y de las barreras de retención, de los sistemas de alimentación eléctrica y de los componentes mecánicos instalados.
+Programa rutinario de mantenimiento preventivo. Frecuencia y tipo de controles periódicos.
+8. Monitoreo de área e individual. Características y ubicación de los distintos monitores. Interpretación de los resultados. Equipos de protección radiológica.
+9. Detalle de los procedimientos para el manejo de los residuos radiactivos generados en la
+operación de la instalación.
+10. Alarmas. Clasificación y reconocimiento de las mismas y acciones a tomar.
+11. Identificación de las situaciones anormales que podrían ocasionar una liberación de material radiactivo, contramedidas a adoptar; previsiones de diseño u operación.
+12. Conocimiento y capacidad para la instrucción del personal sobre los procedimientos de
+protección radiológica a aplicar.
+13. Operaciones de descontaminación de superficies y personas.
+14. Documentación mandatoria: licencia de operación, informe de seguridad, código de prácticas, plan de monitoraje y plan de emergencia. Normas regulatorias de protección radiológica y
+seguridad, salvaguardias y protección física aplicables a la instalación.
+
+6/8
+
+GUÍA AR 10. Programas de formación especializada y capacitación... - REVISIÓN 0
+
+Capacitación Específica - Operador
+1. Misiones y funciones correspondientes a su función especificada.
+2. Distribución de la instalación (layout); zonificación; recorrido del material radiactivo durante
+los procesos en la instalación.
+3. Procesos y secuencia de las operaciones. Riesgo involucrado en el trabajo y requerimientos
+de protección radiológica para desarrollar sus tareas.
+4. Características particulares del blindaje de las instalaciones.
+5. Límites de descarga establecidos para los efluentes generados en los distintos procesos.
+6. Parámetros fundamentales para el control de la criticidad. Seguridad por diseño, controles
+administrativos.
+7. Características de los sistemas de extracción e inyección de aire y de las barreras de retención, de los sistemas de alimentación eléctrica y de los componentes mecánicos instalados.
+8. Alarmas. Clasificación y reconocimiento de las mismas, acciones a tomar.
+9. Identificación de las situaciones anormales que podrían ocasionar una liberación de material
+radiactivo, contramedidas a adoptar; previsiones de diseño u operación.
+10. Documentación mandatoria: licencia de operación, código de prácticas, manual de operación, plan de emergencia. Normas regulatorias de protección radiológica y seguridad, salvaguardias y protección física aplicables a la instalación.
+Capacitación Específica - Oficial de Radioprotección
+1. Misiones y funciones correspondientes a su función especificada.
+2. Distribución de la instalación (layout); zonificación; recorrido del material radiactivo durante
+los procesos en la instalación.
+3. Procesos y secuencia de las operaciones. Riesgo involucrado en el trabajo.
+4. Características particulares del blindaje de las instalaciones.
+5. Límites de descarga establecidos para los efluentes generados en los distintos procesos.
+Sistemas de monitoreo de efluentes.
+6. Parámetros fundamentales para el control de la criticidad. Seguridad por diseño, controles
+administrativos.
+7. Características de los sistemas de extracción e inyección de aire y de las barreras de retención, de los sistemas de alimentación eléctrica y de los componentes mecánicos instalados.
+8. Programa rutinario de mantenimiento preventivo. Frecuencia y tipo de controles periódicos.
+9. Monitoreo de área e individual. Características y ubicación de los distintos monitores. Interpretación de los resultados. Equipos de protección radiológica.
+10. Procedimientos para el manejo de los residuos radiactivos generados en la operación de la
+instalación.
+11. Alarmas. Clasificación y reconocimiento de las mismas, acciones a tomar.
+
+GUÍA AR 10. Programas de formación especializada y capacitación... - REVISIÓN 0
+
+7/8
+
+12. Identificación de las situaciones anormales que podrían ocasionar una liberación de material radiactivo al ambiente, contramedidas a adoptar; previsiones de diseño u operación.
+13. Conocimiento para la instrucción del personal sobre los procedimientos de protección radiológica a aplicar.
+14. Operaciones de descontaminación de superficies y personas.
+15. Documentación mandatoria: licencia de operación, código de prácticas, plan de monitoraje,
+plan de emergencia. Normas regulatorias de protección radiológica y seguridad, salvaguardias
+y protección física aplicables a la instalación.
+
+8/8
+
+GUÍA AR 10. Programas de formación especializada y capacitación... - REVISIÓN 0
+
+

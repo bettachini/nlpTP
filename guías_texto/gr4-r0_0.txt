@@ -1,0 +1,640 @@
+GUÍA AR 4
+
+REVISIÓN 0
+
+Diseño de reactores
+nucleares de investigación
+
+Aprobada por Resolución
+ARN Nº 21/02
+
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+República Argentina – 2003
+
+GUÍA AR 4. DISEÑO DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 0
+
+1/10
+
+AUTORIDAD REGULATORIA NUCLEAR
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires, ARGENTINA
+Tel.: (011) 6323-1356
+Fax: (011) 6323-1771/1798
+http://www.arn.gov.ar
+
+GUÍA AR 4. DISEÑO DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 0
+
+1/10
+
+GUÍA AR 4 – REVISIÓN 0
+
+DISEÑO DE REACTORES NUCLEARES DE INVESTIGACIÓN
+
+A. GLOSARIO
+1. Barras de Control: Absorbentes neutrónicos, accionados mecánica o hidráulicamente, destinados a introducir variaciones de reactividad en el reactor de investigación. Las barras de
+control se dividen en barras de seguridad y barras de regulación.
+2. Barras de Seguridad: Barras de control que, ante una señal de actuación al correspondiente sistema de extinción, se introducen totalmente en el núcleo del reactor. Las barras de seguridad se clasifican en:
+-
+
+Barras de Seguridad Compensadoras: Barras de seguridad, que se utilizan para
+compensar el exceso de reactividad cuando el reactor está en operación.
+
+-
+
+Barras de Seguridad no Compensadoras: Barras de seguridad que permanecen totalmente extraídas cuando el reactor está en operación.
+
+3. Barras de Regulación: Barras de control que compensan pequeñas variaciones de reactividad y no se insertan ante una señal de actuación al correspondiente sistema de extinción.
+4.- Canal de Activación: Sistema compuesto por dos o más detectores de una variable física,
+y otros dispositivos electrónicos, eléctricos y mecánicos que, ante demanda, pueden generar
+una señal para iniciar la ejecución de una función de seguridad.
+5. Combustible: Compuestos o elementos químicos, que contienen materiales físiles, fisionables o fértiles, utilizados en un reactor de investigación con el fin de producir fisiones.
+6. Confinamiento: Barrera que rodea las principales partes de un reactor, diseñada para controlar la emisión de efluentes radiactivos al ambiente en situaciones operacionales y para limitar
+la emisión de los mismos en caso de eventuales accidentes.
+7. Criterio de la Falla Única: Criterio para diseñar un sistema de manera tal que admita la
+ocurrencia de una falla única en cualquier subsistema o componente del mismo, sin que por
+ello el sistema deje de prestar la función que le compete.
+8. Dispositivo Experimental: Dispositivo instalado en el reactor, o en torno a él, para utilizar
+los neutrones u otras radiaciones ionizantes generadas en el reactor, con fines de investigación, desarrollo, u otros. Incluye los componentes estructurales, las fronteras de encapsulado o
+confinamiento y los fluidos o sólidos contenidos.
+9. Diversidad: Provisión de diferentes medios para lograr el mismo objetivo.
+10. Edificio del Reactor: Comprende las estructuras, los sistemas de ventilación, las penetraciones del confinamiento y cualquier otro dispositivo que sea importante para su función de
+confinamiento.
+11. Efluente Radiactivo: Cualquier material radiactivo líquido, gaseoso o en forma de aerosol
+procedente de una instalación, que la Entidad Responsable somete a control antes de su descarga al ambiente, de manera que la actividad descargada resulte compatible con los límites
+establecidos por la Autoridad Regulatoria.
+12. Elemento Combustible: Componente del núcleo del reactor que consta, fundamentalmente, del combustible y de sus materiales de encapsulamiento (vaina).
+
+GUÍA AR 4. DISEÑO DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 0
+
+1/10
+
+13. Elemento de Control: Medio utilizado para controlar la reactividad del reactor de manera
+prevista. En caso de utilizarse barras de control, su conjunto constituye el elemento de control.
+14. Elementos de Importancia para la Seguridad: Son los elementos que comprenden:
+a. Las estructuras, sistemas o componentes cuya falla puede ocasionar una irradiación
+indebida del personal involucrado o del grupo crítico.
+b. Las estructuras, sistemas y componentes que evitan que los incidentes operacionales
+lleguen a producir eventuales accidentes.
+15. Emplazamiento: Zona de perímetro delimitado en la que se encuentra el reactor y que se
+halla bajo el control efectivo de la Entidad Responsable.
+16. Eventos Iniciantes Postulados: Eventos determinados que originan fallas o secuencias
+de fallas que puedan concluir en un accidente en una instalación nuclear. Los eventos iniciantes postulados pueden ser fallas de equipos, componentes o estructuras del reactor, errores
+humanos, eventos naturales, o eventos externos imputables al hombre.
+17. Experimento: El término se aplica a los siguientes casos:
+a. Una actividad que utiliza los neutrones u otras radiaciones generados en el reactor.
+b. Una evaluación o ensayo de una técnica operacional, o una actividad de vigilancia en
+el reactor.
+c.
+
+Una actividad experimental o de ensayo que se realiza dentro del confinamiento del reactor.
+
+18. Experimento Fijo en Operación: Todo experimento en el que se utiliza un dispositivo experimental (o componente de un dispositivo experimental) que se mantiene, por medios mecánicos, en posición estacionaria con relación al núcleo del reactor, y que no afecta a las variables de proceso cuando el reactor está en operación.
+19. Experimento Removible en Operación: Todo experimento en el que se utiliza un dispositivo experimental (o componente de un dispositivo experimental) que se mantiene estacionario
+respecto del núcleo del reactor, salvo durante las maniobras de carga o descarga, las que podrán realizarse con el reactor en operación. Se incluye en esta definición el caso de un experimento en el que el tiempo de irradiación sea tan corto que las etapas de carga, irradiación y
+descarga puedan considerarse como una única operación (por ejemplo algunos sistemas neumáticos).
+20. Extinción del Reactor de Investigación: Proceso mediante el cual el núcleo del reactor es
+llevado a un estado subcrítico, permaneciendo en este estado con un margen suficiente de
+antirreactividad por tiempo ilimitado.
+21. Factor de Seguridad Asociado a las Barras de Seguridad: Es la relación entre el valor
+en reactividad de todas las barras de seguridad y el exceso de reactividad del reactor de investigación. Su expresión matemática es:
+
+FSR =
+
+∆ρ
+
+todas las barras de seguridad
+
+∆ρ
+
+exc. react. inv.
+
+22. Funcionamiento Normal: Operación de una instalación Clase I dentro de los límites y condiciones operacionales especificados, incluidos el estado de parada, el funcionamiento en régimen, la parada, la puesta en marcha, el mantenimiento, las pruebas y, en el caso de reactores nucleares, la recarga de combustible.
+23. Incidente Operacional: Proceso operacional que produce una alteración del funcionamiento normal pero que, debido a la existencia de características de diseño apropiadas, no ocasiona
+daños significativos a los elementos de importancia para la seguridad ni conduce a situaciones
+accidentales.
+
+2/10
+
+GUÍA AR 4. DISEÑO DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 0
+
+24. Límites de Seguridad para un Reactor de Investigación: Valor máximo o mínimo que
+puede tomar una variable de proceso, sin afectar la seguridad del reactor.
+25. LOCA: Acrónimo que significa: Accidente con pérdida de refrigerante del sistema primario.
+26. Mantenimiento: Actividad organizada de carácter administrativo y técnico consistente en
+conservar las estructuras, sistemas y componentes del reactor, en buenas condiciones de funcionamiento, incluyendo los aspectos preventivo y correctivo (o de reparación).
+27. Margen de Antirreactividad: Reactividad (con signo cambiado) correspondiente al estado
+subcrítico del reactor, con el elemento de control actuado, que expresa la capacidad del elemento de control para extinguir al reactor de investigación. Su expresión matemática es:
+∆ρ margen antirreact. = - ρ elemento de contr. actuado=∆ρ elem. cont. - ∆ρ exc.react.inv.
+28. Máximo Exceso de Reactividad: Exceso de reactividad que tendría el reactor con los experimentos removibles en operación y las demás variables que afectan la reactividad en la condición más reactiva posible. El máximo exceso de reactividad se lo representa por ( ρ exceso).
+29. Mínimo Margen de Antirreactividad: Valor límite (mínimo) del margen de antirreactividad
+considerando todas las variables que afectan a la reactividad (dispositivos experimentales removibles en operación, temperatura de los materiales del núcleo, quemado del combustible,
+concentración de productos de fisión, etc.) en la condición más reactiva.
+30. Monitoreo: Conjunto de mediciones e interpretación de los resultados, que se realiza para
+evaluar la exposición a la radiación.
+31. Núcleo: Conjunto de elementos combustibles, moderador, reflector, elementos de control,
+apoyos y componentes estructurales. Incluye, además, la instrumentación asociada, el refrigerante primario, los dispositivos reguladores del caudal ubicados dentro del reactor y los dispositivos experimentales.
+32. Parada Segura de un Reactor de Investigación: Estado en el cual el reactor se mantiene
+extinguido y adecuadamente refrigerado, durante un tiempo ilimitado.
+33. Personal Involucrado: Plantel del reactor nuclear integrado por el personal de operación
+de esta instalación y por el personal que utiliza al reactor con fines de experimentación.
+34. Programa de Calidad: Programa donde se definen la política de calidad, los objetivos, la
+planificación, la organización, las responsabilidades, los procesos y aquellas actividades que
+requieren procedimientos escritos.
+35. Reactividad (ρ
+ρ): Valor de la expresión (Kef - 1)/Kef. En esta norma se expresa en pcm (partes por cien mil).
+36. Reactividad del Elemento de Control (∆ρ
+∆ρ elem. cont): Valor en reactividad entre los estados
+del reactor de investigación sin y con el elemento de control actuado.
+37. Reactor en Operación: Reactor en estado crítico o cercano a crítico con las pequeñas
+variaciones (supercrítico o subcrítico) necesarias para modificar la potencia dentro del rango
+permitido para cada modo de operación.
+38. Reactor de Investigación: Instalación empleada para la generación y utilización de neutrones y otras radiaciones ionizantes, con fines de investigación, desarrollo, irradiación de materiales o irradiación de seres vivos con fines terapéuticos.
+39. Redundancia: Provisión de dos o más sistemas –idénticos o diversos- independientes
+entre sí, cada uno de los cuales puede llevar a cabo una misma función.
+
+GUÍA AR 4. DISEÑO DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 0
+
+3/10
+
+40. Seguridad: Logro de las condiciones de funcionamiento normal, garantía de una adecuada
+prevención de accidentes o mitigación de las eventuales consecuencias asociadas a los mismos y cuyo resultado sea la protección del personal involucrado, del grupo crítico y del ambiente respecto a riesgos radiológicos indebidos.
+41. Señal de Actuación: Señal proveniente del sistema de protección que produce la actuación de un sistema de seguridad.
+42. Sistema de Calidad: Conjunto de actividades planificadas y desarrolladas para asegurar el
+nivel de calidad de una instalación o práctica.
+43. Sistema de Extinción: Sistema que provoca la extinción del reactor. El sistema incluye
+cada uno de los componentes necesarios para cumplir su función, desde el sensor de la señal
+de disparo del mecanismo activador hasta el material absorbente de neutrones.
+44. Sistema de Protección de un Reactor de Investigación: Parte de un sistema de seguridad cuyo objeto es generar una señal que inicie la ejecución de una función de seguridad de un
+reactor, ya sea por monitoreo automático y simultáneo de diversas variables de proceso del
+reactor o por acción voluntaria de un operador. Para esto, un sistema de protección esta formado por un conjunto de canales de activación y por dispositivos de accionamiento manual.
+45. Sistema de Seguridad de un Reactor de Investigación: Sistema para lograr, en cualquier
+circunstancia, la parada segura o extinción del reactor de investigación o para limitar las consecuencias de situaciones operacionales y accidentales previsibles.
+46. Situación Operacional: Situación definida como funcionamiento normal o incidente operacional.
+47. Tasa Relativa de Potencia: Magnitud definida por la siguiente expresión:
+ψp[%] =
+
+100 x
+
+1 dP
+P dt
+
+48. Umbrales de Disparo: Valores escogidos de las variables del proceso para la actuación
+del sistema de protección.
+49. Velocidad Crítica del Refrigerante: Velocidad a partir de la cual, en reactores con elementos combustibles tipo placa, se produce una diferencia de presión entre canales vecinos capaz
+de producir deformaciones en las placas combustibles.
+
+B. CONSIDERACIONES GENERALES
+B1. Relativas a la Seguridad
+50. El objetivo general de seguridad a tener en cuenta en el diseño de un reactor, es el de proteger a las personas y al ambiente, creando y manteniendo una defensa eficaz que permita
+minimizar los riesgos radiológicos. En particular:
+a. Garantizar que la operación y la realización de experimentos esté justificada de conformidad con consideraciones de protección radiológica.
+b. Garantizar que, durante las situaciones operacionales, la exposición a las radiaciones
+ionizantes del personal involucrado y del grupo crítico se mantenga por debajo de los
+límites prescritos por las normas vigentes y se reduzca al valor más bajo que pueda razonablemente alcanzarse.
+c.
+
+4/10
+
+Evitar, en lo posible, los accidentes asegurando que, para todas las secuencias de
+eventos iniciantes seleccionados entre los postulados en el listado adjunto, se cumpla
+
+GUÍA AR 4. DISEÑO DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 0
+
+con los criterios establecidos en la Norma AR 4.1.3. “Criterios Radiológicos Relativos a
+Accidentes en Reactores de Investigación – Rev 2”.
+d. Garantizar la mitigación de las exposiciones a la radiación causadas por eventuales
+accidentes postulados.
+51. El diseño debería incorporar características de defensa en profundidad de modo que se
+establezcan múltiples niveles de protección que incluyan barreras sucesivas contra la liberación
+de materiales radiactivos. En este sentido deberían tenerse en cuenta:
+a. La utilización de márgenes de seguridad adecuados, la ejecución de un programa de
+garantía de calidad y el establecimiento de una cultura de la seguridad.
+b. La utilización de sucesivas barreras físicas para la protección contra la liberación de
+materiales radiactivos.
+c.
+
+La protección de las barreras físicas contra su rotura.
+
+d. La disposición de medios para garantizar al máximo las funciones básicas de seguridad
+a fin de:
+• Evitar las desviaciones del funcionamiento normal.
+• Limitar la emisión de efluentes radiactivos al ambiente en cualquier situación
+operacional.
+• Evitar que incidentes operacionales pudieran conducir a situaciones accidentales.
+• Llevar al reactor a la situación de parada segura durante todas las situaciones
+operacionales o accidentales previsibles.
+• Mitigar las condiciones y consecuencias radiológicas de eventuales accidentes.
+52. El diseño debería incluir características específicas para permitir la evacuación segura del
+personal en caso de emergencia; por ejemplo, salidas de emergencia con iluminación propia o
+medios autónomos de comunicación e instrumentación de vigilancia radiológica.
+53. En los diseños que utilizan fuente neutrónica, se debería tener en cuenta los requisitos
+específicos del blindaje y el posicionamiento de la fuente.
+54. Se debería diseñar al reactor de forma tal que la falla de un sistema importante para la seguridad no afecte a la seguridad del reactor. Por ejemplo: una falla en el sistema de purificación, no debería causar la degradación de la calidad del agua del sistema de refrigeración primario ni provocar la disminución del nivel de la piscina del reactor.
+55. En caso que la falla de un sistema importante para la seguridad provoque la emisión de
+efluentes radiactivos al ambiente, debería considerarse a éste sistema como parte del sistema
+de confinamiento.
+B2. Relativas al Diseño Neutrónico y Termohidráulico del Núcleo
+56. El núcleo del reactor debería diseñarse de modo que, en cualquier situación operacional, se
+mantengan las variables de proceso relacionadas con el combustible dentro del rango indicado
+por los límites de seguridad.
+57. El núcleo del reactor debería diseñarse de modo que, en eventuales accidentes postulados,
+se mantengan la integridad del combustible, la de las instalaciones experimentales y la de los
+componentes de los sistemas de seguridad.
+58. De ser aplicable, el diseño debería garantizar que la velocidad máxima del refrigerante a
+través de los canales combustibles, sea inferior a la velocidad crítica del refrigerante.
+59. En cualquier situación operacional, el diseño del reactor debería garantizar que se cumpla
+que:
+a. La tasa media de inserción de reactividad positiva, asociada a la operación de cualquier elemento de control, sea inferior a 20 pcm/s.
+
+GUÍA AR 4. DISEÑO DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 0
+
+5/10
+
+b. Durante la etapa de arranque del reactor, la tasa relativa de potencia sea menor al
+2,5%.
+c.
+
+Durante la etapa de marcha del reactor, los cambios de potencia se realicen con una
+tasa relativa de potencia menor al 5%.
+
+60. Todos los componentes del sistema de protección deberían poder ser ensayados funcionalmente.
+61. El tiempo máximo de actuación de cualquier canal de activación del sistema de protección,
+excluyendo al sensor debería ser menor a 60 ms.
+62. El reactor debería contar, al menos, con un sistema de extinción rápido capaz de extinguir
+al reactor con un margen de antirreactividad adecuado. El tiempo de actuación de este sistema,
+para llegar a un margen de antirreactividad de 2000 pcm, debería ser inferior a 500 ms.
+63. Los umbrales de disparo deberían establecerse con márgenes adecuados respecto a los
+límites de seguridad, para evitar que se alcance un límite de seguridad. En el establecimiento
+de dichos márgenes deberían tenerse en cuenta, por lo menos, los siguientes factores:
+a. Inexactitud de la instrumentación.
+b. Errores de calibración.
+c.
+
+Deriva de los instrumentos.
+
+d. Tiempo de respuesta de los canales de activación.
+64. El diseño del sistema de protección debería hacer uso de un grado de redundancia tal que,
+si fuera físicamente posible, la ocurrencia de cada evento iniciante postulado, seleccionado
+entre los que figuran en el listado adjunto, pueda detectarse por dos o más canales de activación diferentes.
+65. En el caso que el sistema de extinción rápido esté constituido por materiales absorbentes
+de neutrones, deberían cumplirse las siguientes condiciones:
+a. Tener un FSR > 1.5, aún en la condición de máximo exceso de reactividad.
+b. Existir disparos manuales de este sistema, ubicados adecuadamente en la instalación,
+para ser utilizados en caso de emergencia.
+c.
+
+El margen de antirreactividad ser mayor que 3000 pcm, para cualquier situación operacional.
+
+d. El reactor mantenerse subcrítico al menos en 1000 pcm aún cuando, estando en la
+condición de máximo exceso de reactividad, falle la actuación de la barra de seguridad
+de mayor valor en reactividad.
+66. El diseño debería garantizar que el segundo sistema de extinción cumpla con las siguientes
+condiciones:
+a. Activarse en forma simultánea con el primer sistema (o sistema rápido) de extinción.
+b. La reactividad compensada por cualquier dispositivo (de control de la reactividad) en el
+instante en que se da la señal de actuación a este segundo sistema, siga siendo compensada (por dicho dispositivo) durante todo el tiempo que el segundo sistema esté actuado.
+c.
+
+Extinguir al reactor con un margen de antirreactividad que garantice esta extinción para
+todas las posibles situaciones operacionales que se desprenden de lo considerado en
+a) y b).
+
+d. Existir disparos manuales de este sistema, ubicados adecuadamente en la instalación,
+para ser utilizados en caso de emergencia.
+Además, el diseño del segundo sistema de extinción debería cumplir con el criterio de la falla
+única.
+
+6/10
+
+GUÍA AR 4. DISEÑO DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 0
+
+67. En el caso que el diseño prevea el uso de una barra de regulación, el valor en reactividad
+de la misma no debería superar los 600 pcm.
+68. El diseño debería prever los medios para preservar la vaina del combustible, del fenómeno
+de corrosión. Para este propósito se debería diseñar el sistema primario de modo que, estando
+el reactor en operación, se verifique que:
+a. La temperatura de vaina en contacto con el refrigerante sea inferior a un valor máximo
+adecuado. Por ejemplo, en el caso de elementos combustibles con vainas de aluminio,
+puede establecerse un máximo de 110°C.
+b. El refrigerante mantenga una calidad adecuada. Por ejemplo, en el caso de utilizarse
+agua liviana el valor de la conductividad sea inferior a 1 µS/cm.
+c.
+
+El pH del refrigerante se mantenga dentro de valores adecuados. Por ejemplo, en el
+caso de elementos combustibles con vainas de aluminio, los valores límites pueden establecerse en 4,5 y 7,5.
+
+69. Debería diseñarse al reactor de modo tal que todas las penetraciones a la piscina estén
+localizadas a un nivel superior al del núcleo y dotadas con dispositivos antisifón, para evitar el
+descubierto del mismo en caso de LOCA. En el caso que el diseño presente penetraciones a la
+altura o por debajo del núcleo, se debería contar con soluciones de ingeniería que traten de
+evitar el descubierto del núcleo debido a una pérdida de refrigerante, por ejemplo utilizando
+dispositivos de aislamiento adecuados.
+70. El diseño debería permitir la realización de ensayos, inspecciones o actividades de vigilancia en el sistema de refrigeración primario, para detectar en forma temprana las fugas y/o fisuras.
+71. El diseño debería adoptar un enfoque de barreras múltiples para hacer frente a roturas
+potenciales en componentes del sistema de refrigeración primario. Por ejemplo, el sistema
+podría estar totalmente contenido en el bloque de la piscina.
+B3. Relativas al Sistema de Refrigeración de Emergencia
+72. Cuando así lo requiera el cumplimiento de la Norma AR 4.1.3., el diseño debería prever
+sistemas o dispositivos para evitar:
+a. La fusión del núcleo. Estos sistemas deberían tener una autonomía de tiempo adecuada, teniendo en cuenta en aquellos casos en que algún accidente lleve al descubrimiento parcial o total del núcleo Por ejemplo, mediante la adopción de un sistema de
+rociado o de inyección de agua en el sistema de refrigeración primario.
+b. Los daños en el núcleo, durante el transitorio producido por la parada de las bombas
+del sistema de refrigeración primario y hasta el restablecimiento de la refrigeración por
+convección natural. Por ejemplo, mediante la adopción de volantes de inercia.
+B4. Relativas a la Instrumentación Relacionada con la Seguridad
+73. Debería existir un sistema de monitoreo de las radiaciones, que posea sensores ubicados
+convenientemente en el reactor y provistos de alarmas locales, apropiado para:
+a. Medir, en forma continua, la tasa de dosis equivalente ambiental en zonas de acceso
+restringido y particularmente en lugares de trabajo cercanos a los dispositivos experimentales.
+b. Permitir la evaluación de las condiciones radiológicas de la instalación con posterioridad a la ocurrencia de eventuales accidentes.
+
+GUÍA AR 4. DISEÑO DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 0
+
+7/10
+
+B5. Relativas a Experimentos y Dispositivos Experimentales
+74. El valor en reactividad de cada experimento y su tasa de inserción de reactividad positiva
+no debería superar los siguientes valores:
+
+Experimento
+
+∆ρ = Valor en
+Reactividad
+
+Tasa máxima de inserción
+
+Fijo en operación
+
+1200 pcm
+
+no aplicable
+
+Removible en operación
+
+200 pcm
+
+10 pcm/s si 40 pcm < ∆ρ < 200 pcm
+no aplicable si ∆ρ ≤ 40 pcm
+
+75. El valor en reactividad de todos los dispositivos experimentales no debería superar los
+3000 pcm.
+76. El valor en reactividad de todos los dispositivos experimentales de los experimentos removibles en operación, no debería superar los 200 pcm o, de lo contrario, deberían existir enclavamientos y/o procedimientos adecuados que garanticen que en cada operación de carga ó
+descarga sólo se podría mover un dispositivo experimental por vez.
+77. El diseño debería garantizar que en todo experimento, la temperatura en la superficie del
+dispositivo experimental en contacto con el refrigerante, moderador o reflector sea inferior a la
+temperatura para el comienzo de la ebullición del líquido.
+78. El diseño debería garantizar que todos los dispositivos experimentales que estén en
+contacto con el refrigerante, moderador o reflector, sean resistentes a la corrosión o estén
+encapsulados en recipientes resistentes a la corrosión.
+79. El diseño debería garantizar el anegamiento, vaciado o remoción de canales, dispositivos,
+haces o canales ciegos experimentales.
+80. Los componentes de los dispositivos experimentales de experimentos fijos en operación
+sólo deberían retirarse con el reactor en la condición de parada segura.
+81. Los medios de sujeción de los dispositivos experimentales de experimentos fijos en operación deberían resistir los efectos previstos de las fuerzas hidrodinámicas, hidrostáticas, neumáticas o de otra índole, que se ejercen regularmente sobre tales dispositivos durante su funcionamiento, o las fuerzas que puedan producirse como resultado de fallas o eventuales situaciones accidentales previsibles.
+82. Todo dispositivo experimental de un experimento fijo en operación debería cargarse ó descargarse con el reactor en parada segura y respetando los valores en reactividad establecidos
+en el criterio N° 75. Con el reactor en operación, las variaciones de los parámetros que caracterizan físicamente al dispositivo experimental y su interacción con el núcleo deberían ser suficientemente lentas como para que el reactor opere sin alterar ningún margen de seguridad.
+B6. Relativas al Almacenamiento de los Elementos Combustibles
+83. El diseño debería garantizar que los elementos combustibles irradiados y los dispositivos
+con combustibles irradiados, sean almacenados en una disposición geométrica tal que quede
+garantizada la subcriticidad con un margen de antirreactividad de 11000 pcm y que permita una
+refrigeración suficiente por convección natural, tal que la temperatura de los mismos sea inferior a la temperatura a la que se produce el comienzo de la ebullición del líquido.
+84. El diseño debería garantizar que los elementos combustibles no irradiados del reactor y los
+dispositivos con combustibles no irradiado, sean almacenados en una disposición geométrica
+tal que quede garantizada la subcriticidad, aun en el caso de inundación, con un margen de
+antirreactividad de al menos 11000 pcm.
+
+8/10
+
+GUÍA AR 4. DISEÑO DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 0
+
+C. EVENTOS INICIANTES POSTULADOS
+La siguiente es una lista indicativa de eventos iniciantes postulados, en base a la cual debería.
+evaluarse qué eventos iniciantes resultan aplicables al diseño específico y sitio de emplazamiento del reactor de que se trate.
+C1. Pérdida del Suministro de Energía Eléctrica
+•
+
+Pérdida del suministro de energía eléctrica normal.
+
+C2. Inserción de Reactividad Positiva
+•
+
+Criticidad durante la manipulación del combustible (error en la carga del combustible).
+
+•
+
+Excursión crítica durante la puesta en marcha.
+
+•
+
+Fallas en los materiales de las barras de control o de sus seguidoras.
+
+•
+
+Falla en el dispositivo de accionamiento de las barras de control o del sistema de control de la reactividad.
+
+•
+
+Fallas en otros dispositivos que afectan la reactividad (moderador, reflector, etc.).
+
+•
+
+Fallas o hundimiento de componentes estructurales.
+
+•
+
+Ingreso de agua fría al núcleo con el reactor en potencia.
+
+•
+
+Cambios en el moderador (por ejemplo, formación de vacío y su posterior colapso, fugas de D2O a sistemas de H2O, etc.).
+
+•
+
+Influencia de los experimentos y/o de los dispositivos experimentales (anegamiento o
+vaciado de conductos de irradiación, efectos de la temperatura, introducción o extracción de materiales fisionables o absorbentes, etc.).
+
+•
+
+Insuficiente mínimo margen de antirreactividad.
+
+•
+
+Expulsión inadvertida de barras de control.
+
+•
+
+Errores de mantenimiento en los dispositivos de control de la reactividad.
+
+C3. Pérdida del Caudal del Sistema de Refrigeración
+•
+
+Falla de las bombas del sistema primario.
+
+•
+
+Reducción del caudal del circuito primario (fallas en válvulas del sistema primario, obstrucción en las tuberías o en el intercambiador de calor, etc.).
+
+•
+
+Fallas del sistema de refrigeración de emergencia y que sólo produce una pérdida de
+caudal.
+
+•
+
+Rotura de la barrera del refrigerante primario y que sólo produce una pérdida de caudal.
+
+•
+
+Obstrucción de canales combustibles.
+
+•
+
+Distribución inadecuada de potencia (posiciones asimétricas de las barras de control,
+experimentos dentro del núcleo, carga asimétrica del combustible, etc.).
+
+•
+
+Reducción del refrigerante debida a derivaciones en el núcleo.
+
+•
+
+Mal funcionamiento del sistema de control de la potencia del reactor.
+
+•
+
+Pérdida del sumidero de calor (fallas en válvulas o bombas del sistema primario, roturas en el sistema secundario, etc.).
+
+GUÍA AR 4. DISEÑO DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 0
+
+9/10
+
+C4. Pérdida del Refrigerante
+•
+
+Rotura de la barrera de contención del refrigerante primario.
+
+•
+
+Pérdidas en la piscina.
+
+•
+
+Pérdidas en conductos de haces experimentales u otras penetraciones.
+
+C5. Manipulación Errónea o Fallas de Equipos o Componentes
+•
+
+Fallas en las vainas de elementos combustibles.
+
+•
+
+Daño mecánico en el núcleo o en el combustible (manipulación inadecuada del combustible, caída de objetos pesados como ser contenedores de transferencia de muestras sobre el combustible, etc.).
+
+•
+
+Criticidad del combustible en el almacenamiento.
+
+•
+
+Fallas en el sistema de confinamiento o ventilación.
+
+•
+
+Pérdida de refrigeración del combustible o de las muestras irradiadas durante la transferencia o el almacenamiento.
+
+•
+
+Pérdida o reducción del blindaje adecuado.
+
+•
+
+Manipulación errónea de experimentos o fallas en dispositivos experimentales.
+
+•
+
+Superación de los valores de seguridad del diseño del combustible.
+
+C6. Eventos Internos
+•
+
+Incendios o explosiones internas.
+
+•
+
+Inundación interna.
+
+•
+
+Fallas en estructuras.
+
+•
+
+Mal funcionamiento de experimentos en el reactor.
+
+•
+
+Acceso no autorizado a zonas de acceso restringido.
+
+C7. Eventos Externos
+•
+
+Terremotos (incluso fallas y corrimiento de tierras sísmicamente inducidos).
+
+•
+
+Inundación (incluso la rotura de presas aguas arriba, obstrucciones en ríos, etc.).
+
+•
+
+Tornados y proyectiles debidos a tornados.
+
+•
+
+Huracanes, tempestades y rayos.
+
+•
+
+Caídas de aeronaves.
+
+•
+
+Incendios.
+
+•
+
+Derrame de materiales tóxicos.
+
+•
+
+Accidentes de tránsito.
+
+•
+
+Influencia de instalaciones adyacentes.
+
+C8. Fallas en la Instrumentación del Sistema de Protección
+•
+
+Pérdida de la fuente de alimentación de los sensores.
+
+•
+
+Saturación de señales.
+
+•
+
+Falla en los disparos de la lógica del sistema de protección.
+
+•
+
+Falla de funcionamientos de sensores.
+
+C9. Errores Humanos
+
+10/10
+
+GUÍA AR 4. DISEÑO DE REACTORES NUCLEARES DE INVESTIGACIÓN – REVISIÓN 0
+
+

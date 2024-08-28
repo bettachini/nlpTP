@@ -1,0 +1,345 @@
+Recomendaciones generales
+para la obtención y
+renovación de permisos
+individuales para operadores
+de equipos de
+gammagrafía industrial
+
+GUÍA AR 5
+
+REVISIÓN 1
+
+Aprobada por Resolución
+ARN Nº 7/10
+
+(Boletín Oficial 18/1/10)
+
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+República Argentina – Impresión 2010
+
+GUÍA AR 5. Recomendaciones generales para la obtención y renovación – REVISIÓN 1
+
+1/5
+
+GUÍA AR 5 – Revisión 1
+
+RECOMENDACIONES GENERALES PARA
+LA OBTENCIÓN Y RENOVACIÓN DE PERMISOS INDIVIDUALES
+PARA OPERADORES DE EQUIPOS DE
+GAMMAGRAFÍA INDUSTRIAL
+
+PARTE 1
+TEMARIOS DE CONTENIDOS MÍNIMOS DE LOS CURSOS PARA SOLICITAR O
+RENOVAR UN PERMISO INDIVIDUAL PARA OPERADORES DE EQUIPOS DE
+GAMMAGRAFÍA INDUSTRIAL
+Esta parte de la guía presenta un temario de los contenidos mínimos en seguridad radiológica
+que la Autoridad Regulatoria considera necesarios para el curso teórico-práctico sobre gammagrafía industrial indicado en los Criterios Nros. 17, 18 y 19 de la Norma AR 7.11.1 “Permisos
+Individuales para Operadores de Equipos de Gammagrafía Industrial” y un programa análogo
+para el curso de actualización en seguridad radiológica indicado en el Criterio N° 33 inciso b)
+de la mencionada norma.
+
+CURSO TEÓRICO PRÁCTICO PARA SOLICITAR PERMISO INDIVIDUAL PARA OPERADORES DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL
+TEMARIO DE CONTENIDOS MÍNIMOS EN SEGURIDAD RADIÓLOGICA
+1. Estructura atómica
+a.
+
+Materia; sustancia; átomo; molécula; peso atómico; masa atómica.
+
+b.
+
+Estructura del átomo; características; número atómico y número de masa; nucleidos; isótopos; Tabla de nucleidos.
+
+2. Elementos de radiactividad
+a.
+
+Desintegración nuclear y energías de desintegración.
+
+b.
+
+Constante de desintegración. Período de semidesintegración.
+
+c.
+
+Emisión alfa; beta positiva y negativa; neutrinos; captura electrónica; rayos x, características; transición isométrica; emisión gamma; conversión interna.
+
+d.
+
+Actividad; unidades; leyes de desintegración; actividad específica; esquema de
+desintegración. Radiactividad natural. Series de decaimiento.
+
+3. Interacción de la radiación con la materia
+a.
+
+Conceptos generales; ionización; excitación; ionización específica; frenamiento,
+transferencia lineal de energía.
+
+b.
+
+Interacción de la radiación directamente ionizante.
+
+c.
+
+Interacción de ondas electromagnéticas: efectos fotoeléctricos; Compton y formación de pares; coeficientes de atenuación; hemiespesor y deciespesor; coeficiente másico de absorción, factor de "build-up"; radiación de aniquilamiento.
+
+GUÍA AR 5. Recomendaciones generales para la obtención y renovación – REVISIÓN 1
+
+1/5
+
+4. Principios de detección de la radiación
+a.
+
+Detectores por ionización; detectores gaseosos; cámara de ionización; contador
+proporcional; tubo Geiger Müller.
+
+b.
+
+Detectores inmediatos: fotomultiplicadores.
+
+c.
+
+Detectores retardados: de emulsión fotográfica.
+
+5. Fundamentos de dosimetría de las radiaciones
+a.
+
+Definiciones: flujo y densidad de flujo de partículas.
+
+b.
+
+Flujo de energía; kerma; dosis; dosis equivalente ambiental, dosis equivalente;
+dosis efectiva, dosis colectiva; unidades. Factor de calidad; transferencia de
+energía de un haz de radiación al medio irradiado. Unidades.
+
+c.
+
+Dosimetría de fuentes externas. Nociones elementales de dosimetría de fuentes
+internas.
+
+d.
+
+Fuentes gamma; fuentes puntuales. Equilibrio electrónico; constante gamma de
+radiación; cálculo de la dosis y de la dosis equivalente ambiental.
+
+6. Efectos biológicos de las radiaciones
+a.
+
+Efectos en las células; características; radiosensibilidad; teorías que explican el
+daño.
+
+b.
+
+Efectos en los tejidos. Variación de la respuesta con la dosis y la intensidad de la
+dosis.
+
+c.
+
+Efectos en el hombre. Definición de riesgo y comparación de radiación con los
+otros riesgos de la vida. Efectos somáticos y genéticos. Probabilidad de incidencia de distintos efectos (cáncer, leucemia, etc).
+
+d.
+
+Atención médica; control médico radiosanitario y conducta médica en caso de
+accidente radiológico.
+
+7. Criterios y normas de seguridad radiológica
+a.
+
+Criterios de protección radiológica y seguridad física. Justificación y optimización
+de la práctica. Límites de dosis para los trabajadores y para los miembros del
+público. Control de las fuentes radiactivas.
+
+b.
+
+Normas regulatorias.
+
+c.
+
+Protección radiológica en gammagrafía industrial. Criterios operacionales vinculados con el diseño del equipo.
+
+d.
+
+Transporte y almacenamiento de equipos y fuentes.
+
+e.
+
+Situaciones anormales y actuación en emergencias en gammagrafía industrial.
+
+8. Fundamentos de cálculo de blindajes
+Blindaje para radiación gamma; niveles aceptables de la intensidad de exposición en diferentes
+casos; influencia del tiempo y la distancia; concepto de factor de multiplicación; cálculo de espesores de blindajes para fuentes puntuales.
+
+2/5
+
+GUÍA AR 5. Recomendaciones generales para la obtención y renovación – REVISIÓN 1
+
+9. Evaluación de accidentes
+Reconstrucción de accidentes; evaluación dosimétrica; informes. Descripción de diversos accidentes ocurridos en el mundo con equipos de gammagrafía industrial, sus causas, consecuencias, cómo prevenir recurrencia. Lecciones aprendidas.
+10. Cultura de la Seguridad
+CURSO DE ACTUALIZACIÓN PARA SOLICITAR RENOVACIÓN DE PERMISO INDIVIDUAL
+PARA OPERADORES DE EQUIPOS DE GAMMAGRAFÍA INDUSTRIAL
+TEMARIO DE CONTENIDOS MÍNIMOS EN SEGURIDAD RADIÓLOGICA
+Programa Teórico
+11. Revisión de conceptos de protección radiológica:
+a.
+
+Efectos biológicos de las radiaciones.
+
+b.
+
+Criterios y normas de protección radiológica y seguridad física.
+
+c.
+
+Fundamentos del cálculo de blindajes.
+
+d.
+
+Evaluación de accidentes con consecuencias radiológicas ocurridos durante la
+operación y el transporte de equipos de gammagrafía industrial. Lecciones
+aprendidas.
+
+e.
+
+Cultura de la Seguridad.
+
+12. Revisión de procedimientos operativos.
+13. Revisión de procedimientos de emergencia.
+14. Nuevas técnicas y equipos de radiografía.
+15. Mantenimiento - Inspección periódica.
+16. Transporte y almacenamiento.
+17. Registro del movimiento de fuentes.
+18. Discusión de situaciones anormales ocurridas.
+
+Guía de Trabajos Prácticos
+19. Empleo de los conceptos de distancia y tiempo.
+20. Utilización de blindajes.
+21. Uso y calibración de monitores portátiles.
+22. Radiación dispersa y efecto "cielo".
+23. Calibración de una fuente de gammagrafía.
+24. Técnicas de exposición radiográfica.
+25. Verificación de fugas de material radiactivo - contaminación.
+26. Procedimientos operativos (zonificación, balizamiento, señalización, etc.)
+
+GUÍA AR 5. Recomendaciones generales para la obtención y renovación – REVISIÓN 1
+
+3/5
+
+27. Verificación de condiciones de seguridad del equipo. Mantenimiento de equipos, accesorios
+e instrumental. Inspección periódica.
+28. Procedimientos de emergencia (sobreexposiciones, mal funcionamiento de equipos y accesorios, daño de fuentes, pérdida y robo de fuentes, recuperación de fuentes, etc.).
+29. Transporte y almacenamiento de equipos.
+30. Confección de Registros del movimiento de fuentes y equipos.
+
+PARTE 2
+EXAMEN DE APTITUD PSICOFÍSICA
+Esta parte formula algunos criterios que pueden ser tenidos en cuenta por el médico examinador para efectuar una evaluación de la aptitud psicofísica de un solicitante de permiso individual
+para operar equipos de gammagrafía industrial, según lo requerido en la norma AR 7.11.1.
+31. Para la evaluación de la aptitud psicofísica de los examinados deben considerarse no sólo
+las tareas asignadas a la persona examinada en situaciones operacionales sino también las
+tareas potenciales en situaciones accidentales.
+32. La frecuencia de los exámenes psicofísicos depende de los cambios de tareas o del estado
+de salud y se hacen siempre a posteriori de toda enfermedad prolongada.
+33. Los resultados del examen médico deben registrar datos útiles para la interpretación de
+situaciones accidentales (valores hematológicos, estado de la piel, ojos, diuresis, catarsis, antecedentes familiares, etc.).
+34. Los resultados del examen de aptitud psicofísica deben poder asegurar una adecuada
+compatibilidad entre las condiciones de trabajo y el estado de salud. Se deben evaluar las siguientes condiciones:
+a.
+
+a) Estabilidad emocional, psíquica y capacidad de reacción y de atención.
+
+b.
+
+b) Agudeza de los sentidos que permita una capacidad normal de recepción de
+la información hablada y escrita, y de toda otra información audible, visible o palpable en la forma en que la proporcionen los equipos o dispositivos previstos para ello, así como una capacidad de expresión que permita una comunicación rápida y segura;
+
+c.
+
+c) Capacidad física, de potencia motora, de campo de movimientos y de destreza de movimientos, tal que le permitan ejecutar adecuadamente las tareas asignadas en situaciones normales y anormales.
+
+35. Las condiciones inhabilitantes son:
+a.
+
+Padecer o tener antecedentes de enfermedades que puedan predisponer a súbita incapacidad psicofísica, tales como:
+• enfermedades neurológicas (tal como epilepsia)
+• diabetes lábil o severa
+• hipertensiones graves
+• patología sensorial
+o patología psiquiátrica tales como:
+•
+•
+•
+
+4/5
+
+psicosis
+psicopatías
+adicciones (tales como alcoholismo, drogadicción o uso de estimulantes),
+etc., que puedan constituir un riesgo para su propia seguridad y la de otras
+personas.
+
+GUÍA AR 5. Recomendaciones generales para la obtención y renovación – REVISIÓN 1
+
+b.
+
+Padecer o estar convaleciente de enfermedades que puedan agravarse en situaciones anormales (enfermedades de la piel, de la sangre, etc.).
+
+c.
+
+Padecer enfermedades o estar sometidos a tratamientos que perturben el estado de alerta, vigilia, juicio, los reflejos naturales y condicionados, la capacidad de
+respuesta sensorial; de realizar esfuerzos físicos, de cumplir las tareas en condiciones inusuales, tales como fobias (por ejemplo, oscuridad, encierro) y vértigo.
+
+PARTE 3
+SECUENCIA CARACTERÍSTICA DE TAREAS QUE CONFORMAN UNA OPERACIÓN DE
+GAMMAGRAFÍA INDUSTRIAL
+Esta Parte presenta una secuencia característica de tareas que conforman una Operación de
+Gammagrafía Industrial, acorde a la Explicación de Términos del Criterio N° 9 de la Norma
+AR 7.11.1 y a los requisitos de los Criterios Nros. 20 y 34 b) de la misma.
+36. Una Operación de Gammagrafía Industrial, en lo relativo a los aspectos de seguridad radiológica, comprende entre otras las siguientes tareas ejecutadas de acuerdo a los procedimientos
+de la Instalación y a los requisitos de la normativa regulatoria:
+a.
+
+la preparación y revisión de los elementos de trabajo necesarios para la Operación de los Equipos; incluyendo el Proyector con la Fuente Sellada, los accesorios del Equipo y el instrumental de radioprotección.
+
+b.
+
+la revisión de los elementos para la señalización y vallado del Área Abierta, y de
+los elementos para emergencias.
+
+c.
+
+la identificación del Proyector con la Fuente Sellada y su fijación al vehículo de
+transporte, la verificación de la señalización del vehículo y la preparación de la
+documentación para el transporte, acorde a los requerimientos de la Norma AR
+10.16.1 “Transporte de Material Radiactivo”.
+
+d.
+
+la actualización del registro de movimiento de material radiactivo, al retirar el
+Proyector del Depósito Autorizado.
+
+e.
+
+el montaje del Área Abierta, incluyendo la señalización y delimitación de su perímetro, el armado del Equipo, la coordinación de la ubicación del personal que
+participa en la Operación y la vigilancia del Área.
+
+f.
+
+la exposición de la Fuente Sellada y la verificación del correcto reingreso de la
+Fuente Sellada al Proyector al finalizar cada exposición.
+
+g.
+
+el desarme del Equipo al finalizar las tareas en el Área de Operación y la colocación de la cerradura del Proyector en posición cerrada, así como las demás tareas necesarias para rehacer los pasos anteriores hasta finalizar con el almacenamiento del Proyector y la Fuente Sellada en el Depósito Autorizado.
+
+h.
+
+la actualización del registro de movimiento de material radiactivo, al almacenar el
+Proyector en el Depósito Autorizado.
+
+GUÍA AR 5. Recomendaciones generales para la obtención y renovación – REVISIÓN 1
+
+5/5
+
+

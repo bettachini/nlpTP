@@ -1,0 +1,467 @@
+GUÍA AR 7
+
+REVISIÓN 0
+
+Diseño de conjuntos
+críticos
+
+Aprobada por Resolución
+ARN Nº 21/02
+
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+República Argentina – 2003
+
+GUÍA AR 7. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 0
+
+1/8
+
+AUTORIDAD REGULATORIA NUCLEAR
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires, ARGENTINA
+Tel.: (011) 6323-1356
+Fax: (011) 6323-1771/1798
+http://www.arn.gov.ar
+
+GUÍA AR 7. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 0
+
+1/8
+
+GUÍA AR 7 – Revisión 0
+
+DISEÑO DE CONJUNTOS CRÍTICOS
+
+A. GLOSARIO
+1. Barras de Control: Absorbentes neutrónicos, accionados mecánica o hidráulicamente, destinados a introducir variaciones de reactividad en el conjunto crítico. Las barras de control se
+dividen en barras de seguridad y en barras de regulación.
+2. Barras de Seguridad: Barras de control que, ante una señal de actuación al sistema de
+extinción asociado, se introducen totalmente en el núcleo del conjunto crítico. Las barras de
+seguridad se clasifican en:
+-
+
+Barras de Seguridad Compensadoras: Barras de seguridad, que pueden estar parcialmente insertadas, se utilizan para compensar el exceso de reactividad con el conjunto crítico en operación.
+
+-
+
+Barras de Seguridad no Compensadoras. Barras de seguridad, que permanecen totalmente extraídas cuando el conjunto crítico está en operación.
+
+3. Barras de Regulación: Barras de control que compensan pequeñas variaciones de reactividad y no se insertan ante una señal de actuación al correspondiente sistema de extinción.
+4.- Canal de Activación: Sistema compuesto por dos o más detectores de una variable física,
+y otros dispositivos electrónicos, eléctricos y mecánicos que, ante demanda, pueden generar
+una señal para iniciar la ejecución de una función de seguridad.
+5. Conjunto Crítico: Sistema para la multiplicación de neutrones, que puede autosostenerse y
+controlarse, susceptible de modificación y compuesto de materiales fisionables y de otros
+materiales empleados en tecnología nuclear. Su potencia máxima de operación no supera los
+100 Watt.
+6. Combustible: Compuestos o elementos químicos, que contienen materiales físiles, fisionables o fértiles, utilizados en un conjunto crítico con el fin de producir fisiones.
+7. Criterio de la Falla Única: Criterio para diseñar un sistema de manera tal que admita la
+ocurrencia de una falla única en cualquier subsistema o componente del mismo, sin que por
+ello el sistema deje de prestar la función que le compete.
+8. Dispositivo Experimental: Dispositivo instalado en el conjunto crítico, o en torno a él, para
+utilizar los neutrones u otras radiaciones ionizantes generadas en el conjunto crítico, con fines
+de investigación, desarrollo, u otros. Incluye los componentes estructurales, las fronteras de
+encapsulado o confinamiento y los fluidos o sólidos contenidos.
+9. Diversidad: Provisión de diferentes medios para lograr el mismo objetivo.
+10. Elemento Combustible: Componente del núcleo del conjunto crítico que consta, fundamentalmente, del combustible y de sus materiales de encapsulamiento (vaina).
+11. Elemento de Control: Medio utilizado para controlar la reactividad del conjunto crítico de
+manera prevista. En caso de utilizarse barras de control, su conjunto constituye el elemento de
+control.
+12. Elementos de Importancia para la Seguridad: Son los elementos que comprenden:
+
+GUÍA AR 7. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 0
+
+1/8
+
+a. Las estructuras, sistemas o componentes cuya falla puede ocasionar una irradiación
+indebida del personal involucrado o del grupo crítico.
+b. Las estructuras, sistemas y componentes que evitan que los incidentes operacionales
+lleguen a producir eventuales accidentes.
+13. Elementos o Sistemas Relacionados con la Seguridad: Son los elementos o sistemas
+de importancia para la seguridad que no forman parte de un sistema de seguridad.
+14. Eventos Iniciantes Postulados: Eventos determinados que originan fallas o secuencias
+de fallas que puedan concluir en un accidente en una instalación nuclear. Los eventos iniciantes postulados pueden ser fallas de equipos, componentes o estructuras del conjunto crítico,
+errores humanos, eventos naturales, o eventos externos imputables al hombre.
+15. Experimento: El término se aplica a los siguientes casos:
+a. Una actividad que utiliza los neutrones u otras radiaciones generados en el conjunto
+crítico.
+b. Una evaluación o ensayo de una técnica operacional, o una actividad de vigilancia en
+el conjunto crítico.
+c.
+
+Una actividad experimental o de ensayo que se realiza dentro del confinamiento del
+conjunto crítico.
+
+16. Experimento Removible en Operación: Todo experimento en el que se utiliza un dispositivo experimental (o componente de un dispositivo experimental) que se mantiene estacionario
+respecto del núcleo del conjunto crítico, salvo durante las maniobras de carga o descarga, las
+que podrán realizarse con el conjunto crítico en operación. Se incluye en esta definición el caso
+de un experimento en el que el tiempo de irradiación sea tan corto que las etapas de carga,
+irradiación y descarga puedan considerarse como una única operación (por ejemplo algunos
+sistemas neumáticos).
+17. Extinción del Conjunto Crítico: Proceso mediante el cual el núcleo del conjunto crítico es
+llevado al estado subcrítico, permaneciendo en este estado con un margen suficiente de antirreactividad durante un intervalo de tiempo apropiado.
+18. Factor de Seguridad Asociado a las Barras de Seguridad: Es la relación entre el valor
+en reactividad de todas las barras de seguridad y el máximo exceso de reactividad del conjunto
+crítico. Su expresión matemática es:
+
+FSR =
+
+∆ρ barras
+
+de seguridad
+
+ρ exceso
+
+19. Funcionamiento Normal: Operación de una instalación Clase I dentro de los límites y condiciones operacionales especificados, incluidos el estado de parada, el funcionamiento en régimen, la parada, la puesta en marcha, el mantenimiento, las pruebas y, en el caso de conjunto
+críticos, la recarga de combustible.
+20. Incidente Operacional: Proceso operacional que produce una alteración del funcionamiento normal pero que, debido a la existencia de características de diseño apropiadas, no ocasiona
+daños significativos a los elementos de importancia para la seguridad ni conduce a situaciones
+accidentales.
+21. Límites de Seguridad para un Conjunto Crítico: Valor máximo o mínimo que puede tomar una variable de proceso, sin afectar la seguridad del conjunto crítico
+22. Mantenimiento: Actividad organizada de carácter administrativo y técnico consistente en
+conservar las estructuras, sistemas y componentes del conjunto crítico, en buenas condiciones
+de funcionamiento, incluyendo los aspectos preventivo y correctivo (o de reparación).
+
+2/8
+
+GUÍA AR 7. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 0
+
+23. Margen de Antirreactividad: Reactividad (con signo cambiado) correspondiente al estado
+subcrítico del conjunto, con el elemento de control actuado, que expresa la capacidad del elemento de control para extinguir al conjunto crítico. Su expresión matemática es:
+∆ρ margen antirreact. = - ρ elemento de contr. actuado=∆ρ elem. cont. - ∆ρ exc.react.inv.
+24. Monitoreo: Conjunto de mediciones e interpretación de los resultados, que se realiza para
+evaluar la exposición a la radiación.
+25. Máximo Exceso de Reactividad: Exceso de reactividad que tendría el conjunto crítico con
+los experimentos removibles en operación y las demás variables que afectan la reactividad en la
+condición más reactiva posible. El máximo exceso de reactividad se lo representa por ( ρ exceso).
+26. Mínimo Margen de Antirreactividad: Valor límite (mínimo) del margen de antirreactividad
+considerando todas las variables que afectan a la reactividad (dispositivos experimentales removibles en operación, temperatura de los materiales del núcleo, quemado del combustible,
+concentración de productos de fisión, etc.) en la condición más reactiva.
+27. Núcleo: Conjunto de elementos combustibles, moderador, reflector, elementos de control,
+apoyos y componentes estructurales. Incluye, además, la instrumentación asociada, el refrigerante primario, los dispositivos reguladores del caudal ubicados dentro del conjunto crítico y los
+dispositivos experimentales.
+28. Personal involucrado: Plantel del conjunto crítico nuclear integrado por el personal de
+operación de esta instalación y por el personal que utiliza al conjunto crítico con fines de experimentación.
+29. Programa de Calidad: Programa donde se definen la política de calidad, los objetivos, la
+planificación, la organización, las responsabilidades, los procesos y aquellas actividades que
+requieren procedimientos escritos.
+30. Reactividad (ρ
+ρ): Valor de la expresión (Kef - 1)/Kef. En esta norma se expresa en pcm (partes por cien mil).
+31. Reactividad del Elemento de Control (∆ρ
+∆ρ elem. cont): Valor en reactividad entre los estados
+del conjunto crítico sin y con el elemento de control actuado.
+32. Redundancia: Provisión de dos o más sistemas -idénticos o diversos- independientes entre
+sí, cada uno de los cuales puede llevar a cabo una misma función.
+33 Seguridad: Logro de las condiciones de funcionamiento normal, garantía de una adecuada
+prevención de accidentes o mitigación de las eventuales consecuencias asociadas a los mismos y cuyo resultado sea la protección del personal involucrado, del grupo crítico y del ambiente respecto a riesgos radiológicos indebidos.
+34. Señal de Actuación: Señal proveniente del sistema de protección que produce la actuación de un sistema de seguridad.
+35. Sistema de Calidad: Conjunto de actividades planificadas y desarrolladas para asegurar el
+nivel de calidad de una instalación o de una práctica.
+36. Sistema de Extinción: Sistema que provoca la extinción del reactor. El sistema incluye
+cada uno de los componentes necesarios para cumplir su función, desde el sensor de la señal
+de disparo del mecanismo activador hasta el material absorbente de neutrones.
+37. Sistema de Protección de un Conjunto Crítico: Equipamiento provisto para actuar directamente en el caso de fallas de la instalación, mala operación o eventos externos, garantizando
+la seguridad mediante acciones protectivas apropiadas.
+
+GUÍA AR 7. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 0
+
+3/8
+
+38. Sistema de Seguridad de un Conjunto Crítico: Sistema para lograr, en cualquier circunstancia, la parada segura o extinción del conjunto crítico, o para limitar las consecuencias de
+situaciones operacionales y accidentales postuladas.
+39. Situación Operacional: Situación definida como funcionamiento normal o incidente operacional.
+40. Tasa Relativa de Potencia: Magnitud definida por la siguiente expresión:
+ψp[%] =
+
+100 x
+
+1 dP
+P dt
+
+41. Umbrales de Disparo: Valores escogidos de las variables del proceso para la actuación
+del sistema de protección.
+
+B. CONSIDERACIONES GENERALES
+B1. Relativas a la Seguridad
+42. El objetivo general de seguridad a tener en cuenta en el diseño de un conjunto crítico, es el
+de proteger a las personas y al ambiente, creando y manteniendo una defensa eficaz que permita minimizar los riesgos radiológicos. En particular:
+a. Garantizar que la operación y la realización de experimentos esté justificada de conformidad con consideraciones de protección radiológica.
+b. Garantizar que, durante las situaciones operacionales, la exposición a las radiaciones
+ionizantes del personal involucrado y del grupo crítico se mantenga por debajo de los
+límites prescritos por las normas vigentes y se reduzca al valor más bajo que pueda razonablemente alcanzarse.
+c.
+
+Garantizar la mitigación de las exposiciones a la radiación causadas por eventuales
+accidentes postulados.
+
+43. El diseño debería incorporar características de defensa en profundidad de modo que se
+establezcan múltiples niveles de protección que incluyan barreras sucesivas contra la liberación
+de materiales radiactivos. En este sentido deberían tenerse en cuenta:
+a. La utilización de márgenes de seguridad adecuados, la ejecución de un programa de
+calidad y el establecimiento de una cultura de la seguridad.
+b. La utilización de sucesivas barreras físicas para la protección contra la liberación de
+materiales radiactivos.
+c.
+
+La protección de las barreras físicas contra su rotura.
+
+d. La disposición de medios para garantizar al máximo las funciones básicas de seguridad
+a fin de:
+• Evitar las desviaciones del funcionamiento normal.
+• Limitar la emisión de efluentes radiactivos al ambiente en cualquier situación operacional.
+• Evitar que incidentes operacionales pudieran conducir a eventuales accidentes.
+• Llevar al conjunto crítico a la situación de parada segura durante todas
+las situaciones operacionales o en eventuales accidentes.
+• Mitigar las condiciones y consecuencias radiológicas de eventuales accidentes.
+44. El diseño debería incluir características específicas para permitir la evacuación segura del
+personal en caso de emergencia; por ejemplo, salidas de emergencia con iluminación propia o
+medios autónomos de comunicación e instrumentación de vigilancia radiológica.
+
+4/8
+
+GUÍA AR 7. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 0
+
+B2. Relativas al Diseño Neutrónico del Núcleo
+45. El núcleo del conjunto crítico debería diseñarse de modo que, en cualquier situación operacional, se mantengan los valores de las variables de proceso relacionadas con el combustible,
+dentro del rango indicado por los límites de seguridad.
+46. El núcleo del conjunto crítico debería diseñarse de modo que, en eventuales accidentes
+postulados, se mantengan la integridad del combustible, la de los dispositivos experimentales y
+la de los componentes de los sistemas de protección y de seguridad.
+47. En cualquier situación operacional, el diseño del conjunto crítico debería garantizar que se
+cumpla que:
+a. La tasa media de inserción de reactividad positiva, asociada a la operación de cualquier elemento de control, sea inferior a 20 pcm/s.
+b. Durante la etapa de arranque del conjunto crítico, la tasa relativa de potencia sea menor al 2,5%.
+c.
+
+Durante la etapa de marcha del conjunto crítico, los cambios de potencia se realicen
+con una tasa relativa de potencia menor al 5%.
+
+48. Todos los componentes del sistema de protección deberían poder ser ensayados funcionalmente.
+49. El tiempo máximo de actuación de cualquier canal de activación del sistema de protección,
+excluyendo al sensor debería ser menor a 60 ms.
+50. Los umbrales de disparo deberían establecerse con márgenes adecuados respecto a los
+límites de seguridad, para evitar que se alcance un límite de seguridad. En el establecimiento
+de dichos márgenes deberían tenerse en cuenta, por lo menos, los siguientes factores:
+a. Inexactitud de la instrumentación.
+b. Errores de calibración.
+c.
+
+Deriva de los instrumentos.
+
+d. Tiempo de respuesta de los canales de activación.
+51. El diseño del sistema de protección debería hacer uso de un grado de redundancia tal que,
+si fuera físicamente posible, la ocurrencia de cada evento iniciante postulado, seleccionado
+entre los que figuran en el listado adjunto, pueda detectarse por dos o más canales de activación diferentes.
+52. En el caso que uno de los sistemas de extinción esté constituido por barras absorbentes
+deberían cumplirse las siguientes condiciones:
+a. Tener un FSR > 1.5 aún en la condición de máximo exceso de reactividad.
+b. Existir disparos manuales de este sistema, ubicados adecuadamente en la instalación,
+para ser utilizados en caso de emergencia.
+c.
+
+El mínimo margen de antirreactividad ser mayor que 3000 pcm, para cualquier situación operacional.
+
+d. El mínimo margen de antirreactividad ser mayor a 1000 pcm, aún cuando la barra de
+seguridad de mayor valor en reactividad esté totalmente extraída.
+53. El diseño del segundo sistema de extinción debería cumplir con las siguientes condiciones:
+a. Activarse en forma simultánea con el primer sistema (o sistema rápido) de extinción.
+b. La reactividad compensada por cualquier dispositivo (de control de la reactividad) en el
+instante en que se da la señal de actuación a este segundo sistema, siga siendo compensada (por dicho dispositivo) durante todo el tiempo que el segundo sistema esté actuado.
+
+GUÍA AR 7. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 0
+
+5/8
+
+c.
+
+Extinguir al conjunto crítico con un margen de antirreactividad que garantice esta extinción para todas las posibles situaciones operacionales que se desprendan de lo considerado en a) y b).
+
+d. Existir disparos manuales de este sistema, ubicados adecuadamente en la instalación,
+para ser utilizados en caso de emergencia.
+Además, el diseño del conjunto crítico debería cumplir con el criterio de la falla única.
+54. El o los sistemas de extinción rápidos deberían poder extinguir al conjunto crítico con un
+margen de antirreactividad adecuado. El tiempo de actuación de estos sistemas (para lograr un
+margen de antirreactividad de 2000 pcm) debería ser inferior a 500 ms.
+55. En caso que exista una barra de regulación, el valor en reactividad de la misma no debería
+superar los 600 pcm.
+56. El diseño de conjuntos críticos que utilizan agua como moderador, debería garantizar que
+los cambios de configuración del núcleo no se puedan realizar con la presencia de dicho moderador.
+57. Se debería preservar la vaina del elemento combustible del fenómeno de la corrosión. Para
+este propósito se debería verificar que:
+a. El refrigerante mantenga una calidad adecuada. Por ejemplo, en el caso de utilizarse
+agua liviana, el valor de la conductividad sea inferior a 1 µS/cm.
+b. El pH del refrigerante se mantenga dentro de valores adecuados. Por ejemplo, en el
+caso de elementos combustibles con vainas de aluminio, los valores límites pueden establecerse en 4,5 y 7,5.
+B3. Relativas a Experimentos y Dispositivos Experimentales
+58. El diseño debería garantizar que solo se podrá cargar o descargar dispositivos
+experimentales con el conjunto crítico en estado de extinción.
+59. El diseño debería garantizar que en todo experimento, la temperatura en la superficie del
+dispositivo experimental en contacto con el refrigerante, moderador o reflector sea inferior a la
+temperatura para el comienzo de la ebullición del líquido.
+60. El diseño debería garantizar que todos los dispositivos experimentales que estén en
+contacto con el refrigerante, moderador o reflector, sean resistentes a la corrosión o estén
+encapsulados en recipientes resistentes a la corrosión.
+61. Los medios de sujeción de los dispositivos experimentales deberían resistir los efectos previstos de las fuerzas hidrodinámicas, neumáticas, hidrostáticas o de otra índole que se ejercen
+regularmente sobre tales dispositivos durante su funcionamiento, o las fuerzas que puedan
+producirse como resultado de fallas o eventuales situaciones accidentales previsibles.
+B4. Relativas al Almacenamiento de los Elementos Combustibles
+62. El diseño debería garantizar que los elementos combustibles irradiados y los dispositivos
+con combustibles irradiados, sean almacenados en una disposición geométrica tal que quede
+garantizada la subcriticidad con un margen de antirreactividad de 11 000 pcm y que permita
+una refrigeración suficiente por convección natural, tal que la temperatura de los mismos sea
+inferior a la temperatura a la que se produce el comienzo de la ebullición del líquido.
+63. El diseño debería garantizar que los elementos combustibles no irradiados del conjunto
+crítico y los dispositivos con elementos combustibles no irradiados, sean almacenados en una
+disposición geométrica tal que quede garantizada la subcriticidad, aún en el caso de inundación, con un margen de antirreactividad de al menos 11000 pcm.
+
+6/8
+
+GUÍA AR 7. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 0
+
+C. EVENTOS INICIANTES POSTULADOS
+La siguiente es una lista indicativa de eventos iniciantes postulados, en base a la cual debería
+evaluarse qué eventos iniciantes resultan aplicables al diseño específico y el sitio de emplazamiento del conjunto crítico de que se trate.
+C1. Pérdida del Suministro de Energía Eléctrica
+•
+
+Pérdida del suministro de energía eléctrica normal.
+
+C2. Inserción de Reactividad Positiva
+•
+
+Excursión crítica durante la aproximación a crítico.
+
+•
+
+Fallas en las barras de control o de sus seguidoras.
+
+•
+
+Falla en el dispositivo de accionamiento de las barras absorbentes o del sistema de
+control de la reactividad.
+
+•
+
+Fallas en otros dispositivos que afectan la reactividad (moderador, reflector, etc.).
+
+•
+
+Fallas o hundimiento de componentes estructurales.
+
+•
+
+Insuficiente margen de antirreactividad.
+
+•
+
+Expulsión inadvertida de barras de control.
+
+•
+
+Errores de mantenimiento en los dispositivos de control de la reactividad.
+
+C3. Manipulación Errónea o Fallas de Equipos o Componentes
+•
+
+Daño mecánico en el núcleo o en los elementos combustibles (mala manipulación del
+elemento combustible, caída de materiales pesados sobre el elemento combustible,
+etc.).
+
+•
+
+Criticidad en elementos combustibles en almacenamiento.
+
+•
+
+Pérdida o reducción del blindaje adecuado.
+
+•
+
+Fallas en dispositivos o componentes de dispositivos experimentales.
+
+C4. Eventos Internos
+•
+
+Incendios o explosiones internas.
+
+•
+
+Inundación interna.
+
+•
+
+Fallas en estructuras.
+
+•
+
+Mal funcionamiento de dispositivos experimentales en el conjunto crítico.
+
+•
+
+Acceso no autorizado a zonas de acceso restringido.
+
+C5. Eventos Externos
+•
+
+Terremotos (incluso fallas y corrimiento de tierras sísmicamente inducidos).
+
+•
+
+Inundación (incluso la rotura de presas aguas arriba, obstrucciones en ríos, etc.).
+
+•
+
+Tornados y proyectiles debidos a tornados.
+
+•
+
+Huracanes, tempestades y rayos.
+
+•
+
+Caídas de aeronaves.
+
+•
+
+Incendios.
+
+•
+
+Derrame de materiales tóxicos.
+
+•
+
+Accidentes de tránsito.
+
+•
+
+Influencia de instalaciones adyacentes.
+
+GUÍA AR 7. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 0
+
+7/8
+
+C6. Fallas en la Instrumentación del Sistema de Protección
+•
+
+Pérdida de la fuente de alimentación de los sensores.
+
+•
+
+Saturación de señales.
+
+•
+
+Falla en la lógica del sistema de protección.
+
+•
+
+Falla de funcionamientos de sensores.
+
+C7. Errores Humanos
+
+8/8
+
+GUÍA AR 7. DISEÑO DE CONJUNTOS CRÍTICOS – REVISIÓN 0
+
+

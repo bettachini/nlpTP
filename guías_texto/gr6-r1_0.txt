@@ -1,0 +1,181 @@
+GUÍA AR 6
+
+REVISIÓN 1
+
+Niveles genéricos de
+exención
+(Boletín Oficial 9/2/18)
+
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+República Argentina – Impresión 2018
+
+Aprobada por Resolución
+ARN Nº 5/18
+Rectificada por Resolución
+ARN Nº 44/18
+
+AUTORIDAD REGULATORIA NUCLEAR
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires
+ARGENTINA
+Teléfono (011) 6323-1770
+Fax (011) 6323-1771/1798
+www.arn.gob.ar
+
+GUÍA AR 6 – Revisión 1
+
+NIVELES GENÉRICOS DE EXENCIÓN
+
+A. PREFACIO
+La Ley Nº 24.804 establece que la Autoridad Regulatoria Nuclear tiene a su cargo la función de
+regulación y fiscalización de la actividad nuclear en todo lo referente a los temas de seguridad
+radiológica y nuclear, protección física y fiscalización del uso de materiales nucleares, licenciamiento y fiscalización de instalaciones nucleares, salvaguardias internacionales, y la de dictar las normas correspondientes.
+Con el fin de facilitar el cumplimiento de las Normas Regulatorias, la Autoridad Regulatoria
+Nuclear elabora Guías Regulatorias.
+Las recomendaciones de las Guías Regulatorias no tienen carácter obligatorio.
+
+B. CONSIDERACIONES GENERALES
+1. La información presentada en esta guía no tiene carácter obligatorio y puede ser utilizada para facilitar la demostración del cumplimiento de la norma AR 10.1.1. “Norma
+Básica de Seguridad Radiológica”.
+2. La presente guía no es aplicable cuando la práctica o fuentes de radiación utilizadas
+en ella, no estén justificadas.
+3. La presente guía recomienda niveles genéricos de exención para determinadas
+prácticas o fuentes de radiación dentro de las prácticas y presenta las condiciones a
+tener en cuenta para la utilización de dichos niveles genéricos.
+4. La Autoridad Regulatoria puede eximir a determinado uso de fuentes de radiación
+dentro de una práctica del cumplimiento de los requisitos establecidos en la normativa regulatoria, en la medida que se satisfaga lo establecido en el criterio general de
+exención de la Norma AR 10.1.1. “Norma Básica de Seguridad Radiológica”.
+5. La Autoridad Regulatoria puede eximir del control regulatorio a una determinada
+práctica o fuente de radiación dentro de una práctica, aun cuando la actividad o concentración de actividad superen los niveles genéricos de exención recomendados en
+la presente guía, en la medida que se demuestre a su satisfacción que se cumple
+con la Norma AR 10.1.1. “Norma Básica de Seguridad Radiológica”.
+6. La Tabla 1 presenta los niveles genéricos de exención para los radionucleidos de
+uso común aplicables a cualquier forma físico-química.
+7. Los valores de actividad y de concentración de actividad presentados en la Tabla 1,
+son niveles genéricos de exención. Las prácticas o fuentes de radiación dentro de
+una práctica, con valores inferiores a la actividad o a la concentración de actividad
+(cualquiera de las dos) que figuran en la Tabla 1 se ajustan a la Norma AR 10.1.1.
+“Norma Básica de Seguridad Radiológica”.
+8. Los niveles genéricos de exención indicados en la Tabla 1 fueron derivados considerando un modelo conservativo basado en escenarios de operación normal en el lugar de trabajo, accidente en el lugar de trabajo y disposición normal [1].
+1
+
+Commission of the European Communities, Principles and Methods for establishing concentrations and quantities (exemption values) below which reporting is not required in the European Directive, Radiation Protection 65, Doc. XI-028/93, CCE, Brussels (1993).
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+1/15
+
+9. Los niveles genéricos de exención indicados en la Tabla 1 se corresponden con los
+niveles genéricos de exención en actividad o concentración de actividad para cantidades moderadas de material, presentados en la Tabla I.1 del Apéndice I del GSR
+parte 3 del OIEA [2].
+10. Los niveles genéricos de exención indicados en la Tabla 1 no son aplicables a los
+siguientes usos:
+a. Exposiciones médicas.
+b. Fabricación de fuentes de radiación.
+c. Importación o exportación de materiales radiactivos, o comercialización de
+materiales radiactivos.
+d. Utilización de objetos contaminados o la disposición final, reciclado o reutilización de material con contenido radiactivo adscripto a prácticas licenciadas, autorizadas o registradas por la Autoridad Regulatoria.
+11. Los radionucleidos que forman cadenas de decaimiento son considerados en equilibrio secular a los fines de la aplicación de esta guía. En la Tabla 1 están indicados
+con una (b).
+
+C. EXPLICACIÓN DE TÉRMINOS
+12. Exención: Decisión de la Autoridad Regulatoria que exime a una práctica o a una
+fuente de radiación adscripta a una práctica del cumplimiento de alguno o todos los
+requisitos establecidos en la normativa regulatoria.
+13. Cantidad moderada de material: Cantidad de material de menos de una tonelada.
+
+D. RECOMENDACIONES
+14. Para la exención de una práctica o fuente de radiación dentro de una práctica, que
+emplee más de un radionucleido, se recomienda considerar que la suma de las actividades individuales de cada radionucleido o su concentración de actividad, según
+corresponda, sea menor que el valor de exención derivado para la mezcla, Xm, determinado como:
+
+Xm 
+
+1
+
+
+
+n
+
+i 1
+
+f (i ) / X (i )
+
+donde:
+f (i):
+X (i):
+n
+
+es la fracción de actividad o concentración de actividad, según corresponda, del
+radionucleido i en la mezcla
+es el nivel aplicable de exención para el radionucleido i de acuerdo a la Tabla 1
+es el número de radionucleidos presentes en la mezcla
+
+2
+
+Protección radiológica y seguridad de las fuentes de radiación: Normas básicas internacionales de seguridad. Requisitos Generales de Seguridad. GSR part 3, OIEA, Viena (2014).
+
+2/15
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+E. ANEXO
+Tabla 1. Niveles genéricos de exención para cantidades moderadas de material
+sin consideración ulterior: concentración de actividad exenta y
+actividad exenta de radionucleidos
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+3/15
+
+4/15
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+5/15
+
+6/15
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+7/15
+
+8/15
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+9/15
+
+10/15
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+11/15
+
+12/15
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+13/15
+
+14/15
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+GUÍA AR 6. Niveles genéricos de exención - REVISIÓN 1
+
+15/15
+
+

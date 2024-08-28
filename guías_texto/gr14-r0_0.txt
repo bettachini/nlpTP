@@ -1,0 +1,846 @@
+GUÍA AR 14
+
+Diseño y Desarrollo de un
+Plan de Monitoreo
+Radiológico Ambiental
+(Boletín Oficial 1/3/17)
+
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+
+República Argentina – Impresión 2017
+
+REVISIÓN 0
+
+Aprobada por Resolución
+ARN Nº 55/17
+
+AUTORIDAD REGULATORIA NUCLEAR
+Av. del Libertador 8250
+(C1429BNP) Ciudad Autónoma de Buenos Aires, ARGENTINA
+Tel.: (011) 6323-1300/1770
+Fax: (011) 6323-1771/1798
+http://www.arn.gob.ar
+
+GUÍA AR 14 – Revisión 0
+
+DISEÑO Y DESARROLLO DE UN PLAN DE
+MONITOREO RADIOLÓGICO AMBIENTAL
+
+A. PREFACIO
+La Ley Nº 24.804 establece que la Autoridad Regulatoria Nuclear tiene a su cargo la función de
+regulación y fiscalización de la actividad nuclear en todo lo referente a los temas de seguridad
+radiológica y nuclear, protección física y fiscalización del uso de materiales nucleares, licenciamiento y fiscalización de instalaciones nucleares, salvaguardias internacionales, y la de dictar las normas correspondientes.
+Con el fin de facilitar el cumplimiento de las Normas Regulatorias, la Autoridad Regulatoria
+Nuclear elabora Guías Regulatorias.
+Las recomendaciones de las Guías Regulatorias no tienen carácter obligatorio.
+
+B. CONSIDERACIONES GENERALES
+1. Las recomendaciones de esta Guía Regulatoria son presentadas para facilitar el cumplimiento de la Norma AR 10.1.1. Norma Básica de Seguridad Radiológica y toda otra norma
+aplicable.
+2. Las recomendaciones de esta Guía Regulatoria se aplican al diseño y desarrollo de planes
+de monitoreo radiológico ambiental para reactores nucleares, instalaciones minero fabriles
+e instalaciones de procesamiento de uranio, así como para sitios en los que operan una o
+más instalaciones radiológicas o nucleares, en las siguientes condiciones:
+a. Operacional.
+b. Preoperacional: en la etapa previa al inicio de la operación para la determinación de la
+línea de base de la concentración de actividad de radionucleidos y la tasa de dosis
+ambiental (valores ambientales).
+c. Postoperacional: en la etapa de parada a largo plazo de una instalación hasta el reinicio de las operaciones, en el retiro de servicio, o bien en el proceso de rehabilitación
+del sitio luego de haber sido cerradas definitivamente las instalaciones.
+3. Las recomendaciones de esta Guía Regulatoria no son aplicables en situaciones accidentales o de investigación sobre el comportamiento de radionucleidos en compartimentos
+ambientales (factores de transferencia, seguimiento de descargas, entre otros).
+4. El monitoreo radiológico ambiental durante la operación normal de una instalación o sitio
+en el que operan una o más instalaciones tiene por objetivos:
+a. verificar los resultados de los monitoreos de descargas de una determinada instalación
+o sitio;
+b. verificar la concordancia de los resultados de los modelos de cálculo de dosis con los
+valores ambientales medidos, a fin de asegurar que los límites de dosis a la persona
+representativa no sean excedidos;
+c. analizar la evolución en el tiempo de los valores ambientales, a fin de proveer información para determinar el impacto radiológico ambiental producido por la operación de
+
+GUÍA AR 14. Diseño y Desarrollo de un Plan de Monitoreo Radiológico Ambiental - REVISIÓN 0
+
+1/12
+
+una determinada instalación o sitio. Los valores ambientales medidos pueden ser utilizados como referencia en situaciones de emergencia;
+d. detectar emisiones inadvertidas de radionucleidos al ambiente.
+5. El monitoreo radiológico ambiental preoperacional tiene por objetivo determinar la línea de
+base de los valores ambientales originales para compararla con los resultados del monitoreo radiológico operacional y evaluar el impacto radiológico ambiental de una determinada
+instalación.
+6. El monitoreo radiológico ambiental postoperacional tiene por objetivos los detallados en los
+puntos 4b), 4c) y 4d).
+7. El Plan de Monitoreo Radiológico Ambiental de una instalación o de un sitio en el que operan una o más instalaciones debe ser aprobado por la Autoridad Regulatoria, previamente
+a su implementación. Cualquier modificación significativa a dicho Plan debe ser previamente aprobada por la Autoridad Regulatoria.
+8. Los resultados y la evaluación del Plan de Monitoreo Radiológico Ambiental deben ser
+informados a la Autoridad Regulatoria con la periodicidad que corresponda.
+9. La Autoridad Regulatoria verifica el cumplimiento del Plan de Monitoreo Radiológico Ambiental aprobado. En la etapa de evaluación de los resultados, la Autoridad Regulatoria
+realiza acciones tales como el análisis comparativo con el Plan de Monitoreo Radiológico
+Ambiental propio e independiente, la evaluación de los procedimientos de medición y/o
+análisis de muestras aplicados, los resultados de las intercomparaciones realizadas, y toda
+otra información técnica pertinente.
+
+C. EXPLICACIÓN DE TÉRMINOS
+10. Descarga: emisión planificada, controlada y autorizada de material radiactivo al ambiente.
+11. Efluente radiactivo: material radiactivo líquido, gaseoso o en cualquier otra forma fisicoquímica generado en una instalación y emitido al ambiente.
+12. Impacto radiológico ambiental: incremento del componente artificial del fondo radiológico
+ambiental debido al funcionamiento de una determinada instalación.
+13. Límite de descarga: valor de la máxima actividad de cada radionucleido, incluido en los
+efluentes radiactivos a ser descargados por una determinada instalación al ambiente, establecido por la Autoridad Regulatoria.
+14. Límite de detección: menor valor verdadero de un mensurando que es detectado por un
+método de medición con una dada probabilidad de certeza, generalmente del 95%.
+15. Línea de base: conjunto de valores de la concentración de actividad de radionucleidos y
+de la tasa de dosis ambiental, provenientes de fuentes naturales y artificiales de los alrededores del sitio, medidos antes del inicio de la operación de una determinada instalación.
+16. Matriz ambiental: tipo de medio en el que puede estar presente el radionucleido de interés.
+17. Mínima concentración detectable: menor concentración de actividad de un radionucleido
+en una muestra ambiental, que es detectado con una dada probabilidad de certeza, generalmente del 95%.
+18. Monitoreo de descargas: conjunto de mediciones y evaluaciones de la actividad de los
+radionucleidos emitidos al ambiente en un determinado período de tiempo.
+
+2/12
+
+GUÍA AR 14. Diseño y Desarrollo de un Plan de Monitoreo Radiológico Ambiental - REVISIÓN 0
+
+19. Monitoreo radiológico ambiental: conjunto de mediciones y evaluaciones de la concentración de actividad de radionucleidos y de la tasa de dosis ambiental debidas a la posible
+presencia de fuentes de radiación en el ambiente, que se lleva a cabo en los alrededores
+del sitio en estudio, a través de muestras ambientales y de mediciones directas.
+20. Muestra ambiental: porción representativa del material de origen sobre la que se realizan
+las mediciones y evaluaciones definidas en un Plan de Monitoreo Radiológico Ambiental.
+21. Parada a largo plazo: estado en la que una instalación no está operando por un largo
+período de tiempo, por motivos económicos, políticos y/o de otra índole, y para la cual la
+Autoridad Regulatoria puede establecer requisitos regulatorios adicionales.
+22. Persona representativa: individuo que recibe una dosis y es representativo de los individuos más expuestos en la población, establecido por la Autoridad Regulatoria.
+23. Plan de monitoreo radiológico ambiental: programa para llevar a cabo el monitoreo radiológico ambiental de una determinada instalación, con una periodicidad definida.
+24. Punto de muestreo: lugar predeterminado en el Plan de Monitoreo Radiológico Ambiental,
+con identificación de latitud y longitud, donde se toman las muestras o se miden las tasas
+de dosis ambiental.
+25. Restricción operativa de descarga: valor operativo de actividad descargada en un determinado período de tiempo. Este valor se calcula para cada radionucleido, como la actividad anual liberada que produciría una dada dosis en la persona representativa.
+26. Retiro de servicio: conjunto de actividades autorizadas por la Autoridad Regulatoria llevadas a cabo al final de la etapa de operación de una instalación.
+27. Sitio: área geográfica contenida dentro de los límites físicos de una o más instalaciones
+reguladas, cuyo impacto radiológico en el ambiente que la rodea se encuentra bajo estudio.
+28. Tasa de dosis ambiental: tasa de dosis externa debida a las fuentes de radiación en el
+ambiente.
+29. Término fuente: actividad y composición isotópica del material emitido (o que supuestamente se emitirá) desde una instalación.
+30. Vía de exposición: ruta por la que los radionucleidos o la radiación pueden alcanzar a los
+seres humanos y causar exposición.
+
+D. RECOMENDACIONES
+D.1 Diseño del Plan de Monitoreo Radiológico Ambiental
+31. En el diseño de un Plan de Monitoreo Radiológico Ambiental se recomienda desarrollar un
+modelo conceptual del término fuente y de las vías de exposición, considerando:
+a. el tipo de instalación y la etapa de operación (preoperacional, operacional o postoperacional);
+b. el inventario radiactivo (o potencial producción) y la composición de radionucleidos del
+término fuente;
+c. la caracterización de las descargas (frecuencia, formas fisicoquímicas, composición,
+volumen, entre otras características);
+d. las características geográficas, meteorológicas, edáficas e hidrológicas del área a monitorear, incluyendo las actividades industriales, las agrícolas y ganaderas;
+
+GUÍA AR 14. Diseño y Desarrollo de un Plan de Monitoreo Radiológico Ambiental - REVISIÓN 0
+
+3/12
+
+e. los hábitos de la población residente en el área a monitorear (dieta, lugares de recreación, entre otros);
+f.
+
+la información sobre planes de monitoreo radiológico ambiental de sitios similares.
+
+32. Para el diseño del Plan de Monitoreo Radiológico Ambiental se recomienda:
+a. establecer las matrices ambientales a monitorear;
+b. identificar los puntos de muestreo y determinar la accesibilidad a los mismos;
+c. establecer las frecuencias de muestreo y de ensayo de las muestras ambientales;
+d. seleccionar las técnicas de muestreo para cada una de las matrices ambientales;
+e. seleccionar las técnicas de ensayo para la determinación de los radionucleidos o grupos de radionucleidos;
+f.
+
+seleccionar la metodología para la medición de la tasa de dosis ambiental;
+
+g. definir las metodologías de evaluación de los resultados de las mediciones;
+h. definir un Sistema de Gestión de la Calidad.
+33. Se recomienda que el diseño del Plan de Monitoreo Radiológico Ambiental operacional se
+base en los resultados del monitoreo radiológico ambiental preoperacional.
+34. Se recomienda que en el diseño del Plan de Monitoreo Radiológico Ambiental postoperacional, se reevalúe el término fuente. Esta recomendación es particularmente importante en
+el caso de la minería de uranio y sus pasivos ambientales (agua de cantera, diques de
+evaporación, colas de mineral, escombreras de marginales y estériles, entre otros).
+35. En el Anexo 1, Figura 1, se presenta el proceso para el diseño, puesta en práctica y revisión de un Plan de Monitoreo Radiológico Ambiental.
+
+D.2 Selección de matrices ambientales a monitorear
+36. Se recomienda muestrear al menos las matrices ambientales relacionadas en forma directa
+con las emisiones, las de consumo directo por el ser humano y las integradoras de radionucleidos en el tiempo.
+37. Se recomienda considerar las siguientes matrices ambientales:
+a. Para emisiones líquidas:
+
+
+aguas superficiales;
+
+
+
+aguas subterráneas;
+
+
+
+sedimentos;
+
+
+
+peces;
+
+
+
+alimentos (en caso de que sean regados con agua receptora de emisiones).
+
+b. Para emisiones gaseosas:
+
+
+aire;
+
+
+
+suelos;
+
+
+
+alimentos (vegetales, leche, carnes).
+
+38. Se recomienda incluir muestras representativas de la dieta de la población en estudio tales
+como peces, vegetales, leche, carne y agua de consumo humano de la zona de influencia
+para la verificación de los modelos de cálculo de dosis a la persona representativa.
+
+4/12
+
+GUÍA AR 14. Diseño y Desarrollo de un Plan de Monitoreo Radiológico Ambiental - REVISIÓN 0
+
+39. Se recomienda monitorear las matrices ambientales suelos y sedimentos para contribuir a la
+verificación de los modelos de cálculo de dosis y además, por ser matrices integradoras fundamentales, permiten evaluar la evolución de la concentración de radionucleidos en el tiempo.
+40. En el Anexo 1, las Figuras 2 y 3 muestran modelos conceptuales de dispersión para emisiones en cursos de agua y a la atmósfera.
+41. En el Anexo 1, la Tabla 1 presenta un Plan de Monitoreo Radiológico Ambiental para reactores nucleares del tipo PHWR.
+
+D.3 Selección de radionucleidos a monitorear
+42. Se recomienda seleccionar al menos los radionucleidos para los cuales se han fijado límites de descarga y restricciones operativas de descarga, y que de acuerdo a sus períodos
+de semidesintegración sean posibles de detectar en matrices ambientales.
+43. En el caso del monitoreo radiológico postoperacional, se recomienda reevaluar los radionucleidos a monitorear, de acuerdo con las modificaciones producidas debido al cese de
+actividad de la instalación o del sitio.
+
+D.4 Selección de los puntos de muestreo
+44. Se recomienda seleccionar como mínimo los siguientes puntos de muestreo:
+a. Un punto de muestreo ubicado aguas arriba del sitio u opuesto a la dirección predominante del viento, en un punto que no esté influenciado por las descargas del sitio. Este
+punto se denomina Punto Blanco o de referencia. Dicho punto debe presentar condiciones atmosféricas y edafológicas similares a las de los alrededores del sitio. El Punto
+Blanco es de especial importancia en aquellos casos en los que no se cuenta con valores de línea de base y se asume que los valores de fondo radiológico ambiental allí
+medidos se corresponden con los preoperacionales.
+b. Un punto de muestreo ubicado en la zona de máxima concentración de radionucleidos
+esperada, para cada uno de los dos tipos de descargas (gaseosas y líquidas). Estos
+puntos se denominan Puntos de Máxima.
+c. Un punto de muestreo que coincida con la ubicación de la Persona Representativa, a
+partir del cual se puedan realizar cálculos de dosis con los valores ambientales medidos, para corroborar los resultados de los modelos dosimétricos utilizados. Este punto
+se denomina Punto Persona Representativa. Por tratarse de un punto en el que generalmente se requiere del permiso de particulares para ingresar y/o instalar el equipamiento de muestreo, en los casos en que no se pudiera llevar a cabo tal muestreo, el
+Punto de Máxima puede sustituir al Punto Persona Representativa.
+45. Se recomienda que el área de ubicación de los puntos de muestreo sea determinada utilizando modelos adecuados de dispersión de radionucleidos en el ambiente.
+46. Para la ubicación precisa del punto de muestreo se recomienda tener en cuenta aspectos
+tales como facilidad de acceso, seguridad del personal y del equipamiento, y estabilidad de
+las condiciones ambientales, entre otros.
+47. El Punto de Máxima relacionado con las descargas líquidas en cursos de agua superficiales se recomienda fijarlo en el punto de máxima concentración de actividad ubicado inmediatamente después de la mezcla completa.
+48. Para los muestreos de matrices ambientales relacionadas con las descargas gaseosas,
+además de establecer el Punto Blanco y el Punto Persona Representativa, se recomienda
+contar con muestras tomadas en los 8 puntos de la rosa de los vientos centrada en la chi-
+
+GUÍA AR 14. Diseño y Desarrollo de un Plan de Monitoreo Radiológico Ambiental - REVISIÓN 0
+
+5/12
+
+menea de la instalación o en otro punto de emisión modelado. Uno de dichos puntos debería coincidir con el Punto de Máxima. En el caso de que el esfuerzo para realizar este tipo
+de muestreo no esté justificado, se podría solicitar a la Autoridad Regulatoria la autorización para muestrear solo los puntos de muestreo indicados en 44.
+49. Se recomienda agregar puntos de muestreo y/o matrices ambientales adicionales en los
+alrededores del sitio, o incluso fuera de la zona de influencia de las instalaciones correspondientes, asociados a la necesidad de informar a la población. Estos puntos se denominan Puntos de Interés Público.
+50. En el caso de sitios en los que se incorpore una nueva instalación, se recomienda demostrar que cada uno de los puntos de muestreo radiológico ambiental ya seleccionados son
+válidos para el conjunto de las instalaciones. En caso contrario, se recomienda seleccionar
+los puntos de muestreo para cada una de las instalaciones por separado.
+51. En el monitoreo radiológico preoperacional, se recomienda seleccionar un número mayor
+de puntos de muestreo, que los considerados en las recomendaciones anteriores, para las
+matrices ambientales relacionadas con las futuras descargas gaseosas, con el fin de contar con una caracterización más representativa de los alrededores del sitio. Esto se debe a
+la multidireccionalidad de los vientos.
+52. En el monitoreo radiológico postoperacional, se recomienda revisar el criterio de selección
+de los puntos de muestreo en base a los nuevos escenarios de dispersión.
+
+D.5 Selección de la frecuencia de toma de muestras ambientales, de la medición de tasa
+de dosis ambiental y de la frecuencia de ensayo
+53. Se recomienda definir la frecuencia de toma de muestras ambientales considerando:
+a. la frecuencia de las descargas;
+b. el período de semidesintegración de los radionucleidos monitoreados;
+c. la variabilidad temporal de la concentración del radionucleido en la matriz ambiental a
+monitorear.
+54. Para un punto de muestreo en un curso de agua superficial, ubicado aguas abajo del sitio,
+se recomienda la mayor frecuencia posible de muestreo, de forma tal de registrar las variaciones de la concentración de radionucleidos emitidos y poder relacionarlas con las descargas líquidas. Lo mismo vale con respecto a las descargas gaseosas, para el muestreo
+de aire (gases, partículas en aire y condensado de humedad).
+55. Se recomienda aplicar técnicas de medición de tasa de dosis ambiental para realizar mediciones integradas en largos periodos de tiempo, por ejemplo semestrales o anuales.
+56. Para las matrices integradoras, como por ejemplo suelos y sedimentos, se recomienda que
+las frecuencias de muestreo sean semestrales, anuales, o mayores aún, para permitir la
+detección de posibles variaciones significativas en el tiempo de la concentración de radionucleidos emitidos.
+57. En el monitoreo radiológico preoperacional, se recomienda realizar el monitoreo radiológico
+ambiental al menos con una frecuencia trimestral durante los dos años previos al inicio de
+las operaciones de una instalación, de manera de reflejar las variaciones estacionales.
+
+D.6 Implementación de la toma de muestras ambientales y de las técnicas de ensayo
+58. Se recomienda contar con procedimientos escritos con un suficiente grado de detalle, para
+la toma de muestras ambientales, su conservación y gestión; para las técnicas de ensayo;
+
+6/12
+
+GUÍA AR 14. Diseño y Desarrollo de un Plan de Monitoreo Radiológico Ambiental - REVISIÓN 0
+
+y para la evaluación de los resultados, entre otros procedimientos, de acuerdo con estándares de calidad equivalentes a normas internacionales.
+59. Se recomienda implementar las técnicas de ensayo para tasa de dosis ambiental que permitan alcanzar límites de detección de al menos uno o dos órdenes de magnitud por debajo de los valores de referencia.
+60. Se recomienda implementar las técnicas de ensayo que permitan alcanzar valores adecuados de la mínima concentración detectable para los radionucleidos seleccionados. Los
+valores de la mínima concentración detectable deberían ser un orden de magnitud menor
+que los valores establecidos en la legislación nacional o recomendados a nivel internacional. Algunos valores de mínima concentración detectable, aplicados por la Autoridad Regulatoria, se muestran en el Anexo 1, Tabla 2.
+61. Se recomienda implementar técnicas de ensayo que produzcan resultados con incertidumbres, de acuerdo al estado del arte.
+
+D.7 Registros, evaluación de los resultados e informes
+62. Se recomienda registrar toda la información relevante para la evaluación de los resultados
+del Plan de Monitoreo Radiológico Ambiental, de manera tal que la misma constituya la documentación soporte de los informes de resultados.
+63. Se recomienda que las evaluaciones de los resultados incluyan al menos los cálculos de
+dosis aplicando modelos genéricos de acuerdo al estado del arte, la comparación con los
+registros históricos, la comparación con los resultados del monitoreo radiológico preoperacional y/o de Puntos Blanco y el análisis de tendencias.
+64. Se recomienda que los informes incluyan como mínimo:
+a. los resultados individuales de cada medición con su incertidumbre asociada. En caso
+de no contar con el resultado de una medición se debería registrar el motivo y, si corresponde, las acciones correctivas a implementar;
+b. el límite de detección o la mínima concentración detectable. En el caso de que el resultado de una medición fuese menor que el límite de detección o la mínima concentración detectable se debería indicarlo explícitamente, así como el valor de dicho límite.
+Se considera que no es apropiado informar un valor “cero”;
+c. la información asociada a cada resultado (punto de muestreo, fecha de muestreo, técnica de ensayo, entre otros);
+d. el análisis de las evaluaciones correspondientes.
+D.8 Revisión del plan de monitoreo radiológico ambiental
+65. Se recomienda la revisión del Plan de Monitoreo Radiológico Ambiental con una cierta
+periodicidad, por ejemplo anual. Adicionalmente, se debería revisar el Plan de Monitoreo
+Radiológico Ambiental en caso de modificaciones significativas de las condiciones de diseño del mismo. En base a los resultados obtenidos se deberían introducir los cambios correspondientes.
+
+GUÍA AR 14. Diseño y Desarrollo de un Plan de Monitoreo Radiológico Ambiental - REVISIÓN 0
+
+7/12
+
+E. BIBLIOGRAFÍA
+1. Ley Nº 24.804, Ley Nacional de la Actividad Nuclear (1997).
+2. Decreto Nº 1.390/98, Reglamentación de la Ley Nº 24.804.
+3. Decreto Nº 831/9, Anexo II, Niveles guía de calidad de agua para fuentes de agua de bebida humana con tratamiento convencional. Reglamentación de la Ley Nº 24.051 Ley Nacional Residuos Peligrosos.
+4. Norma Básica de Seguridad Radiológica AR 10.1.1. Revisión 3, Autoridad Regulatoria Nuclear (2003).
+5. IAEA Safety Guide RS-G-1.8, Environmental and Source Monitoring for Purposes of Radiation Protection (2005).
+6. IAEA Safety Report Series Nº 64, Programmes and Systems for Source and Environmental
+Radiation Monitoring (2010).
+7. ICRP Principles of Monitoring for the Radiation Protection of the Population, ICRP Publication 43 (1985).
+8. ICRP The 2007 Recommendations of the International Commission on Radiological Protection. ICRP Publication 103 (2007).
+9. ISO 5667 Water Quality - Part 1: Guidance on the design of sampling programmes (2006).
+10. ISO 11929-7. Determination of the detection limit and decision threshold for ionizing radiation measurements - Part 7: Fundamentals and general applications (2005).
+11. WHO, Guidelines for Drinking-water Quality, Fourth Edition, Section 9- Radiological aspects, (2011).
+12. Guía de Seguridad Nº 4.1, Diseño y desarrollo del programa de Vigilancia Radiológica Ambiental para centrales nucleares, Consejo de Seguridad Nuclear, Madrid, (1993).
+13. Radiological monitoring technical guidance note 2 - Environmental radiological monitoring.
+Scottish Environment Protection Agency, Food Standards Agency, Environment Agency
+(2010).
+14. Regulatory Guide 4.15 Quality Assurance for Radiological Monitoring Programmes Effluents Streams and the Environment, rev. 2, US. Nuclear Regulatory Commission, (2007).
+15. Environmental Radiation Protection Standards for Nuclear Power Plants Operators, Title 40
+Part 19 – United State Environmental Protection Agency (EPA).
+
+8/12
+
+GUÍA AR 14. Diseño y Desarrollo de un Plan de Monitoreo Radiológico Ambiental - REVISIÓN 0
+
+ANEXO 1
+Figura 1. Proceso para el diseño, puesta en práctica y revisión de un Plan de Monitoreo Radiológico Ambiental.
+
+Responsabilidad de la Autoridad Regulatoria (ARN)
+Responsabilidad de la Instalación
+Responsabilidad conjunta ARN-Instalación
+
+Recopilar información sobre el término fuente, las vías de
+exposición y los hábitos de la población pertinente.
+
+Establecer la persona representativa y los límites de descarga.
+
+Determinar el tipo de muestras ambientales a monitorear,
+los puntos y la frecuencia de muestreo.
+
+Determinar las técnicas de ensayo, los registros,
+la evaluación de los resultados y los informes.
+
+Presentar para la aprobación por parte de la ARN el
+Plan de Monitoreo Radiológico Ambiental.
+
+Implementar el plan de monitoreo radiológico ambiental
+aprobado por ARN, evaluar los resultados e informar a la ARN.
+
+Verificar el adecuado cumplimiento del Plan de
+Monitoreo Radiológico Ambiental
+
+Revisar periódica el Plan de Monitoreo Radiológico Ambiental
+
+GUÍA AR 14. Diseño y Desarrollo de un Plan de Monitoreo Radiológico Ambiental - REVISIÓN 0
+
+9/12
+
+Figura 2. Modelo conceptual de dispersión para emisiones en cursos de agua
+
+RIEGO
+
+ALIMENTOS
+
+INGESTIÓN
+
+EMISIÓN
+
+AGUA
+
+PECES
+
+INGESTIÓN
+
+SEDIMENTOS
+
+HOMBRE
+
+EXPOSICIÓN
+EXTERNA
+
+Figura 3. Modelo conceptual de dispersión para emisiones a la atmósfera
+
+INMERSIÓN
+INGESTIÓN
+
+VEGETALES
+
+EMISIÓN
+
+AIRE
+
+DEPÓSITO
+
+SUELOS
+
+EXPOSICIÓN EXTERNA
+
+LECHE
+PASTO
+
+HOMBRE
+
+INGESTIÓN
+
+VACA
+
+CARNE
+
+INGESTIÓN
+
+INHALACIÓN
+
+10/12
+
+GUÍA AR 14. Diseño y Desarrollo de un Plan de Monitoreo Radiológico Ambiental - REVISIÓN 0
+
+Tabla 1. Ejemplo de plan de monitoreo radiológico ambiental para centrales nucleares del tipo
+PHWR.
+
+Tipo de muestra/matriz
+ambiental
+
+Medición o
+radionucleido
+a monitorear
+
+---
+
+Frecuencia de toma
+de muestra
+
+Frecuencia de
+ensayo
+
+Puntos de muestreo
+
+Tasa de dosis
+(emisores gamma)
+
+Continua, con
+dosímetros TLD
+
+Semestral
+o anual
+
+Puntos: Blanco,
+de Máxima y Persona
+Representativa
+
+I-131
+
+Continua (cambio de
+filtros de carbón
+activado semanal)
+
+Semanal
+
+Continua (cambio de
+filtros semanal)
+
+Pool trimestral
+
+Continua
+
+Semanal
+
+1
+
+Aire
+(Gases,
+partículas en aire y
+condensado de
+humedad)
+
+Emisores gamma
+Emisores alfa - beta
+Sr-90
+H-3
+
+H-3
+Emisores gamma
+
+Puntos: Blanco,
+de Máxima y Persona
+Representativa
+
+Mensual
+
+I-131
+Leche de vaca
+de los alrededores
+del sitio
+
+Puntos: Blanco,
+de Máxima y Persona
+Representativa
+
+Mensual
+
+Pool trimestral
+
+Puntos: Blanco,
+de Máxima y Persona
+Representativa
+
+Sr-90
+Emisores gamma
+Suelos
+
+Sr-90
+
+Semestral
+
+Semestral
+
+Emisores alfa - beta
+H-3
+Vegetales y frutas de los
+alrededores del sitio
+
+emisores gamma
+
+Pool trimestral
+Mensual
+Pool semestral
+
+Sr-90
+
+Agua
+superficial
+
+H-3
+
+Continua
+
+Mensual
+
+Emisores gamma
+
+Continua
+
+Pool trimestral
+
+Emisores alfa - beta
+
+Continua
+
+Trimestral
+
+H-3
+Agua de
+consumo humano
+
+Emisores gamma
+
+Pool trimestral
+Trimestral
+
+H-3
+Agua
+subterránea
+
+Pool trimestral
+Trimestral
+
+Semestral
+
+Semestral
+
+Puntos: Blanco , de
+Máxima, Persona
+Representativa
+
+Semestral
+
+Semestral
+
+Puntos: Blanco,
+de Máxima y Persona
+Representativa
+
+2
+
+Emisores alfa - beta
+Emisores gamma
+Sr-90
+
+Puntos: Blanco,
+de Máxima y Persona
+Representativa
+
+Trimestral
+
+Emisores gamma
+
+Peces
+
+Puntos: Blanco,
+de Máxima y Persona
+Representativa
+
+Mensual
+
+Emisores gamma
+
+Sedimentos
+
+2
+
+Puntos: Blanco , de
+3
+Máxima y Persona
+Representativa
+
+Trimestral
+
+Mensual
+Emisores alfa - beta
+
+Puntos: Blanco,
+de Máxima y Persona
+Representativa
+
+Mensual
+Mensual
+
+Emisores alfa - beta
+
+Puntos: Blanco,
+de Máxima y Persona
+Representativa
+
+1- Un set de dosímetros TLD situado en cada una de las 16 direcciones de la rosa de los vientos.
+2- La frecuencia de toma de muestras y de ensayo para los Puntos Blancos de agua de río puede ser trimestral.
+3 - Punto de máxima concentración luego del punto de mezcla completa.
+
+GUÍA AR 14. Diseño y Desarrollo de un Plan de Monitoreo Radiológico Ambiental - REVISIÓN 0
+
+11/12
+
+Tabla 2. Valores recomendados de mínima concentración detectable para las técnicas de ensayo de muestras ambientales, aplicados por la Autoridad Regulatoria.
+Medición/
+radionucleido
+a analizar
+
+Aire
+3
+(µBq/m )
+
+Agua
+(Bq/L)
+
+Condensado
+de humedad
+3
+(Bq/m )
+
+Leche
+(Bq/L)
+
+Alimentos
+(Bq/kg)
+
+Suelos /
+sedimentos
+(Bq/kg)
+
+H-3
+
+---
+
+5-10
+
+0,1
+
+6
+
+7
+
+---
+
+Cs-137
+
+0,1-6
+
+0,1-0,6
+
+---
+
+0,003-0,01
+
+0,005-0,1
+
+0,1-0,5
+
+Co-60
+
+0,1-6
+
+0,1-0,5
+
+---
+
+0,002-0,01
+
+0,005-0,1
+
+0,1-0,5
+
+Sr-90
+
+1-3
+
+0,03-0,3
+
+---
+
+0,04-0,07
+
+0,04-0,4
+
+1-5
+
+I-131
+
+---
+
+---
+
+---
+
+0,1-0,2
+
+---
+
+---
+
+Uranio total
+
+3-5
+
+0,01 – 0,2
+
+---
+
+---
+
+---
+
+10-50
+
+Th-232
+
+0,1-6
+
+1
+
+---
+
+---
+
+---
+
+1
+
+K-40
+
+0,1-6
+
+1
+
+---
+
+---
+
+---
+
+1
+
+Ra-226
+
+---
+
+0,003-0,01
+
+---
+
+---
+
+---
+
+0,01-0,02
+
+Actividad
+alfa
+
+100-400
+
+0,05
+
+---
+
+---
+
+---
+
+20-50
+
+Actividad
+beta
+
+100-400
+
+0,08
+
+---
+
+---
+
+---
+
+20-50
+
+12/12
+
+GUÍA AR 14. Diseño y Desarrollo de un Plan de Monitoreo Radiológico Ambiental - REVISIÓN 0
+
+
