@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.104',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/decreto-597-2003-87642/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/decreto-597-2003-87642/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/decreto-597-2003-87642/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"AUpV-8SagkYIALDNds2KctpnV56lHOZGzLpj-PyEPFE","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/decreto-597-2003-87642\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-decreto-597-2003-87642 page-normativa-nacional-decreto-597-2003-87642-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/decreto-597-2003-87642/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-1O9KEiIU3iwWbTBZ3Sy5_wacStQ_ikswQ7rBpmQ5OHE" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/decreto-597-2003-87642">Decreto Reglamentario 597/2003</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>PODER EJECUTIVO NACIONAL (P.E.N.)</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2003-08-14</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>SALUD PUBLICA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Decreto 597/2003</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Apru&eacute;base la reglamentaci&oacute;n de la Ley Nº 25.630 de prevenci&oacute;n de las anemias y las malformaciones del tubo neural.</P> <P ALIGN='JUSTIFY'></P> </B><P ALIGN='JUSTIFY'>Bs. As., 13/8/2003</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO el Expediente Nº 1-2002-10.070/02-5 y la Ley Nº 25.630 de prevenci&oacute;n de las anemias y las malformaciones del tubo neural, y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en su art&iacute;culo 2º la referida norma, establece que el MINISTERIO DE SALUD, a trav&eacute;s del INSTITUTO NACIONAL DE ALIMENTOS (INAL), es el organismo de control del cumplimiento de la ley.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en su art&iacute;culo 3º expresa que para lograr los fines perseguidos la harina de trigo, destinada al consumo, que se comercializa en el mercado nacional ser&aacute; adicionada con hierro, &aacute;cido f&oacute;lico, tiamina, riboflavina y niacina, en las proporciones all&iacute; indicadas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en su art&iacute;culo 10 dispone que &quot;el PODER EJECUTIVO reglamentar&aacute; la presente dentro de los SESENTA (60) d&iacute;as de su promulgaci&oacute;n, introduciendo, en ese mismo plazo, las modificaciones al C&oacute;digo Alimentario Argentino necesarias para el cumplimiento de la Ley&quot; y en el mismo sentido el art&iacute;culo 20 de dicho C&oacute;digo ha establecido que el PODER EJECUTIVO NACIONAL deber&aacute; mantenerlo actualizado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que del juego arm&oacute;nico de las previsiones normativas precitadas surge que el PODER EJECUTIVO NACIONAL se encuentra facultado para introducir directamente las modificaciones que considere pertinentes al C&oacute;digo Alimentario Argentino.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, por la importancia que reviste el tema a tratar fue necesario efectuar consultas a los expertos en la materia, en particular a los nutricionistas del DEPARTAMENTO DE NUTRICION de la DIRECCION NACIONAL DE SALUD MATERNO INFANTIL, as&iacute; como a la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (A.N.M.A.T.) a trav&eacute;s del INSTITUTO NACIONAL DE ALIMENTOS (INAL).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, por las mismas razones, se realizaron las consultas pertinentes a las Federaciones de los industriales harineros, panaderos y en general de productos alimenticios.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, de dichas opiniones surge la necesidad de establecer plazos diversos para los distintos tipos de productos, a los efectos de tomar los recaudos pertinentes para el debido cumplimiento de las disposiciones de la Ley.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE SALUD, la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS (SAGPyA) y el SERVICIO NACIONAL DE SANIDAD Y CALIDAD AGROALIMENTARIA (SENASA) han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la presente medida se dicta en virtud de las atribuciones conferidas por el art&iacute;culo 99, incisos 1 y 2 de la CONSTITUCION DE LA NACION ARGENTINA.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL PRESIDENTE DE LA NACION ARGENTINA</P> <P ALIGN='JUSTIFY'>DECRETA:</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Apru&eacute;base la reglamentaci&oacute;n de la Ley Nº 25.630 que como Anexo I forma parte del presente Decreto.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 2º </B>— Cr&eacute;ase en el &aacute;mbito del MINISTERIO DE SALUD la Comisi&oacute;n de Asesoramiento sobre los ex&aacute;menes de los productos, la que se integrar&aacute; con CUATRO (4) miembros, DOS (2) representantes del INSTITUTO NACIONAL DE ALIMENTOS, dependiente de la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (A.N.M.A.T.) del MINISTERIO DE SALUD; UN (1) representante por el SERVICIO NACIONAL DE SANIDAD Y CALIDAD AGROALIMENTARIA (SENASA) y UN (1) representante de la DIRECCION NACIONAL DE ALIMENTOS dependiente de la SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS, del MINISTERIO DE ECONOMIA Y PRODUCCION. Su cometido ser&aacute; evaluar los resultados de los ex&aacute;menes de factibilidad, estabilidad y lapsos de aptitud de los productos a efectos de sugerir a la autoridad de aplicaci&oacute;n un tr&aacute;mite de excepci&oacute;n, en aquellos casos en que los resultados mencionados fueran negativos.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— Respecto de las harinas de panificaci&oacute;n y las harinas de venta directa al p&uacute;blico, ot&oacute;rgase un plazo de NOVENTA (90) d&iacute;as desde la fecha de entrada en vigencia de la presente medida, a los efectos de que los industriales harineros y distribuidores tomen los recaudos necesarios para el debido cumplimiento de la Ley Nº 25.630 y de su reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Respecto de las pastas secas y a los fines de posibilitar los pertinentes estudios de factibilidad, estabilidad y lapsos de aptitud del producto, ot&oacute;rgase un plazo de CIENTO OCHENTA (180) d&iacute;as desde la fecha de entrada en vigencia de la presente medida, a los efectos de que los industriales tomen los recaudos necesarios para el cumplimiento de la Ley Nº 25.630 y su reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Respecto de los productos con un alto valor de actividad acuosa y/o de materia grasa, ot&oacute;rgase un plazo de DOSCIENTOS CUARENTA (240) d&iacute;as desde la fecha de entrada en vigencia de la presente reglamentaci&oacute;n, a los fines de realizar los debidos estudios de factibilidad, estabilidad de productos, posibles alteraciones organol&eacute;pticas y lapsos de aptitud de los mismos.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 4º </B>— La presente reglamentaci&oacute;n comenzar&aacute; a regir el d&iacute;a de su publicaci&oacute;n en el Bolet&iacute;n Oficial.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>No obstante, los certificados de Inscripci&oacute;n en el REGISTRO NACIONAL DE PRODUCTOS ALIMENTICIOS (RNPA) otorgados a las harinas destinadas al consumo humano con anterioridad a la vigencia de la presente reglamentaci&oacute;n, mantendr&aacute;n su vigencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Los titulares de los productos que se encuentren autorizados a la fecha de vigencia de la presente reglamentaci&oacute;n, deber&aacute;n declarar en un plazo de NOVENTA (90) d&iacute;as la nueva f&oacute;rmula exigida por la Ley Nº 25.630 y por esta reglamentaci&oacute;n, ante la autoridad sanitaria jurisdiccional correspondiente, previo an&aacute;lisis y certificaci&oacute;n de que la calidad de la harina cumple con los requisitos exigidos por el art&iacute;culo 3º de la referida ley. En el mismo plazo deber&aacute;n proponer el nuevo r&oacute;tulo conforme lo establecido en el art&iacute;culo 4º de la reglamentaci&oacute;n que se aprueba.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 5º </B>— Comun&iacute;quese, publ&iacute;quese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial y arch&iacute;vese. — KIRCHNER. — Alberto A. Fern&aacute;ndez. — Gin&eacute;s M. Gonz&aacute;lez Garc&iacute;a. — Roberto Lavagna.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 1º — Las disposiciones de la Ley Nº 25.630 y de este Decreto Reglamentario se aplican a todas las harinas de trigo que se utilizan para el consumo humano en el pa&iacute;s, sean &eacute;stas de producci&oacute;n nacional o importadas, para su consumo directo o procesadas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 2º — Se entiende por harina enriquecida, la adicionada con los nutrientes establecidos en el art&iacute;culo 3º de la Ley Nº 25.630, con el objeto de resolver deficiencias de la alimentaci&oacute;n que se traducen en fen&oacute;menos de carencia colectiva, habi&eacute;ndose dado cumplimiento a lo establecido en el art&iacute;culo 1369 del C&oacute;digo Alimentario Argentino (texto seg&uacute;n Resoluci&oacute;n Nº 1505 del entonces MINISTERIO DE SALUD Y ACCION SOCIAL de fecha 10 de agosto de 1988).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El enriquecimiento con los nutrientes mencionados en el citado art&iacute;culo 3º, se efectuar&aacute; en forma de premezcla para facilitar el proceso de adici&oacute;n de los mismos a la harina.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 3º — Deber&aacute; utilizarse harina de trigo enriquecida para la elaboraci&oacute;n de los productos alimenticios, seg&uacute;n lo establecido en la ley y esta reglamentaci&oacute;n, con excepci&oacute;n de los productos diet&eacute;ticos y las harinas destinadas a exportaci&oacute;n, las harinas destinadas a elaborar productos para exportaci&oacute;n y las de producciones contempladas en la Ley Nº 25.127 de Producci&oacute;n Ecol&oacute;gica, Biol&oacute;gica u Org&aacute;nica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Las harinas destinadas a exportaci&oacute;n, no enriquecidas de acuerdo al art&iacute;culo 3º de la Ley Nº 25.630, podr&aacute;n ser comercializadas en el pa&iacute;s &uacute;nicamente para la elaboraci&oacute;n de productos para la exportaci&oacute;n. A tal efecto deber&aacute; registrarse dicha situaci&oacute;n en los documentos, facturas y registros correspondientes de toda la cadena de producci&oacute;n. Todos los productos elaborados de esta forma deber&aacute;n contener sin excepci&oacute;n la leyenda &quot;producto exclusivo para exportaci&oacute;n&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 4º — Todos los envases que contengan harina enriquecida deber&aacute;n ser rotulados de acuerdo a lo prescrito en el art&iacute;culo 661 del C&oacute;digo Alimentario Argentino a la que se le agregar&aacute; la leyenda, &quot;harina enriquecida Ley Nº 25.630&quot;, adem&aacute;s de lo establecido en las exigencias de rotulaci&oacute;n vigentes para los alimentos en general y las particulares que correspondan a los alimentos comprendidos en la excepci&oacute;n de lo determinado en la &uacute;ltima parte del segundo p&aacute;rrafo del art&iacute;culo anterior en lo referido a la leyenda que deben contener.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>A efectos de la correcta identificaci&oacute;n de las harinas de exportaci&oacute;n y los productos elaborados para tal fin, deber&aacute; agregarse en los correspondientes documentos y/o envases la leyenda &quot;producto exclusivo para exportaci&oacute;n&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 5º — La garant&iacute;a de calidad y control interno de la harina de trigo enriquecida en los niveles requeridos en el art&iacute;culo 3º de la Ley Nº 25.630 son de responsabilidad de los industriales, los que deber&aacute;n designar un Director T&eacute;cnico responsable, en los t&eacute;rminos establecidos en el art&iacute;culo 1346 del C&oacute;digo Alimentario Argentino.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El Director T&eacute;cnico y la empresa asumir&aacute;n ante las autoridades sanitarias, la responsabilidad por la calidad del enriquecimiento del producto.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 6º — La ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (A.N.M.A.T.), a trav&eacute;s del INSTITUTO NACIONAL DE ALIMENTOS (INAL) llevar&aacute; una base de datos, la cual se cargar&aacute; con aquellos que remitan las jurisdicciones sanitarias provinciales y el GOBIERNO de la CIUDAD AUTONOMA DE BUENOS AIRES, a los fines de registrar todos los establecimientos elaboradores de harina del pa&iacute;s, la que contendr&aacute; como m&iacute;nimo UN (1) subregistro de los establecimientos exceptuados en la &uacute;ltima parte del p&aacute;rrafo 1º del art&iacute;culo 3º de la presente reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La vigilancia del cumplimiento de la Ley Nº 25.630 y de la presente reglamentaci&oacute;n estar&aacute; a cargo del INSTITUTO NACIONAL DE ALIMENTOS (INAL), de las Autoridades Sanitarias jurisdiccionales y del SERVICIO NACIONAL DE SANIDAD Y CALIDAD AGROALIMENTARIA (SENASA), en el &aacute;mbito de sus incumbencias, por los medios que consideren pertinentes. A tales fines el INSTITUTO NACIONAL DE ALIMENTOS (INAL) podr&aacute; celebrar acuerdos con instituciones provinciales, nacionales o internacionales. El control se efectuar&aacute; sobre la base del protocolo de inspecci&oacute;n, toma de muestras y an&aacute;lisis que el INSTITUTO NACIONAL DE ALIMENTOS (INAL) elaborar&aacute; a tal efecto.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/decreto-597-2003-87642" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

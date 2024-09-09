@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5316-2010-172322/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5316-2010-172322/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5316-2010-172322/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"M88dN1hMOGg2tzQWiDGW9R1d_KOd06iLv0kURcV867w","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-5316-2010-172322\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-5316-2010-172322 page-normativa-nacional-disposición-5316-2010-172322-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-5316-2010-172322/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-KwreG7A6jjSx8NfwwFkFnRDCT7DEuJttRsWs423BOtg" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-5316-2010-172322">Disposición   5316/2010</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2010-09-22</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>MINISTERIO DE SALUD</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>SECRETARIA DE POLITICAS, REGULACION E INSTITUTOS</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Disposici&oacute;n Nº 5316/2010</P> </B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Bs. As., 14/9/2010</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO el Expediente Nº 1-2002-15583-10-1 del Registro del Ministerio de Salud, el Tratado de Asunci&oacute;n del 26 de marzo de 1991, aprobado por la Ley Nº 23.981 y el Protocolo de Ouro Preto del 17 de diciembre de 1994, aprobado por la Ley Nº 24.560, y la Resoluci&oacute;n Mercosur GMC Nº 48/08, y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el proceso de integraci&oacute;n del Mercosur es de la mayor importancia estrat&eacute;gica para la REPUBLICA ARGENTINA.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, conforme a los art&iacute;culos 2, 9, 15, 20, 38, 40 y 42 del Protocolo de Ouro Preto, las normas Mercosur aprobadas por el Consejo del Mercado Com&uacute;n, el Grupo Mercado Com&uacute;n y la Comisi&oacute;n de Comercio del Mercosur, son obligatorias y deben ser incorporadas, cuando ello sea necesario, al ordenamiento jur&iacute;dico nacional de los Estados Parte mediante los procedimientos previstos en su legislaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que conforme a los art&iacute;culos 3, 14 y 15 de la Decisi&oacute;n 20/02 del Consejo del Mercado Com&uacute;n, las normas Mercosur que no requieran ser incorporadas por v&iacute;a de aprobaci&oacute;n legislativa podr&aacute;n ser incorporadas por v&iacute;a administrativa por medio de actos del Poder Ejecutivo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el art&iacute;culo 7 de la citada Decisi&oacute;n establece que las normas Mercosur deber&aacute;n ser incorporadas a los ordenamientos jur&iacute;dicos de los Estados Parte en su texto integral.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la DIRECCION DE ASUNTOS JURIDICOS ha tomado la intervenci&oacute;n que le compete.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la presente se dicta en ejercicio de las atribuciones conferidas por los Decretos Nº 1490/92 y 425/10.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 1º — Incorp&oacute;rase al ordenamiento jur&iacute;dico nacional la Resoluci&oacute;n Mercosur GMC Nº 48/08 &quot;REGLAMENTO TECNICO MERCOSUR SOBRE BUENAS PRACTICAS SANITARIAS DE TRANSPORTE DE INSUMOS Y PRODUCTOS FARMACEUTICOS&quot; que se adjunta como anexo y forma parte integrante de la presente disposici&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 2º — En los t&eacute;rminos del Protocolo de Ouro Preto, la norma que se incorpora por la presente disposici&oacute;n, entrar&aacute; en vigor simult&aacute;neamente en los Estados Parte, 30 d&iacute;as despu&eacute;s de la fecha de la comunicaci&oacute;n efectuada por la Secretar&iacute;a del Mercosur informando que todos los Estados han incorporado la norma a sus respectivos ordenamientos jur&iacute;dicos internos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La entrada en vigor simult&aacute;nea de la Resoluci&oacute;n Mercosur GMC Nº 48/08 &quot;REGLAMENTO TECNICO MERCOSUR SOBRE BUENAS PRACTICAS SANITARIAS DE TRANSPORTE DE INSUMOS Y PRODUCTOS FARMACEUTICOS&quot; ser&aacute; comunicada a trav&eacute;s de un aviso en el Bolet&iacute;n Oficial de la Naci&oacute;n (cfr. Art&iacute;culo 40 inciso III del Protocolo de Ouro Preto).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 3º — Comun&iacute;quese, publ&iacute;quese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial y arch&iacute;vese. — Dr. CARLOS CHIALE, Interventor, A.N.M.A.T.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>MERCOSUR/GMC/RES. Nº 48/08</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>REGLAMENTO TECNICO MERCOSUR SOBRE BUENAS PRACTICAS SANITARIAS DE TRANSPORTE DE INSUMOS Y PRODUCTOS FARMACEUTICOS</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO: El Tratado de Asunci&oacute;n, el Protocolo de Ouro Preto y las Resoluciones Nº 38/98, 50/02 y 56/02 del Grupo Mercado Com&uacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La necesidad del control sanitario de insumos y productos farmac&eacute;uticos a partir de la producci&oacute;n hasta el consumo final, incluyendo la etapa de transporte, teniendo en cuenta que es imprescindible garantizar la integridad del producto, el mantenimiento de su calidad, seguridad y eficacia, para la protecci&oacute;n de la salud de la poblaci&oacute;n;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La necesidad de estandarizar las informaciones de que dispondr&aacute; la Autoridad Sanitaria con miras a identificar las pr&aacute;cticas operativas relacionadas con la expedici&oacute;n, transporte y recepci&oacute;n de insumos y productos farmac&eacute;uticos;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La necesidad de complementar lo dispuesto en las Resoluciones sobre Buenas Pr&aacute;cticas de Fabricaci&oacute;n y Control de Medicamentos y Buenas Pr&aacute;cticas de Distribuci&oacute;n de Productos Farmac&eacute;uticos, en relaci&oacute;n con las Buenas Pr&aacute;cticas Sanitarias de Transporte de Insumos y Productos Farmac&eacute;uticos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL GRUPO MERCADO COMUN</P> <P ALIGN='JUSTIFY'>RESUELVE:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 1 - Aprobar el &quot;Reglamento T&eacute;cnico MERCOSUR sobre Buenas Pr&aacute;cticas Sanitarias de Transporte de Insumos y Productos Farmac&eacute;uticos&quot;, que consta como Anexo y forma parte de la presente Resoluci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1 - Los Estados Parte dar&aacute;n cumplimiento a lo dispuesto en este Reglamento conforme a las disposiciones legislativas, reglamentarias y administrativas vigentes.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2 - Queda a criterio de cada Estado Parte definir el organismo competente que ser&aacute; responsable de extender la habilitaci&oacute;n de las empresas de transporte de insumos y productos farmac&eacute;uticos, as&iacute; como la definici&oacute;n de las responsabilidades inherentes al desarrollo de las actividades previstas en este Reglamento, hasta tanto se cuente con definiciones en el &aacute;mbito del MERCOSUR.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3 - Lo establecido en este Reglamento no exime al transportista de cumplir otras exigencias espec&iacute;ficas establecidas por los dem&aacute;s &oacute;rganos p&uacute;blicos con competencias institucionales definidas en materia de transporte.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 2 - Los organismos nacionales competentes para la implementaci&oacute;n de la presente Resoluci&oacute;n son:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Argentina: Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica (ANMAT)</P> <P ALIGN='JUSTIFY'>Brasil: Ag&ecirc;ncia Nacional de Vigil&acirc;ncia Sanit&acirc;ria (ANVISA)</P> <P ALIGN='JUSTIFY'>Paraguay: Ministerio de Salud P&uacute;blica y Bienestar Social (MSPyBS)</P> <P ALIGN='JUSTIFY'>Direcci&oacute;n Nacional de Vigilancia Sanitaria</P> <P ALIGN='JUSTIFY'>Uruguay: Ministerio de Salud P&uacute;blica (MSP)</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 3 - La presente Resoluci&oacute;n ser&aacute; aplicable en el territorio de los Estados Parte, al comercio entre ellos y a las importaciones extrazona.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 4 - Los Estados Parte deber&aacute;n incorporar la presente Resoluci&oacute;n a sus ordenamientos jur&iacute;dicos internos antes del 01/VII/09.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>LXXIV GMC - Brasilia, 28/XI/08</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>ANEXO</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>REGLAMENTO TECNICO MERCOSUR SOBRE BUENAS PRACTICAS SANITARIAS DE TRANSPORTE DE INSUMOS Y PRODUCTOS FARMACEUTICOS</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1 - OBJETIVO</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Este Reglamento establece las condiciones y procedimientos sanitarios que deben ser observados, a fin de evitar que los insumos y productos farmac&eacute;uticos sufran alteraciones durante el transporte, incluyendo las etapas de expedici&oacute;n, almacenamiento temporario si corresponde y la recepci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2 - AMBITO DE APLICACION</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Este Reglamento se aplicar&aacute; al transporte de insumos y productos farmac&eacute;uticos en el territorio de los Estados Parte, al flujo de insumos y productos farmac&eacute;uticos entre ellos y a las importaciones extrazona.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3 - DEFINICIONES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>A los efectos de este Reglamento T&eacute;cnico se entiende por:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.1. Transportista: empresa que realiza actividades de transporte de insumos y productos farmac&eacute;uticos, pudiendo ejercer adicionalmente la actividad de almacenamiento;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.2. Producto Farmac&eacute;utico: Es el preparado que contiene los principios activos y los excipientes, formulados en una forma farmac&eacute;utica o de dosificaci&oacute;n, y que seg&uacute;n la terminolog&iacute;a empleada en la Literatura sobre la Buenas Pr&aacute;cticas de Fabricaci&oacute;n, haya pasado por todas las etapas de producci&oacute;n, acondicionamiento / embalaje y rotulado;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.3. Insumo Farmac&eacute;utico: Droga o sustancia activa o complementaria de cualquier naturaleza, destinada a su empleo en medicamentos;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.4. Producto a Granel: Cualquier material procesado que se encuentra en su forma farmac&eacute;utica definitiva, el que s&oacute;lo requiere ser acondicionado/embalado para convertirse en un producto terminado;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.5. Producto Semi-elaborado: Cualquier material o mezcla de materiales que a&uacute;n se encuentren en proceso de fabricaci&oacute;n o cualquier sustancia o mezcla de sustancias que requieran posteriores procesos de producci&oacute;n, a fin de convertirse en productos a granel;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.6. Producto Terminado: Producto farmac&eacute;utico que ha pasado por todas las etapas de producci&oacute;n y acondicionamiento; despu&eacute;s de liberado, el producto terminado constituye un medicamento pronto para la venta;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.7. Fabricante: son las empresas que poseen las instalaciones y plantas necesarias para realizar todas las operaciones que conducen a la obtenci&oacute;n de productos farmac&eacute;uticos en sus distintas formas farmac&eacute;uticas;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.8. Exportador empresa responsable de la remisi&oacute;n de insumos y productos farmac&eacute;uticos a otro Estado Parte o pa&iacute;s extrazona;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.9. Importador: empresa responsable de la entrada de insumos y productos farmac&eacute;uticos procedentes de otro Estado Parte o de pa&iacute;s extrazona;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.10. Distribuidor: Cualquier instituci&oacute;n p&uacute;blica o privada, o empresa, todas habilitadas por la Autoridad Sanitaria del Estado Parte correspondiente, que realicen distribuci&oacute;n de productos farmac&eacute;uticos terminados y liberados para su comercializaci&oacute;n y uso;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.11. Expedici&oacute;n: procedimientos operativos relacionados al embarque para fines de transporte de insumos y productos farmac&eacute;uticos;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.12. Recepci&oacute;n: procedimientos operativos relacionados a la entrega de insumos y productos farmac&eacute;uticos resultantes de la prestaci&oacute;n del servicio de transporte:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.13. Contratante: empresa que contrata servicios de terceros, responsable de todos los aspectos legales y t&eacute;cnicos vinculados con el producto o proceso objeto de tercerizaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.14. Contratada: empresa que realiza el servicio de tercerizaci&oacute;n, corresponsable de los aspectos t&eacute;cnicos y legales, inherentes a la actividad objeto de tercerizaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.15. Manifiesto de Carga: documento o declaraci&oacute;n que contiene una lista de mercader&iacute;as que constituyen el cargamento de nav&iacute;o, aeronave y dem&aacute;s veh&iacute;culos de transporte, en el momento de su llegada o salida a/del territorio aduanero.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.16. Almacenamiento Temporario: conjunto de procedimientos de car&aacute;cter temporario relacionado al tr&aacute;nsito de carga, que involucran las actividades de recepci&oacute;n, dep&oacute;sito temporario (conforme al plazo definido en la reglamentaci&oacute;n vigente en el Estado Parte), conservaci&oacute;n y seguridad de insumos y de productos farmac&eacute;uticos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4 - DE LAS RESPONSABILIDADES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1 - Del transportista:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.1 - Garantizar el cumplimiento de las Buenas Pr&aacute;cticas relacionadas a las actividades para las cuales se encuentra autorizado por la Autoridad Sanitaria competente del Estado Parte;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) asegurar que los productos sean transportados siguiendo procedimientos operativos que garanticen la integridad del producto;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.2 - Disponer de infraestructura necesaria para garantizar el cumplimiento de las Buenas Pr&aacute;cticas de las actividades de transporte y almacenamiento temporario, cuando corresponda;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.3 - Registrar las informaciones relacionadas a las operaciones de expedici&oacute;n, transporte, almacenamiento temporario y recepci&oacute;n de insumos y productos farmac&eacute;uticos, de forma de comprobar el cumplimiento de las Buenas Pr&aacute;cticas Sanitarias de Transporte;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.4 - Disponer a bordo del veh&iacute;culo transportista de un Manifiesto de Carga transportada y con previsi&oacute;n de desembarque;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.5 - Transportar el insumo y producto farmac&eacute;utico en condiciones:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) que impidan o eviten accidentes o da&ntilde;os;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) que comprueben especificaciones de temperatura, de acondicionamiento y de almacenaje, niveles de humedad tolerados, sensibilidad a la luminosidad, entre otros, definidas por el fabricante o contratante y en la Reglamentaci&oacute;n T&eacute;cnica espec&iacute;fica;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) que los ubiquen en ambientes satisfactorios de higiene y desinfecci&oacute;n, separados de cargas de naturaleza incompatible;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.6 - Proporcionar pruebas adecuadas para demostrar el mantenimiento de las condiciones ambientales especificadas. Cuando sea necesario, disponer a bordo del veh&iacute;culo transportista de registradores de temperatura y humedad, debiendo estar disponibles a bordo los respectivos registros;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) luego de finalizado el transporte, se entregar&aacute; al contratante copia de los registros de las condiciones de conservaci&oacute;n durante el transporte, as&iacute; como durante el almacenamiento temporario, si fue realizado;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.7 - Recibir y entregar insumos y productos farmac&eacute;uticos, con fines de transporte, solamente a empresas habilitadas conforme al ordenamiento jur&iacute;dico de cada Estado Parte;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.2. De la empresa contratante de los servicios de transporte:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.2.1 - Informar por escrito al transportista sobre las condiciones ambientales y de transporte en las cuales el insumo y el producto farmac&eacute;utico deber&aacute;n ser transportados, de modo de garantizar el mantenimiento de su identidad y calidad;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.2.2 - Informar al transportista los n&uacute;meros de registro, debidamente autorizados o habilitados por la Autoridad Sanitaria del Estado Parte;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) en caso de productos no pasibles de registro en el Estado Parte, el contratante deber&aacute; brindar por escrito esta informaci&oacute;n al transportista;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.2.3 - Mantener, de cada carga transportada, los registros de las condiciones de almacenamiento temporario durante el transporte, por un a&ntilde;o adicional al plazo de validez del &uacute;ltimo insumo o producto farmac&eacute;utico a vencer;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.2.4 - Prestar orientaci&oacute;n y asistencia t&eacute;cnica para los casos de accidentes que involucran al insumo o producto farmac&eacute;utico durante el transporte.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5 - REQUISITOS GENERALES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.1. De las empresas:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.1.1 - Solamente podr&aacute; transportar insumos y productos farmac&eacute;uticos en territorio de los Estados Parte, en el flujo entre ellos y en las importaciones extrazona, la empresa legalmente habilitada por la Autoridad Sanitaria competente del Estado Parte, conforme a la legislaci&oacute;n vigente;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) empresas prestadoras de servicio de transporte podr&aacute;n realizar adicionalmente actividades de almacenamiento temporario, siempre que est&eacute; debidamente regularizada por la Autoridad Sanitaria del Estado Parte, conforme la legislaci&oacute;n vigente, quedando prohibida la subcontrataci&oacute;n de esa prestaci&oacute;n de servicio;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.1.2 - La ejecuci&oacute;n de actividades de que trata el &iacute;tem 5.1.1 podr&aacute; ocurrir mediante la tercerizaci&oacute;n de veh&iacute;culos, en ocasiones excepcionales, en car&aacute;cter complementario, bajo responsabilidad del contratante de este servicio de transporte, debiendo estar previsto en el establecimiento de la relaci&oacute;n contractual y/o sus alteraciones;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) la tercerizaci&oacute;n de veh&iacute;culos que trata este &iacute;tem se dar&aacute; obligatoriamente entre empresas habilitadas por la Autoridad Sanitaria competente del Estado Parte, conforme la legislaci&oacute;n vigente;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.1.3 - Queda prohibida la tercerizaci&oacute;n de actividades de almacenamiento temporario que trata el &iacute;tem 5.1.2.a;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.2. Son requisitos b&aacute;sicos para el funcionamiento de las empresas transportistas involucradas con el transporte de insumos y productos farmac&eacute;uticos:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) estar legalmente constituida ante la instituci&oacute;n pertinente del Estado Parte;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) estar legalmente habilitada a funcionar por la Autoridad Sanitaria competente de los Estados Partes en los cuales realizan sus actividades, conforme a la legislaci&oacute;n vigente;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) disponer de asistencia profesional necesaria para implementar, ejecutar y verificar el cumplimiento de las Buenas Pr&aacute;cticas de las actividades realizadas por la empresa;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) disponer de infraestructura necesaria para garantizar el cumplimiento de las Buenas Pr&aacute;cticas de las actividades de transporte y/o almacenamiento temporario;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.3. Ser&aacute; requisito obligatorio para la realizaci&oacute;n de la operaci&oacute;n de transporte el establecimiento de relaci&oacute;n contractual entre el transportista y el contratante, que obligatoriamente deber&aacute; estar adem&aacute;s habilitado como fabricante, exportador, distribuidor o importador de insumos y productos farmac&eacute;uticos;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.3.1 - El contrato de prestaci&oacute;n de servicios de transporte deber&aacute; estar disponible para la Autoridad Sanitaria competente del Estado Parte, en las empresas contratantes y contratadas;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.4. En la operaci&oacute;n, de transporte de insumos y productos farmac&eacute;uticos, el transportista deber&aacute; mantener la carga transportada en envase original de expedici&oacute;n del fabricante, exportador, importador o distribuidor;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.5. La empresa que realiza actividades de transporte de insumos y productos farmac&eacute;uticos deber&aacute; cumplir con los siguientes requisitos:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.5.1 - Contar con profesionales capacitados para operar las actividades desarrolladas;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.5.2 - Mantener la identificaci&oacute;n (r&oacute;tulos, etiquetas y otros) y caracter&iacute;sticas de los insumos y productos farmac&eacute;uticos hasta su entrega al destinatario;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.5.3 - No realizar las etapas de transporte en condiciones que representen riesgo de contaminaci&oacute;n o cualquier otro tipo de alteraci&oacute;n;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.5.4 - Cumplir las recomendaciones presentes en el contrato y en el envase, inclusive sobre el apilamiento m&aacute;ximo recomendado por el fabricante;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.5.5 - Presentar por escrito, siempre que sea solicitado por la Autoridad Sanitaria, la descripci&oacute;n de los procedimientos relativos a las operaciones realizadas, con &eacute;nfasis en:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) recepci&oacute;n del producto;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) limpieza y mantenimiento de las unidades de transporte y almacenamiento temporario;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) registro de las condiciones de recepci&oacute;n, transporte, almacenamiento temporario y entrega;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.6. En el momento de las operaciones de embarque, transporte, desembarque y almacenamiento temporario de insumos y productos farmac&eacute;uticos, la empresa transportista responsable por esas actividades deber&aacute; cumplir con las siguientes obligaciones:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.6.1 - Mantener separados los insumos y productos farmac&eacute;uticos de acuerdo con su factura y otras observaciones del fabricante, inclusive la pertinente separaci&oacute;n considerando los aspectos legales y t&eacute;cnicos involucrados;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.6.2 - Inspeccionar visualmente los vol&uacute;menes para verificar su integridad;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.7. Los incumplimientos relacionados con desconformidades, tales como: aver&iacute;as de carga, no cumplimiento de las condiciones de conservaci&oacute;n especificadas, entre otros; deben ser registrados, investigados y comunicados por escrito al contratante;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.8. El contratante deber&aacute; asumir las responsabilidades, inclusive en los aspectos relacionados a los costos correspondientes y al tratamiento adecuado para descarte o inutilizaci&oacute;n del insumo y del producto farmac&eacute;utico importados, en territorio nacional;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.9. Las metodolog&iacute;as y procedimientos pertinentes al descarte o inutilizaci&oacute;n del insumo y del producto farmac&eacute;utico deber&aacute;n seguir los reglamentos de la Autoridad ambiental competente del Estado Parte donde ocurrir&aacute; el descarte o inutilizaci&oacute;n;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.10. En caso de imposibilidad de finalizar la operaci&oacute;n de transporte, el transportista deber&aacute; comunicar inmediatamente lo ocurrido al contratante y a la Autoridad Sanitaria, si fuera necesario;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.11. En caso de siniestro o robo, el transportista deber&aacute; comunicar inmediatamente al contratante, al titular del registro de producto y a la Autoridad Sanitaria, sin perjuicio de otras acciones pertinentes.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6 - DISPOSICIONES FINALES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.1. El transportista de insumos y productos farmac&eacute;uticos y el contratante son responsables de observar el cumplimiento de las condiciones establecidas en el presente Reglamento;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.2. El no cumplimiento de lo dispuesto en el presente Reglamento se entender&aacute; como infracci&oacute;n sanitaria;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.3. En caso de infracci&oacute;n sanitaria, deber&aacute; ser aplicada la pena prevista en la legislaci&oacute;n vigente en cada Estado Parte a la persona jur&iacute;dica responsable de la infracci&oacute;n;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.4. Lo establecido en este Reglamento no exime al transportista de cumplir otras exigencias adicionales previstas en reglamentos espec&iacute;ficos y complementarios para garantizar la integridad del producto y, consecuentemente, mantener su calidad, seguridad y eficacia;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.4.1 - En el caso del transporte de productos internacionalmente controlados, deber&aacute; cumplirse la normativa vigente en cada Estado Parte que contempla las exigencias de la Junta Internacional de Fiscalizaci&oacute;n de Estupefacientes (JIFE).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>e. 22/09/2010 Nº 110253/10 v. 22/09/2010</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-5316-2010-172322" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

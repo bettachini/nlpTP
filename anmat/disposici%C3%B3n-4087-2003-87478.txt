@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-4087-2003-87478/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-4087-2003-87478/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-4087-2003-87478/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"f1Ap9hv1sN4PaYpsxImXJkGa7R0V5eU21eowuXjn52s","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-4087-2003-87478\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-4087-2003-87478 page-normativa-nacional-disposición-4087-2003-87478-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-4087-2003-87478/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-qzX4m44GueomzlJWvHSu7vE6OnV3rOjKlqPC7Q4ZhtM" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-4087-2003-87478">Disposición   4087/2003</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2003-08-08</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica </P> <P ALIGN='JUSTIFY'>SALUD PUBLICA </P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 4087/2003 </P> <P ALIGN='JUSTIFY'>Incorp&oacute;rase la droga Nimesulida a vigilancia controlada por el Sistema Nacional de Farmacovigilancia.</P> </B><P ALIGN='JUSTIFY'>Bs. As., 6/8/2003 </P> <P ALIGN='JUSTIFY'>VISTO la presentaci&oacute;n efectuada por el Colegio de Farmac&eacute;uticos de la Provincia de Buenos Aires; y </P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que la aludida Entidad Profesional presenta un trabajo relacionado con los riesgos que se han detectado con el uso de la droga NIMESULIDA en el que se reportan hepatopat&iacute;as y nefropat&iacute;as atribuidas a la misma.</P> <P ALIGN='JUSTIFY'>Que asimismo el Departamento de Farmacovigilancia de esta Administraci&oacute;n Nacional en su car&aacute;cter de Efector Central del Sistema Nacional de Farmacovigilancia ha recibido reportes de alteraciones hep&aacute;ticas imputadas a la droga NIMESULIDA usada por tiempo prolongado y en dosis inadecuadas, y propone incorporar tal f&aacute;rmaco a Vigilancia Controlada.</P> <P ALIGN='JUSTIFY'>Que asimismo resulta procedente ajustar la dosis aprobada, la duraci&oacute;n del tratamiento y la adecuaci&oacute;n del prospecto vigente tanto en lo que se refiere a Contraindicaciones como a Advertencias, y la limitaci&oacute;n de su uso en ni&ntilde;os menores de diecis&eacute;is a&ntilde;os.</P> <P ALIGN='JUSTIFY'>Que la posolog&iacute;a de este principio activo debe ser de 100 mg. cada doce (12) horas como m&aacute;ximo, administrados, ya sea, en un comprimido de 100 mg con la frecuencia antedicha, o en un comprimido de 200 mg. ranurado para su fraccionamiento por el paciente.</P> <P ALIGN='JUSTIFY'>Que si bien Espa&ntilde;a y Finlandia han adoptado medidas cautelares respecto de la droga NIMESULIDA, la misma contin&uacute;a comercializ&aacute;ndose a la fecha en otros pa&iacute;ses de alta vigilancia sanitaria, encontr&aacute;ndose pendiente el dictamen final de la Agencia Europea de Evaluaci&oacute;n de Medicamentos (EMEA), sobre el particular.</P> <P ALIGN='JUSTIFY'>Que el Departamento de Farmacovigilancia y la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en ejercicio de las facultades conferidas por el Decreto N° 1490/92 y el Decreto N° 197/02.</P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1° </B>— Incorp&oacute;rase a la droga NIMESULIDA a vigilancia controlada por el Sistema Nacional de Farmacovigilancia en raz&oacute;n de lo expresado en el Considerando de la presente Disposici&oacute;n.</P> <P ALIGN='JUSTIFY'>A tales efectos enti&eacute;ndese por Vigilancia Controlada a aquella vigilancia de principios activos que por sus efectos adversos merezcan ser especialmente observados por el Sistema Nacional de Farmacovigilancia.</P> <B><P ALIGN='JUSTIFY'>Art. 2° </B>— Establ&eacute;cese que la concentraci&oacute;n de 200 mg de las especialidades medicinales que contengan como principio activo NIMESULIDA como monodroga o asociada s&oacute;lo se admitir&aacute; cuando se presente en comprimidos ranurados que permitan su fraccionamiento por el paciente, para el cumplimiento de la dosis m&aacute;xima de 100 mg cada doce (12) horas.</P> <P ALIGN='JUSTIFY'>Los laboratorios titulares de especialidades medicinales que contengan como principio activo NIMESULIDA como monodroga o asociada deber&aacute;n dentro del plazo de sesenta (60) d&iacute;as contados a partir del d&iacute;a siguiente al de su publicaci&oacute;n en el Bolet&iacute;n Oficial de la presente Disposici&oacute;n, adecuar las presentaciones de los comprimidos de 200 mg a lo establecido en el primer p&aacute;rrafo del presente art&iacute;culo.</P> <B><P ALIGN='JUSTIFY'>Art. 3° </B>— Apru&eacute;base el Modelo de Prospecto Normativo a utilizar en especialidades medicinales que contengan como principio activo NIMESULIDA, como monodroga o asociada, y que obra en el Anexo I de la presente Disposici&oacute;n, que forma parte integrante de la misma.</P> <B><P ALIGN='JUSTIFY'>Art. 4° </B>— Los laboratorios titulares de especialidades medicinales que contengan como principio activo NIMESULIDA como monodroga o asociada deber&aacute;n adecuar sus prospectos a lo establecido en la presente Disposici&oacute;n dentro del plazo de treinta (30) d&iacute;as contados a partir del d&iacute;a siguiente al de su publicaci&oacute;n en el Bolet&iacute;n Oficial.</P> <B><P ALIGN='JUSTIFY'>Art. 5° </B>— Conv&oacute;case a los profesionales m&eacute;dicos y odont&oacute;logos que prescriban especialidades medicinales que contengan el principio activo NIMESULIDA como monodroga o asociado, a notificar al Sistema Nacional de Farmacovigilancia todo evento adverso serio atribuido al f&aacute;rmaco.</P> <B><P ALIGN='JUSTIFY'>Art. 6° </B>— Los laboratorios titulares de especialidades medicinales que contengan como principio activo NIMESULIDA, obligatoriamente deber&aacute;n notificar al Sistema Nacional de Farmacovigilancia todo evento adverso serio atribuido al f&aacute;rmaco.</P> <B><P ALIGN='JUSTIFY'>Art. 7° </B>— Reg&iacute;strese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n, comun&iacute;quese a las autoridades provinciales y a las del Gobierno Aut&oacute;nomo de la Ciudad de Buenos Aires, a CAEME, CILFA, COOPERALA, CAPROFAC, CAPGEN, COFA, COMRA y dem&aacute;s Entidades Profesionales. D&eacute;se copia al Departamento de Relaciones Institucionales. Cumplido, arch&iacute;vese. — Manuel R. Limeres.</P> <P ALIGN='CENTER'>PROSPECTO NORMATIVO ADJUNTO AL ENVASE DE VENTA</P> <P ALIGN='CENTER'>ANEXO I</P> <P ALIGN='CENTER'>INDUSTRIA ARGENTINA &#9;&#9;VENTA BAJO RECETA</P> <P ALIGN='CENTER'>NIMESULIDA</P> <P ALIGN='CENTER'>Comprimidos</P> <P ALIGN='JUSTIFY'>FORMULA </P> <P ALIGN='JUSTIFY'>NIMESULIDA Comprimidos................................. 100,00 mg </P> <P ALIGN='JUSTIFY'>NIMESULIDA Comprimidos ranurados.................200,00 mg </P> <P ALIGN='JUSTIFY'>Excipientes </P> <P ALIGN='JUSTIFY'>ACCION TERAPEUTICA </P> <P ALIGN='JUSTIFY'>Antirreum&aacute;tico, analg&eacute;sico, antiinflamatorio no esteroide.</P> <P ALIGN='JUSTIFY'>INDICACIONES </P> <P ALIGN='JUSTIFY'>Artritis, artrosis, tenosinovitis, osteoartritis. Otras afecciones inflamatorias: anexitis.</P> <P ALIGN='JUSTIFY'>CARACTERISTICAS FARMACOLOGICAS Y PROPIEDADES </P> <P ALIGN='JUSTIFY'>La Nimesulida es un antiinflamatorio no esteroide y qu&iacute;micamente una sulfoanilida. Su mecanismo de acci&oacute;n principal es la inhibici&oacute;n preferencial de la isoforma 2 de la ciclooxigenasa (COX- 2). Su absorci&oacute;n, cuando se administra por v&iacute;a oral, es r&aacute;pida y extensa y las concentraciones plasm&aacute;ticas m&aacute;ximas se alcanzan aproximadamente en 2 a 3 horas.</P> <P ALIGN='JUSTIFY'>Presenta una elevada tasa de uni&oacute;n a prote&iacute;nas plasm&aacute;ticas (&gt;95%) y su vida media es de 2 a 5 horas. La Nimesulida se metaboliza preponderantemente a un derivado 4-hidroxi y los metab&oacute;licos se excretan de modo preferente (&gt;80%) por los ri&ntilde;ones.</P> <P ALIGN='JUSTIFY'>POSOLOGIA Y FORMA DE ADMINISTRACION</P> <P ALIGN='JUSTIFY'>Adultos (a partir de los 16 a&ntilde;os):</P> <P ALIGN='JUSTIFY'>Posolog&iacute;a no mayor a 200 mg/d&iacute;a; en dosis que no superen los 100 mg cada doce horas.</P> <P ALIGN='JUSTIFY'>Durante per&iacute;odos no superiores a 7 (siete) d&iacute;as.</P> <P ALIGN='JUSTIFY'>En geriatr&iacute;a la dosis no deber&aacute; superar los 100 mg/d&iacute;a.</P> <P ALIGN='JUSTIFY'>CONTRAINDICACIONES </P> <P ALIGN='JUSTIFY'>Insuficiencia renal. Hepatopat&iacute;a previa, antecedentes de alergia o asma por Nimesulida, aspirina u otros antiinflamatorios no esteroides (AINEs). Hemorragia gastrointestinal activa, &uacute;lcera p&eacute;ptica. Obstrucci&oacute;n pil&oacute;rica.</P> <P ALIGN='JUSTIFY'>Menores de 16 a&ntilde;os. Embarazo y lactancia.</P> <P ALIGN='JUSTIFY'>ADVERTENCIAS </P> <P ALIGN='JUSTIFY'>• El tratamiento no puede superar los 7 d&iacute;as. En pacientes alcoh&oacute;licos y a&ntilde;osos deber&aacute;n realizarse controles de la funci&oacute;n hep&aacute;tica y suspender la medicaci&oacute;n frente a m&iacute;nimas alteraciones de la misma. Existen reportes de casos de hepatitis medicamentosa en pacientes tratados con Nimesulida.</P> <P ALIGN='JUSTIFY'>• Se han reportado episodios aislados de insuficiencia hep&aacute;tica en personas que recib&iacute;an Nimesulida sin que se halla podido establecer una relaci&oacute;n directa. Sin embargo no debe utilizarse Nimesulida en personas con antecedentes de enfermedad hep&aacute;tica cr&oacute;nica o da&ntilde;o hep&aacute;tico severo previo.</P> <P ALIGN='JUSTIFY'>• Los pacientes con asma asociado a rinitis cr&oacute;nica, sinusitis y/o poliposis nasal presentan mayor riesgo de manifestaciones al&eacute;rgicas por aspirina o AINEs que la poblaci&oacute;n general.</P> <P ALIGN='JUSTIFY'>• Las hemorragias gastrointestinales o las &uacute;lceras o perforaciones pueden producirse en cualquier momento en el curso del tratamiento. El riesgo relativo aumenta en el paciente de edad y en el paciente bajo tratamiento con anticoagulantes o antiagregantes plaquetarios. En caso de hemorragia gastroinstestinal o de &uacute;lcera, debe interrumpirse de inmediato el tratamiento.</P> <P ALIGN='JUSTIFY'>• La Nimesulida debe ser administrada con prudencia y bajo estricta supervisi&oacute;n m&eacute;dica, en especial en pacientes con antecedentes digestivos (afecciones gastrointestinales, antecedentes de &uacute;lcera, colitis ulcerosa, enfermedad de Crohn), o hematol&oacute;gicos (trastornos de coagulaci&oacute;n, alteraciones hematol&oacute;gicas), hep&aacute;ticas o renales.</P> <P ALIGN='JUSTIFY'>• Es necesario el control de la funci&oacute;n renal en pacientes con insuficiencia card&iacute;aca o insuficiencia renal cr&oacute;nica, en pacientes que reciben diur&eacute;ticos, despu&eacute;s de una hipovolemia por una intervenci&oacute;n quir&uacute;rgica o trauma.</P> <P ALIGN='JUSTIFY'>• Suministrar con cautela en pacientes geri&aacute;tricos.</P> <P ALIGN='JUSTIFY'>PRECAUCIONES </P> <P ALIGN='JUSTIFY'>Embarazo y lactancia: Este medicamento est&aacute; contraindicado durante el embarazo y/o lactancia.</P> <P ALIGN='JUSTIFY'>Uso en pediatr&iacute;a: No hay estudios cl&iacute;nicos que avalen su eficacia e inocuidad en ni&ntilde;os, por lo cual su uso est&aacute; contraindicado en los menores de 16 a&ntilde;os.</P> <P ALIGN='JUSTIFY'>Interacciones Medicamentosas:</P> <P ALIGN='JUSTIFY'>Asociaciones desaconsejadas:</P> <P ALIGN='JUSTIFY'>• Sales de potasio, diur&eacute;ticos hiperkalemiantes, inhibidores de la ECA, AINEs, heparinas de bajo peso molecular, ciclosporina, tacrolimus, trimetoprima: riesgo de hiperkalemia.</P> <P ALIGN='JUSTIFY'>• Otros AINEs y salicilatos: Aumento del riesgo ulcerog&eacute;nico, de hemorragia digestiva, y de hepatotoxicidad.</P> <P ALIGN='JUSTIFY'>• Anticoagulantes orales: Aumento de riesgo hemorr&aacute;gico por inhibici&oacute;n de la funci&oacute;n plaquetaria y agresi&oacute;n de la mucosa gastroduodenal.</P> <P ALIGN='JUSTIFY'>• Heparinas (por v&iacute;a parenteral): Aumento del riesgo hemorr&aacute;gico por inhibici&oacute;n de la funci&oacute;n plaquetaria y agresi&oacute;n de la mucosa gastroduodenal.</P> <P ALIGN='JUSTIFY'>• Litio (descripto para otros AINEs): Aumento de las concentraciones de litio, que pueden alcanzar valores t&oacute;xicos.</P> <P ALIGN='JUSTIFY'>• Metotrexato (a dosis mayores de 15 mg/semana): Aumento de la toxicidad hematol&oacute;gica del metotrexato (disminuci&oacute;n del clearance renal por los antiinflamatorios).</P> <P ALIGN='JUSTIFY'>• Ticlopidina: Aumento del riesgo hemorr&aacute;gico.</P> <P ALIGN='JUSTIFY'>Asociaciones que requieren precauciones en la administraci&oacute;n:</P> <P ALIGN='JUSTIFY'>• Diur&eacute;ticos, inhibidores de la ECA, inhibidores de la angiotensina II: Riesgo de insuficiencia renal aguda en el paciente deshidratado. Reducci&oacute;n del efecto antihipertensivo de los inhibidores de la ECA e inhibidores de la angiotensina II.</P> <P ALIGN='JUSTIFY'>• Metotrexato (a dosis inferiores a 15 mg/semana): Aumento de la toxicidad hematol&oacute;gica de metotrexato (disminuci&oacute;n del clearance renal por los antiinflamatorios).</P> <P ALIGN='JUSTIFY'>• Pentoxifilina: Aumento del riesgo hemorr&aacute;gico.</P> <P ALIGN='JUSTIFY'>Interacciones Medicamentosas:</P> <P ALIGN='JUSTIFY'>Betabloqueantes: Reducci&oacute;n del efecto antihipertensivo.</P> <P ALIGN='JUSTIFY'>• Ciclosporina: Suma de efectos nefrot&oacute;xicos.</P> <P ALIGN='JUSTIFY'>• Dispositivos intrauterinos: Existen controversias acerca del riesgo de disminuci&oacute;n de la eficacia de los dispositivos intrauterinos.</P> <P ALIGN='JUSTIFY'>• Trombol&iacute;ticos: Aumento del riesgo hemorr&aacute;gico.</P> <P ALIGN='JUSTIFY'>La Nimesulida ha demostrado disminuir la biodisponibilidad oral de la Furosemida y desplazar de la uni&oacute;n a prote&iacute;nas plasm&aacute;ticas al fenofibrato, &aacute;cido salic&iacute;lico y tolbutamida. Se ha informado una interacci&oacute;n posible entre la Nimesulida y la Warfarina con un incremento del riesgo de sangrado.</P> <P ALIGN='JUSTIFY'>La asociaci&oacute;n entre Nimesulida y Orfenadrina puede aumentar o prolongar los efectos de los hipoglucemiantes orales, los anticoagulantes orales y los antiepil&eacute;pticos. Adem&aacute;s, pueden aumentar las concentraciones plasm&aacute;ticas de Litio, Metotrexato y Probenecid.</P> <P ALIGN='JUSTIFY'>El uso concomitante de Dextropropoxifeno y Orfenadrina puede resultar en confusi&oacute;n, ansiedad y temblores.</P> <P ALIGN='JUSTIFY'>En pacientes que reciben antipsic&oacute;ticos con efecto antimuscar&iacute;nico es probable que este efecto sea potenciado por lo que se recomienda evitar esta combinaci&oacute;n o en caso contrario controlar estrechamente la aparici&oacute;n de efectos indeseados.</P> <P ALIGN='JUSTIFY'>EFECTOS ADVERSOS </P> <P ALIGN='JUSTIFY'>Pueden presentarse:</P> <P ALIGN='JUSTIFY'>• Alteraciones Renales: agravaci&oacute;n de la funci&oacute;n renal. Nefritis intersticial.</P> <P ALIGN='JUSTIFY'>• Alteraciones gastrointestinales: Se han informado n&aacute;useas, epigastralgia, dolor abdominal, diarrea, constipaci&oacute;n. Excepcionalmente algunos casos de &uacute;lcera. Posibilidad de hemorragia digestiva.</P> <P ALIGN='JUSTIFY'>• Alteraciones hep&aacute;ticas: Raramente, casos de hepatitis aguda, t&oacute;xica y, excepcionalmente, casos de hepatitis severa. Modificaciones de pruebas de funci&oacute;n hep&aacute;tica: elevaci&oacute;n de aminotransferasas, fosfatasa alcalina y/o de la bilirrubina.</P> <P ALIGN='JUSTIFY'>• Reacciones por hipersensibilidad:</P> <P ALIGN='JUSTIFY'>- Dermatol&oacute;gicas: Erupci&oacute;n, rash, prurito, empeoramiento de urticaria cr&oacute;nica.</P> <P ALIGN='JUSTIFY'>- Respiratorias: Crisis asm&aacute;ticas en pacientes al&eacute;rgicos a la aspirina o a otros AINEs.</P> <P ALIGN='JUSTIFY'>- Generales: Edema Angioneur&oacute;tico de Quincke.</P> <P ALIGN='JUSTIFY'>• Sistema Nervioso Central: Cefalea, v&eacute;rtigo, somnolencia.</P> <P ALIGN='JUSTIFY'>ESTE PRODUCTO DEBE INDICARSE TENIENDO EN CUENTA LA EVALUACION RIESGO/BENEFICIO Y NO DEBE UTILIZARSE SI EL PACIENTE RESPONDE A OTRAS ALTERNATIVAS TERAPEUTICAS DE MENOR RIESGO.</P> <P ALIGN='JUSTIFY'>SOBREDOSIFICACION:</P> <P ALIGN='JUSTIFY'>Se desconocen los s&iacute;ntomas de sobredosificaci&oacute;n, por lo que en estos casos se deber&aacute; recurrir a terapia sintom&aacute;tica. En caso de sobredosis, el tratamiento consistir&aacute; en la inducci&oacute;n del v&oacute;mito o el lavado g&aacute;strico, medidas de cuidado general, mantenimiento de la v&iacute;a a&eacute;rea y la oxigenaci&oacute;n, administraci&oacute;n de fluidos por v&iacute;a endovenosa, y un adecuado monitoreo de los signos vitales. No debe inducirse el v&oacute;mito en ni&ntilde;os menores de 1 a&ntilde;o de edad o en pacientes con trastornos de la conciencia.</P> <P ALIGN='JUSTIFY'>Ante la eventualidad de una sobredosificaci&oacute;n, concurrir al Hospital m&aacute;s cercano o comunicarse con los centros de Toxicolog&iacute;a: Hospital de Pediatr&iacute;a Ricardo Guti&eacute;rrez:</P> <P ALIGN='JUSTIFY'>(011) 4 962-6666/2247; Hospital A. Posadas: (011) 4 654-6648/658-7777.</P> <P ALIGN='JUSTIFY'>PRESENTACION: Envases conteniendo comprimidos.</P> <P ALIGN='JUSTIFY'>CONSERVAR A TEMPERATURA INFERIOR A 30°C </P> <P ALIGN='JUSTIFY'>MANTENER FUERA DEL ALCANCE DE LOS NI&Ntilde;OS </P> <P ALIGN='JUSTIFY'>ESTE PRODUCTO ESTA EN VIGILANCIA CONTROLADA POR LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (A.N.M.A.T.) EN CASO DE OBSERVAR REACCIONES ADVERSAS SEVERAS COMUNICAR AL DEPARTAMENTO DE FARMACOVIGILANCIA - AV. DE MAYO 869 - PISO 11° - 4340-0866 - email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="55263b33233215343b3834217b323a237b3427">[email&#160;protected]</a> - P&aacute;gina Web: www.anmat.gov.ar </P> <P ALIGN='JUSTIFY'>VENTA BAJO RECETA </P> <P ALIGN='JUSTIFY'>ANTE CUALQUIER DUDA O REACCION ADVERSA CONSULTE CON URGENCIA A SU MEDICO ESPECIALIDAD MEDICINAL AUTORIZADA POR EL MINISTERIO DE SALUD.</P> <P ALIGN='JUSTIFY'>Certificado N° </P> <P ALIGN='JUSTIFY'>Directora T&eacute;cnica:</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-4087-2003-87478" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

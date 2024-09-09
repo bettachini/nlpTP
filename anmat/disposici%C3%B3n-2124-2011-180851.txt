@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2124-2011-180851/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2124-2011-180851/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2124-2011-180851/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"GNbxZqaeJPZ2Ot7RZPyn6RSOiJmmEHEgh11FSsyi7nU","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-2124-2011-180851\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-2124-2011-180851 page-normativa-nacional-disposición-2124-2011-180851-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-2124-2011-180851/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-g5uq8lKP-khnX44LvR6O0Z_9TD7Ta29DAO30CgXxveI" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-2124-2011-180851">Disposición   2124/2011</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2011-04-05</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 2124/2011</P> <P ALIGN='JUSTIFY'>Cre&aacute;se el Programa Nacional de Control de Mercado de Medicamentos y Productos M&eacute;dicos.</P> </B><P ALIGN='JUSTIFY'>Bs. As., 28/3/2011</P> <P ALIGN='JUSTIFY'>VISTO la Ley N° 16.463, la Decisi&oacute;n Administrativa Nº 22/2003, los Decretos Nº 9763/64, 150/92 (t.o. Dec. 177/93), 341/92, 1490/92, sus normas modificatorias y complementarias, y el Expediente Nº 1-47-1110-97-11-7 del Registro de esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica, y</P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que de conformidad con el Art&iacute;culo 1° de la Ley N° 16.463, quedan sometidos a su r&eacute;gimen y a los reglamentos que en su consecuencia se dicten la importaci&oacute;n, exportaci&oacute;n, producci&oacute;n, elaboraci&oacute;n, fraccionamiento, comercializaci&oacute;n o dep&oacute;sito en jurisdicci&oacute;n nacional o con destino al comercio interprovincial, de las drogas, productos qu&iacute;micos, reactivos, formas farmac&eacute;uticas, medicamentos, elementos de diagn&oacute;stico y todo otro producto de uso y aplicaci&oacute;n en la medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades.</P> <P ALIGN='JUSTIFY'>Que el art&iacute;culo 2º de la citada Ley establece que las actividades mencionadas s&oacute;lo podr&aacute;n realizarse previa autorizaci&oacute;n y bajo el contralor de la Autoridad Sanitaria, en establecimientos por ella habilitados y bajo la direcci&oacute;n t&eacute;cnica del profesional universitario correspondiente; todo ello en las condiciones y dentro de las normas que establezca la reglamentaci&oacute;n, atendiendo a las caracter&iacute;sticas particulares de cada actividad y a razonables garant&iacute;as t&eacute;cnicas en salvaguarda de la salud p&uacute;blica y de la econom&iacute;a del consumidor.</P> <P ALIGN='JUSTIFY'>Que al mismo tiempo, su art&iacute;culo 3° prescribe que los productos comprendidos en la citada ley deber&aacute;n reunir las condiciones establecidas en la Farmacopea Argentina y, en caso de no figurar en ella, las que surgen de los patrones internacionales y de los textos de reconocido valor cient&iacute;fico, a la vez que deben ser inscriptos ante esta Administraci&oacute;n previamente a su comercializaci&oacute;n (cfr. art. 2°, Decreto Nº 150/92).</P> <P ALIGN='JUSTIFY'>Que el art&iacute;culo 1º del Decreto Nº 9763/64, reglamentario de la Ley Nº 16.463, establece que el ejercicio del poder de polic&iacute;a sanitaria referido a las actividades indicadas en el art&iacute;culo 1º de la Ley 16.463 y a las personas de existencia visible o ideal que intervengan en las mismas se har&aacute; efectivo por el Ministerio de Asistencia Social y Salud P&uacute;blica de la Naci&oacute;n (hoy Ministerio de Salud) en las jurisdicciones que all&iacute; se indican.</P> <P ALIGN='JUSTIFY'>Que, asimismo por Decreto Nº 1490/92, se cre&oacute; esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica (ANMAT), como organismo descentralizado de la Administraci&oacute;n P&uacute;blica Nacional, con un r&eacute;gimen de autarqu&iacute;a econ&oacute;mica y financiera, con jurisdicci&oacute;n en todo el territorio de la Naci&oacute;n, asumiendo las referidas funciones.</P> <P ALIGN='JUSTIFY'>Que en virtud del art. 3º, inc. a, del mencionado Decreto, esta Administraci&oacute;n Nacional tiene competencia, entre otras materias, en todo lo referido al control y fiscalizaci&oacute;n sobre la sanidad y calidad de las drogas, productos qu&iacute;micos, reactivos, formas farmac&eacute;uticas, medicamentos, elementos de diagn&oacute;stico, materiales y tecnolog&iacute;a biom&eacute;dicos y todo otro producto de uso y aplicaci&oacute;n en la medicina humana.</P> <P ALIGN='JUSTIFY'>Que por el precitado Decreto se dispuso tambi&eacute;n que la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica M&eacute;dica (ANMAT) sea el &oacute;rgano de aplicaci&oacute;n de las normas legales que rigen las materias sujetas a su competencia, las que en el futuro se sancionen y las que en uso de sus atribuciones dicten el Ministerio de Salud y Acci&oacute;n Social (hoy Ministerio de Salud) y la Secretar&iacute;a de Salud (hoy Secretar&iacute;a de Pol&iacute;ticas, Regulaci&oacute;n e Institutos), en referencia al &aacute;mbito de acci&oacute;n de la Administraci&oacute;n (art. 4º).</P> <P ALIGN='JUSTIFY'>Que todo ello fue complementado con la consecuente potestad (obligaci&oacute;n/atribuci&oacute;n) para fiscalizar adecuada y razonablemente el cumplimiento de las normas de sanidad y calidad establecidas para los productos, substancias, elementos, materiales, tecnolog&iacute;as y procesos mencionados, como as&iacute; tambi&eacute;n para proceder al registro y/o autorizaci&oacute;n y/o habilitaci&oacute;n —conforme a las disposiciones aplicables— de las personas f&iacute;sicas o jur&iacute;dicas que intervengan en las acciones de aprovisionamiento, producci&oacute;n, elaboraci&oacute;n, fraccionamiento, importaci&oacute;n y/o exportaci&oacute;n, dep&oacute;sito y comercializaci&oacute;n de los productos mencionados, fiscalizando o supervisando la ejecuci&oacute;n de dichas actividades (art. 8º , incs. I y II).</P> <P ALIGN='JUSTIFY'>Que esta Administraci&oacute;n se encuentra facultada para disponer, en base a sus competencias, la realizaci&oacute;n de todo tipo de controles, verificaciones e inspecciones que se considere adecuados, y adoptar, ante la detecci&oacute;n de cualquier factor de riesgo relacionado con la calidad y sanidad de los productos, substancias, elementos o materiales comprendidos en el art. 3º del Decreto, las medidas m&aacute;s oportunas y adecuadas para proteger la salud de la poblaci&oacute;n, conforme a la normativa vigente (art. 8º, incs. n y &ntilde;).</P> <P ALIGN='JUSTIFY'>Que a los efectos de desarrollar las acciones previstas por el art. 8º, del Decreto Nº 1490/92, de conformidad con el art. 10, inc. Il, el Director nacional de esta Administraci&oacute;n posee la atribuci&oacute;n de dictar los reglamentos, normas internas y disposiciones administrativas necesarios para el funcionamiento del organismo, estableciendo las delegaciones de funciones en las &aacute;reas y funcionarios correspondientes.</P> <P ALIGN='JUSTIFY'>Que los medicamentos y productos m&eacute;dicos falsificados representan un problema de salud p&uacute;blica a nivel global, que causa muertes, enfermedades y da&ntilde;os que afectan a adultos y ni&ntilde;os por igual. Ning&uacute;n pa&iacute;s resulta ajeno a este problema, que afecta a los pa&iacute;ses desarrollados y en desarrollo por igual.</P> <P ALIGN='JUSTIFY'>Que resulta imprescindible que los pa&iacute;ses adopten una actitud proactiva a los efectos de contrarrestar el impacto negativo que el comercio de estos productos ileg&iacute;timos representa para la salud de los pacientes y los sistemas sanitarios de los pa&iacute;ses.</P> <P ALIGN='JUSTIFY'>Que luego del nacimiento de la Organizaci&oacute;n Mundial de la Salud (OMS) en el a&ntilde;o 1948, la inquietud en lo referente a la calidad de los medicamentos adquiri&oacute; dimensi&oacute;n mundial.</P> <P ALIGN='JUSTIFY'>Que el problema de los medicamentos falsificados se abord&oacute; por primera vez a nivel internacional en el a&ntilde;o 1985, en la Conferencia de Expertos sobre el Uso Racional de los Medicamentos desarrollada en Nairobi, recomendando que la OMS, junto a organizaciones internacionales y no gubernamentales, deber&iacute;an estudiar la posibilidad de establecer un centro coordinador con el fin de recopilar datos e informar a los gobiernos acerca de la naturaleza y el grado de la falsificaci&oacute;n.</P> <P ALIGN='JUSTIFY'>Que la Asamblea Mundial de la Salud, en el a&ntilde;o 1988, adopt&oacute; la resoluci&oacute;n WHA 41.16, que solicitaba al Director General de la OMS emprender programas para la prevenci&oacute;n y detecci&oacute;n de la exportaci&oacute;n, la importaci&oacute;n y el contrabando de preparaciones farmac&eacute;uticas indebidamente etiquetadas, adulteradas o que no se ajustaran a las normas de calidad exigidas. Esta misma norma instaba al Director General a cooperar con el Secretario General de las Naciones Unidas en casos de violaci&oacute;n de la normas de los tratados internacionales sobre medicamentos.</P> <P ALIGN='JUSTIFY'>Que la primera reuni&oacute;n internacional sobre medicamentos falsificados fue organizada conjuntamente por la OMS y la Federaci&oacute;n Internacional de la Industria del Medicamento (IFPMA), en abril de 1992 en Ginebra, obteni&eacute;ndose consenso en la primera definici&oacute;n internacional de medicamento falsificado; en un intento por resolver el problema de los medicamentos falsificados, tambi&eacute;n se adoptaron recomendaciones integrales en el tema, que instaron al compromiso de todas las partes involucradas en la fabricaci&oacute;n, la distribuci&oacute;n y el uso de los medicamentos, incluidos los farmac&eacute;uticos y consumidores.</P> <P ALIGN='JUSTIFY'>Que en el a&ntilde;o 1994, la Asamblea Mundial de la Salud adopt&oacute; la resoluci&oacute;n WHA 47.13, por medio de la cual se solicit&oacute; al Director General de la OMS que ayudara a los Estados Miembros en sus esfuerzos para garantizar que los medicamentos disponibles sean de buena calidad, y a combatir la utilizaci&oacute;n de medicamentos falsificados.</P> <P ALIGN='JUSTIFY'>Que con estos antecedentes, en 1995 se lanz&oacute; el Proyecto Conjunto DMP-DAP (Direcci&oacute;n de Gesti&oacute;n y Pol&iacute;ticas de Medicamentos y Programa de Acci&oacute;n sobre Medicamentos Esenciales, respectivamente) sobre Medicamentos Falsificados, emprendido por la OMS, cuyo objetivo era hacer un an&aacute;lisis sobre la prevalencia y tipo de falsificaci&oacute;n de medicamentos; sobre el progreso en la resoluci&oacute;n del problema, establecer una red para fortalecer iniciativas contra la falsificaci&oacute;n y asistir a los gobiernos en la implementaci&oacute;n de acciones correctivas.</P> <P ALIGN='JUSTIFY'>Que en nuestro pa&iacute;s, dichas acciones fueron desarrolladas por esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica a partir del a&ntilde;o 1997, con la creaci&oacute;n del Programa Nacional de Pesquisa de Medicamentos Ileg&iacute;timos.</P> <P ALIGN='JUSTIFY'>Que dicho Programa fue creado con el objeto de combatir un fen&oacute;meno que cobr&oacute; gran fuerza en esos d&iacute;as: la producci&oacute;n de f&aacute;rmacos destinados al tratamiento de diversas enfermedades, en locales no habilitados o simples galpones.</P> <P ALIGN='JUSTIFY'>Que de acuerdo a la estructura organizativa del primer nivel operativo de esta Administraci&oacute;n aprobada por Decisi&oacute;n Administrativa Nº 22/2003, es responsabilidad primaria del Instituto Nacional de Medicamentos registrar y controlar las drogas, medicamentos, reactivos y elementos de diagn&oacute;stico, cosm&eacute;ticos y otros productos de uso y aplicaci&oacute;n en medicina humana mediante estudios farmacot&eacute;cnicos, biol&oacute;gicos, farmacol&oacute;gicos b&aacute;sicos y toxic&oacute;logos, como as&iacute; tambi&eacute;n de las actividades, procesos y tecnolog&iacute;as que se realicen en funci&oacute;n de la elaboraci&oacute;n, fraccionamiento, importaci&oacute;n y/o exportaci&oacute;n, dep&oacute;sito y comercializaci&oacute;n de dichos productos, a fin de asegurar a la poblaci&oacute;n el consumo y uso de elementos de calidad comprobada.</P> <P ALIGN='JUSTIFY'>Que entre las acciones a su cargo para cumplir tal cometido se encuentra la de vigilar la legitimidad de los productos que se comercializan y son de su competencia, a trav&eacute;s del Programa de Pesquisa de Medicamentos Ileg&iacute;timos (ver Anexo II... INSTITUTO NACIONAL DE MEDICAMENTOS, Responsabilidad Primaria... Acciones, punto 7º de la Decisi&oacute;n Administrativa Nº 22/2003).</P> <P ALIGN='JUSTIFY'>Que en el marco del aludido Programa se comenzaron a realizar tareas de fiscalizaci&oacute;n y control de los establecimientos dedicados a la comercializaci&oacute;n de medicamentos, siendo su objetivo inicial la identificaci&oacute;n y erradicaci&oacute;n de los medicamentos falsificados de los canales de distribuci&oacute;n de medicamentos.</P> <P ALIGN='JUSTIFY'>Que como consecuencia del trabajo de campo realizado, que contin&uacute;a en la actualidad, pudo detectarse, adem&aacute;s de la existencia de medicamentos falsificados, otro tipo de irregularidades (productos robados, de contrabando, sin registro, etc.), que dieron origen al concepto m&aacute;s amplio de medicamentos ileg&iacute;timos, posibilitando asimismo mensurar la magnitud de este flagelo en el pa&iacute;s, y permitiendo controlar la circulaci&oacute;n de dichos medicamentos en el mercado interno.</P> <P ALIGN='JUSTIFY'>Que la extensi&oacute;n de la fiscalizaci&oacute;n abarc&oacute; principalmente, desde un primer momento, a las droguer&iacute;as y farmacias, a efectos de prevenir y actuar espec&iacute;ficamente sobre el circuito de introducci&oacute;n ileg&iacute;tima de especialidades medicinales al mercado, con el objetivo fundamental de garantizar que los medicamentos que lleguen al consumidor cuenten con la autorizaci&oacute;n sanitaria respectiva y sean de calidad, seguridad y eficacia comprobadas.</P> <P ALIGN='JUSTIFY'>Que no obstante, el universo de acci&oacute;n del Programa, cuyo alcance se extiende al &aacute;mbito nacional, comprende asimismo otros puntos de venta y suministro de medicamentos, tales como las distribuidoras de medicamentos, botiquines de farmacias y establecimientos asistenciales p&uacute;blicos o privados, efectuando en muchos casos inspecciones en forma conjunta con las autoridades sanitarias jurisdiccionales.</P> <P ALIGN='JUSTIFY'>Que conforme a lo expuesto, puede afirmarse que el funcionamiento del Programa Nacional de Pesquisa de Medicamentos Ileg&iacute;timos ha seguido un modelo de desarrollo apoyado en un fuerte componente de fiscalizaci&oacute;n desde sus primeros a&ntilde;os de funcionamiento.</P> <P ALIGN='JUSTIFY'>Que el Programa Nacional de Pesquisa de Medicamentos Ileg&iacute;timos que esta Administraci&oacute;n viene desarrollando y aplicando desde el a&ntilde;o 1997 ha permitido reducir significativamente la presencia de medicamentos ileg&iacute;timos en la cadena de comercializaci&oacute;n de medicamentos.</P> <P ALIGN='JUSTIFY'>Que en forma concomitante la Procuraci&oacute;n General de la Naci&oacute;n constituy&oacute; mediante Resoluci&oacute;n M.P. Nº 54/97 una comisi&oacute;n compuesta por representantes del Ministerio P&uacute;blico Fiscal, que tuvo por objeto realizar las diligencias necesarias a fin de obtener todos los elementos de juicio que posibilitaran iniciar ante los se&ntilde;ores jueces que resulten competentes las investigaciones sumariales correspondientes relacionadas con la adulteraci&oacute;n de medicamentos y su posterior comercializaci&oacute;n, ratificada por su similar N° 154/08.</P> <P ALIGN='JUSTIFY'>Que asimismo, con fecha 18 de diciembre de 2008 esta ANMAT suscribi&oacute; un Convenio de Cooperaci&oacute;n Interinstitucional con la Procuraci&oacute;n General de la Naci&oacute;n, que tuvo por objetivo fortalecer las acciones de cooperaci&oacute;n llevadas a cabo entre las partes desde la creaci&oacute;n del PPMI y de la mencionada Comisi&oacute;n para la Investigaci&oacute;n de Hechos Il&iacute;citos relacionados con la adulteraci&oacute;n de Medicamentos, a trav&eacute;s de una acci&oacute;n conjunta y coordinada, capitalizando la experiencia, informaci&oacute;n y conocimientos adquiridos por ambas entidades; con posterioridad dicho Convenio fue protocolizado por la Procuraci&oacute;n General de la Naci&oacute;n mediante Resoluci&oacute;n PGN 173/08.</P> <P ALIGN='JUSTIFY'>Que con posterioridad, en el mes de diciembre de 2009 finaliz&oacute; un proceso de evaluaci&oacute;n por parte de la Organizaci&oacute;n Panamericana de la Salud (OPS) a esta Administraci&oacute;n, en el marco de una iniciativa de la Organizaci&oacute;n Mundial de la Salud (OMS) de promover la acreditaci&oacute;n de Autoridades Nacionales de Regulaci&oacute;n de Medicamentos.</P> <P ALIGN='JUSTIFY'>Que la evaluaci&oacute;n realizada concluy&oacute; finalmente con la certificaci&oacute;n de Nivel IV, m&aacute;xima calificaci&oacute;n que se otorga, la cual convirti&oacute; a esta Administraci&oacute;n en la Primera Autoridad Nacional de Referencia en Regulaci&oacute;n de Medicamentos de la regi&oacute;n de las Am&eacute;ricas, habi&eacute;ndose destacado — entre otras cuestiones— la actuaci&oacute;n de la misma en pos del combate de la falsificaci&oacute;n de medicamentos.</P> <P ALIGN='JUSTIFY'>Que en el &aacute;mbito internacional ha cobrado vigencia en los &uacute;ltimos a&ntilde;os una tendencia que propicia la conveniencia de actuar conjuntamente en pos de la prevenci&oacute;n y el combate de la falsificaci&oacute;n de medicamentos y productos o dispositivos m&eacute;dicos.</P> <P ALIGN='JUSTIFY'>Que as&iacute;, en el &aacute;mbito de la OMS, desde el a&ntilde;o 2006, y aunque sin un mandato claro por parte de los &oacute;rganos directivos de dicha organizaci&oacute;n, se implement&oacute; una Fuerza de Trabajo Internacional para el Combate a la Falsificaci&oacute;n de Productos M&eacute;dicos.</P> <P ALIGN='JUSTIFY'>Que la misma tendencia rese&ntilde;ada para el &aacute;mbito mundial y panamericano se ha presentado tambi&eacute;n en el contexto de la Comisi&oacute;n Productos para la Salud del MERCOSUR.</P> <P ALIGN='JUSTIFY'>Que en este marco, esta Administraci&oacute;n no puede permanecer ajena ante el proceso se&ntilde;alado, estim&aacute;ndose conveniente actuar de manera unificada en pos de la prevenci&oacute;n y combate de la falsificaci&oacute;n de medicamentos y productos m&eacute;dicos.</P> <P ALIGN='JUSTIFY'>Que concordantemente a lo se&ntilde;alado para los medicamentos, en la estructura organizativa del primer nivel operativo de esta Administraci&oacute;n aprobada por Decisi&oacute;n Administrativa Nº 22/2003 se establece como responsabilidad primaria de la Direcci&oacute;n de Tecnolog&iacute;a M&eacute;dica el controlar, fiscalizar y vigilar la calidad de los productos m&eacute;dicos como as&iacute; tambi&eacute;n las actividades, procesos y tecnolog&iacute;as que se realicen en funci&oacute;n de la elaboraci&oacute;n, fraccionamiento, importaci&oacute;n y/o exportaci&oacute;n y dep&oacute;sito de dichos productos a fin de asegurar a la poblaci&oacute;n la utilizaci&oacute;n de productos m&eacute;dicos de comprobada calidad, eficacia y seguridad.</P> <P ALIGN='JUSTIFY'>Que entre las acciones previstas para cumplir dicho cometido, se estableci&oacute; la de adoptar, ante la detecci&oacute;n de cualquier factor de riesgo relacionado con la calidad, eficacia y seguridad de los productos m&eacute;dicos, las medidas m&aacute;s oportunas y adecuadas para proteger la salud de la poblaci&oacute;n y fiscalizar adecuada y razonablemente el cumplimiento de las normas relacionadas con la calidad, eficacia y seguridad de los productos m&eacute;dicos (cfme. Anexo II... DIRECCION DE TECNOLOGIA MEDICA, Responsabilidad Primaria... Acciones, puntos 3 y 5 de la Decisi&oacute;n Administrativa Nº 22/2003, respectivamente).</P> <P ALIGN='JUSTIFY'>Que en virtud de lo expuesto, siendo que la fiscalizaci&oacute;n de los productos m&eacute;dicos se encuentra asimismo a cargo de esta Administraci&oacute;n, a ra&iacute;z de distintos reportes recibidos &uacute;ltimamente con relaci&oacute;n a la legitimidad de distintos productos m&eacute;dicos, y teniendo especialmente presente la experiencia acumulada a trav&eacute;s de la actuaci&oacute;n del Programa de Pesquisa de Medicamentos Ileg&iacute;timos desde su implementaci&oacute;n, se estima conveniente ampliar el &aacute;mbito de actuaci&oacute;n de dicho Programa, de forma tal que involucre la fiscalizaci&oacute;n de la legitimidad de los distintos productos m&eacute;dicos existentes en el mercado.</P> <P ALIGN='JUSTIFY'>Que por Memorando Nº 001/2008, de fecha 2 de enero de 2008, se design&oacute; a cargo de la Coordinaci&oacute;n del mencionado Programa a la farmac&eacute;utica Mar&iacute;a Jos&eacute; S&Aacute;NCHEZ, Legajo Nº 115.439.</P> <P ALIGN='JUSTIFY'>Que la experiencia acumulada por la citada funcionaria, de una amplia trayectoria previa en el Programa, como as&iacute; tambi&eacute;n su destacado desempe&ntilde;o en la conducci&oacute;n del mismo desde el a&ntilde;o 2008, evidencian la conveniencia de reafirmar a la nombrada profesional en tal funci&oacute;n con el nuevo alcance del citado Programa.</P> <P ALIGN='JUSTIFY'>Que el Instituto Nacional de Medicamentos y la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en uso de las facultades acordadas por los Decretos Nº 1490/92 y Nº 425/10.</P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º —</B> Cre&aacute;se en el &aacute;mbito de la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica (A.N.M.A.T.) el Programa Nacional de Control de Mercado de Medicamentos y Productos M&eacute;dicos.</P> <B><P ALIGN='JUSTIFY'>Art. 2º —</B> El citado Programa tendr&aacute; por objetivo principal contrarrestar el comercio, distribuci&oacute;n y entrega de medicamentos y productos m&eacute;dicos ileg&iacute;timos con el prop&oacute;sito de garantizar la calidad, eficacia y seguridad de los productos que llegan a la poblaci&oacute;n, en un todo de acuerdo con las competencias asignadas a esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica.</P> <B><P ALIGN='JUSTIFY'>Art. 3º —</B> A los efectos de cumplir su objetivo, establ&eacute;cese que las funciones del Programa Nacional de Control de Mercado de Medicamentos y Productos M&eacute;dicos son las siguientes:</P> <P ALIGN='JUSTIFY'>a) Monitorear y fiscalizar de manera permanente la cadena de comercializaci&oacute;n de medicamentos y productos m&eacute;dicos, de oficio y a partir de reportes.</P> <P ALIGN='JUSTIFY'>b) Verificar la legitimidad de los medicamentos y productos m&eacute;dicos existentes en el mercado ante los respectivos titulares de registro.</P> <P ALIGN='JUSTIFY'>c) Dar curso a los tr&aacute;mites de habilitaci&oacute;n y fiscalizar las droguer&iacute;as y distribuidoras de medicamentos que act&uacute;en a nivel interjurisdiccional, velando por el cumplimiento de las Buenas Pr&aacute;cticas de Almacenamiento, Distribuci&oacute;n y Transporte que resulten aplicables de conformidad con la normativa vigente.</P> <P ALIGN='JUSTIFY'>d) Proponer la adopci&oacute;n, de conformidad con la normativa aplicable, de las medidas preventivas que estime necesarias y/o adecuadas a los efectos de prevenir cualquier situaci&oacute;n de riesgo sanitario que pudiera eventualmente suscitarse.</P> <P ALIGN='JUSTIFY'>e) Emitir informes t&eacute;cnicos con expresa descripci&oacute;n de las conductas consideradas en infracci&oacute;n fundados en la normativa vigente, sugiriendo, en caso de corresponder, la iniciaci&oacute;n de los respectivos sumarios sanitarios.</P> <P ALIGN='JUSTIFY'>f) Prestar asistencia t&eacute;cnica a autoridades judiciales, aduaneras, autoridades sanitarias jurisdiccionales, asociaciones profesionales, fuerzas policiales, ministerio p&uacute;blico, autoridades sanitarias extranjeras y toda otra autoridad p&uacute;blica o asociaci&oacute;n que as&iacute; lo requiera.</P> <P ALIGN='JUSTIFY'>g) Confeccionar, ante la detecci&oacute;n de situaciones que pudieran configurar la comisi&oacute;n de un delito penal, las correspondientes denuncias criminales por ante la Comisi&oacute;n de Fiscales creada por la Resoluci&oacute;n PGN Nº 54/97, ratificada por su similar Nº 154/08.</P> <P ALIGN='JUSTIFY'>h) Dar cumplimiento a los compromisos asumidos en el marco del Convenio de Cooperaci&oacute;n Interinstitucional suscripto entre la ANMAT y la Procuraci&oacute;n General de la Naci&oacute;n con fecha 18 de diciembre de 2008, protocolizado por Resoluci&oacute;n PGN Nº 173/2008.</P> <P ALIGN='JUSTIFY'>i) Desarrollar actividades de sensibilizaci&oacute;n, educaci&oacute;n y capacitaci&oacute;n respecto de la problem&aacute;tica de la falsificaci&oacute;n de medicamentos y productos m&eacute;dicos, sus peligros y consecuencias.</P> <P ALIGN='JUSTIFY'>j) Proponer las normas complementarias, modificatorias y/o aclaratorias que estime necesarias y/o convenientes a los efectos de un mejor desarrollo de las labores propias de su &aacute;mbito de competencia.</P> <P ALIGN='JUSTIFY'>k) Participar activamente en foros y grupos de trabajos que traten la problem&aacute;tica de la falsificaci&oacute;n de medicamentos y productos m&eacute;dicos, tanto a nivel nacional como internacional.</P> <B><P ALIGN='JUSTIFY'>Art. 4º —</B> El Programa Nacional de Control de Mercado de Medicamentos y Productos M&eacute;dicos estar&aacute; a cargo de un Coordinador General quien llevar&aacute; a cabo la conducci&oacute;n del Programa, un Coordinador de Productos, un Coordinador de Cadena de Distribuci&oacute;n y un Asesor Legal, quienes deber&aacute;n velar por el cumplimiento de las funciones previstas en el art&iacute;culo anterior.</P> <B><P ALIGN='JUSTIFY'>Art. 5º —</B> Des&iacute;gnase a la farmac&eacute;utica Mar&iacute;a Jos&eacute; S&Aacute;NCHEZ, Legajo Nº 115.439, como Coordinadora General del Programa Nacional de Control de Mercado de Medicamentos y Productos M&eacute;dicos.</P> <B><P ALIGN='JUSTIFY'>Art. 6º —</B> El Programa Nacional de Control de Mercado de Medicamentos y Productos M&eacute;dicos creado por el art&iacute;culo 1º de la presente Disposici&oacute;n, depender&aacute; directamente de la Direcci&oacute;n Nacional de esta Administraci&oacute;n.</P> <B><P ALIGN='JUSTIFY'>Art. 7º —</B> La presente Disposici&oacute;n entrar&aacute; en vigencia a partir del d&iacute;a siguiente al de su publicaci&oacute;n en el Bolet&iacute;n Oficial.</P> <B><P ALIGN='JUSTIFY'>Art. 8º —</B> Reg&iacute;strese. D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial a efectos de su publicaci&oacute;n. Comun&iacute;quese a quien corresponda. Cumplido arch&iacute;vese, PERMANENTE. — Carlos A. Chiale.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-2124-2011-180851" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.104',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-8417-2016-263967/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-8417-2016-263967/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-8417-2016-263967/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"CgRfwz0ZG4F63hFv43_VEkrKvjrG4hIBCDsRBcDbgIQ","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-8417-2016-263967\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-8417-2016-263967 page-normativa-nacional-disposición-8417-2016-263967-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-8417-2016-263967/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-FID9HmU1PweqRempKf1krpsCHbtEW3z4Y5Uyeqyc2no" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-8417-2016-263967">Disposición   8417/2016</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2016-08-01</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>MINISTERIO DE SALUD</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>SECRETARÍA DE POLÍTICAS, REGULACIÓN E INSTITUTOS</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 8417/2016</span><br> <br> Bs. As., 29/07/2016<br> <br> VISTO la Ley 16.463 y los Decretos Nros. 9763/64 y 1490/92 y sus modificatorios, la Disposición ANMAT N° 3409/99 y el Expediente Nº 1-47-7409-16-2 del Registro de esta ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA; y<br> <br> CONSIDERANDO:<br> <br> Que de conformidad con el Artículo 1º de la Ley N° 16.463, quedan sometidos a su régimen y a los reglamentos que en su consecuencia se dicten, entre otras, las actividades de comercialización y depósito en jurisdicción nacional o con destino al comercio interprovincial, de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico y todo otro producto de uso y aplicación en la medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades.<br> <br> Que el Artículo 2º de la citada Ley establece que las actividades mencionadas sólo podrán realizarse previa autorización y bajo el contralor de la Autoridad Sanitaria, en establecimientos por ella habilitados y bajo la dirección técnica del profesional universitario correspondiente; todo ello en las condiciones y dentro de las normas que establezca la reglamentación, atendiendo a las características particulares de cada actividad y a razonables garantías técnicas en salvaguardia de la salud pública y de la economía del consumidor.<br> <br> Que el Artículo 1º del Decreto Nº 9763/64, reglamentario de la Ley N° 16.463, establece que el ejercicio del poder de policía sanitaria referido a las actividades indicadas en el Artículo 1º de la Ley 16.463 y a las personas de existencia visible o ideal que intervengan en las mismas se hará efectivo por el Ministerio de Asistencia Social y Salud Pública de la Nación (hoy Ministerio de Salud): a) en la Capital Federal, territorios nacionales y lugares sujetos a la jurisdicción del Gobierno Nacional; b) en lo pertinente al tráfico o comercio entre una provincia con otra o con cualesquiera de los lugares mencionados en el inciso a); c) en lo relativo a las operaciones de importación y exportación con el extranjero; d) en todos los casos en que los gobiernos de provincia soliciten su acción dentro de los límites de sus respectivas jurisdicciones.<br> <br> Que posteriormente, por Decreto Nº 1490/92, se creó esta ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT), como organismo descentralizado de la Administración Pública Nacional, con un régimen de autarquía económica y financiera, con jurisdicción en todo el territorio de la Nación, asumiendo las referidas funciones.<br> <br> Que esta Administración Nacional tiene competencia, entre otras materias, en todo lo referido al contralor de las actividades, procesos y tecnologías que se realicen en función del aprovisionamiento, producción, elaboración, fraccionamiento, importación y/o exportación, depósito y comercialización de medicamentos, y especialidades medicinales de uso humano (Artículo 3º, inciso e).<br> <br> Que por el precitado decreto se dispuso también que esta Administración Nacional sea el órgano de aplicación de las normas legales que rigen las materias sujetas a su competencia, las que en el futuro se sancionen y las que en uso de sus atribuciones dicten el Ministerio de Salud y Acción Social (hoy Ministerio de Salud) y la Secretaría de Salud (hoy Secretaría de Políticas, Regulación e Institutos), en referencia al ámbito de acción de la Administración (Artículo 4º).<br> <br> Que todo ello fue complementado con la consecuente potestad (obligación/atribución) para fiscalizar adecuada y razonablemente el cumplimiento de las normas de sanidad y calidad establecidas para los citados procesos y actividades, como así también para proceder al registro y/o autorización y/o habilitación &#8212;conforme a las disposiciones aplicables&#8212; de las personas físicas o jurídicas que intervengan en las acciones de aprovisionamiento, producción, elaboración, fraccionamiento, importación y/o exportación, depósito y comercialización de los productos mencionados, fiscalizando o supervisando la ejecución de dichas actividades (Artículo 8º, incisos I) y II).<br> <br> Que en algunas jurisdicciones provinciales existen pequeños y medianos laboratorios dedicados en forma exclusiva a la elaboración y/o fraccionamiento de drogas o medicamentos oficiales de acuerdo a la metodología y especificaciones de la edición vigente de la Farmacopea Nacional Argentina.<br> <br> Que con el fin de regular las actividades de fraccionamiento, elaboración y comercialización con destino al comercio interjurisdiccional de tales productos se dictó la Disposición ANMAT N° 3409/99.<br> <br> Que la referida norma estableció que las drogas y medicamentos oficinales/oficiales, codificados en la edición vigente de la Farmacopea Nacional Argentina mencionados en su Anexo I, sólo pueden ser fraccionadas, elaboradas y comercializadas por establecimientos habilitados o reconocidos para tal fin por esta Administración Nacional.<br> <br> Que de acuerdo con lo indicado en la aludida disposición, el Anexo I contempla aquellos medicamentos en cuya monografía, codificada en la edición vigente de la Farmacopea Nacional Argentina, se establece la fórmula cuali-cuantitativa completa junto con un método de elaboración, y sustancias químicas puras utilizadas en medicina que requieren un proceso de fraccionamiento.<br> <br> Que en relación con los medicamentos incluidos en el Anexo I, el Artículo 1° de de la Disposición ANMAT N° 3409/99 estableció que el listado de los productos allí indicados, podrá ser actualizado toda vez que razones de índole sanitaria o los adelantos científicos tecnológicos así lo justifiquen.<br> <br> Que atento al tiempo transcurrido desde el dictado de la referida norma resulta conveniente proceder a la actualización del mencionado listado.<br> <br> Que a esos fines se han tomado en cuenta aquellos preparados oficiales que en la actualidad se comercializan con frecuencia en el territorio de la República Argentina.<br> <br> Que asimismo teniendo en cuenta la experiencia adquirida durante la implementación de la aludida norma resulta necesario dictar nuevas disposiciones en relación a la habilitación de las empresas que realizan el fraccionamiento, elaboración y comercialización con destino al comercio interjurisdiccional de los productos mencionados y de los productos que ellas elaboran, fraccionan y comercialización.<br> <br> Que a ese respecto debe tenerse en cuenta que en las jurisdicciones provinciales existen también droguerías que, en los casos en que la legislación lo permite, realizan actividades de fraccionamiento, elaboración y comercialización de drogas y medicamentos oficiales con destino al comercio interjurisdiccional.<br> <br> Que finalmente, desde el punto de vista técnico y administrativo se hace necesario disponer de un registro ordenado y actualizado de las empresas que elaboran productos de Farmacopea con destino al tránsito interjurisdiccional y de los productos de Farmacopea inscriptos para tal fin, por ello resulta conveniente proceder a su reempadronamiento.<br> <br> Que el Instituto Nacional de Medicamentos y la Dirección General de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que se actúa en virtud de las facultades conferidas por el Decreto N° 1490 de fecha 20 de agosto de 1992 y el Decreto N° 101 del 16 de diciembre de 2015.<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1° &#8212; Las drogas y medicamentos oficiales, codificados en la edición vigente de la Farmacopea Argentina y enumerados en el listado que como ANEXO I forma parte integrante de la presente disposición, sólo podrán ser fraccionados, elaborados y comercializados con destino al comercio interjurisdiccional por laboratorios habilitados para tal fin ante esta ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA.<br> <br> El aludido listado incluye medicamentos en cuya monografía, codificada en la edición vigente de la Farmacopea Argentina, se establece la fórmula cuali-cuantitativa completa junto con un método de elaboración, como así también sustancias químicas puras utilizadas en medicina humana que requieren solamente de un proceso de fraccionamiento para ser destinadas a la comercialización como preparaciones oficiales.<br> <br> El referido listado podrá ser actualizado toda vez que razones de índole sanitaria lo justifiquen.<br> <br> ARTÍCULO 2° &#8212; Las droguerías que, de acuerdo con la normativa aplicable en su jurisdicción, puedan fraccionar, elaborar y comercializar drogas y medicamentos oficiales, sólo podrán realizar dichas actividades con destino al comercio interjurisdiccional respecto de los productos incluidos en el listado del ANEXO I, previa habilitación ante esta Administración Nacional en los términos previstos en el artículo precedente.<br> <br> ARTÍCULO 3° &#8212; A los fines de obtener la habilitación para elaborar, fraccionar y comercializar drogas y medicamentos oficiales, deberá presentarse el Formulario que, como ANEXO II, forma parte integrante de la presente disposición y la documentación allí indicada en la Mesa de Entradas del INSTITUTO NACIONAL DE MEDICAMENTOS (INAME).<br> La habilitación de los establecimientos se realizará previa inspección por parte de esta ADMINISTRACIÓN NACIONAL, debiendo cumplir con las correspondientes recomendaciones de buenas prácticas de fabricación vigentes, sujetas a su calificación de deficiencias específica.<br> <br> ARTÍCULO 4° &#8212; A fin de obtener la autorización de fraccionamiento, elaboración y comercialización de los productos enumerados en el ANEXO I, deberá presentarse el Formulario que, como ANEXO III, forma parte integrante de la presente disposición y la documentación allí indicada en la Mesa de Entradas del INSTITUTO NACIONAL DE MEDICAMENTOS (INAME).<br> <br> ARTÍCULO 5° &#8212; Los productos elaborados o fraccionados según la presente disposición y las materias primas empleadas deberán cumplir con todos los requisitos establecidos en la respectiva monografía de la edición vigente de la Farmacopea Argentina.<br> <br> ARTÍCULO 6° &#8212; Los establecimientos que se encuentren habilitados ante esta ADMINISTRACIÓN NACIONAL en los términos de la Disposición ANMAT N° 3409/99 deberán reempadronar el establecimiento y los productos mediante la presentación del Formulario que, como ANEXO IV, forma parte integrante de la presente disposición.<br> <br> Tanto el Formulario del ANEXO IV como la documentación correspondiente tienen carácter de declaración jurada y deberán ser presentados en la Mesa de Entradas del INSTITUTO NACIONAL DE MEDICAMENTOS (INAME) en un plazo de CIENTO OCHENTA (180) días corridos a partir de la entrada en vigencia de la presente disposición.<br> <br> Vencido el plazo estipulado en el párrafo anterior, sin haber efectuado el mencionado reempadronamiento, tanto la habilitación del establecimiento para fraccionar, elaborar y comercializar productos de Farmacopea como la autorización de los productos caducarán de pleno derecho sin necesidad de interpelación alguna.<br> <br> ARTÍCULO 7° &#8212; Las disposiciones del Artículo 6° son aplicables a los laboratorios que, a la entrada en vigencia de la presente disposición, se encuentren habilitados por esta ADMINISTRACIÓN NACIONAL para la elaboración de especialidades medicinales y realicen la actividad de elaboración, fraccionamiento y comercialización de drogas y medicamentos oficinales en los términos autorizados por el artículo 8° de la Disposición ANMAT N° 3409/99.<br> <br> ARTÍCULO 8° &#8212; Derógase la Disposición ANMAT N° 3409/99.<br> <br> ARTÍCULO 9° &#8212; La presente disposición entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 10. &#8212; Regístrese; Dése a la Dirección Nacional del Registro Oficial para su publicación. Comuníquese a la Confederación Farmacéutica de la República Argentina (COFA), Federación Argentina de Cámaras de Farmacia (FACAF), a la Cámara de Farmacias, a CILFA, CAEME, COOPERALA y CAPEMVEL. Cumplido, archívese. &#8212; Dr. CARLOS CHIALE, Administrador Nacional, A.N.M.A.T.<br> <br> <div style='text-align: center;'>ANEXO I<br> </div> <br> Aceite de Almendra<br> <br> Ácido Bórico<br> <br> Agua de Azahar<br> <br> Agua Blanca<br> <br> Agua Oxigenada 10 Vol.<br> <br> Agua de Cal<br> <br> Alcohol Alcanforado al 10%<br> <br> Alcohol Boricado<br> <br> Bicarbonato de Sodio<br> <br> Calamina<br> <br> Cloruro de Magnesio<br> <br> Glicerina<br> <br> Glicerina Boratada<br> <br> Glicerolado de Almidón<br> <br> Glucosa pura<br> <br> Limonada de Citrato de Magnesio<br> <br> Linimento Oleo Calcáreo<br> <br> Óxido de Zinc<br> <br> Pomada Alcanforada<br> <br> Pomada de Estearato de Amonio<br> <br> Pomada de Óxido de Cinc Compuesta (Pasta Lassar)<br> <br> Solución Cuprocíncica Alcanforada (Agua de Dalibour)<br> <br> Solución Iodoiodurada<br> <br> Solución de Iodo Débil<br> <br> Solución de Iodo Fuerte<br> <br> Sulfatiazol<br> <br> Sulfato de Magnesio<br> <br> Vaselina Sólida<br> <br> Vaselina Líquida<br> <br> Vaselina Fenicada<br> <br> Vaselina Boricada<br> <br> Violeta de Genciana<br> <br> <div style='text-align: center;'>ANEXO II<br> </div> <br> <div style='text-align: center;'>FORMULARIO PARA HABILITACIÓN DE ESTABLECIMIENTO DESTINADO A ELABORAR/FRACCIONAR/COMERCIALIZAR PRODUCTOS DE FARMACOPEA<br> </div> <br> La presentación se hará en original y dos copias por Mesa de Entradas del Instituto Nacional de Medicamentos, entregándose copia sellada de dicha presentación a la empresa.<br> <br> 1.- SOLICITUD DE HABILITACIÓN DE ESTABLECIMIENTO PARA:<br> <br> <table style='text-align: left; margin-left: auto; margin-right: auto; width: 935px; height: 64px;' border='1'> <tbody><tr><td>ELABORAR</td> <td>&nbsp;&nbsp; <br> </td> </tr> <tr> <td>FRACCIONAR DROGAS*</td> <td><br> </td> </tr> <tr> <td>COMERCIALIZAR</td> <td><br> </td></tr></tbody> </table> <br> <small>* destinadas a elaborar preparaciones oficiales</small><br> <br> 2.- FORMA FARMACÉUTICA<br> <br> <table style='text-align: left; margin-left: auto; margin-right: auto; width: 935px; height: 64px;' border='1'> <tbody><tr><td>SÓLIDOS</td> <td>&nbsp;<br> </td> </tr> <tr> <td>SEMISÓLIDOS</td> <td><br> </td> </tr> <tr> <td>LÍQUIDOS</td> <td><br> </td></tr></tbody> </table> <br> 3.- DATOS DE LA EMPRESA:<br> <br> 3.1.- NOMBRE O RAZÓN SOCIAL:<br> <br> 3.2.- DOMICILIO:<br> <br> 3.3.- N° DE CUIT:<br> <br> 3.4.- DATOS DEL REPRESENTANTE LEGAL/APODERADO:<br> <br> NOMBRE Y APELLIDO:<br> <br> DOMICILIO, TELÉFONO Y FAX:<br> <br> TIPO Y N° DE DOCUMENTO:<br> <br> 3.5.- DOMICILIO DEL ESTABLECIMIENTO:<br> <br> 3.6.- TELÉFONO:<br> <br> 3.7.- FAX:<br> <br> 4.- DATOS DEL DIRECTOR TÉCNICO:<br> <br> 4.1.- NOMBRE Y APELLIDO:<br> <br> 4.2.- TIPO Y N° DE DOCUMENTO:<br> <br> 4.3.- TÍTULO:<br> <br> 5.- DOCUMENTACIÓN<br> <br> 5.1.- Planos de la estructura edilicia, un original y dos copias heliográficas, escala 1:100, según normas IRAM, firmado por el Director Técnico y el Representante Legal de la firma. En caso que los planos sean ploteados, se aceptarán tres originales.<br> <br> 5.2.- Copia autenticada del Contrato Social de la Empresa inscripto ante la Inspección General de Justicia.<br> <br> 5.3.- Copia autenticada del título de propiedad o del contrato de locación de la estructura edilicia.<br> <br> 5.4.- Certificado de actuación del profesional farmacéutico que ejercerá la Dirección Técnica.<br> <br> 5.5.- Copia autenticada de la Habilitación Municipal de la estructura edilicia.<br> <br> 5.6.- Copia autenticada de Habilitación de los Organismos Provinciales de Salud.<br> <br> 5.7.- Certificado de inscripción ante los entes impositivos nacionales (CUIT, IVA, Ingresos Brutos, etc.).<br> <br> 5.8.- Comprobante de pago de arancel correspondiente.<br> <br> OBSERVACIONES:.....................................................................................................................................................................................................................................................................................................................................................................................................................................................<br> <br> <div style='text-align: center;'><img  src='../../../normativa/263967_disp8417-01-08-2016-1_jpg/archivo'><br> <br> ANEXO III<br> <br> FORMULARIO PARA AUTORIZACIÓN DE PRODUCTOS DE FARMACOPEA<br> </div> <br> La presentación se hará en original y dos copias por Mesa de Entradas del Instituto Nacional de Medicamentos, entregándose copia sellada de dicha presentación a la empresa.<br> <br> 1.- TITULAR DE AUTORIZACIÓN DE PRODUCTO/S<br> <br> 1.1.- NOMBRE O RAZÓN SOCIAL:<br> <br> 1.2.- DOMICILIO:<br> <br> 1.3.- N° DE DISPOSICIÓN ANMAT (HABILITACIÓN):<br> <br> 1.4.- RUBRO:<br> <br> 1.5.- N° DE CUIT:<br> <br> 1.6.- DATOS DEL REPRESENTANTE LEGAL:<br> <br> NOMBRE Y APELLIDO:<br> <br> DOMICILIO, TELÉFONO Y FAX:<br> <br> TIPO Y N° DE DOCUMENTO:<br> <br> 1.7.- DOMICILIO DEL ESTABLECIMIENTO:<br> <br> 1.8.- TELÉFONO:<br> <br> 1.9.- FAX:<br> <br> 2.- DATOS DEL DIRECTOR TÉCNICO:<br> <br> 2.1.- NOMBRE Y APELLIDO:<br> <br> 2.2.- TIPO Y N° DE DOCUMENTO:<br> <br> 2.3.- TÍTULO:<br> <br> 3-. DATOS PARA CADA PRODUCTO<br> <br> 3.1- Medicamento Oficial:<br> <br> 3.2- Marca:<br> <br> 3.3 Proyecto de rótulo que contenga como mínimo:<br> <br> - Nombre del producto tal como figura en la edición vigente de la Farmacopea Argentina, debiendo agregarse a continuación la sigla &#8220;FA&#8221; con la correspondiente edición. Pudiendo agregarse también los nombres reconocidos tradicionalmente.<br> <br> - Vía de administración y modo de empleo<br> <br> - Condiciones de almacenamiento.<br> <br> - Número de lote, fecha de elaboración y período de validez.<br> <br> - Nombre y domicilio del fabricante.<br> <br> - Precauciones y advertencias cuando se considere necesario.<br> <br> 3.4- Información Técnica<br> <br> - Fórmula cuali-cuantitativa completa tal cual como figura en la edición vigente de la Farmacopea Argentina.<br> <br> - Tipo de envase y presentación.<br> <br> - Información referida al método empleado para definir el número de lote.<br> <br> - Período de validez solicitado.<br> <br> - Estudios de estabilidad (cuando corresponda).<br> <br> OBSERVACIONES: <br> <br> ..........................................................................................................................................................................................................................................................................................................................................................................................................................................<br> <br> 4. Comprobante de pago de arancel correspondiente.<br> <br> <div style='text-align: center;'><img  src='../../../normativa/263967_disp8417-01-08-2016-2_jpg/archivo'><br> <br> ANEXO IV<br> <br> PRODUCTOS DE FARMACOPEA<br> <br> FORMULARIO PARA REEMPADRONAMIENTO DE ESTABLECIMIENTOS Y PRODUCTOS<br> </div> <br> La presentación se hará en original y dos copias por Mesa de Entradas del Instituto Nacional de Medicamentos, entregándose copia sellada de dicha presentación a la empresa.<br> <br> REEMPADRONAMIENTO DE ESTABLECIMIENTO<br> <br> 1.- INSCRIPTO COMO ESTABLECIMIENTO PARA:<br> <br> <div style='text-align: center;'><img  src='../../../normativa/263967_disp8417-01-08-2016-3_jpg/archivo'></div> <small><br> * destinadas a elaborar preparaciones oficiales</small><br> <br> 1.1- RUBRO:<br> <br> 2.- DATOS DE LA EMPRESA INSCRIPTA:<br> <br> 2.1.- NOMBRE O RAZÓN SOCIAL:<br> <br> 2.2.- DOMICILIO:<br> <br> 2.3.- N° DE DISPOSICIÓN ANMAT (HABILITACIÓN):<br> <br> 2.3.- N° DE CUIT:<br> <br> 2.4.- DATOS DEL REPRESENTANTE LEGAL/APODERADO<br> <br> NOMBRE Y APELLIDO:<br> <br> DOMICILIO, TELÉFONO Y FAX:<br> <br> TIPO Y N° DE DOCUMENTO:<br> <br> 2.5.- DOMICILIO DEL ESTABLECIMIENTO:<br> <br> 2.6.- TELÉFONO:<br> <br> 2.7.- FAX:<br> <br> 3.- DATOS DEL DIRECTOR TÉCNICO:<br> <br> 3.1.- NOMBRE Y APELLIDO:<br> <br> 3.2.- TIPO Y N° DE DOCUMENTO:<br> <br> 3.3.- TÍTULO:<br> <br> 4.- INSCRIPCIONES ANTERIORES (SI CORRESPONDE):<br> <br> 4.1.- N° DISPOSICIÓN/REGISTRO:<br> <br> 4.2- RUBRO:<br> <br> <div style='text-align: center;'><img  src='../../../normativa/263967_disp8417-01-08-2016-4_jpg/archivo'></div> <br> PRODUCTOS DE FARMACOPEA AUTORIZADOS<br> <br> 1.- Producto:<br> <br> 1.1.- Rótulo aprobado (adjuntar).<br> <br> 1.2.- Tipo de envase y presentación:<br> <br> 1.3.- Período de validez (autorizado por Disposición N°/estudios de estabilidad):<br> <br> OBSERVACIONES: <br> <br> ..........................................................................................................................................................................................................................................................................................................................................................................................................................................<br> <br> <div style='text-align: center;'><img  src='../../../normativa/263967_disp8417-01-08-2016-5_jpg/archivo'></div> <br> <div style='text-align: right;'>e. 01/08/2016 N° 53752/16 v. 01/08/2016<br>  </div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-8417-2016-263967" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

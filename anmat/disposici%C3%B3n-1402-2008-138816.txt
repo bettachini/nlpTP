@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1402-2008-138816/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1402-2008-138816/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1402-2008-138816/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"XRFdAvpMa72_pSj_xUgIXshWP1Ff-vO0zCTu3xnRrwc","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-1402-2008-138816\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-1402-2008-138816 page-normativa-nacional-disposición-1402-2008-138816-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-1402-2008-138816/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-3mGlBevDGgcYtkTpgBhh3MThGgueFzKRMS1N7iAud2I" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-1402-2008-138816">Disposición   1402/2008</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2008-03-19</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'>PRODUCTOS FARMACEUTICOS, DE HIGIENE PERSONAL, COSMETICOS Y PERFUMES</P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 1402/2008</P> <P ALIGN='JUSTIFY'>Apru&eacute;banse los Procedimientos para el Retiro de Productos Farmac&eacute;uticos y Productos de Higiene Personal, Cosm&eacute;ticos y Perfumes.</P> </B><P ALIGN='JUSTIFY'>Bs. As., 12/3/2008</P> <P ALIGN='JUSTIFY'>VISTO el Expediente Nº 1-47-1110-552-07-6 del Registro de esta Administraci&oacute;n Nacional; y</P> <P ALIGN='JUSTIFY'>CONSIDERANDO;</P> <P ALIGN='JUSTIFY'>Que el Decreto de creaci&oacute;n de esta Administraci&oacute;n Nacional Nº 1490/92, establece entre sus objetivos principales el registro, la fiscalizaci&oacute;n, el control y la vigilancia de medicamentos, productos de higiene personal, cosm&eacute;ticos y perfumes, alimentos y material de tecnolog&iacute;a m&eacute;dica, con la finalidad de garantizar la eficacia, seguridad y calidad de los productos que la poblaci&oacute;n consume.</P> <P ALIGN='JUSTIFY'>Que los establecimientos productores, importadores, exportadores y distribuidores de medicamentos deben cumplir con la Disposici&oacute;n (ANMAT) Nº 2819/04, que aprueba los lineamientos generales de Buenas Pr&aacute;cticas de Fabricaci&oacute;n para Elaboradores, Importadores/ Exportadores de Medicamentos, o la que en el futuro la reemplace.</P> <P ALIGN='JUSTIFY'>Que en particular el punto 6 RETIRO DE PRODUCTOS, de la aludida Disposici&oacute;n, establece como principio que debe existir un sistema para retirar del mercado en forma r&aacute;pida y efectiva un producto cuando &eacute;ste tenga un defecto o exista sospecha de ello.</P> <P ALIGN='JUSTIFY'>Que asimismo indica que deben establecerse procedimientos operativos normatizados, los cuales ser&aacute;n revisados y actualizados regularmente, para la organizaci&oacute;n de cualquier actividad de retiro, y que la efectividad de los planes para los retiros debe ser controlada y evaluada peri&oacute;dicamente.</P> <P ALIGN='JUSTIFY'>Que los establecimientos elaboradores e importadores de productos de higiene personal, cosm&eacute;ticos y perfumes deben cumplir con la Disposici&oacute;n (ANMAT) Nº 1107/99, que aprueba los lineamientos generales de Buenas Pr&aacute;cticas de Manufactura de Productos de Higiene Personal, Cosm&eacute;ticos y Perfumes, o la que en el futuro la reemplace.</P> <P ALIGN='JUSTIFY'>Que en particular la Disposici&oacute;n A.N.M.A.T. Nº 110799, Anexo II, punto 4.- RECOLECCION DE PRODUCTOS DEL MERCADO, contempla la responsabilidad de la firma propietaria en la distribuci&oacute;n a nivel primario y el correspondiente rescate del producto desde este nivel del mercado, debiendo la empresa establecer y mantener procedimientos de retiro de productos del mercado.</P> <P ALIGN='JUSTIFY'>Que teniendo en cuenta que las aludidas disposiciones no establecen las definiciones, responsabilidades y procedimientos que deben segu&iacute;rse para el manejo, seguimiento y auditorias de las acciones de retiro o correcci&oacute;n del mercado de productos farmac&eacute;uticos o de higiene personal, cosm&eacute;ticos y perfumes, resulta necesario establecer un sistema para el retiro del mercado de los mencionados productos.</P> <P ALIGN='JUSTIFY'>Que las acciones de retiro pueden ser iniciadas bajo la responsabilidad de los establecimientos elaboradores o importadores / exportadores de productos farmac&eacute;uticos y de productos de higiene personal, cosm&eacute;ticos y perfumes o por orden de la Autoridad Sanitaria.</P> <P ALIGN='JUSTIFY'>Que fueron considerados como antecedentes los respectivos documentos de las agencias sanitarias de Canad&aacute; y de Estados Unidos de Norteam&eacute;rica.</P> <P ALIGN='JUSTIFY'>Que el Instituto Nacional de Medicamentos y la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por el Decreto Nº 1490/92 y el Decreto Nº 253/08.</P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Apru&eacute;banse los Procedimientos para el Retiro de Productos Farmac&eacute;uticos y Productos de Higiene Personal, Cosm&eacute;ticos y Perfumes, que figura como Anexo I y forma parte integral de la presente Disposici&oacute;n.</P> <B><P ALIGN='JUSTIFY'>Art. 2º </B>— Establ&eacute;cese que los procedimientos aprobados por el Art&iacute;culo 1º de la presente Disposici&oacute;n, ser&aacute;n aplicables a todos los establecimientos habilitados y a todos los titulares de los productos referidos en el art&iacute;culo 1º de la presente Disposici&oacute;n, inscriptos por ante esta Administraci&oacute;n Nacional.</P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— El incumplimiento de la presente Disposici&oacute;n har&aacute; pasible, a los infractores, de las sanciones previstas en la Ley Nº 16.463 y en el Decreto Nº 341/92.</P> <B><P ALIGN='JUSTIFY'>Art. 4º </B>— Reg&iacute;strese; comun&iacute;quese a quienes corresponda. D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n. Cumplido, arch&iacute;vese PERMANENTE. — Ricardo Mart&iacute;nez.</P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='JUSTIFY'>Procedimientos para el Retiro del Mercado de Productos Farmac&eacute;uticos y de Productos de Higiene Personal, Cosm&eacute;ticos y Perfumes</P> <P ALIGN='JUSTIFY'>INTRODUCCION</P> <P ALIGN='JUSTIFY'>En el presente Anexo se establecen las definiciones, responsabilidades y procedimientos de car&aacute;cter general que deben cumplirse para el manejo, seguimiento y auditor&iacute;as de las acciones de retiro o correcci&oacute;n del mercado de productos farmac&eacute;uticos y de higiene personal, cosm&eacute;ticos y perfumes.</P> <P ALIGN='JUSTIFY'>El procedimiento para el retiro de productos farmac&eacute;uticos y de higiene personal, cosm&eacute;ticos y perfumes permite remover o corregir del mercado un producto que se encuentre en infracci&oacute;n a la legislaci&oacute;n vigente o exista sospecha de ello.</P> <P ALIGN='JUSTIFY'>Por las caracter&iacute;sticas de su operatoria, el procedimiento para el retiro de productos farmac&eacute;uticos y de higiene personal, cosm&eacute;ticos y perfumes tiene que resultar un mecanismo r&aacute;pido y eficiente para la protecci&oacute;n de la salud de la poblaci&oacute;n.</P> <P ALIGN='JUSTIFY'>Las acciones de retiro o correcci&oacute;n del mercado pueden ser iniciadas por decisi&oacute;n de la empresa elaboradora o importadora (Voluntario), o por orden de la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica (A.N.M.A.T.).</P> <P ALIGN='JUSTIFY'>a) DEFINICIONES</P> <P ALIGN='JUSTIFY'>Retiro del Mercado: Remoci&oacute;n en forma definitiva de un producto farmac&eacute;utico o de higiene personal, cosm&eacute;ticos y perfumes presente en el mercado, cuando &eacute;ste se encuentre en una situaci&oacute;n de infracci&oacute;n respecto de las normas vigentes o exista sospecha de ello, lo cual dar&aacute; lugar al inicio por parte de la A.N.M.A.T. de las actuaciones administrativas y/o judiciales que correspondan.</P> <P ALIGN='JUSTIFY'>Correcci&oacute;n del Mercado: Remoci&oacute;n en forma transitoria de un producto farmac&eacute;utico o de higiene personal, cosm&eacute;ticos y perfumes presente en el mercado, con el fin de corregir el error cometido durante el etiquetado y/o estuchado, lo cual dar&aacute; lugar al inicio por parte de la A.N.M.A.T., seg&uacute;n el caso, de las actuaciones administrativas y/o judiciales que correspondan.</P> <P ALIGN='JUSTIFY'>El producto puede ingresar nuevamente al mercado una vez realizada la correcci&oacute;n.</P> <P ALIGN='JUSTIFY'>Clasificaci&oacute;n del Retiro: Designaci&oacute;n num&eacute;rica asignada a un retiro en particular, utilizada para indicar el nivel de riesgo que puede implicar el producto involucrado. Se establecen tres clasificaciones, a saber:</P> <P ALIGN='JUSTIFY'>Retiro CLASE I: Situaciones en la que exista evidencia documentada de muerte o de consecuencias adversas serias en la salud de los seres humanos, derivadas u originadas por el uso o la exposici&oacute;n al producto involucrado.</P> <P ALIGN='JUSTIFY'>Retiro CLASE II: Situaciones en las que exista una probabilidad razonable de consecuencias adversas temporarias y reversibles en la salud de los seres humanos derivadas u originadas por el uso del producto o la exposici&oacute;n al mismo, o donde la probabilidad de causar consecuencias adversas serias resulte remota.</P> <P ALIGN='JUSTIFY'>Retiro CLASE III: Situaciones en las que el uso o exposici&oacute;n al producto, no impliquen que el mismo pueda causar consecuencias adversas en la salud de los seres humanos.</P> <P ALIGN='JUSTIFY'>Tipos de Retiro o Correcci&oacute;n del Mercado: Designaci&oacute;n relacionada con el origen del mismo: a) Ordenado por la Autoridad Sanitaria, b) Voluntario.</P> <P ALIGN='JUSTIFY'>Estrategia de Retiro o Correcci&oacute;n del Mercado: Curso de acci&oacute;n espec&iacute;fico planificado que permite llevar adelante las acciones para un retiro o correcci&oacute;n del mercado.</P> <P ALIGN='JUSTIFY'>Alcance del Retiro o Correcci&oacute;n del Mercado: Nivel dentro de la cadena de comercializaci&oacute;n (distribuidora, droguer&iacute;a, farmacia, consumidor / usuario u otros puntos de venta) hasta el que se har&aacute; extensible la acci&oacute;n de remoci&oacute;n conforme a la clasificaci&oacute;n asignada al producto involucrado. Debe estar indicado en la estrategia de retiro o correcci&oacute;n del mercado. Debe aplicarse el m&aacute;ximo alcance (consumidor) para aquellos que han sido clasificados como Retiro Clases I y II.</P> <P ALIGN='JUSTIFY'>Auditor&iacute;a de Verificaci&oacute;n de Retiro o Correcci&oacute;n del Mercado: inspecci&oacute;n / investigaci&oacute;n realizada por la empresa y por la A.N.M.A.T. dirigida a un elaborador, distribuidor, consumidor / usuario o cualquier otro punto dentro de la cadena de distribuci&oacute;n y venta, cuyo objetivo es el de verificar que todos los involucrados dentro de la cadena de comercializaci&oacute;n hayan recibido la notificaci&oacute;n del mismo e iniciado e implementado las acciones correspondientes.</P> <P ALIGN='JUSTIFY'>Nivel de Auditor&iacute;as de Verificaci&oacute;n de Retiro o Correcci&oacute;n del Mercado: nivel asignado al alcance de la auditor&iacute;a de verificaci&oacute;n en funci&oacute;n del porcentaje de puntos de la cadena de comercializaci&oacute;n (involucrados en la estrategia de retiro) que deber&aacute;n ser contactados.</P> <P ALIGN='JUSTIFY'>A los fines del presente documento ser&aacute;n considerados los siguientes Niveles de Auditor&iacute;as de verificaci&oacute;n de retiro:</P> <P ALIGN='JUSTIFY'>Nivel A - Contactar el 100% de los involucrados en la estrategia de retiro.</P> <P ALIGN='JUSTIFY'>Nivel B - Contactar un porcentaje del n&uacute;mero total de los involucrados. El porcentaje debe ser determinado de conformidad con las circunstancias de cada caso, pero debe ser mayor a 10% y menor al 100%.</P> <P ALIGN='JUSTIFY'>Nivel C - Contactar al 10% del total de los involucrados en la estrategia de retiro.</P> <P ALIGN='JUSTIFY'>Nivel D - Contactar al 2% del total de los involucrados en la estrategia de retiro.</P> <P ALIGN='JUSTIFY'>Nivel E - No se realiza auditor&iacute;a de verificaci&oacute;n.</P> <P ALIGN='JUSTIFY'>b) EFECTIVIDAD DEL RETIRO</P> <P ALIGN='JUSTIFY'>Efectividad del Retiro Voluntario</P> <P ALIGN='JUSTIFY'>En el retiro o correcci&oacute;n del mercado iniciado por una empresa (voluntario), &eacute;sta asume la responsabilidad de realizar el seguimiento del mismo, como as&iacute; tambi&eacute;n la determinaci&oacute;n de la eficacia de las acciones implementadas.</P> <P ALIGN='JUSTIFY'>La verificaci&oacute;n de la efectividad del retiro permite constatar que todos los receptores conocidos del producto hayan recibido la notificaci&oacute;n de inicio de retiro y adoptado las acciones pertinentes. A tal fin, la empresa elaboradora o importadora deber&aacute; disponer de un sistema de verificaci&oacute;n de la efectividad del proceso de retiro. El mismo deber&aacute; integrar la estrategia de retiro elegida.</P> <P ALIGN='JUSTIFY'>En ciertas situaciones tales como la extensi&oacute;n del retiro al usuario/consumidor, inaccesibilidad a registros de consumidores considerados confidenciales, falta de cooperaci&oacute;n por parte de distribuidoras, droguer&iacute;as y otros, o en relaci&oacute;n a la urgencia de la situaci&oacute;n en s&iacute; misma, la empresa deber&aacute; solicitar a la A.N.M.A.T. su intervenci&oacute;n, la que a su vez podr&aacute; solicitar la intervenci&oacute;n o colaboraci&oacute;n de autoridades Jurisdiccionales competentes.</P> <P ALIGN='JUSTIFY'>Efectividad del Retiro Ordenado por la Autoridad Sanitaria</P> <P ALIGN='JUSTIFY'>El retiro o correcci&oacute;n del mercado ordenado por la Autoridad Sanitaria debe ser implementado por la empresa. La Autoridad Sanitaria verificar&aacute; la documentaci&oacute;n donde consten los datos correspondientes que permitan verificar la efectividad del mismo a fin de asegurar que se ha cumplido seg&uacute;n fuera la clasificaci&oacute;n y los Niveles de Auditor&iacute;as de verificaci&oacute;n definidos anteriormente.</P> <P ALIGN='JUSTIFY'>En ejercicio de sus facultades de fiscalizaci&oacute;n, la A.N.M.A.T. podr&aacute; realizar Auditor&iacute;as selectivas para monitorear la efectividad de los procesos de retiro o correcci&oacute;n en forma independiente a las encaminadas por la empresa involucrada.</P> <P ALIGN='JUSTIFY'>c) ESTRATEGIA DE RETIRO</P> <P ALIGN='JUSTIFY'>Deber&aacute; tenerse en cuenta que cada situaci&oacute;n resulta &uacute;nica y por lo tanto requerir&aacute; de su propia estrategia, m&aacute;s all&aacute; de que cada empresa deba contar con los procedimientos operativos generales para el retiro o correcci&oacute;n de productos del mercado.</P> <P ALIGN='JUSTIFY'>La A.N.M.A.T. revisar&aacute; la estrategia presentada por el titular del producto pudiendo recomendar modificaciones y/o agregados a la misma. Por su parte, la A.N.M.A.T. desarrollar&aacute; una estrategia para su propio programa de auditor&iacute;a en funci&oacute;n del riesgo y otros factores significativos como, por ejemplo, tipo de producto, patrones de distribuci&oacute;n y disponibilidad en el mercado.</P> <P ALIGN='JUSTIFY'>En la estrategia, tanto la A.N.M.A.T. como la empresa involucrada, deber&aacute;n considerar: la necesidad de informar a la opini&oacute;n p&uacute;blica, el alcance del retiro, nivel de efectividad y auditor&iacute;as de verificaci&oacute;n, as&iacute; como otros factores a implementar. La estrategia ser&aacute; independiente del Tipo de retiro o correcci&oacute;n del mercado.</P> <P ALIGN='JUSTIFY'>d) PUBLICACIONES</P> <P ALIGN='JUSTIFY'>El prop&oacute;sito de la alerta p&uacute;blica es llevar a conocimiento de la poblaci&oacute;n que un producto que est&aacute; siendo retirado representa un serio peligro para la salud. Esta instancia se reserva s&oacute;lo para situaciones urgentes y extremas (retiro clase I y ocasionalmente clase II) mientras que otros retiros significan prevenci&oacute;n de uso de productos que aparentemente ser&iacute;an inadecuados. La Autoridad Sanitaria decidir&aacute; si el anuncio p&uacute;blico del retiro debe ser realizado por la empresa o si ser&aacute; suficiente con una publicaci&oacute;n destacada en el sitio web de la A.N.M.A.T.</P> <P ALIGN='JUSTIFY'>La estrategia de retiro especificar&aacute; el tipo de alerta p&uacute;blico. Por ejemplo:</P> <P ALIGN='JUSTIFY'>1- Alerta p&uacute;blica general, a trav&eacute;s de medios masivos de comunicaci&oacute;n tanto nacionales como locales, seg&uacute;n corresponda.</P> <P ALIGN='JUSTIFY'>2- Alerta p&uacute;blica a trav&eacute;s de medios especializados, por ejemplo, profesional, prensa &eacute;tnica o registrada, o a segmentos de la poblaci&oacute;n espec&iacute;ficos como m&eacute;dicos, hospitales y otros.</P> <P ALIGN='JUSTIFY'>e) RESPONSABILIDADES</P> <P ALIGN='JUSTIFY'>El Instituto Nacional de Medicamentos:</P> <P ALIGN='JUSTIFY'>1. Formalizar&aacute; las acciones de retiro o correcci&oacute;n de acuerdo a la siguiente clasificaci&oacute;n:</P> <P ALIGN='JUSTIFY'>1.1 Retiro o Correcci&oacute;n del Mercado Ordenado por la A.N.M.A.T. (CLASE I/II): ser&aacute; la A.N.M.A.T., a trav&eacute;s del I.NA.ME., quien notifique a la empresa de la orden emitida; la misma deber&aacute; incluir el producto, lote/s, n&uacute;mero de serie, c&oacute;digo o cat&aacute;logo, entre otros. Esta notificaci&oacute;n deber&aacute; especificar causal de la necesidad, el o los incumplimiento/s a una norma legal definida indicando la misma, clasificaci&oacute;n del retiro y otras instrucciones consideradas necesarias para conducirlos.</P> <P ALIGN='JUSTIFY'>1.2 Retiro o Correcci&oacute;n del Mercado Ordenado por la A.N.M.A.T. (CLASE III): a trav&eacute;s de las &aacute;reas correspondientes, el I.NA.ME. notificar&aacute; a la empresa la determinaci&oacute;n de la necesidad de iniciar las acciones de retiro para su correcci&oacute;n. Esta notificaci&oacute;n deber&aacute; especificar causal de la necesidad, clasificaci&oacute;n del retiro y otras instrucciones consideradas necesarias para conducirlo.</P> <P ALIGN='JUSTIFY'>En los casos descriptos en los puntos 1.1 y 1.2 la empresa deber&aacute; comunicar al I.NA.ME. en forma fehaciente y por escrito la estrategia a implementar dentro de los tres d&iacute;as h&aacute;biles de haber recibido la notificaci&oacute;n de A.N.M.A.T - I.NA.ME.</P> <P ALIGN='JUSTIFY'>1.3 Retiro o Correcci&oacute;n Voluntario: el I.NA.ME., al recibir la informaci&oacute;n remitida por la empresa, revisar&aacute; la misma y asignar&aacute; un n&uacute;mero de retiro o correcci&oacute;n del mercado y su clasificaci&oacute;n. De ser necesario se sugerir&aacute;n cambios o modificaciones para adecuar la estrategia presentada por la empresa. La empresa debe comunicar inmediatamente (por tel&eacute;fono, fax u otros medios) al I.NA.ME. apenas haya decidido realizar el retiro o correcci&oacute;n del mercado y dentro de los tres d&iacute;as h&aacute;biles siguientes comunicar la estrategia a implementar en forma fehaciente y por escrito.</P> <P ALIGN='JUSTIFY'>En aquellos casos en los cuales para determinar la necesidad de retiro o la aplicaci&oacute;n de una medida correctiva, resulte necesario realizar ensayos o an&aacute;lisis de muestras o documentaci&oacute;n, se tomar&aacute;n los recaudos correspondientes a fin de evitar da&ntilde;os innecesarios.</P> <P ALIGN='JUSTIFY'>2. Auditar&aacute;, a trav&eacute;s de las &aacute;reas correspondientes, las operaciones mediante el desarrollo y la implementaci&oacute;n de un Programa de Auditor&iacute;as de Verificaci&oacute;n de retiro o correcci&oacute;n del mercado que incluir&aacute;n:</P> <P ALIGN='JUSTIFY'>2.1 Monitoreo del progreso del retiro o correcci&oacute;n del mercado mediante la revisi&oacute;n peri&oacute;dica de los informes recibidos por la empresa y/o mediante la revisi&oacute;n de las operaciones y su efectividad a trav&eacute;s de la realizaci&oacute;n de inspecciones a la empresa involucrada.</P> <P ALIGN='JUSTIFY'>2.2 Conducci&oacute;n de Auditor&iacute;as de Verificaci&oacute;n de Retiro para aquellos retiros o correcciones del mercado clasificados como CLASE I y CLASE II con el fin de constatar que los involucrados en los alcances del mismo hayan recibido las notificaciones correspondientes e iniciado y puesto en pr&aacute;ctica las acciones pertinentes.</P> <P ALIGN='JUSTIFY'>2.3 El retiro o correcci&oacute;n del mercado de productos clasificados como CLASE III por lo general no dar&aacute; lugar a la realizaci&oacute;n de auditor&iacute;as de verificaci&oacute;n. No obstante ello, la A.N.M.A.T. a trav&eacute;s del I.NA.ME. evaluar&aacute; la necesidad de efectuar auditor&iacute;as sobre la base de las circunstancias de cada situaci&oacute;n.</P> <P ALIGN='JUSTIFY'>3. Determinar&aacute; cu&aacute;ndo un retiro o correcci&oacute;n del mercado puede considerarse finalizado y comunicar&aacute; a la empresa de tal situaci&oacute;n.</P> <P ALIGN='JUSTIFY'>4. Proveer&aacute; a la Direcci&oacute;n Nacional de la A.N.M.A.T. toda la informaci&oacute;n necesaria para notificar a las Autoridades Jurisdiccionales, Autoridades Sanitarias de pa&iacute;ses en los cuales se haya comercializado el producto y a los Sistemas de Alerta R&aacute;pido del MERCOSUR y PIC/S. (Pharmaceutical Inspection Convention and Pharmaceutical Inspection Cooperation Scheme).</P> <P ALIGN='JUSTIFY'>1) SEGUIMIENTO DE RETIRO</P> <P ALIGN='JUSTIFY'>1. Programa de Auditor&iacute;as de Verificaci&oacute;n de la Efectividad de Retiro o Correcci&oacute;n del Mercado</P> <P ALIGN='JUSTIFY'>La A.N.M.A.T., a trav&eacute;s del I.NA.ME., implementar&aacute; Auditor&iacute;as de Verificaci&oacute;n a fin de evaluar la duraci&oacute;n y amplitud del retiro o correcci&oacute;n del mercado. Dichas auditor&iacute;as depender&aacute;n de diversos factores: profundidad o alcance, clasificaci&oacute;n asignada y tipo de acci&oacute;n requerida (remoci&oacute;n definitiva o transitoria).</P> <P ALIGN='JUSTIFY'>En caso de verificarse demoras injustificadas para el inicio de las acciones de retiro, o si se detecta que la empresa no las llev&oacute; a cabo, la A.N.M.A.T. intimar&aacute; a la empresa a su cumplimiento en un plazo perentorio seg&uacute;n la clasificaci&oacute;n y estrategia correspondiente bajo apercibimiento de iniciar las acciones legales que correspondan en un todo de acuerdo a las prescripciones establecidas en la Ley Nº 16.463, el Decreto Nº 341/92, y las dem&aacute;s que estime corresponder.</P> <P ALIGN='JUSTIFY'>2. Auditor&iacute;as de Verificaci&oacute;n de Actividades de Retiro en Empresas Terceristas Contratadas</P> <P ALIGN='JUSTIFY'>Si la estrategia de retiro incluye una empresa contratada como tercerista, podr&aacute;n efectuarse las auditor&iacute;as de verificaci&oacute;n de actividades de retiro a la/s misma/s conforme a lo indicado anteriormente.</P> <P ALIGN='JUSTIFY'>3. Informe de Auditor&iacute;a</P> <P ALIGN='JUSTIFY'>Luego de finalizada la Auditor&iacute;a de verificaci&oacute;n, se deber&aacute; confeccionar un informe narrativo de los resultados.</P> <P ALIGN='JUSTIFY'>4. Acciones de Retiro Insatisfactorias</P> <P ALIGN='JUSTIFY'>Si como resultado de la auditor&iacute;a se concluye que las acciones iniciadas no lograron su objetivo en forma satisfactoria, la A.N.M.A.T., a trav&eacute;s del I.NA.ME. documentar&aacute; en debida forma las fallas en el seguimiento de las instrucciones, y en caso de considerarlo pertinente, intimar&aacute; a la empresa a su cumplimiento en un plazo perentorio seg&uacute;n la clasificaci&oacute;n del retiro y estrategia aceptada, bajo apercibimiento de iniciar las acciones legales que correspondan en un todo de acuerdo a las prescripciones establecidas en la Ley Nº 16.463, el Decreto Nº 341/92, y las dem&aacute;s que estime corresponder.</P> <P ALIGN='JUSTIFY'>5. Programa de Auditor&iacute;as de Verificaci&oacute;n de la efectividad de Retiro o Correcci&oacute;n del Mercado por parte de la Empresa </P> <P ALIGN='JUSTIFY'>La empresa implementar&aacute; Auditor&iacute;as de Verificaci&oacute;n a fin de evaluar la duraci&oacute;n y amplitud del retiro o correcci&oacute;n del mercado. Dichas auditor&iacute;as depender&aacute;n de diversos factores: profundidad o alcance, clasificaci&oacute;n asignada y tipo de acci&oacute;n requerida (remoci&oacute;n definitiva o transitoria).</P> <P ALIGN='JUSTIFY'>Adem&aacute;s deber&aacute; implementar lo indicado en los puntos 2 y 3 precedentes.</P> <P ALIGN='JUSTIFY'>g) FINALIZACION DEL RETIRO</P> <P ALIGN='JUSTIFY'>1. Finalizaci&oacute;n de un Retiro o Correcci&oacute;n del Mercado: la A.N.M.A.T., a trav&eacute;s del I.NA.ME., dar&aacute; por finalizado el retiro de un producto luego de haber evaluado todas las medidas y esfuerzos implementados por la empresa para la remoci&oacute;n definitiva o correcci&oacute;n del producto involucrado de conformidad con la estrategia establecida, y toda vez que considere que el producto ha sido removido y eliminado adecuadamente conforme al nivel de riesgo implicado y segregado en &aacute;reas definidas.</P> <P ALIGN='JUSTIFY'>2. Inspecci&oacute;n de Clausura de una Acci&oacute;n de Retiro: este tipo de inspecciones ser&aacute;n ordenadas con el objeto de verificar la finalizaci&oacute;n de retiro por parte de la empresa. Los &iacute;tems a verificar se encuentran contemplados en el presente Anexo. Finalizadas todas las etapas, la A.N.M.A.T. emitir&aacute; el Informe de Conclusi&oacute;n del Retiro indicando la efectividad del mismo.</P> <P ALIGN='JUSTIFY'>La A.N.M.A.T. determinar&aacute; la procedencia o no de la destrucci&oacute;n del lote o partida no pudiendo la empresa proceder a la destrucci&oacute;n de las unidades recuperadas sin la previa autorizaci&oacute;n por escrito de la misma.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-1402-2008-138816" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

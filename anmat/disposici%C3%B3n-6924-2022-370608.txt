@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-6924-2022-370608/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-6924-2022-370608/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-6924-2022-370608/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"d78GLQv7FvQ9ySpzIZMxECgTseoSF5wEmLHYkzsHwRk","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-6924-2022-370608\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-6924-2022-370608 page-normativa-nacional-disposición-6924-2022-370608-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-6924-2022-370608/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-j4idNx3SgjOE9D0k8-Bj8doROYpL7xxl35cXBYI1Rmo" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-6924-2022-370608">Disposición   6924/2022</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2022-08-30</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 6924/2022</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>DI-2022-6924-APN-ANMAT#MS</span><br> <br> Ciudad de Buenos Aires, 26/08/2022<br> <br> VISTO las Leyes Nº 27.642 y 18.284 y sus normas modificatorias y complementarias, los Decretos 1490 del 20 de agosto de 1992, 151 del 22 de marzo de 2022, la Resolución del (ex) Ministerio de Salud y Acción Social Nº 20 del 19 de enero del 2005, las Disposiciones ANMAT Nros. 4980 del 5 de septiembre de 2005, 7730 del 14 de noviembre 2011, 2845 del 25 de abril del 2011 y 2673 del 7 de abril de 2022 y el Expediente N° EX-2022-38356666-APN-DRI#ANMAT; y<br> <br> CONSIDERANDO:<br> <br> Que de acuerdo con lo establecido por el Decreto N° 1490/92, la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT), organismo descentralizado del MINISTERIO DE SALUD, tiene competencia en el control y fiscalización sobre la sanidad y calidad de los alimentos acondicionados, incluyendo los insumos específicos, aditivos, colorantes, edulcorantes e ingredientes utilizados en la alimentación humana, como también de los materiales en contacto con los alimentos.<br> <br> Que en virtud de lo establecido en la Resolución (ex) Ms y As Nº 20/05 toda publicidad dirigida al público de los productos para la salud está sujeta a la fiscalización posterior a su difusión, siendo la ANMAT la autoridad de aplicación de la referida resolución y quien dictará las normas reglamentarias, aclaratorias e interpretativas que resulten necesarias a los fines de su implementación.<br> <br> Que por otra parte, la Ley N° 27.642 de Promoción de la Alimentación Saludable tiene por objeto garantizar el derecho a la salud y a una alimentación adecuada de la población, a través de la promoción de una alimentación saludable, brindando información nutricional simple y comprensible de los alimentos envasados y bebidas analcohólicas, para promover la toma de decisiones asertivas y activas y resguardar los derechos de las consumidoras y los consumidores; advertir a consumidoras y consumidores sobre los excesos de componentes como azúcares, sodio, grasas saturadas, grasas totales y calorías, a partir de información clara, oportuna y veraz en atención a los artículos 4° y 5° de la Ley N° 24.240, de Defensa al Consumidor, y promover la prevención de la malnutrición en la población y la reducción de enfermedades crónicas no transmisibles.<br> <br> Que la referida Ley Nº 27.642, entre otros aspectos, regula la publicidad, promoción y/o patrocinio de productos alimenticios envasados y bebidas analcohólicas que contengan al menos un (1) sello de advertencia (incluyendo en éstos las leyendas precautorias sobre edulcorantes y/o cafeína).<br> <br> Que en su Artículo 10° establece la prohibición de toda forma de publicidad, promoción y/o patrocinio de los alimentos y bebidas analcohólicas envasados, que contengan al menos un (1) sello de advertencia (incluyendo en éstos las leyendas precautorias sobre edulcorantes y/o cafeína), que esté dirigida especialmente a niños, niñas y adolescentes.<br> <br> Que a su vez el referido artículo 10° establece restricciones en los demás casos de publicidad, promoción y/o patrocinio por cualquier medio, de los alimentos y/o bebidas analcohólicas que contengan al menos un (1) sello de advertencia.<br> <br> Que por su parte el artículo 10° del Anexo I del Decreto Nº 151/22, reglamentario de la Ley N° 27.642, expresa que toda publicidad, promoción y/o patrocinio dirigida al público y difundida en medios masivos tradicionales y digitales de alimentos y bebidas analcohólicas envasados que contengan al menos un (1) sello de advertencia (incluyendo en éstos las leyendas precautorias sobre edulcorantes y/o cafeína) quedará bajo la fiscalización y control de la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA, quien dictará las normas complementarias necesarias teniendo en cuenta el medio en que la publicidad se efectúe y sobre la base de los lineamientos establecidos en la Ley Nº 27.642.<br> <br> Que en virtud de lo expuesto, resulta necesario establecer las disposiciones complementarias referidas a la publicidad, promoción y/o patrocinio dirigida al público y difundida en medios masivos tradicionales y digitales de alimentos y bebidas analcohólicas envasados que contengan al menos un (1) sello de advertencia (incluyendo en éstos las leyendas precautorias sobre edulcorantes y/o cafeína).<br> <br> Que la Dirección de Relaciones Institucionales y la Dirección de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que se actúa en virtud de las facultades conferidas por el Decreto Nº 1490/92 y sus modificatorios y el Decreto Nº 151/22 que reglamenta la Ley Nº 27.642.<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1º- Toda publicidad, promoción y/o patrocinio dirigida al público y difundida en medios masivos tradicionales y digitales de alimentos y bebidas analcohólicas envasados que contengan al menos un (1) sello de advertencia (incluyendo en éstos las leyendas precautorias sobre edulcorantes y/o cafeína), sean nacionales o importados, se regirá por la presente disposición.<br> <br> ARTÍCULO 2º - Toda publicidad, promoción y/o patrocinio dirigida al público de los productos mencionados en el Artículo 1º de la presente disposición deberá cumplir con el Anexo I &#8220;Normas Generales&#8221; de la Disposición ANMAT N° 4980/05.<br> <br> ARTÍCULO 3º- Apruébanse las normas específicas que deberá cumplir toda publicidad, promoción y/o patrocinio de alimentos y bebidas analcohólicas envasados que contengan al menos un (1) sello de advertencia (incluyendo en éstos las leyendas precautorias sobre edulcorantes y/o cafeína) difundida en medios tradicionales y digitales, las que como Anexo I (IF-2022-68175632-APN-DRI#ANMAT) forman parte integrante de la presente disposición.<br> <br> ARTÍCULO 4º - Toda publicidad, promoción y/o patrocinio dirigida al público de los productos mencionados en el Artículo 1º de la presente disposición no estará alcanzada por el Anexo III &#8220;Normas Específicas para la publicidad de productos alimenticios&#8221; de la Disposición ANMAT Nº 4980/05.<br> <br> ARTÍCULO 5º - Toda publicidad, promoción y/o patrocinio dirigida al público de los productos mencionados en el Artículo 1º de la presente disposición no estará alcanzada por la Disposición ANMAT N° 7730/11.<br> <br> ARTÍCULO 6º - Toda publicidad, promoción y/o patrocinio dirigida al público de alimentos y bebidas analcohólicas envasados que contengan al menos un (1) sello de advertencia (incluyendo en éstos las leyendas precautorias sobre edulcorantes y/o cafeína) deberá adecuar su contenido a lo establecido en la presente disposición una vez adecuados los rótulos conforme a los plazos previstos en el cronograma establecido por el Artículo 19° del Anexo I del Decreto Nº 151/22 y en concordancia con la Disposición ANMAT Nº 2673/22.<br> <br> ARTÍCULO 7º - Las infracciones a la presente disposición harán pasible al titular del producto publicitado y a quien esté a cargo de la dirección técnica, cuando corresponda, de las sanciones previstas en la Ley Nº 18.284, los Decretos Nº 2126/71 y Nº 341/92 y la Disposición ANMAT Nº 1710/08.<br> <br> ARTÍCULO 8º - La presente medida entrará en vigencia el día de su publicación en el BOLETÍN OFICIAL.<br> <br> ARTÍCULO 9º -Comuníquese, publíquese, dese a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL. Cumplido, archívese.<br> <br> Manuel Limeres<br> <br> NOTA: El/los Anexo/s que integra/n este(a) Disposición se publican en la edición web del BORA -www.boletinoficial.gob.ar-<br> <br> <div style='text-align: right;'>e. 30/08/2022 N° 67684/22 v. 30/08/2022<br> </div> <br> <span style='font-style: italic;'>(<span style='font-weight: bold;'>Nota Infoleg:</span> Los anexos referenciados en la presente norma han sido extraídos de la edición web de Boletín Oficial)</span><br> <br> <div style='text-align: center;'>ANEXO I<br> <br> NORMAS ESPECÍFICAS PARA LA PUBLICIDAD DE PRODUCTOS ALIMENTICIOS QUE CONTENGAN AL MENOS UN (1) SELLO DE ADVERTENCIA<br> <br> (Incluyendo en estos las leyendas precautorias sobre edulcorantes y/o cafeína)<br> </div> <br> 1. Queda prohibido publicitar, promocionar y/o patrocinar alimentos y bebidas analcohólicas envasados dirigidos especialmente a niños, niñas y adolescentes. Se considerará publicidad, promoción y/o patrocinio dirigido a niños, niñas y adolescentes cuando en la comunicación se encuentren elementos que resulten de interés y atractivo para estos.<br> <br> 2.-En los demás casos:<br> <br> 2.1. La publicidad, promoción y/o patrocinio de alimentos y bebidas analcohólicas envasados que contengan al menos un (1) sello de advertencia (incluyendo en éstos las leyendas precautorias sobre edulcorantes y/o cafeína) deberá:<br> <br> 2.1.1. Propender al consumo adecuado del producto, presentando sus propiedades objetivamente sin engaños o equívocos, brindando información veraz, precisa y clara.<br> <br> 2.1.2. Incluir la denominación de venta y el nombre comercial del producto.<br> <br> 2.1.3. Incluir en su totalidad los sellos de advertencia y/o leyendas precautorias sobre edulcorantes y/o cafeína que correspondan al producto. Los sellos de advertencia y/o las referidas leyendas precautorias sobre edulcorantes y/o cafeína deberán presentarse de forma tal que sean claramente perceptibles para el destinatario y respetar los siguientes requisitos:<br> <br> a) En los medios gráficos tradicionales y digitales deberán insertarse de forma tal que permita su fácil lectura y que contraste con el fondo del anuncio.<br> <br> b) En la vía pública y otros medios similares, deberán guardar una relación de tamaño acorde con el utilizado en la gráfica, debiendo resultar de fácil lectura.<br> <br> c) En el medio oral tradicional o digital, deberán locutarse con un ritmo y velocidad que permita su fácil comprensión.<br> <br> d) En los medios audiovisuales tradicionales y digitales, deberá incluirse en forma visible y mantenerse durante un tiempo que permita su lectura completa.<br> <br> 2.1.4. Realizarse en idioma español. No obstante, se podrán utilizar palabras o frases de uso corriente aunque sean de otro idioma e imágenes que definan en forma clara y con términos cotidianos el uso del producto u otras cualidades, para favorecer la comprensión del público en general.<br> <br> 2.1.5. Incluir en forma completa las características, modos de uso, y/o advertencias del producto, si éstas son objeto de publicidad.<br> <br> 2.2. La publicidad, promoción y/o patrocinio de alimentos y bebidas analcohólicas envasados que contengan algún sello de advertencia (incluyendo en estos las leyendas precautorias sobre edulcorantes y/o cafeína) no deberá:<br> <br> 2.2.1. Publicitar, promocionar y/o patrocinar productos no autorizados por la autoridad sanitaria competente, excepto lo dispuesto por el Artículo 3° del Anexo II del Decreto 2126/ 71, reglamentario de la Ley 18.284, modificado por Decreto N° 2092/91; debiéndose realizar las adecuaciones, en caso de corresponder, una vez que se expida la autoridad sanitaria competente.<br> <br> 2.2.2. Publicitar, los productos que no cumplimenten la Declaración Jurada ante la ANMAT, a través del INSTITUTO NACIONAL DE ALIMENTOS (INAL), de acuerdo al Artículo 14° inciso d) del Anexo I y al Anexo II del Decreto N° 151/22 y en conformidad con las disposiciones complementarias establecidas por la autoridad de aplicación y esta Administración Nacional.<br> <br> 2.2.3. Incluir personajes infantiles, animaciones, dibujos animados, celebridades, deportistas o mascotas, elementos interactivos, la entrega o promesa de entrega de obsequios, premios, regalos, accesorios, adhesivos juegos visual-espaciales, descargas digitales, o cualquier otro elemento, como así también la participación o promesa de participación en concursos, juegos, eventos deportivos, musicales, teatrales o culturales, según corresponda, que inciten, promuevan o fomenten el consumo, compra o elección de éste.<br> <br> 2.2.4. Resaltar declaraciones nutricionales complementarias que destaquen cualidades positivas y/o nutritivas de los productos en cuestión a fin de no promover la confusión respecto de los aportes nutricionales.<br> <br> 2.2.5. Publicitar, promocionar y/o patrocinar un producto o una modificación de uno ya existente en el mercado como 'nuevo' o 'nueva', una vez transcurridos dos años de la fecha del comienzo de su comercialización al público. Cuando se trate de cambios en productos que ya se encuentran en el mercado deberá indicarse en qué radica la novedad y comunicarla en forma completa.<br> <br> 2.2.6. Promocionarse o entregarse a título gratuito alimentos y bebidas analcohólicas envasados que contengan algún sello de advertencia (incluyendo en éstos las leyendas precautorias sobre edulcorantes y/o cafeína).<br> <br> 2.2.7. Promover la compra del producto con motivación de donación o destino humanitario, a fin de evitar de este modo el consumo innecesario del producto.<br> <br> 2.2.8. Incluir mensajes relacionados con aprobaciones o recomendaciones de expertos, asociaciones médicas, científicas o similares.<br> <br> 2.2.9. Incluir frases que involucren a la autoridad nacional, provincial o internacional tales como: 'Publicidad autorizada por la Autoridad Sanitaria' o similares.<br> <br> 2.2.10. Incluir textos que se encuentren expresamente prohibidos en el Código Alimentario Argentino.<br> <br> 2.2.11. Modificar los rótulos aprobados de acuerdo con la normativa vigente en cuanto a su composición, usos y propiedades específicas del producto.<br> <br> 2.2.12. Promocionar que el consumo del alimento constituye una garantía de salud.<br> <br> 2.2.13. Mensurar el grado de disminución de riesgo a contraer enfermedades por el consumo del producto.<br> <br> 2.2.14. Incluir frases y/o mensajes que:<br> <br> a) Atribuyan al producto acciones y/o propiedades terapéuticas, o sugieran que el alimento es un producto medicinal o mencionen que un alimento diagnostica, cura, calma, mitiga, alivia, previene o protege de una determinada enfermedad.<br> <br> b) Mencionen directa o indirectamente una condición patológica o anormal.<br> <br> c) Aconsejen su consumo por razones de acción estimulante o de mejoramiento de la salud o de orden preventivo de enfermedades o de acción curativa.<br> <br> d) Provoquen temor, angustia, sugiriendo que la salud de un sujeto se verá afectada en el supuesto de no usar el producto.<br> <br> e) Tiendan a enmascarar las propiedades específicas del producto.<br> <br> f) Manifiesten que un alimento puede ser usado en reemplazo de una comida convencional o como el único alimento de una dieta.<br> <br> g) Modifiquen en cualquier medida la declaración de propiedades nutricionales contenidas en el rótulo aprobado.<br> <br> h) Se refieran a los productos como 'naturales' cuando éstos sean semisintéticos o formulados conjuntamente con componentes sintéticos. Para los productos obtenidos a partir de sustancias de origen natural, el anuncio sólo podrá consignar &#8220;obtenido a partir de sustancias de origen natural&#8221; o &#8220;con ingredientes obtenidos a partir de sustancias de origen natural&#8221;.<br> <br> i) Utilicen vocablos, signos, denominaciones, símbolos, emblemas, ilustraciones u otras representaciones gráficas que tornen falsa, incorrecta y/o insuficiente a dicha información, o que puedan inducir a equívoco, error, confusión o engaño al consumidor en relación con la verdadera naturaleza, composición, procedencia, tipo, calidad, cantidad, duración, rendimiento o forma de uso del alimento.<br> <br> j) Afirmen o indiquen que un producto tiene un atributo o característica comparativa superior a otro desde el punto de vista bromatológico, o que el producto anunciado es la única alternativa posible dentro del rubro, expresando, por ejemplo: 'el producto', 'el de mayor elección', 'el único', 'el más frecuentemente recomendado', 'el mejor', como así tampoco contener expresiones que puedan resultar engañosas para el consumidor.<br> <br> 3. Los mensajes comparativos no deberán:<br> <br> a) crear confusión con la comparación,<br> <br> b) poner en ridículo o denigrar al otro producto,<br> <br> c) deformar la imagen de otros productos,<br> <br> d) atentar contra el buen nombre o prestigio de terceros,<br> <br> e) intentar crear una situación de rechazo hacia los productos de la competencia o sus usuarios.<br> <br> f) mencionar componentes no contenidos en el producto publicitado.<br> <br> g) mencionar posibles efectos adversos o colaterales de componentes no contenidos en el producto publicitado.<br> <br> 4. La publicidad, promoción y/o patrocinio de alimentos y bebidas analcohólicas envasados que contengan al menos un (1) sello de advertencia (incluyendo en éstos las leyendas precautorias sobre edulcorantes y/o cafeína) podrá incluir, a los efectos de responder consultas, un número telefónico o sitio de internet, siempre que las informaciones disponibles cumplan con las disposiciones del Anexo I de la Disposición ANMAT N° 4980/05 y del presente anexo.<br> <br> 5. La publicidad no tradicional de alimentos y bebidas analcohólicas envasados que contengan al menos un (1) sello de advertencia (incluyendo en éstos las leyendas precautorias sobre edulcorantes y/o cafeína) deberá cumplir con lo previsto en el Anexo I de la Disposición ANMAT N° 4980/05 y en el presente anexo y será responsabilidad de los titulares de los productos garantizar que el uso del nombre, atributos o mensajes, bajo este medio, sean los adecuados, teniendo en consideración las características particulares de esta modalidad publicitaria.<br> <br> 6.&nbsp; La publicidad, promoción y/o patrocinio de alimentos y bebidas analcohólicas envasados que contengan al menos un (1) sello de advertencia (incluyendo en éstos las leyendas precautorias sobre edulcorantes y/o cafeína) que se efectúe en medios digitales deberá cumplir con lo establecido en el Anexo I de la Disposición ANMAT N° 4980/05 y en el presente anexo y será responsabilidad de los titulares de los productos garantizar, con la consideración de las características específicas de cada medio digital en particular, el buen uso del nombre, atributos y/o mensajes difundidos en relación al producto. Asimismo, serán responsables de llevar a cabo las acciones correspondientes para la adecuación de contenidos digitales creados y/o difundidos por terceros.<br> <br> <div style='text-align: right;'>IF-2022-68175632-APN-DRI#ANMAT<br> <br> <div style='text-align: center;'><img  src='../../../normativa/370608_disp6924anmat-Anexo-1_jpg/archivo'></div> </div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-6924-2022-370608" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

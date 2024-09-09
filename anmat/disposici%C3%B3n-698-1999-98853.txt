@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-698-1999-98853/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-698-1999-98853/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-698-1999-98853/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"fcJGXhZUOXy86_DyUHyTFSA_oVVLY-NjB0IDVb7PkwE","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-698-1999-98853\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-698-1999-98853 page-normativa-nacional-disposición-698-1999-98853-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-698-1999-98853/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-zqZySc4Q09JCM_0R6W9IqUdv5W9GGTP9R6RV9nk_mog" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-698-1999-98853">Disposición   698/1999</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>1999-02-16</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'>SALUD PUBLICA</P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 698/99</P> <P ALIGN='JUSTIFY'>Ad&oacute;ptase el documento 'Verificaci&oacute;n de¡ cumplimiento de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n de Productos M&eacute;dicos', consensuado en el &aacute;mbito del Mercosur, para la verificaci&oacute;n y el control de los establecimientos que desarrollan actividades relacionadas con los productos para la salud.</P> </B><P ALIGN='JUSTIFY'>Bs. As., 10/2/99</P> <P ALIGN='JUSTIFY'>VISTO el Tratado de Asunci&oacute;n por el cual se crea el Mercado Com&uacute;n del Sur (MERCOSUR), el Protocolo de Ouro Preto, la Resoluci&oacute;n GMC N° 131/96, el expediente N° 1-47-8436-98-7 del Registro de la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica, y</P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que se hace necesario establecer criterios comunes a los cuatro Estados Parte del MERCOSUR para la verificaci&oacute;n y el control de los establecimientos que desarrollan actividades relacionadas con los productos para la salud, incluyendo los Productos M&eacute;dicos.</P> <P ALIGN='JUSTIFY'>Que en el marco de las armonizaciones llevadas a cabo en el &aacute;mbito del MERCOSUR por el Grupo Productos para la Salud, Subgrupo Reglamentos T&eacute;cnicos (SGT3) se consensu&oacute; el documento t&eacute;cnico denominado 'Verificaci&oacute;n del cumplimiento de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n de Productos M&eacute;dicos'.</P> <P ALIGN='JUSTIFY'>Que dicho documento fue aprobado por el Grupo Mercado Com&uacute;n mediante la Resoluci&oacute;n ,GMC N° 131/96.</P> <P ALIGN='JUSTIFY'>Que las autoridades sanitarias deben aplicar esta norma en todas las situaciones para comprobar el cumplimiento de la legislaci&oacute;n armonizada y de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n por parte de los establecimientos que desarrollan actividades relacionadas con los Productos M&eacute;dicos.</P> <P ALIGN='JUSTIFY'>Que se hace necesario incorporar dicho documento al cuerpo normativo vigente.</P> <P ALIGN='JUSTIFY'>Que la Direcci&oacute;n de Tecnolog&iacute;a M&eacute;dica y la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por el Decreto N° 1490/92.</P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'>EL DIRECTOR NACIONAL DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1° –– </B>Establ&eacute;cese que la verificaci&oacute;n del cumplimiento de los requisitos establecidos por las Buenas Pr&aacute;cticas de Fabricaci&oacute;n de Productos M&eacute;dicos, se deber&aacute; realizar de acuerdo a lo estipulado en el documento 'Verificaci&oacute;n del cumplimiento de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n de Productos M&eacute;dicos' que figura como Anexo 1 de la presente Disposici&oacute;n y forma parte integrante de la misma.</P> <B><P ALIGN='JUSTIFY'>Art. 2° ––</B> Reg&iacute;strese, comun&iacute;quese a quienes corresponda; a ADECRA, Administraci&oacute;n Nacional de Aduanas, AQA, CACID, CADIE, CADIEM, CADIME, CAEHFA, CAEME, CAAPDROFAR, CAPRODI, CIGVA, CILFA, CNEA, COFA, COMRA, CONFECLISA, COOPERALA, CUBRA, ECUAF y B, FAIC, FUDESA, INTI, IRAM, SAFYBI, SAR, Secretar&iacute;a de Industria y Comercio, UAPE, UIA, Gobierno de la Ciudad de Buenos Aires, Ministerio de Salud de todas las Provincias y a la Comisi&oacute;n de Reinscripciones, Departamento de Registro, Instituto Nacional de Alimentos, Instituto Nacional de Medicamentos de la A.N.M.A.T.; publ&iacute;quese. D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial. Cumplido, arch&iacute;vese PERMANENTE. - Pablo M. Bazerque.</P> <P ALIGN='RIGHT'>ANEXO I</P> <P>VERIFICACION DEL CUMPLIMIENTO DE LAS BUENAS PRACTICAS DE FABRICACION DE PRODUCTOS MEDICOS</P> <P ALIGN='JUSTIFY'>INDICE</P> <P ALIGN='JUSTIFY'>Parte A- Aplicaci&oacute;n de la gu&iacute;a de inspecci&oacute;n</P> <P ALIGN='JUSTIFY'>Parte B- Requisitos del sistema de calidad</P><DIR> <DIR>  <P ALIGN='JUSTIFY'>B.1. Responsabilidad Gerencial</P> <P ALIGN='JUSTIFY'>B.2. Auditor&iacute;a de calidad</P> <P ALIGN='JUSTIFY'>B.3 Personal</P></DIR> </DIR>  <P ALIGN='JUSTIFY'>Parte C- Controles de Dise&ntilde;o</P> <P ALIGN='JUSTIFY'>Parte D- Controles de documentos y registros</P> <P ALIGN='JUSTIFY'>Parte E- Control de compras</P> <P ALIGN='JUSTIFY'>Parte F- Identificaci&oacute;n y rastreabilidad</P> <P ALIGN='JUSTIFY'>Parte G- Controles de proceso y producci&oacute;n</P><DIR> <DIR>  <P ALIGN='JUSTIFY'>G.1 Controles de proceso y producci&oacute;n</P> <P ALIGN='JUSTIFY'>G.2 Procesos especiales</P></DIR> </DIR>  <P ALIGN='JUSTIFY'>Parte H- Inspecciones y ensayos</P><DIR> <DIR>  <P ALIGN='JUSTIFY'>H.1 Inspecciones y ensayos</P> <P ALIGN='JUSTIFY'>H.2 Inspecci&oacute;n, medici&oacute;n y equipamiento de ensayo</P> <P ALIGN='JUSTIFY'>H.3 Resultado de las inspecciones y ensayos</P></DIR> </DIR>  <P ALIGN='JUSTIFY'>Parte I- Componentes y productos no conformes</P> <P ALIGN='JUSTIFY'>Parte J- Acci&oacute;n correctiva</P> <P ALIGN='JUSTIFY'>Parte K- Manipulaci&oacute;n, almacenamiento, distribuci&oacute;n e instalaci&oacute;n</P><DIR> <DIR>  <P ALIGN='JUSTIFY'>K.1 Manipulaci&oacute;n, almacenamiento, distribuci&oacute;n</P> <P ALIGN='JUSTIFY'>K.2 Instalaci&oacute;n de equipamientos</P></DIR> </DIR>  <P ALIGN='JUSTIFY'>Parte L- Controles de embalado y rotulado</P> <P ALIGN='JUSTIFY'>Parte M- Registros del sistema de calidad</P><DIR> <DIR>  <P ALIGN='JUSTIFY'>M.1 Requisitos generales</P> <P ALIGN='JUSTIFY'>M.2 Registro maestro de producto y registro hist&oacute;rico de producto</P> <P ALIGN='JUSTIFY'>M.3 Archivo de reclamos</P></DIR> </DIR>  <P ALIGN='JUSTIFY'>Parte N- Asistencia T&eacute;cnica</P> <P ALIGN='JUSTIFY'>Parte O- T&eacute;cnicas estad&iacute;sticas</P> <P ALIGN='JUSTIFY'>Anexo A- Clasificaci&oacute;n de los &iacute;tems de verificaci&oacute;n</P> <P ALIGN='JUSTIFY'>Anexo B- Acta de inspecci&oacute;n</P> <P ALIGN='JUSTIFY'>Parte A: Aplicaci&oacute;n de la gu&iacute;a de inspecci&oacute;n:</P> <P ALIGN='JUSTIFY'>1. Esta gu&iacute;a de inspecci&oacute;n tiene por objetivo auxiliar en la verificaci&oacute;n del cumplimiento de los requisitos de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n de Productos M&eacute;dicos por los fabricantes o importadores de estos productos.</P> <P ALIGN='JUSTIFY'>2. Las respuestas a las preguntas formuladas en este documento servir&aacute;n de base para la elaboraci&oacute;n del acta de inspecci&oacute;n (Anexo B) que dar&aacute; elementos para las autoridades de la salud competentes decidir sobre la emisi&oacute;n de constancias y certificaci&oacute;n de cumplimiento de las BPF.</P> <P ALIGN='JUSTIFY'>3. La no presentaci&oacute;n de la documentaci&oacute;n requerida por el inspector u omisi&oacute;n de la informaci&oacute;n solicitada estar&aacute; configurando que el fabricante o importador no cumple con los requisitos de las buenas Pr&aacute;cticas de Productos M&eacute;dicos.</P> <B><P ALIGN='JUSTIFY'>PARTE B: REQUISITOS DEL SISTEMA DE CALIDAD:</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=756> <P ALIGN='JUSTIFY'><B>B.1. Responsabilidad gerencial</P> </B><P ALIGN='JUSTIFY'>B.1.1. Existe una pol&iacute;tica de calidad en la empresa?</P> <P ALIGN='JUSTIFY'>B.1.2. Est&aacute;n comprendidos los objetivos de esa pol&iacute;tica fueron informados a los empleados?</P> <P ALIGN='JUSTIFY'>B.1.3. Existe un organigrama mostrando la estructura organizacional de la empresa?</P> <P ALIGN='JUSTIFY'>B.1.4. Existen descripciones de los cargos definiendo la autoridad y la responsabilidad de las funciones de dise&ntilde;o, compras, fabricaci&oacute;n, embalaje, rotulaci&oacute;n, almacenamiento, instalaci&oacute;n y asistencia t&eacute;cnica?</P> <P ALIGN='JUSTIFY'>B.1.5. Hay un representante de administraci&oacute;n formalmente designado con autoridad y responsabilidad para asegurar que los requisitos del sistema de calidad sean establecidos y mantenidos conforme a los requisitos de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n de Productos M&eacute;dicos?</P> <P ALIGN='JUSTIFY'>B.1.6. El desempe&ntilde;o del sistema de calidad es evaluado peri&oacute;dicamente por la gerencia ejecutiva?</P> <P ALIGN='JUSTIFY'>B.1.7. Esta evaluaci&oacute;n est&aacute; documentada?</P> <P ALIGN='JUSTIFY'>B.1.8. Existe un procedimiento estableciendo la periodicidad de esa evaluaci&oacute;n?</P> <P ALIGN='JUSTIFY'>B.1.9. El sistema de calidad est&aacute; descripto en un manual o en un documento equivalente y adecuadamente divulgado?</P> <B><P ALIGN='JUSTIFY'>B.2. Auditor&iacute;a de Calidad</P> </B><P ALIGN='JUSTIFY'>B.2.1. La empresa tiene procedimientos escritos de auditor&iacute;a interna para verificar si el sistema de calidad est&aacute; conforme de acuerdo a los requisitos establecidos en las Buenas Pr&aacute;cticas de Fabricaci&oacute;n de Productos M&eacute;dicos?</P> <P ALIGN='JUSTIFY'>B.2.2. Existen registros de entrenamiento de los auditores internos del sistema de calidad?</P> <P ALIGN='JUSTIFY'>B.2.3. Existen informes de auditor&iacute;a interna de calidad indicando las no conformidades encontradas?</P> <P ALIGN='JUSTIFY'>B.2.4. El informe est&aacute; firmado por el responsable del &aacute;rea auditada?</P> <P ALIGN='JUSTIFY'>B.2.5. El personal que ejecuta las auditor&iacute;as internas de calidad es independiente de las &aacute;reas auditadas?</P> <P ALIGN='JUSTIFY'>B.2.6. Existen registros de implementaci&oacute;n de las acciones correctivas recomendadas en los informes de la auditor&iacute;a interna?</P> <B><P ALIGN='JUSTIFY'>B.3. Personal</P> </B><P ALIGN='JUSTIFY'>B.3.1. La empresa posee un procedimiento de reclutamiento y selecci&oacute;n de personal?</P> <P ALIGN='JUSTIFY'>B.3.2. Los empleados son entrenados para ejecutar adecuadamente las tareas a ellos designadas?</P> <P ALIGN='JUSTIFY'>B.3.3. Son mantenidos registros de esos entrenamientos?</P> <P ALIGN='JUSTIFY'>B.3.4. Existen evidencias de que los empleados fueron informados de no conformidades causadas por el desempe&ntilde;o incorrecto de sus funciones?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Parte C: CONTROL DE DISE&Ntilde;O:</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=213> <P ALIGN='JUSTIFY'>C.1. Existen procedimientos para el desarrollo y control del proyecto?</P> <P ALIGN='JUSTIFY'>C.2. Los procedimientos est&aacute;n aprobados por una persona calificada?</P> <P ALIGN='JUSTIFY'>C.3. Existe aprobaci&oacute;n expresa de las caracter&iacute;sticas especificadas para el proyecto?</P> <P ALIGN='JUSTIFY'>C.4. Existen evidencias de que el proyecto fue examinado por persona responsable calificada y que su ejecuci&oacute;n est&aacute; conforme con los datos de la entrada?</P> <P ALIGN='JUSTIFY'>C.5. Existe comprobaci&oacute;n de realizaci&oacute;n de ensayos para verificar si los datos de salida del proyecto est&aacute;n conforme a las especificaciones?</P> <P ALIGN='JUSTIFY'>C.6. El fabricante, posee procedimiento para asegurar que el proyecto sea aprobado por persona calificada antes de ser liberado para la producci&oacute;n?</P> <P ALIGN='JUSTIFY'>C.7. El fabricante, mantiene un registro hist&oacute;rico del proyecto para comprobar que el mismo fue desarrollado conforme a los requisitos aprobados?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Parte D: CONTROLES DE DOCUMENTOS Y REGISTROS:</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=175> <P ALIGN='JUSTIFY'>D.1. Existe procedimiento para control de documentos?</P> <P ALIGN='JUSTIFY'>D.2. Los documentos son aprobados por personas designadas?</P> <P ALIGN='JUSTIFY'>D.3. Los documentos est&aacute;n disponibles en lugares apropiados?</P> <P ALIGN='JUSTIFY'>D.4. Los documentos est&aacute;n actualizados de acuerdo con los procedimientos de revisi&oacute;n de documentos?</P> <P ALIGN='JUSTIFY'>D.5. Existe procedimiento para remoci&oacute;n de documentos obsoletos?</P> <P ALIGN='JUSTIFY'>D.6. La empresa mantiene procedimientos para alteraci&oacute;n y revisi&oacute;n de documentos?</P> <P ALIGN='JUSTIFY'>D.7. Hay procedimientos para distribuci&oacute;n y recolecci&oacute;n de documentos identificados como documentos controlados?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Parte E: CONTROL DE COMPRAS:</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=116> <P ALIGN='JUSTIFY'>E.1. Hay procedimientos para evaluaci&oacute;n de proveedores?</P> <P ALIGN='JUSTIFY'>E.2. Existen especificaciones de compras definiendo claramente los requisitos a ser obtenidos por el proveedor?</P> <P ALIGN='JUSTIFY'>E.3. La empresa mantiene un registro de proveedores aprobados?</P> <P ALIGN='JUSTIFY'>E.4. Los pedidos de compras son aprobados por personal autorizado?</P> <P ALIGN='JUSTIFY'>E.5. Esa autorizaci&oacute;n est&aacute; formalizada?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Parte F: IDENTIFICACION Y RASTREABILIDAD:</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=135> <P ALIGN='JUSTIFY'>F.1. La empresa tiene procedimiento para la identificaci&oacute;n de los materiales de fabricaci&oacute;n recibidos?</P> <P ALIGN='JUSTIFY'>F.2. Los componentes y materiales de fabricaci&oacute;n est&aacute;n identificados?</P> <P ALIGN='JUSTIFY'>F.3. El componente o material de fabricaci&oacute;n es identificado con un n&uacute;mero de lote o partida que posibilite su rastreabilidad?</P> <P ALIGN='JUSTIFY'>F.4. El n&uacute;mero de lote o partida asociado al producto terminado est&aacute; registrado en el hist&oacute;rico correspondiente?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Parte G: CONTROLES DE PROCESO Y PRODUCCION:</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=660> <P ALIGN='JUSTIFY'><B>G.1. Controles de proceso y Producci&oacute;n:</P> </B><P ALIGN='JUSTIFY'>G.1.1. Existe procedimiento para liberaci&oacute;n de productos terminados?</P> <P ALIGN='JUSTIFY'>G.1.2. Los procedimientos de producci&oacute;n est&aacute;n disponibles en los lugares de uso o en lugares designados?</P> <P ALIGN='JUSTIFY'>G.1.3. Existen controles para impedir la mezcla de lotes o partidas de componentes, materiales de fabricaci&oacute;n o productos terminados?</P> <P ALIGN='JUSTIFY'>G.1.4. Existe especificaci&oacute;n de producci&oacute;n?</P> <P ALIGN='JUSTIFY'>G.1.5. Esa especificaci&oacute;n fue elaborada y revisada por personal autorizado distinto?</P> <P ALIGN='JUSTIFY'>G.1.6. Existe procedimiento para modificaci&oacute;n de especificaciones con expresa indicaci&oacute;n de responsabilidad?</P> <P ALIGN='JUSTIFY'>G.1.7. Existen procedimientos para limpieza de las &aacute;reas de producci&oacute;n?</P> <P ALIGN='JUSTIFY'>G.1.8. Las &aacute;reas de producci&oacute;n presentan limpieza compatibles con el tipo de producto fabricado?</P> <P ALIGN='JUSTIFY'>G.1.9. Existen evidencias de que los empleados no comen, no beben y no fuman en las &aacute;reas donde se puedan afectar al producto?</P> <P ALIGN='JUSTIFY'>F.1.10. Existe un programa documentado de combate a insectos y roedores?</P> <P ALIGN='JUSTIFY'>G.1.11. Hay evidencias de que ese programa est&aacute; en vigor?</P> <P ALIGN='JUSTIFY'>G.1.12. El personal utiliza uniformes y calzados adecuados a la tarea realizada?</P> <P ALIGN='JUSTIFY'>G.1.13. Hay ba&ntilde;os y vestuarios adecuados para el uso de los empleados?</P> <P ALIGN='JUSTIFY'>G.1.14. Los ba&ntilde;os y vestuarios adecuados presentan niveles de limpieza e higiene aceptables?</P> <P ALIGN='JUSTIFY'>G.1.15. Existe definici&oacute;n expresa de los pesticidas permitido y de las &aacute;reas donde pueden ser usados?</P> <P ALIGN='JUSTIFY'>G.1.16. Existen evidencias de recolecci&oacute;n regular de residuos de producci&oacute;n en las &aacute;reas de producci&oacute;n?</P> <P ALIGN='JUSTIFY'>G.1.17. Hay un programa documentado de limpieza y mantenimiento de m&aacute;quinas y equipamientos?</P> <B><P ALIGN='JUSTIFY'>G.2 - Procesos especiales:</P> </B><P ALIGN='JUSTIFY'>G.2.1. Existen protocolos de validaci&oacute;n establecidos para procesos especiales?</P> <P ALIGN='JUSTIFY'>G.2.2. Son mantenidos registros referentes al desempe&ntilde;o de procesos especiales de fabricaci&oacute;n?</P> <P ALIGN='JUSTIFY'>G.2.3. Existen evidencias de que estos registros son examinados por personal designado calificado?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Parte H: INSPECCION Y ENSAYOS:</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=852> <P ALIGN='JUSTIFY'><B>H.1. Inspecci&oacute;n y ensayos:</P> </B><P ALIGN='JUSTIFY'>H.1.1. Hay procedimientos para inspecci&oacute;n y, cuando es aplicable, ensayos de componentes y materiales de fabricaci&oacute;n recibidos, para asegurar que los requisitos especificados sean atendidos?</P> <P ALIGN='JUSTIFY'>H.1.2. Existen informes de inspecci&oacute;n comprobando que los componentes y materiales de fabricaci&oacute;n recibidos fueron inspeccionados antes de ser transferidos para la producci&oacute;n y est&aacute;n conformes a las especificaciones?</P> <P ALIGN='JUSTIFY'>H.1.3. Cuando es aplicable, existen ensayos durante el proceso de fabricaci&oacute;n para asegurar la conformidad con las especificaciones?</P> <P ALIGN='JUSTIFY'>H.1.4. Los resultados de esos ensayos est&aacute;n registrados?</P> <P ALIGN='JUSTIFY'>H.1.5. Los resultados de esos ensayos son examinados y aprobados por personal designado calificado?</P> <P ALIGN='JUSTIFY'>H.1.6. Existen procedimientos para retener componentes y materiales de fabricaci&oacute;n durante el proceso hasta que las inspecciones y ensayos exigidos hayan sido completados y que las aprobaciones necesarias hayan sido completadas?</P> <P ALIGN='JUSTIFY'>H.1.7. Existen evidencias de que esos procedimientos son aplicados?</P> <P ALIGN='JUSTIFY'>H.1.8. La empresa mantiene procedimientos para inspecci&oacute;n y ensayos de productos terminados asegurando que un lote o una partida est&aacute; conforme a las especificaciones?</P> <P ALIGN='JUSTIFY'>H.1.9. Los productos terminados son identificados y mantenidos en un &aacute;rea determinada hasta la conclusi&oacute;n de los ensayos finales de aprobaci&oacute;n?</P> <P ALIGN='JUSTIFY'>H.1.10. Hay comprobaci&oacute;n de que los productos terminados transferidos para la expedici&oacute;n est&aacute;n aprobados en los ensayos finales y que la transferencia es realizada por personal autorizado y que est&aacute;n de acuerdo con los requisitos establecidos en el registro maestro del producto?</P> <P ALIGN='JUSTIFY'>H.1.11. La transferencia de productos terminados est&aacute; asociada a los n&uacute;meros de lotes o partidas correspondientes?</P> <B><P ALIGN='JUSTIFY'>H.2. Inspecci&oacute;n, medici&oacute;n y equipamiento de ensayos</P> </B><P ALIGN='JUSTIFY'>H.2.1. Existe un programa documentado para calibraci&oacute;n y aforo de los instrumentos?</P> <P ALIGN='JUSTIFY'>H.2.2. Los instrumentos de inspecci&oacute;n, medici&oacute;n y ensayos est&aacute;n identificados indicando si est&aacute;n aforados o calibrados?</P> <P ALIGN='JUSTIFY'>H.2.3. Hay procedimientos para garantizar que los instrumentos no calibrados o no aforados no sean instalados y usados?</P> <P ALIGN='JUSTIFY'>H.2.4. En caso de que no existan patrones referenciales nacionales, el aforo y calibrado son referidos a sistemas propios, confiables y reproducibles?</P> <P ALIGN='JUSTIFY'>H.2.5. Hay registros que comprueban la confiabilidad de esos patrones?</P> <B><P ALIGN='JUSTIFY'>H.3. Resultado de inspecciones y ensayos</P> </B><P ALIGN='JUSTIFY'>H.3.1. Existe identificaci&oacute;n de los resultados de las inspecciones y ensayos realizados en los componentes, materiales de fabricaci&oacute;n y productos terminados?</P> <P ALIGN='JUSTIFY'>H.3.2. Existen procedimientos para asegurar que solamente los componentes, materiales de fabricaci&oacute;n y productos terminados que pasen las inspecciones y ensayos sean liberados?</P> <P ALIGN='JUSTIFY'>H.3.3. Los registros de las inspecciones y ensayos identifican las personas responsables por esta liberaci&oacute;n?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Parte I: COMPONENTES Y PRODUCTOS NO CONFORMES</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=134> <P ALIGN='JUSTIFY'>I.1. Existen procedimientos que aseguren que los componentes y materiales de fabricaci&oacute;n y productos terminados o devueltos no conformes con las especificaciones no sean utilizados?</P> <P ALIGN='JUSTIFY'>I.2. Los materiales de fabricaci&oacute;n, los componentes, los productos terminados o devueltos y los componentes no conformes son claramente identificados y separados?</P> <P ALIGN='JUSTIFY'>I.3. Existen responsables designados para decidir por la separaci&oacute;n y liberaci&oacute;n de estos materiales, componentes, productos terminados o devueltos?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Parte J: ACCION CORRECTIVA</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=115> <P ALIGN='JUSTIFY'>.1. Existe procedimiento para investigar las causas de no conformidad con el sistema de calidad?</P> <P ALIGN='JUSTIFY'>J.2. Las acciones correctivas resultantes de las investigaciones de no conformidad son documentadas e implementadas?</P> <P ALIGN='JUSTIFY'>J.3. La responsabilidad y la autoridad para decidir sobre la evaluaci&oacute;n, implementaci&oacute;n y monitoreo de las acciones correctivas aprobadas est&aacute;n claramente definidas?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Parte K: MANIPULACION, ALMACENAMIENTO, DISTRIBUCION E INSTALACION</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=289> <P ALIGN='JUSTIFY'>K.1. Manipulaci&oacute;n, almacenamiento y distribuci&oacute;n</P> <P ALIGN='JUSTIFY'>K.1.1. La empresa mantiene procedimientos para la manipulaci&oacute;n de productos terminados?</P> <P ALIGN='JUSTIFY'>K.1.2. Los productos terminados son almacenados conforme a lo establecido en los procedimientos?</P> <P ALIGN='JUSTIFY'>K.1.3. Los productos da&ntilde;ados o con plazo de validez vencido son separados de forma que no sean inadvertidamente distribuidos al mercado?</P> <P ALIGN='JUSTIFY'>K.1.4. Hay registros de esa separaci&oacute;n?</P> <P ALIGN='JUSTIFY'>K.1.5. La empresa mantiene procedimientos para remoci&oacute;n de esos productos del &aacute;rea de almacenaje?</P> <P ALIGN='JUSTIFY'>K.1.6. Los productos distribuidos al mercado son registrados de forma de identificar el nombre y la direcci&oacute;n del consignatario, las cantidades distribuidas y el n&uacute;mero de control o n&uacute;mero de lote o partida de fabricaci&oacute;n que permita su rastreabilidad?</P> <P ALIGN='JUSTIFY'>K.1.7. El &aacute;rea de almacenamiento presenta condiciones adecuadas de higiene y limpieza para evitar da&ntilde;os y contaminaci&oacute;n en productos terminados?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>K.2. Instalaci&oacute;n del equipamiento</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=77> <P ALIGN='JUSTIFY'>K.2.1. Existen instrucciones y procedimientos para la correcta instalaci&oacute;n de los productos?</P> <P ALIGN='JUSTIFY'>K.2.2. La empresa provee una garant&iacute;a de que el producto correctamente instalado funcionar&aacute; conforme a las especificaciones?</P> <P ALIGN='JUSTIFY'>K.2.3. La instalaci&oacute;n de cada producto es registrada, cuando es aplicable?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Parte L: CONTROL DE EMBALAJE Y ROTULADO</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=135> <P ALIGN='JUSTIFY'>L.1. Existen controles que comprueben que los embalajes y r&oacute;tulos est&aacute;n conforme a las especificaciones?</P> <P ALIGN='JUSTIFY'>L.2. Cuando es aplicable, hay procedimientos para rotulado de productos?</P> <P ALIGN='JUSTIFY'>L.3. Cuando es aplicable, los r&oacute;tulos son inspeccionados, aprobados y liberados para stock o uso por personas designadas calificadas?</P> <P ALIGN='JUSTIFY'>L.4. Cuando es aplicable, la empresas mantiene un &aacute;rea destinada al almacenamiento de r&oacute;tulos?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Parte M: REGISTROS DEL SISTEMA DE CALIDAD</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=91> <P ALIGN='JUSTIFY'><B>M.1. Requisitos generales</P> </B><P ALIGN='JUSTIFY'>M.1.1. Existen procedimientos para el archivo de los registros de los documentos referentes al sistema de calidad?</P> <P ALIGN='JUSTIFY'>M.1.2. Los registros de los documentos son archivados por el plazo establecido por las buenas pr&aacute;cticas de fabricaci&oacute;n para productos m&eacute;dicos?</P> <B><P ALIGN='JUSTIFY'>M.2. Registro Maestro de Producto y Registro Hist&oacute;rico de Producto</P> </B><P ALIGN='JUSTIFY'>M.2.1. El fabricante mantiene un registro maestro de producto (RMP) con los requisitos determinados por las buenas pr&aacute;cticas de fabricaci&oacute;n de productos m&eacute;dicos?</P> <P ALIGN='JUSTIFY'>M.2.2. El fabricante mantiene un registro hist&oacute;rico de producto para comprobar que el lote o partida de fabricaci&oacute;n fue producido en conformidad con lo que establece el RMP?</P> <B><P ALIGN='JUSTIFY'>M.3. Archivo de reclamos</P> </B><P ALIGN='JUSTIFY'>M.3.1. Hay procedimientos para gerenciamiento de los reclamos de los clientes?</P> <P ALIGN='JUSTIFY'>M.3.2. Los reclamos son registrados conforme a los requisitos de las buenas pr&aacute;cticas de fabricaci&oacute;n para productos m&eacute;dicos?</P> <P ALIGN='JUSTIFY'>M.3.3. Los reclamos de los clientes son examinados, investigados y las acciones correctivas, son tomadas, cuando corresponda, para prevenir la repetici&oacute;n de lo ocurrido?</P> <P ALIGN='JUSTIFY'>M.3.4. Las investigaciones son documentadas?</P> <P ALIGN='JUSTIFY'>M.3.5. Existen registros de que las acciones correctivas aprobadas fueran implementadas?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Parte N: ASISTENCIA TECNICA</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=77> <P ALIGN='JUSTIFY'>N.1. El fabricante establece y mantiene procedimientos de asistencia t&eacute;cnica?</P> <P ALIGN='JUSTIFY'>N.2. Existen registros de asistencia t&eacute;cnica prestada para cada producto?</P> <P ALIGN='JUSTIFY'>N.3. Esos registros est&aacute;n conforme a los requisitos de las buenas pr&aacute;cticas de fabricaci&oacute;n para productos m&eacute;dicos?</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Parte O: TECNICAS ESTADISTICA</P></B> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=737> <TR><TD VALIGN='TOP' HEIGHT=96> <P ALIGN='JUSTIFY'>O.1. Los planos de muestreo adoptados por el fabricante est&aacute;n formalizados por escrito?</P> <P ALIGN='JUSTIFY'>O.2. Existen procedimientos para revisi&oacute;n peri&oacute;dica de los planos de muestreo para verificar la adecuaci&oacute;n de la t&eacute;cnica de estad&iacute;tica del resultado pretendido?</P> <P ALIGN='JUSTIFY'>O.3. Existe personal designado calificado para realizar esta revisi&oacute;n y proponer t&eacute;cnicas estad&iacute;sticas adecuadas?</TD> </TR> </TABLE>  <P>&nbsp;</P> <P ALIGN='RIGHT'>ANEXO A</P> <P ALIGN='CENTER'>TABLAS DE CLASIFICACION</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/98853_res698-2-16-1999-1_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/98853_res698-2-16-1999-2_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/98853_res698-2-16-1999-3_jpg/archivo'></P> <B><P ALIGN='CENTER'>Clasificaci&oacute;n de los &iacute;tems de la Gu&iacute;a de Inspecci&oacute;n</P> </B><P>1. Los &iacute;tems de la gu&iacute;a de inspecci&oacute;n deben ser clasificados como:</P> <P>—IMPRESCINDIBLE</P> <P>—NECESARIO</P> <P>—RECOMENDABLE</P> <P>—INFORMATIVO</P> <P>—NO CORRESPONDE</P> <P>2. Las definiciones y la simbolog&iacute;a correspondiente son:</P> <P>—IMPRESCINDIBLE (IM)</P> <P>Consid&eacute;rase como &iacute;tem imprescindible aquel que, siendo parte de los requisitos de las buenas</P> <P>pr&aacute;cticas de fabricaci&oacute;n, pueden afectar en un grado cr&iacute;tico a la calidad del producto y/o la seguridad</P> <P>de los trabajadores, as&iacute; como, aquellos que correspondan a exigencias jur&iacute;dico - administrativas.</P> <P>—NECESARIO (N)</P> <P>Consid&eacute;rase como &iacute;tem necesario aquel cuyo no cumplimiento pueda afectar significativamente</P> <P>la calidad del producto y/o la seguridad de los trabajadores.</P> <P>—RECOMENDABLE (R)</P> <P>Consid&eacute;rase como &iacute;tem recomendable aquel cuyo no cumplimiento pueda afectar en un grado no</P> <P>significativo a la calidad del producto y/o la seguridad de los trabajadores.</P> <P>—INFORMATIVO (I)</P> <P>Consid&eacute;rase como &iacute;tem informativo aquel que expresa una informaci&oacute;n descriptiva y/o complementaria.</P> <P>—NO CORRESPONDE (NC)</P> <P>Consid&eacute;rase como &iacute;tem no corresponde aquel que no deba ser considerado en la inspecci&oacute;n que</P> <P>se realiza.</P> <P>3. La clasificaci&oacute;n de los &iacute;tems de esta gu&iacute;a de inspecci&oacute;n es aplicable a:</P> <P>—fabricantes de productos m&eacute;dicos; e</P> <P>—importadores de productos m&eacute;dicos.</P> <P>4. La clasificaci&oacute;n de los &iacute;tems de la verificaci&oacute;n servir&aacute; de base para que el inspector informe a las</P> <P>autoridades de salud competentes, en el Acta de Inspecci&oacute;n (ANEXO B), sobre el cumplimiento del</P> <P>fabricante o importador de los requisitos de las BPF y acciones correctivas necesarias.</P> <P>5. La simbolog&iacute;a de las tablas de clasificaci&oacute;n de los &iacute;tems de este documento adoptan el encuadre de</P> <P>los productos en las clases instituidas por la Resoluci&oacute;n MERCOSUR/GMC/Res. Nº 37/96:</P> <P>CLASE I - Bajo riesgo,</P> <P>CLASE II - Mediano riesgo,</P> <P>CLASE III - Alto riesgo.</P> <P ALIGN='RIGHT'>ANEXO B</P> <B><P ALIGN='CENTER'>Acta de inspecci&oacute;n</P> </B><P>El acta de inspecci&oacute;n deber&aacute; contener:</P> <P>1. la raz&oacute;n social de la empresa.</P> <P>2. el nombre del inspector o inspectores.</P> <P>3. el motivo de la inspecci&oacute;n y/o n&uacute;mero de orden de inspecci&oacute;n.</P> <P>4. el nombre, cargo y formaci&oacute;n profesional de las personas entrevistadas.</P> <P>5. las orientaciones o recomendaciones del/de los inspector/es a la empresa.</P> <P>6. las observaciones efectuadas durante la inspecci&oacute;n y descripci&oacute;n de los procedimientos operativos.</P> <P>7. el plazo recomendado por el inspector a la autoridad de salud competente para implementar medidas correctivas, en caso de ser necesarias.</P> <P>8. los comentarios del responsable de la empresa sobre las observaciones del inspector.</P> <P>9. la fecha del acta original y de las copias correspondientes, dejando una copia en poder de la empresa.</P> <P ALIGN='CENTER'>FE DE ERRATAS</P> <B><P>ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P>Disposici&oacute;n 698/99</P> </B><P>En la edici&oacute;n del 16 de febrero de 1999, donde se public&oacute; la citada Disposici&oacute;n, se consign&oacute; err&oacute;neamente como Resoluci&oacute;n Nº 698/99.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-698-1999-98853" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

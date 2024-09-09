@@ -1,0 +1,271 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.104',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-470-1992-26994/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-470-1992-26994/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-470-1992-26994/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"YpgBiRFPuOlNs0UGSBzGN4RGgVqOA-OqbOb2dqMLm4E","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/resoluci%C3%B3n-470-1992-26994\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-resolución-470-1992-26994 page-normativa-nacional-resolución-470-1992-26994-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/resoluci%C3%B3n-470-1992-26994/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-Yy6baqcdPtP6HIj7ExxYtnbCgT5jNyyIaXDe57a6RIs" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/resoluci%C3%B3n-470-1992-26994">Resolución Conjunta 470/1992</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>MINISTERIO DE ECONOMIA, OBRAS Y SERVICIOS PUBLICOS</small></p>
+            <p class="lead m-b-0"><small></small></p>
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>MINISTERIO DE SALUD Y ACCION SOCIAL</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>1992-04-20</strong></time>
+
+          <hr>
+
+          <article>
+            <b>Ministerio de Economía y Obras y Servicios Públicos y Ministerio de Salud y Acción Social</b> <p align='justify'><b>MEDICAMENTOS</b></p> <p align='justify'><b>Resolución Conjunta 470/92 y 268/92</b></p> <p align='justify'><b>Reglamentación del Decreto Nº 150/92</b></p> <p align='justify'>Bs. As., 10/4/92</p> <p align='justify'>VISTO el Decreto Nº 150 del 20 de enero de 1992, reglamentario de la Ley 16.463, y</p> <p align='justify'>CONSIDERANDO:</p> <p align='justify'>Que es necesario reglamentar el citado Decreto según lo establecido en el Artículo 22 del mismo.</p> <p align='justify'>Que se deben establecer los procedimientos administrativas para el registro de los medicamentos en la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL que el mencionado Decreto actualiza tomando en cuenta la experiencia acumulada desde la vigencia de la Ley Nº 16.463 en 1964.</p> <p align='justify'>Que se hace necesario establecer los requisitos técnicos para la calidad, distribución, depósito y transporte de los medicamentos tomando como base las recomendaciones de la Organización Mundial de la Salud.</p> <p align='justify'>Que igualmente deben establecerse los requisitos necesarios para asegurar la eficacia, inocuidad y calidad de los productos farmacéuticos importados mediante la realización de los controles necesarios antes de su liberación al mercado.</p> <p align='justify'>Que es necesario informar tanto a los profesionales autorizados a prescribir medicamentos como a la población, sobre los nombres genéricos y sus correspondientes marcas comerciales.</p> <p align='justify'>Que deben darse las debidas garantías al fraccionamiento de los medicamentos, tanto en el proceso de elaboración como durante la dispensación en las farmacias, siendo en este último caso el farmacéutico responsable de la integridad y calidad del producto que entrega.</p> <p align='justify'>Que las garantías previamente descriptas aseguran que los medicamentos incluidos en el Registro cumplen con las condiciones de eficacia, inocuidad y calidad que justifican su utilización en medicina humana y su correspondiente comercialización.</p> <p align='justify'>Que teniendo en cuenta la experiencia en la utilización de los medicamentos que prescribe, el profesional autorizado a dar cumplimiento a lo establecido en el Artículo 10 del Decreto Nº 150/92 respecto al uso del o de los nombres genéricos que identifican el medicamento prescripto podrá, cuando así lo estime necesario, seleccionar UNA (1) o más marcas comerciales entre los productos equivalentes existentes en el Registro de la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL.</p> <p align='justify'>Que, en observancia de lo dispuesto en la Ley 17.565/67 respecto de dar cumplimiento estricto de lo prescripto por el profesional autorizado, el farmacéutico dispensará el medicamento prescripto entregando una especialidad medicinal entre las que figuren en el Listado a que hace referencia el inciso b) del Artículo 6º del Decreto Nº 150/92 o una de las marcas comerciales que haya indicado el profesional autorizado.</p> <p align='justify'>Que para asegurar la calidad de los medicamentos importados, es necesario quienes realicen esta actividad sean responsables de la calidad de los productos que ellos comercialicen.</p> <p align='justify'>Que deben establecerse plazos para la intervención de los organismos estatales, con el fin de agilizar la comercialización de los medicamentos.</p> <p align='justify'>Que es necesario arancelar las tramitaciones relacionadas con la solicitud de inscripción en el Registro, para fortalecer el Instituto Nacional del Medicamento.</p> <p align='justify'>Que diversos sectores científicos, técnicos, gremiales, industriales y del área comercial de medicamentos tuvieron la oportunidad de dar a conocer sus posiciones sobre esta reglamentación a las autoridades de ambos Ministerios en reuniones públicas destinadas a su discusión.</p> <p align='justify'>Que también se tomaron en cuenta las opiniones de diversas entidades dadas a conocer en forma muy amplia y con diversidad de criterios a través de la prensa, tanto escrita como televisiva y radial.</p> <p align='justify'>Que los Servicios Jurídicos Permanentes de los MINISTERIOS DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS Y DE SALUD Y ACCION SOCIAL han tomado la intervención que les compete.</p> <p align='justify'>Que la presente Resolución se dicta en función de lo establecido en el Artículo 22 del Decreto Nº 150/92.</p> <p align='justify'>Por ello,</p> <p align='justify'>LOS MINISTROS DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS Y DE SALUD Y ACCION SOCIAL</p> <p align='justify'>RESUELVEN:</p> <b></b><p align='justify'><b>Artículo 1º</b> — Las especialidades medicinales autorizadas a la fecha de vigencia del Decreto Nº 150/92 serán incorporadas al registro especial al que se refiere el Artículo 2º del mencionado Decreto mediante la presentación por parte del titular del certificado vigente del formulario que como Anexo I forma parte de la presente Resolución. La incorporación será automática. Cualquiera fuera el número de formas farmacéuticas que estén actualmente autorizadas para una especialidad medicinal les corresponderá un único certificado.</p> <p align='justify'>El plazo de incorporación será de QUINCE (15) días a partir de la vigencia de la presente Resolución. La SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL determinará posteriormente otros plazos para la incorporación de las especialidades medicinales para las que no se haya efectuado presentación dentro del plazo indicado.</p> <p align='justify'>Las excepciones a la prohibición a las que se refiere el Artículo 2º del Decreto mencionado son las especialidades medicinales que:</p> <p align='justify'>a) estén destinadas a los estudios e investigaciones clínicas que hayan sido autorizadas de acuerdo con las normas vigentes;</p> <p align='justify'>b) determine el MINISTERIO DE SALUD Y ACCION SOCIAL para afrontar situaciones de emergencia sanitaria y aceptar donaciones internacionales;</p> <p align='justify'>c) importen los particulares para su uso personal sobre la base de una receta médica específica;</p> <p align='justify'>d) traigan, en cantidades razonables, los viajeros del exterior para su uso personal.</p> <b></b><p align='justify'><b>Art. 2º</b> — Quedan comprendidas en los alcances del Artículo 3º del Decreto Nº 150/92 las especialidades medicinales constituidas por un único principio activo o asociaciones de dos o más principios activos internacionalmente reconocidos para las que exista previamente registrado en el país un producto similar o que no constituya una novedad en los términos del Artículo 5º del citado decreto.</p> <p align='justify'>Para cumplimentar la información requerida por el referido Artículo 3º, las solicitudes de inscripción en el registro deberán estar acompañadas por la documentación técnica establecida en la Resolución Nº 3784 del 4 de setiembre de 1991 del MINISTERIO DE SALUD Y ACCION SOCIAL o la que en su reemplazo disponga la SECRETARIA DE SALUD de dicho ministerio.</p> <p align='justify'>El plazo a que hace referencia el Artículo 3º será interrumpido en todos los casos en que, a requerimiento de un funcionario de jerarquía no inferior a Director, el solicitante deba incorporar información adicional y hasta tanto la misma se considere debidamente cumplimentada. En todos los casos la suspensión de los plazos deberá estar fundamentada. Una vez vencido el mismo y no existiendo objeciones, la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL deberá extender el certificado en un plazo no mayor a VEINTE (20) días.</p> <p align='justify'>A las solicitudes de registro en trámite a la fecha de vigencia del Decreto Nº 150/92 que correspondan al régimen del Artículo 3º se le aplicará el procedimiento establecido en el párrafo anterior.</p> <b></b><p align='justify'><b>Art. 3º</b> — La certificación de origen a que se refiere el Artículo 4º del Decreto Nº 150/92 deberá estar conformada de acuerdo con las recomendaciones de la Organización Mundial de la Salud para el comercio internacional de productos farmacéuticos y documentación probatoria de su consumo en el país de origen, con indicación de los datos de formulación, control de calidad y bases farmacológicas, toxicológicas y clínicas que fundamentaron su aprobación en ese país. Los rótulos y prospectos deberán reproducir en idioma nacional las indicaciones, contraindicaciones, efectos adversos, posología, advertencias y recomendaciones de uso autorizadas en el país de origen.</p> <p align='justify'>Cuando se trate de solicitudes de registro presentadas por solicitantes que no sean los titulares o representantes del titular del registro en el país de origen, la certificación oficial vigente de medicamentos a que se refiere el Artículo 4º del Decreto Nº 150/92 podrá reemplazarse por una evidencia de comercialización en cualquiera de los países mencionados en el Anexo I del Decreto a la que deberá agregarse también la documentación a que se refieren los incisos a) y b) del Artículo 3º del Decreto Nº 150/92.</p> <p align='justify'>Para el registro de productos a importarse de países que no figuren en el Anexo I del Decreto Nº 150/92 pero autorizados en los mismos, la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL requerirá al importador la presentación de un certificado de registro y comercialización en el país de origen de acuerdo con las recomendaciones de la Organización Mundial de la Salud y documentación aprobatoria de su consumo en el mercado interno del país pertinente.</p> <p align='justify'>A los efectos del registro automático que establece el Artículo 4º del Decreto Nº 150/92 la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL dispondrá de VEINTE (20) días para la verificación de la documentación presentada. Vencido el plazo y no existiendo objeciones, el certificado de inscripción será expedido en un plazo máximo de DIEZ (10) días. Igual procedimiento se aplicará a las solicitudes de registro en trámite a la fecha de vigencia de esta resolución que a requerimiento del solicitante puedan considerarse amparadas en el Artículo 4º.</p> <p align='justify'>La solicitud de registro de un producto será denegada cuando se compruebe que una solicitud similar fue denegada, o el registro del producto se haya suspendido o cancelado en alguno de los países del Anexo I.</p> <p align='justify'>Las condiciones del registro podrán ser modificadas o ampliadas, así como también suspendidas o canceladas, cuando tales cambios o medidas se hayan producido en el registro de alguno de los países del Anexo I. El titular del registro queda obligado a notificar a la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL cualquier novedad de este tipo.</p> <p align='justify'>Para la realización de los controles que sean necesarios, el Instituto Nacional de Medicamentos dependiente de la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL podrá requerir los métodos de control y demás datos técnicos para tal fin.</p> <b></b><p align='justify'><b>Art. 4º</b> — Las solicitudes de registro de especialidades medicinales a las que se refiere el Artículo 5º del Decreto Nº 150/92, deberán incluir los datos identificatorios del producto indicados en el Artículo 3º del decreto mencionado y suficiente información química, farmacéutica, de control de calidad, estabilidad y elaboración, así como documentación farmacológica, toxicológica y clínica que demuestre su eficacia e inocuidad requeridas por las Normas Técnicas establecidas por la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL.</p> <p align='justify'>Quedan comprendidas en los alcances de este artículo las nuevas indicaciones de especialidades medicinales ya inscriptas.</p> <b></b><p align='justify'><b>Art. 5º</b> — La SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL y la SECRETARIA DE INDUSTRIA Y COMERCIO del MINISTERIO D ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS publicarán el Listado Terapéutico por clasificación farmacológica e índice alfabético de nombres genéricos con sus correspondientes marcas comerciales en las distintas formas farmacéuticas agrupadas según dosis y concentración. Este Listado se actualizará trimestralmente y contendrá los precios sugeridos de venta al público. Esta información deberá estar disponible en todos los lugares donde se dispensen medicamentos y al alcance de todos los profesionales autorizados a prescribirlos.</p> <b></b><p align='justify'><b>Art. 6º</b> — La producción y fraccionamiento de medicamentos y especialidades medicinales a que se refiere el Capítulo III del Decreto Nº 150/92 deberá realizarse bajo la dirección técnica de un profesional farmacéutico.</p> <p align='justify'>Las actividades relacionadas con drogas o principios activos de medicamentos podrán realizarse bajo la dirección técnica de un profesional farmacéutico, químico u otros profesionales con títulos habilitantes.</p> <p align='justify'>Las condiciones higiénico sanitarias de los procesos de producción, fraccionamiento, control de calidad, distribución, depósito y transporte se ajustarán como mínimo a las recomendaciones de la Organización Mundial de la Salud sobre buenas prácticas de fabricación o a las que establezca la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL.</p> <b></b><p align='justify'><b>Art. 7º</b> — En el caso del Artículo 10, inciso d) del Decreto Nº 150/92, el profesional autorizado a prescribir medicamentos, que considere que existan motivos fundados para que se utilicen productos de marca de laboratorios determinados, podrá agregar al nombre genérico, el nombre de uno o más laboratorios o marcas comerciales requiriéndose para esto una segunda firma del profesional.</p> <p align='justify'>El MINISTERIO DE SALUD Y ACCION SOCIAL hará conocer amplia y fehacientemente a la opinión pública y a todas las instituciones públicas y privadas involucradas, el alcance de las reglamentaciones que disponen el uso del nombre genérico en la prescripción médica. Para tal fin promoverá también acuerdos con las universidades para su uso en la enseñanza médica, odontológica y farmacéutica.</p> <b></b><p align='justify'><b>Art. 8º</b> — El farmacéutico deberá dispensar una especialidad medicinal salvo que el profesional indique que se trata de una receta magistral.</p> <p align='justify'>El farmacéutico que dispense un medicamento a partir de la correspondiente receta deberá agregar a su rúbrica y sello el nombre comercial del medicamento entregado al usuario, excepto en aquellos casos que el profesional haya indicado una marca comercial o laboratorio. En los casos de recetas de la Seguridad Social se adosará el correspondiente troquel.</p> <b></b><p align='justify'><b>Art. 9º</b> — El fraccionamiento en farmacias, tal como lo prevé el Artículo 13 del Decreto Nº 150/92, sólo se permitirá a partir de productos registrados en el MINISTERIO DE SALUD Y ACCION SOCIAL para las formas farmacéuticas sólidas envasadas en blister o tiras conformadas de material adecuado para su conservación, granulados o polvos en envases monodosis y ampollas o frascos ampollas.</p> <p align='justify'>En el rótulo del envase entregado al usuario deberá figurar el nombre del farmacéutico responsable del fraccionamiento y otros datos que permitan la identificación del medicamento y su uso correcto, según lo determine la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL.</p> <p align='justify'>El farmacéutico responsable del fraccionamiento deberá tener a disposición del paciente prospectos en cantidad suficiente para el caso de serle requeridos.</p> <b></b><p align='justify'><b>Art. 10.</b> — Las actividades de comercio exterior previstas en el Capítulo V del Decreto Nº 150/92 quedan sujetas a las estipulaciones del presente artículo.</p> <p align='justify'>A los efectos de las definiciones del 1er. párrafo del Artículo 14 del mencionado decreto, se adoptarán las siguientes expresiones aclaratorias:</p> <p align='justify'>a) se entiende por laboratorio a los que producen especialidades medicinales y se hallan debidamente autorizados;</p> <p align='justify'>b) se entiende por entes prestadores de servicios de salud y públicos y privados a los hospitales nacionales, provinciales y municipales y a los hospitales, sanatorios y clínicas privadas inscriptas en las respectivas jurisdicciones sanitarias.</p> <p align='justify'>Los establecimientos importadores contarán con un director técnico profesional farmacéutico.</p> <p align='justify'>Las actividades de importación de productos farmacéuticos están sujetas a los mismos requisitos higiénicos sanitarios que la autoridad sanitaria establezca para los productos elaborados y/o fraccionados en el país, siendo el importador responsable de la calidad del producto farmacéutico.</p> <p align='justify'>En todos los casos el control de calidad deberá realizarse en forma completa en el país, en laboratorios de control de calidad del importador o de terceros autorizados por la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL.</p> <p align='justify'>Deberán conservarse en el establecimiento importador muestras representativas en cantidad suficiente para su análisis por la autoridad sanitaria.</p> <p align='justify'>La importación de medicamentos se efectuará bajo el régimen de despacho a plaza sin autorización de uso. La autoridad sanitaria inspeccionará en función del riesgo sanitario las partidas importadas dentro de los CINCO (5) días de su despacho a plaza, obligándose el importador a comunicar a la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL en forma inmediata el ingreso del producto a sus depósitos. La autoridad sanitaria deberá expedirse en el término de TREINTA (30) días corridos; vencido dicho plazo el importador podrá comercializar el producto.</p> <p align='justify'>Cuando el importador se provea de un vendedor extranjero que no sea el fabricante del producto, deberá acreditar mediante documentación fehaciente el origen de fabricación. La autoridad sanitaria verificará en el plazo de CINCO (5) días que la partida importada corresponde a un registro vigente.</p> <p align='justify'>En los rótulos de los productos importados deberá indicarse el nombre del laboratorio productor y del importador, su dirección y nombre del Director Técnico. Se aceptará la sobreimpresión de los datos del importador.</p> <b></b><p align='justify'><b>Art. 11.</b> — El rótulo de la unidad de reempaque a la que se refiere el Artículo 15 del Decreto Nº 150/92 deberá contener los datos indicados en el inciso c) del Artículo 3º del mismo decreto.</p> <b></b><p align='justify'><b>Art. 12.</b> — A efectos del ejercicio de las actividades conjuntas que determina el Artículo 20 del Decreto Nº 150/92 se establece que:</p> <p align='justify'>a) la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL remitirá mensualmente a la SECRETARIA DE INDUSTRIA Y COMERCIO del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS un listado que contenga los registros autorizados y denegados de medicamentos;</p> <p align='justify'>b) la SECRETARIA DE INDUSTRIA Y COMERCIO del MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS remitirá quincenalmente a la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL un listado de los despachos a plaza de los medicamentos importados.</p> <b></b><p align='justify'><b>Art. 13.</b> — La incorporación al registro de las especialidades medicinales a las que se refieren los Artículos 2º y 3º de la presente Resolución devengará un arancel de MIL PESOS ($ 1000).</p> <p align='justify'>La incorporación al registro de las especialidades medicinales a las que se refiere el Artículo 4º de la presente Resolución devengará un arancel de TRES MIL PESOS ($ 3000).</p> <b></b><p align='justify'><b>Art. 14.</b> — El mantenimiento en el registro de las especialidades medicinales a que se refiere la presente Resolución devengará un arancel anual de MIL PESOS ($ 1000) que se hará efectivo por año vencido.</p> <b></b><p align='justify'><b>Art. 15.</b> — Los recursos provenientes de los aranceles establecidos en los Artículos 13 y 14 de la presente Resolución ingresarán al Fondo Nacional de la Salud con destino al Instituto Nacional de Medicamentos de la SECRETARIA DE SALUD del MINISTERIO DE SALUD Y ACCION SOCIAL.</p> <b></b><p align='justify'><b>Art. 16.</b> — Deróganse los ítems 1.2, 1.5, 1.13, 1.18, y 1.19 del Anexo I de la Resolución Nº 3480 del 26 de agosto de 1991 del MINISTERIO DE SALUD Y ACCION SOCIAL.</p> <b></b><p align='justify'><b>Art. 17.</b> — Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Domingo F. Cavallo. — Julio C. Aráoz.</p> <p align='center'><img  src='../../../normativa/26994_resconj470y268-20-04-1992MEYOSPyMSAS_jpg/archivo'></p>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/resolución-470-1992-26994" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

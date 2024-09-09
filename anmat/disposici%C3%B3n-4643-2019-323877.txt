@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-4643-2019-323877/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-4643-2019-323877/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-4643-2019-323877/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"vYe9eNQKDfRaS-lxtzDUPwIq06HZoPyH1xEj3jEVMnk","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-4643-2019-323877\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-4643-2019-323877 page-normativa-nacional-disposición-4643-2019-323877-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-4643-2019-323877/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-SWgaoTN9NAbpL-GxINDNLBlGubhzI6UKoIIRrhNNhCY" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-4643-2019-323877">Disposición   4643/2019</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2019-06-04</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 4643/2019</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>DI-2019-4643-APN-ANMAT#MSYDS</span><br style='font-weight: bold;'> <br> Ciudad de Buenos Aires, 03/06/2019<br> <br> VISTO las Leyes nros. 24.072, 21.704, 19.303 y 17.818; el Decreto Ley N° 7672 del 13 de noviembre de 1963; los Decretos nros. 1490 del 20 de agosto de 1992, 4589 del 11 de octubre de 1971, 434 del 1 de marzo de 2016, 1079 del 6 de octubre de 2016, 1063 del 4 de octubre de 2016, 891 del 1 de noviembre de 2017, la Disposición ANMAT N° 3474 del 10 de junio de 2005 y el EX-2019-50673285- -APN-ANMAT#MSYDS; y<br> <br> CONSIDERANDO:<br> <br> Que el Decreto N° 1490/92 crea esta Administración Nacional de Medicamentos, Alimentos y Tecnología Médica como organismo descentralizado de la Administración Pública Nacional, con un régimen de autarquía financiera y económica, con jurisdicción en todo el territorio nacional.<br> <br> Que en virtud del artículo 3° inciso a) del mencionado decreto, esta Administración Nacional tiene competencia en todo lo referente al control y fiscalización sobre la sanidad y la calidad de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico, materiales y todo otro producto de uso y aplicación en medicina humana.<br> <br> Que por otra parte, de acuerdo con el inciso e) del citado artículo, corresponde a esta Administración Nacional el contralor de las actividades, procesos y tecnologías que se realicen en función del aprovisionamiento, producción, elaboración, fraccionamiento, importación y/o exportación, depósito y comercialización de los productos, substancias, elementos y materiales consumidos o utilizados en la medicina, alimentación y cosmética humanas.<br> <br> Que asimismo, de conformidad con el inciso f) del referido artículo 3°, corresponde a la ANMAT la realización de acciones de prevención y protección de la salud de la población, que se encuadren en las materias sometidas a su competencia.<br> <br> Que nuestro país adhirió a la Convención Única de Estupefacientes, de 1961 aprobada por el Decreto Ley N° 7672/63.<br> <br> Que el artículo 31° de dicha Convención establece que las Partes no permitirán la exportación de estupefacientes a ningún país o territorio, salvo de conformidad con las leyes y reglamentos de dicho país o territorio y dentro de los límites de las previsiones para ese país o territorio.<br> <br> Que el mencionado artículo establece que las Partes ejercerán la fiscalización de las importaciones y exportaciones de estupefacientes y, asimismo, que exigirán que se obtenga una autorización diferente de importación o de exportación para cada importación o exportación y define los requisitos que debe cumplir la autorización.<br> <br> Que la Convención aprueba, asimismo, las listas de estupefacientes y preparados a los que se aplican sus disposiciones.<br> <br> Que por la Ley N° 24.072 se aprobó la Convención de las Naciones Unidas Contra el Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas que fija determinados requisitos para la exportación lícita de estupefacientes y sustancias sicotrópicas.<br> <br> Que por la Ley Nº 21.704 se aprobó el Convenio sobre Sustancias Sicotrópicas, que en su artículo 12 establece que para determinadas sustancias listadas, toda Parte que permita su importación o exportación exigirá que se obtenga la autorización en un formulario establecido por la Comisión de Estupefacientes del Consejo Económico y Social de las Naciones Unidas y establece los requisitos que debe cumplir la autorización.<br> <br> Que la Disposición ANMAT N° 3474/05 aprobó la Resolución GMC N° 29/02 que aprueba el reglamento técnico del MERCOSUR sobre documentos comunes necesarios para la importación y exportación de estupefacientes y psicotrópicos.<br> <br> Que, por su parte, dentro del régimen nacional, la Ley N° 17.818 sobre estupefacientes adecua la normativa interna a la Convención Única sobre Estupefacientes, incorporando las listas de la Convención a la ley y aquellas que la autoridad sanitaria nacional resuelva incluir.<br> <br> Que en esta línea, se establece que la autoridad sanitaria nacional publicará periódicamente la nómina de estupefacientes sujetos a fiscalización y control y sus modificaciones.<br> <br> Que el artículo 3° de la referida ley prohíbe, entre otros, la exportación e importación de estupefacientes de la lista IV de la Convención Única de , Estupefacientes de 1961 con excepción de las cantidades necesarias para investigación.<br> <br> Que, asimismo, el artículo 7° de la ley establece que para la exportación o reexportación de estupefacientes será indispensable obtener un certificado oficial otorgado por la autoridad sanitaria nacional, de conformidad a las especificaciones señaladas en la Convención Única sobre Estupefacientes de 1961.<br> <br> Que, por su parte, la Ley N° 19.303 establece que se considerarán psicotrópicos a las drogas, preparados y especialidades farmacéuticas incluidas en las listas anexas a la misma y aquella que la autoridad nacional resuelva incluir; a cuyos fines la autoridad sanitaria nacional está facultada para modificar las listas mencionadas.<br> <br> Que el artículo 3° de la Ley 19.303 prohíbe, entre otros, la exportación e importación de psicotrópicos que se incluyen en la lista I, con excepción de las cantidades estrictamente necesarias para la investigación.<br> <br> Que conforme el artículo 4° de la norma citada dichos psicotrópicos sólo podrán ser importados, exportados o reexportados por puertos o aeropuertos bajo jurisdicción de la Aduana de la Capital Federal, con la intervención de la autoridad sanitaria nacional.<br> <br> Que el artículo 7° de la ley establece que para la exportación o reexportación de los psicotrópicos incluidos en las listas II y III, será indispensable obtener un certificado oficial otorgado por la autoridad nacional.<br> <br> Que el Decreto N° 4589/71, reglamentario de la ley 19.303, en su artículo 7° establece los requisitos que debe cumplir el certificado oficial de exportación o reexportación.<br> <br> Que, por otra parte el Decreto N° 434/2016 aprobó el Plan de Modernización del Estado que contempló, como uno de los instrumentos del Plan, la reingeniería de procesos administrativos y de control con el objetivo de dotarlos de mayor eficiencia para la consecución de los objetivos de los organismos de la Administración Pública Nacional.<br> <br> Que a esos fines se dictó el Decreto N° 891/17 por el que se aprobaron las BUENAS PRÁCTICAS EN MATERIA DE SIMPLIFICACIÓN aplicables para el funcionamiento del Sector Público Nacional y el dictado de la normativa y sus regulaciones.<br> <br> Que dicho decreto consideró indispensable elaborar una estrategia sistémica e integral cuya premisa básica sea la mejora regulatoria como una labor continua del sector público y abierta a la participación de la sociedad, que incluya la reducción de los trámites excesivos, la simplificación de procesos y la elaboración de normas de manera tal que nos lleve a un Estado eficiente, predecible y capaz de responder a las necesidades ciudadanas.<br> <br> Que en otro orden de ideas, en el marco del citado Plan, por el Decreto Nº 1063/16 se aprobó la implementación de la Plataforma de Trámites a Distancia (TAD) del Sistema de Gestión Documental Electrónica (GDE), como medio de interacción del ciudadano con la administración, a través de la recepción y remisión por medios electrónicos de presentaciones, solicitudes, escritos, notificaciones y comunicaciones, entre otros.<br> <br> Que el Decreto N° 1079/16 establece el Régimen Nacional de Ventanilla Única de Comercio Exterior (VUCE ARGENTINA), por el cual se administrarán los trámites vinculados a las declaraciones, permisos, certificaciones, licencias y demás autorizaciones y gestiones necesarias para realizar las operaciones de importación, exportación y tránsito de todo tipo de mercancías.<br> <br> Que en ese contexto, y con el fin de avanzar en el proceso de gestión estatal que persigue como objetivo el cumplimiento de los principios de eficiencia, transparencia y predictibilidad y adaptarlo a los estándares de las nuevas herramientas tecnológicas y sobre la base de la experiencia adquirida en la aplicación sistemática de la normativa vigente en materia de exportación de psicotrópicos y estupefacientes, resulta conveniente la revisión y actualización de aspectos procedimentales a los fines de agilizar la obtención del Certificado de Exportación de psicotrópicos y estupefacientes.<br> <br> Que el Instituto Nacional de Medicamentos (INAME) y la Dirección General de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que se actúa en virtud de las facultades conferidas por el Decreto Nro. 1490/92 y sus modificatorios.<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1°.- La presente disposición es de aplicación para toda persona física y/o jurídica que realice la exportación de los psicotrópicos y estupefacientes mencionados en las listas de las Leyes Nros. 19.303 y 17.818 respectivamente, y las que, en el futuro, las reemplacen o complementen.<br> <br> ARTÍCULO 2°.- A los fines de solicitar el Certificado de Exportación de psicotrópicos y estupefacientes, el interesado debe ingresar a la Ventanilla Única de Comercio Exterior (VUCE ARGENTINA), a Trámites a Distancia (TAD) o cualquier otra plataforma que en un futuro las reemplace o complemente y completar los campos y la documentación que se aprueban en el Anexo I (IF-2019-51452383-APN-ANMAT#MSYDS). La solicitud deberá ser suscripta en forma conjunta por el Director Técnico y el solicitante, en el caso de personas físicas, o por el Director Técnico y el representante legal de la firma o apoderado en el caso de personas jurídicas.<br> <br> ARTÍCULO 3°.- Una vez que el interesado haya dado cumplimiento con lo establecido en el artículo precedente, el INSTITUTO NACIONAL DE MEDICAMENTOS (INAME) de esta ADMINISTRACIÓN NACIONAL validará los datos correspondientes y, en caso de corresponder, emitirá el Certificado en el plazo de 15 (QUINCE) días hábiles administrativos.<br> <br> ARTÍCULO 4°.- Dentro del plazo mencionado en el artículo precedente, el INAME notificará al interesado a través de la plataforma Trámites a Distancia (TAD) que el Certificado se encuentra disponible para retirar por la mesa de entrada de esta ADMINISTRACIÓN NACIONAL, sita en Adolfo Alsina n° 671 de la Ciudad Autónoma de Buenos Aires. En caso de que la dirección sea modificada, será indicada en la notificación.<br> <br> ARTÍCULO 5°.- Si del control documental surge alguna inconsistencia o irregularidad en la carga, dentro del plazo establecido en el artículo 3° el INAME notificará al interesado a través de la plataforma Trámites a Distancia (TAD).<br> <br> El solicitante debe subsanar la presentación en el plazo de 10 (DIEZ) días hábiles contados desde la notificación. Durante dicho plazo quedará suspendido el plazo establecido en el artículo 3° de la presente. Si las observaciones no fueran subsanadas en el plazo establecido, se procederá al rechazo del trámite.<br> <br> ARTÍCULO 6°.- El Certificado de Exportación de psicotrópicos tendrá la vigencia establecida en la Ley Nro. 19.303, y el Certificado de Exportación de estupefacientes tendrá la vigencia establecida en la Ley Nro. 17.818.<br> <br> ARTÍCULO 7°.- Apruébanse los campos y la documentación que debe contener la solicitud de emisión del Certificado los que, como Anexo I (IF-2019-51452383-APN-ANMAT#MSYDS), forman parte integrante de la presente disposición.<br> <br> ARTÍCULO 8°.- Apruébase el modelo de Certificado de Exportación de psicotrópicos y estupefacientes el que, como Anexo II (IF-2019-51642932-APN-ANMAT-#MSYDS), forma parte integrante de la presente Disposición.<br> <br> ARTÍCULO 9°.- La presente disposición entrará en vigencia a los 30 (TREINTA) días hábiles administrativos contados a partir de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 10°.- Regístrese. Dése a la Dirección Nacional del Registro Oficial para su publicación. Dése a la Coordinación de Gestión Administrativa, a la Dirección de Gestión de Información Técnica, al Instituto Nacional de Medicamentos y a la Dirección de Relaciones Institucionales y Regulación Publicitaria. Cumplido archívese. Carlos Alberto Chiale<br> <br> NOTA: El/los Anexo/s que integra/n este(a) Disposición se publican en la edición web del BORA -www.boletinoficial.gob.ar-<br> <br> <div style='text-align: right;'>e. 04/06/2019 N° 39225/19 v. 04/06/2019<br> </div> <br> <span style='font-style: italic;'>(<span style='font-weight: bold;'>Nota Infoleg:</span> Los anexos referenciados en la presente norma han sido extraídos de la edición web de Boletín Oficial. Los mismos pueden consultarse en el siguiente link: <a  target='_blank' href='../../../normativa/323877_Disp4643-1_pdf/archivo'>Anexo I</a>, <a  target='_blank' href='../../../normativa/323877_Disp4643-2_pdf/archivo'>AnexoII</a>)</span></div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-4643-2019-323877" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

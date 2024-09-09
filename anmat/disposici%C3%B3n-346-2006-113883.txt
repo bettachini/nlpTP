@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-346-2006-113883/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-346-2006-113883/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-346-2006-113883/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"_6qRUTaMXo7Fe9cFAFULioualinPm-YFRJ4rf4g9hEU","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-346-2006-113883\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-346-2006-113883 page-normativa-nacional-disposición-346-2006-113883-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-346-2006-113883/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-Kue3YXUvVvOLVBQA3uSSyBsbNaIY6Oiq0mLy2MJ87HM" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-346-2006-113883">Disposición   346/2006</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2006-02-10</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'>PRODUCTOS DE HIGIENE PERSONAL, COSMETICOS Y PERFUMES</P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 346/2006</P> <P ALIGN='JUSTIFY'>Incorp&oacute;rase al ordenamiento jur&iacute;dico nacional la Resoluci&oacute;n GMC Nº 05/05, Reglamento T&eacute;cnico MERCOSUR 'Autorizaci&oacute;n de Funcionamiento/habilitaci&oacute;n de Empresas de Productos de Higiene Personal, Cosm&eacute;ticos y Perfumes, sus Modificaciones y Bajas/cancelaciones'.</P> </B><P ALIGN='JUSTIFY'>Bs. As., 19/1/2006</P> <P ALIGN='JUSTIFY'>VISTO el Expediente Nº 1-2002-12013-04-5 del Registro de esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica, el Tratado de Asunci&oacute;n del 26 de marzo de 1991, aprobado por la Ley Nº 23.981 y el Protocolo de Ouro Preto del 17 de diciembre de 1994, aprobado por la Ley Nº 24.560, y</P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que el proceso de integraci&oacute;n del Mercosur es de la mayor importancia estrat&eacute;gica para la REPUBLICA ARGENTINA.</P> <P ALIGN='JUSTIFY'>Que, conforme a los art&iacute;culos 2, 9, 15, 20, 38, 40 y 42 del Protocolo de Ouro Preto, las normas Mercosur aprobadas por el Consejo del Mercado Com&uacute;n, el Grupo Mercado Com&uacute;n y la Comisi&oacute;n de Comercio del Mercosur, son obligatorias y deben ser incorporadas, cuando ello sea necesario, al ordenamiento jur&iacute;dico nacional de los Estados Partes mediante los procedimientos previstos en su legislaci&oacute;n.</P> <P ALIGN='JUSTIFY'>Que conforme a los art&iacute;culos 3, 14 y 15 de la Decisi&oacute;n 20/02 del Consejo del Mercado Com&uacute;n, las normas Mercosur que no requieran ser incorporadas por v&iacute;a de aprobaci&oacute;n legislativa podr&aacute;n ser incorporadas por v&iacute;a administrativa por medio de actos del Poder Ejecutivo.</P> <P ALIGN='JUSTIFY'>Que el art&iacute;culo 7 de la citada Decisi&oacute;n establece que las normas Mercosur deber&aacute;n ser incorporadas a los ordenamientos jur&iacute;dicos de los Estados Partes en su texto integral.</P> <P ALIGN='JUSTIFY'>Que la DIRECCION DE ASUNTOS JURIDICOS ha tomado la intervenci&oacute;n que le compete.</P> <P ALIGN='JUSTIFY'>Que la presente se dicta en ejercicio de las atribuciones conferidas por los Decretos Nº 1490/92 y 197/02.</P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Incorp&oacute;rase al ordenamiento jur&iacute;dico nacional la Resoluci&oacute;n Mercosur GMC Nº 05/05 REGLAMENTO TECNICO MERCOSUR 'AUTORIZACION DE FUNCIONAMIENTO / HABILITACION DE EMPRESAS DE PRODUCTOS DE HIGIENE PERSONAL, COSMETICOS Y PERFUMES, SUS MODIFICACIONES Y BAJAS / CANCELACIONES' que se adjunta como anexo y forma parte integrante de la presente Disposici&oacute;n.</P> <B><P ALIGN='JUSTIFY'>Art. 2º </B>— En los t&eacute;rminos del Protocolo de Ouro Preto, la norma que se incorpora por la presente Disposici&oacute;n, entrar&aacute; en vigor simult&aacute;neamente en los Estados Partes, 30 d&iacute;as despu&eacute;s de la fecha de comunicaci&oacute;n efectuada por la Secretar&iacute;a del Mercosur informando que todos los Estados han incorporado la norma a sus respectivos ordenamientos jur&iacute;dicos internos.</P> <P ALIGN='JUSTIFY'>La entrada en vigor simult&aacute;nea de la Resoluci&oacute;n Mercosur GMC Nº 05/05 REGLAMENTO TECNICO MERCOSUR 'AUTORIZACION DE FUNCIONAMIENTO / HABILITACION DE EMPRESAS DE PRODUCTOS DE HIGIENE PERSONAL, COSMETICOS Y PERFUMES, SUS MODIFICACIONES Y BAJAS / CANCELACIONES' ser&aacute; comunicada a trav&eacute;s de un aviso en el Bolet&iacute;n Oficial de la Naci&oacute;n (cfr. Art&iacute;culo 40 inciso III del Protocolo de Ouro Preto).</P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— Comun&iacute;quese, publ&iacute;quese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial y arch&iacute;vese. — Manuel R. Limeres.</P> <P ALIGN='JUSTIFY'>MERCOSUR/GMC/RES. Nº 05/05 </P> <P ALIGN='CENTER'>REGLAMENTO TECNICO MERCOSUR 'AUTORIZACION DE FUNCIONAMIENTO/ HABILITACION DE EMPRESAS DE PRODUCTOS DE HIGIENE PERSONAL COSMETICOS Y PERFUMES, SUS MODIFICACIONES Y BAJAS/CANCELACIONES'</P> <P ALIGN='CENTER'>(COMPLEMENTACION DE LA RES. GMC N° 24/95)</P> <P ALIGN='JUSTIFY'>VISTO: El Tratado de Asunci&oacute;n, el Protocolo de Ouro Preto y las Resoluciones N° 91/93, 110/94, 24/95, 38/98 y 56/02 del Grupo Mercado Com&uacute;n.</P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que la armonizaci&oacute;n de los requisitos para habilitaci&oacute;n de empresas de Productos de Higiene Personal, Cosm&eacute;ticos y Perfumes es fundamental para concretar la libre circulaci&oacute;n de los productos en el &aacute;mbito del MERCOSUR.</P> <P ALIGN='JUSTIFY'>Que debe establecerse un sistema adecuado de autorizaci&oacute;n para las empresas responsables de productos de higiene personal, cosm&eacute;ticos y perfumes.</P> <P ALIGN='JUSTIFY'>EL GRUPO MERCADO COMUN</P> <P ALIGN='JUSTIFY'>RESUELVE:</P> <P ALIGN='JUSTIFY'>Art. 1 — Aprobar el Reglamento T&eacute;cnico MERCOSUR 'Autorizaci&oacute;n de Funcionamiento/ Habilitaci&oacute;n de Empresas de Productos de Higiene Personal, Cosm&eacute;ticos y Perfumes sus Modificaciones y Bajas/ Cancelaciones' (Complementaci&oacute;n de la Res. GMC N° 24/95).</P> <P ALIGN='JUSTIFY'>Art. 2 — Para la implementaci&oacute;n de la presente normativa ser&aacute;n utilizadas las definiciones que figuran en el Anexo I, que forma parte de la presente Resoluci&oacute;n.</P> <P ALIGN='JUSTIFY'>Art. 3 — Los documentos a ser presentados ante la Autoridad Sanitaria competente para la Autorizaci&oacute;n de Funcionamiento/Habilitaci&oacute;n de Empresas para elaborar, fabricar, fraccionar, envasar, embalar, acondicionar, almacenar e importar productos de higiene personal, cosm&eacute;ticos y perfumes deber&aacute;n cumplir con todos los requisitos necesarios para ser considerados v&aacute;lidos de acuerdo con la legislaci&oacute;n vigente y figuran, en el Anexo II, que forma parte de la presente Resoluci&oacute;n.</P> <P ALIGN='JUSTIFY'>P&aacute;rrafo Unico — Los requisitos para la constituci&oacute;n legal de las empresas que desarrollan actividades de distribuci&oacute;n, transporte y otros, ser&aacute;n establecidos por cada Estado Parte a trav&eacute;s de la legislaci&oacute;n espec&iacute;fica.</P> <P ALIGN='JUSTIFY'>Art. 4 — La Autorizaci&oacute;n de Funcionamiento/Habilitaci&oacute;n de Empresas para el ejercicio de actividades que trata este Reglamento, habilitar&aacute; a la misma, previamente inspeccionada por la Autoridad Sanitaria competente, teniendo validez en todo el Territorio Nacional, mediante un documento espec&iacute;fico, de acuerdo con cada Estado Parte.</P> <P ALIGN='JUSTIFY'>Art. 5 — Para solicitar las modificaciones o baja/cancelaci&oacute;n de Autorizaci&oacute;n de Funcionamiento/ Habilitaci&oacute;n de Empresas deber&aacute; ser presentada a la Autoridad Sanitaria competente la documentaci&oacute;n correspondiente de acuerdo al Anexo III de esta Reglamento.</P> <P ALIGN='JUSTIFY'>Art. 6 — Dado que el Control de Calidad es privativo de las empresas que elaboran, fabrican y/o fraccionan y envasan, las mismas deber&aacute;n contar con un laboratorio de control de calidad propio. Los importadores deber&aacute;n contar con un laboratorio propio o contratado para el control de calidad, a fin de, asegurar la calidad del producto que comercializa.</P> <P ALIGN='JUSTIFY'>Art. 7 — Los Estados Partes pondr&aacute;n en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resoluci&oacute;n a trav&eacute;s de los siguientes organismos: </P> <TABLE CELLSPACING=0 BORDER=0 CELLPADDING=4 WIDTH=596> <TR><TD WIDTH='13%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Argentina:</TD> <TD WIDTH='87%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Minist&eacute;rio de Salud y Ambiente Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica </TD> </TR> <TR><TD WIDTH='13%' VALIGN='TOP'> <P>&nbsp;</TD> <TD WIDTH='87%' VALIGN='TOP'> <P>&nbsp;</TD> </TR> <TR><TD WIDTH='13%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Brasil: </TD> <TD WIDTH='87%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Minist&eacute;rio da Sa&uacute;de Agencia Nacional de Vigil&acirc;ncia Sanit&aacute;ria </TD> </TR> <TR><TD WIDTH='13%' VALIGN='TOP'> <P>&nbsp;</TD> <TD WIDTH='87%' VALIGN='TOP'> <P>&nbsp;</TD> </TR> <TR><TD WIDTH='13%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Paraguay: </TD> <TD WIDTH='87%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Ministerio de Salud P&uacute;blica y Bienestar Social Direcci&oacute;n Nacional de Vigil&acirc;ncia Sanitaria </TD> </TR> <TR><TD WIDTH='13%' VALIGN='TOP'> <P>&nbsp;</TD> <TD WIDTH='87%' VALIGN='TOP'> <P>&nbsp;</TD> </TR> <TR><TD WIDTH='13%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Uruguay: </TD> <TD WIDTH='87%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Ministerio de Salud P&uacute;blica</TD> </TR> </TABLE>  <P ALIGN='JUSTIFY'>Art. 8 — La presente Resoluci&oacute;n se aplicar&aacute; en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.</P> <P ALIGN='JUSTIFY'>Art. 9 — Los Estados Partes del MERCOSUR deber&aacute;n incorporar la presente Resoluci&oacute;n a sus ordenamientos jur&iacute;dicos nacionales antes del 15/X/05.</P> <P ALIGN='RIGHT'>LVII GMC - Asunci&oacute;n, 15/IV/05</P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='JUSTIFY'>Autorizaci&oacute;n de Funcionamiento/Habilitaci&oacute;n de Empresas - Acto privativo del Ministerio de Salud, con incumbencia en la vigilancia sanitaria de los productos que trata la legislaci&oacute;n sanitaria vigente, en el que se otorga el permiso para que las empresas realicen las actividades propuestas, con la comprobaci&oacute;n previa del cumplimiento de los requisitos t&eacute;cnicos y administrativos espec&iacute;ficos.</P> <P ALIGN='JUSTIFY'>Productos de Higiene Personal, Cosm&eacute;ticos y Perfumes - Definici&oacute;n seg&uacute;n Resoluci&oacute;n GMC Nº 110/94.</P> <P ALIGN='JUSTIFY'>Producto a Granel - Material procesado que se encuentra en su forma final y que s&oacute;lo requiere ser acondicionado o envasado antes de convertirse en un Producto terminado / acabado.</P> <P ALIGN='JUSTIFY'>Producto Semi-elaborado - Substancia o mezcla de substancias que requieren posteriores procesos de producci&oacute;n a fin de convertirse en productos a granel.</P> <P ALIGN='JUSTIFY'>Producto Terminado / Acabado - Producto que ha pasado por todas las fases de producci&oacute;n y acondicionamiento, listo para la venta / consumo.</P> <P ALIGN='JUSTIFY'>Empresa - Persona Jur&iacute;dica que, seg&uacute;n las leyes vigentes de cada Estado Parte, explota la actividad econ&oacute;mica y/o industrializa un producto contemplado por la legislaci&oacute;n sanitaria vigente.</P> <P ALIGN='JUSTIFY'>Establecimiento - Unidad de la empresa donde se realizan actividades previstas por la legislaci&oacute;n, sanitaria vigente.</P> <P ALIGN='JUSTIFY'>Fabricaci&oacute;n - Todas las operaciones que son necesarias para la obtenci&oacute;n de los productos contemplados por la legislaci&oacute;n sanitaria vigente.</P> <P ALIGN='JUSTIFY'>Representante Legal - Persona que representa a la empresa y responde administrativa, civil, comercial y penalmente por la misma.</P> <P ALIGN='JUSTIFY'>Responsable T&eacute;cnico / Director T&eacute;cnico / Regente - Profesional legalmente habilitado por la Autoridad competente para ejercer la responsabilidad t&eacute;cnica de las actividades desarrolladas por la empresa y reguladas por la legislaci&oacute;n sanitaria vigente.</P> <P ALIGN='RIGHT'>ANEXO II</P> <P ALIGN='JUSTIFY'>Documentaci&oacute;n para Autorizaci&oacute;n de Funcionamiento/Habilitaci&oacute;n de Empresas</P> <P ALIGN='JUSTIFY'>1- Solicitud de Autorizaci&oacute;n de Funcionamiento / Habilitaci&oacute;n de Empresas.</P> <P ALIGN='JUSTIFY'>Raz&oacute;n Social.</P> <P ALIGN='JUSTIFY'>Domicilios.</P> <P ALIGN='JUSTIFY'>Indicaci&oacute;n de Actividades Requeridas.</P> <P ALIGN='JUSTIFY'>Indicaci&oacute;n de Categor&iacute;as / Formas Cosm&eacute;ticas.</P> <P ALIGN='JUSTIFY'>Datos del Responsable T&eacute;cnico / Director T&eacute;cnico / Regente.</P> <P ALIGN='JUSTIFY'>Datos del Representante Legal.</P> <P ALIGN='JUSTIFY'>Lugar, fechas y firmas.</P> <P ALIGN='JUSTIFY'>Dem&aacute;s documentos exigibles otorgados por otros organismos de acuerdo a la reglamentaci&oacute;n vigente en cada Estado Parte.</P> <P ALIGN='JUSTIFY'>Para solicitar modificaciones o bajas/cancelaciones deber&aacute; indicar el n&uacute;mero de autorizaci&oacute;n/habilitaci&oacute;n/legajo.</P> <P ALIGN='JUSTIFY'>2- Planos de la estructura edilicia y descripci&oacute;n de las instalaciones del predio e industriales.</P> <P ALIGN='JUSTIFY'>Los requisitos de estructura edilicia y la descripci&oacute;n de las instalaciones del predio e industriales para la habilitaci&oacute;n de los establecimientos ser&aacute;n los indicados en el Manual de Buenas Pr&aacute;cticas de Fabricaci&oacute;n vigente.</P> <P ALIGN='JUSTIFY'>3- Comprobante de pago de arancel.</P> <P ALIGN='JUSTIFY'>4- Documento de comprobaci&oacute;n de habilitaci&oacute;n / matriculaci&oacute;n del Responsable T&eacute;cnico / Director T&eacute;cnico / Regente.</P> <P ALIGN='JUSTIFY'>5- Listado de la capacidad T&eacute;cnico, operacional del laboratorio de control de Calidad o contrato de tercerizaci&oacute;n.</P> <P ALIGN='JUSTIFY'>6- Declaraci&oacute;n identificando al Representante Legal de la empresa.</P> <P ALIGN='JUSTIFY'>7- Dem&aacute;s documentos exigidos otorgados por otros Organismos de acuerdo a la reglamentaci&oacute;n vigente en cada Estado Parte.</P> <P ALIGN='RIGHT'>ANEXO III</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/113883_res5-2005_jpg/archivo'></P> <P ALIGN='JUSTIFY'></P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-346-2006-113883" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

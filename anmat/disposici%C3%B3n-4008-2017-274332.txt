@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-4008-2017-274332/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-4008-2017-274332/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-4008-2017-274332/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"I-Th_2fuceNsfJUAQ8ckBcqeuBsQlTlnL-UZXe0HriE","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-4008-2017-274332\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-4008-2017-274332 page-normativa-nacional-disposición-4008-2017-274332-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-4008-2017-274332/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-IpdM40lZZI68hkGL8MNbgydJfsZs2_uwvH4KdXhVeco" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-4008-2017-274332">Disposición   4008/2017</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2017-05-04</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>MINISTERIO DE SALUD</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 4008/2017</span><br> <br> Buenos Aires, 26/04/2017<br> <br> VISTO la Disposición ANMAT N° 6677/10 y el expediente n° 1-0047-0000-003833-17-2 del registro de esta Administración Nacional de Medicamentos, Alimentos y Tecnología Médica; y<br> <br> CONSIDERANDO:<br> <br> Que por la Disposición ANMAT N° 6677/10 se aprobó el Régimen de Buena Práctica Clínica para Estudios de Farmacología Clínica, teniendo como objetivo sustantivo garantizar y asegurar el máximo cumplimiento de las reglas establecidas, tanto nacionales, como internacionales, en materia de normas y valores éticos y jurídicos.<br> <br> Que esta Administración Nacional persigue como objetivo primordial en el proceso de gestión de sus trámites el cumplimiento de los principios de eficiencia, economía, transparencia y predictibilidad.<br> <br> Que la experiencia adquirida en la aplicación sistemática de la aludida normativa, torna necesaria la revisión y actualización de aspectos procedimentales a los fines de actualizar y agilizar la evaluación de los trámites de autorización para la realización de estudios clínicos.<br> <br> Que en particular el artículo 2° de la Disposición ANMAT N° 6677/10 establece el plazo dentro del cual esta Administración Nacional se expedirá con respecto a la documentación a que se hace referencia en el régimen que por esta normativa se aprobó, como así también que dicho plazo podrá ser suspendido toda vez que se realicen objeciones y hasta tanto el interesado haga entrega del total de la documentación y/o cumplimente todas las observaciones y/o aclaraciones solicitadas.<br> <br> Que al respecto se considera necesario reformular el mencionado artículo, estableciendo el plazo dentro del cual se deberán emitir los informes técnicos, y el plazo para emitir el acto administrativo correspondiente, como así también las condiciones bajo las cuales se reanudarán los plazos si éstos se suspenden ante objeciones que realicen las áreas técnicas intervinientes.<br> <br> Que la modificación del plazo para la tramitación de los estudios de farmacología clínica de competencia de esta Administración Nacional, torna necesario establecer condiciones para el cumplimiento de los recaudos específicos en la presentación de los aludidos trámites.<br> <br> Que es necesario asegurar la adecuada implementación de los estudios de farmacología clínica de Fase I, a través de los más altos estándares éticos y científicos, y minimizando los riesgos potenciales para los voluntarios que participan en dichos estudios.<br> <br> Que es necesario proveer un marco de eficiencia y predictibilidad para el desarrollo de estudios de investigación de farmacología clínica de Fase I, como complemento de los requerimientos generales establecidos en la Disposición ANMAT 6677/10.<br> <br> Que el Instituto Nacional de Medicamentos, la Dirección de Evaluación y Registro de Medicamentos y la Dirección General de Asuntos Jurídicos, han tomado la intervención de su competencia.<br> <br> Que se actúa en virtud de las facultades conferidas por el Decreto N° 1490 de fecha 20 de agosto de 1992 y el Decreto N° 101 del 16 de diciembre de 2015.<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1°.- Sustitúyese el Artículo 2° de la Disposición ANMAT N° 6677/10 el que quedará redactado de la siguiente manera &#8220;ARTICULO 2°.- Establécese que una vez presentada y aceptada la documentación a que se hace referencia en el régimen aprobado por el artículo 1° de la presente Disposición, las áreas técnicas intervinientes deberán expedirse en el término de 60 (sesenta) días hábiles administrativos. Dicho plazo podrá ser suspendido toda vez que se realicen objeciones y hasta tanto el interesado haga entrega del total de la documentación y/o cumplimente todas las observaciones y/o aclaraciones solicitadas. Una vez emitido el informe, dentro de los 10 (diez) días hábiles administrativos se extenderá el acto administrativo correspondiente.&#8221;.<br> <br> ARTÍCULO 2°.- Establécese que la Dirección de Evaluación y Registro de Medicamentos (DERM) verificará que la documentación cumpla con lo requerido en la Disposición ANMAT N° 6677/10 y en la presente Disposición. En el término de 3 (tres) días hábiles administrativos contados a partir del día siguiente al de la fecha en que las actuaciones son recibidas por la DERM, esa Dirección comunicará fehacientemente al patrocinador si la solicitud se encuentra en condiciones de ser evaluada, en cuyo caso dará inicio el plazo establecido en el Artículo 1° o 3° de la presente Disposición. En el caso de que el patrocinador no presente el total de la documentación requerida, se denegará la solicitud de autorización del ensayo clínico sin más trámite.<br> <br> ARTÍCULO 3°.- En el caso que el patrocinador opte por presentar una solicitud de autorización de un estudio de farmacología clínica que se encuentre en alguno de los siguientes supuestos: a) que se encuentre aprobado por autoridades sanitarias de alguno de los países pertenecientes al Anexo I del decreto N° 150/92 (t.o: 1993), y se encuentre en ejecución en al menos uno de dichos países; b) que se encuentre aprobado y en ejecución en países que esta Administración Nacional oportunamente estime de convergencia regulatoria con ANMAT y a partir de tal consideración; o c) se encuentre aprobado y en ejecución en países reconocidos por la Organización Panamericana de la Salud (OPS /OMS), como Autoridad Reguladora Nacional de Referencia, los plazos establecidos en el artículo 1° de la presente disposición serán de 45 (cuarenta y cinco) días hábiles administrativos, para emitir el informe técnico final por parte de las áreas técnicas intervinientes, y de 10 (diez) días hábiles administrativos para emitir el acto administrativo correspondiente.<br> <br> ARTÍCULO 4°.- La acreditación de la aprobación y ejecución del estudio, de acuerdo a lo indicado en el artículo precedente, se demostrará presentando la siguiente documentación, traducida por traductor matriculado, a saber:<br> <br> 1) Constancia de Solicitud de NDI (Nueva Droga de Investigación, o IND por sus siglas en inglés) emitida por la Administración Federal de Alimentos y Medicamentos (FDA por sus siglas en inglés) de EEUU, o Constancia de Presentación y Número de EUDRACT (Registro de Estudios Clínicos de la Unión Europea) o Constancia de Aprobación emitida por otros países pertenecientes al Anexo I del Decreto N° 150/92 (t.o. 1993), o<br> <br> 2) Constancia de aprobación por parte de las agencias de los países indicados en los incisos b) y c) del artículo 3°, o<br> <br> 3) Declaración Jurada del Patrocinador que establece que el estudio se está implementando en algún país del Anexo I del Decreto N° 150/92 (t.o. 1993) y/o en alguno de los países indicados en los incisos b) y c) del artículo 3°.<br> <br> ARTÍCULO 5°.- Se sustituye el Punto 2.2 &#8220;Solicitud de autorización del investigador y centro de investigación&#8221; de la &#8220;SECCIÓN B: REQUISITOS DE DOCUMENTACIÓN PARA SOLICITUD DE AUTORIZACIÓN DE ESTUDIOS DE FARMACOLOGÍA CLÍNICA, punto 2. DOCUMENTACIÓN GENERAL&#8221; del Anexo de la Disposición ANMAT N° 6677/10, el que quedará redactado de la siguiente manera:<br> <br> 2.2. Solicitud de autorización del investigador y centro de investigación: para la autorización de cada investigador principal y centro de investigación, el patrocinador deberá presentar:<br> <br> 2.2.1. En las jurisdicciones que cuenten con un organismo central de acreditación (ej.: Comité de Ética Central) que acredite a los Comités de Ética en Investigación (CEIs) que operen en el ámbito de dicha jurisdicción:<br> <br> a) Datos del investigador, del centro de investigación y del CEI:<br> <br> Nombre del investigador<br> <br> Nombre del centro<br> <br> Dirección del centro<br> <br> Teléfono/fax<br> <br> Correo electrónico<br> <br> Nombre del CEI<br> <br> Dirección del CEI<br> <br> b) Dentro de los 30 días de aceptada la documentación para la evaluación del estudio de farmacología clínica, el patrocinador deberá presentar copia autenticada del dictamen del CEI, aprobatorio de la conducción a cargo del investigador, del protocolo de investigación clínica en el centro de investigación.<br> <br> 2.2.2 - En las demás jurisdicciones:<br> <br> (a) formulario EFCA2 completo y firmado (Sección F);<br> <br> (b) currículum vitae resumido, firmado y fechado por el investigador;<br> <br> (c) copias autenticadas de título profesional y matrícula profesional en la jurisdicción sanitaria sede del estudio, y de las constancias de capacitación y/o experiencia en investigación clínica;<br> <br> (d) para estudios de Fase II y III, copia autenticada del título de especialista o del certificado de residencia completa o de postgrado en la especialidad de la enfermedad en estudio;<br> <br> (e) nota original de compromiso a cumplir con el protocolo del estudio (indicando el título), la Declaración de Helsinki y el Régimen de BPC-EFC de ANMAT;<br> <br> (f) copia autenticada de la aprobación del estudio por un Comité de Ética en Investigación (CEI), especificando todos los documentos revisados, por ejemplo, protocolo, consentimiento informado y monografía del producto en investigación. Se aceptará sólo una aprobación por un CEI por cada centro de investigación;<br> <br> (g) lista fechada de miembros de cada CEI, incluyendo el nombre, fecha de nacimiento, sexo, profesión u ocupación, posición en el comité y relación con la institución;<br> <br> (h) copia autenticada de la autorización del estudio por la máxima autoridad de la institución sede;<br> <br> (i) copia autenticada de la autorización de la autoridad de la institución sede para la revisión del estudio por un CEI externo, si corresponde;<br> <br> (j) constancia autenticada de la habilitación sanitaria vigente del centro de investigación;<br> <br> (k) consentimiento informado específico para el centro, si corresponde.<br> <br> ARTÍCULO 6°.- Si durante el transcurso del proceso de evaluación el patrocinador presenta alguna enmienda al protocolo o una nueva monografía del producto, se suspenderá el plazo de evaluación establecido en el artículo 1° o en el artículo 3° de la presente, según corresponda.<br> <br> ARTÍCULO 7°.- Si transcurridos los plazos establecidos en la presente disposición no mediara informe alguno por parte de las áreas competentes, el patrocinador podrá dar inicio al estudio de farmacología clínica cuya aprobación solicitara, debiendo con carácter previo requerir a la ANMAT, por medio fehaciente, que en el término de 5 (cinco) días hábiles administrativos se emita el informe técnico correspondiente, y en caso de ser favorable se emita el acto administrativo aprobando la realización del estudio.<br> <br> ARTÍCULO 8°.- De comprobarse que la documentación presentada por el patrocinador es inexacta y/o no cumple con el régimen establecido en la Disposición ANMAT N° 6677/10, esta Administración Nacional podrá denegar la solicitud de aprobación del estudio de farmacología clínica.<br> <br> ARTÍCULO 9°.- En el caso que ANMAT comunique objeciones fundamentadas, se interrumpirá el plazo establecido en los ARTÍCULOS 1° o 3° de la presente Disposición. El patrocinador dispondrá del plazo de 15 (quince) días hábiles administrativos para modificar su solicitud de acuerdo con las objeciones planteadas o, en el caso de discrepancia con dichas objeciones, efectuar argumentaciones y presentar los documentos que estime pertinentes en apoyo de su solicitud.<br> <br> Transcurrido el plazo establecido en el párrafo anterior sin que el solicitante haya modificado la solicitud o presentado argumentaciones, ésta será denegada sin más trámite.<br> <br> ARTÍCULO 10°.- Esta Disposición se aplicará a todas las solicitudes de evaluación de protocolos de estudios de farmacología clínica que se presenten a partir de su entrada en vigencia.<br> <br> ARTÍCULO 11°.- CONSIDERACIONES ESPECÍFICAS PARA ESTUDIOS DE FARMACOLOGÍA CLÍNICA DE FASE I<br> <br> 11.1. - PROTOCOLO<br> <br> Los protocolos de Fase I deben estar dirigidos fundamentalmente a proveer un esquema de la investigación &#8212;estimación del número de pacientes a ser incluidos, descripción de las exclusiones por seguridad, la descripción del plan de dosificación incluyendo la duración, la dosis o los métodos para ser utilizados para determinar la dosis&#8212; y deben especificar en detalle solamente aquellos elementos del estudio que sean críticos para la seguridad, tales como el monitoreo necesario de los signos vitales y la química sanguínea.<br> <br> En particular el protocolo debe:<br> <br> - Describir con claridad los criterios de incremento de la dosis y los criterios de retiro del voluntario.<br> <br> - Describir los métodos para la evaluación y control de la seguridad durante el estudio.<br> <br> - Describir el análisis de evaluación de riesgo y los planes de contingencia.<br> <br> 11.2.- CENTRO DE INVESTIGACIÓN<br> <br> 11.2.1 Consideraciones generales<br> <br> Los estudios de primera vez en el hombre con productos medicinales de alto riesgo potencial deben tener lugar en instalaciones clínicas adecuadas. Los estudios de Fase I, farmacocinética, biodisponibilidad y bioequivalencia podrán realizarse sólo en establecimientos asistenciales debidamente registrados, fiscalizados y categorizados e inscriptos en el Registro Federal de Establecimientos de Salud (REFES) según Resolución M.S. N° 1070/09, y deben ser conducidos por personal médico con un nivel adecuado de entrenamiento y experiencia, y con una comprensión del producto medicinal en investigación, de su órgano blanco y del mecanismo de acción.<br> <br> Debe haber acceso inmediato a instalaciones para el tratamiento de emergencias médicas (tales como emergencias cardíacas, anafilaxia, síndrome de liberación de citoquinas, convulsiones, hipotensión), instalaciones para estabilizar a los individuos ante una emergencia aguda y disponibilidad inmediata de instalaciones de Unidades de Cuidado Intensivo.<br> <br> 11.2.2 Requerimientos específicos<br> <br> - Equipamiento y Procedimientos de Emergencia.<br> <br> Disponibilidad y mantenimiento de equipamiento y medicamentos para emergencias.<br> <br> Carro de emergencia cuyo contenido y equipamiento haya sido validado por un médico especialista en cuidados intensivos.<br> <br> Supervisión médica durante las 24 horas (con personal auxiliar durante la noche, si fuese necesario) siguientes a la dosificación del medicamento en investigación.<br> <br> Posibilidad para el monitoreo de los pacientes internados (área de control central o sistema de control por cámaras de video).<br> <br> Sector adecuado para el mantenimiento y preparación de la medicación en estudio (condición de la temperatura y control).<br> <br> Fuente suplementaria de energía eléctrica.<br> <br> Área de recreación para los voluntarios.<br> <br> Provisión de los alimentos.<br> <br> Controles con respecto al ingreso de personal con ingreso limitado o no autorizado.<br> <br> - Procedimientos Operativos Estándar (POEs).<br> <br> Deben cubrir todos los procedimientos esenciales del protocolo y, en particular:<br> <br> Medidas para asegurar el cumplimiento de los voluntarios con el protocolo<br> <br> Monitoreo de los sujetos<br> <br> Identificación de los sujetos durante su estadía<br> <br> Documentación de la historia clínica<br> <br> Documentación de las comidas<br> <br> Procedimientos ante emergencias<br> <br> Entrenamiento del personal del centro para el manejo del equipo de emergencias<br> <br> 11.3. - INVESTIGADOR Y PERSONAL DEL CENTRO<br> <br> El investigador debe:<br> <br> - Tener un conocimiento adecuado de la farmacología del medicamento en investigación.<br> <br> - Asegurar la presencia de personal médico especializado con un nivel adecuado de experiencia y entrenamiento<br> <br> - Asegurar la presencia de personal del centro, adecuado y suficiente, durante las 24 horas siguientes a la dosificación del medicamento en investigación.<br> <br> - Asegurar el entrenamiento del personal del centro en el manejo del equipamiento de emergencia.<br> <br> 11.4 - APROBACIÓN Y AUTORIZACIONES<br> <br> 12.4.1 Centros<br> <br> Una vez cumplidos y documentados todos los requisitos aplicables de la Disposición 6677/10 y de la presente Disposición, un Centro para la conducción de Estudios de Investigación de Farmacología Clínica de Fase I solicitará la autorización por parte de la ANMAT, para lo cual deberá ser inspeccionado. De acuerdo con el resultado del informe final de la inspección, la ANMAT otorgará una autorización para la conducción de Estudios de Investigación de Farmacología Clínica de Fase I, cuya vigencia será de 5 años.<br> <br> Esta autorización caducará si el Centro no realizase ningún Estudio de Investigación de Farmacología Clínica durante los dos años siguientes a la fecha de otorgamiento de la misma. Para la renovación de la autorización, el Centro deberá solicitar una nueva inspección de la ANMAT.<br> <br> Más allá del procedimiento de autorización &#8212;descripto en este artículo&#8212;, el centro podrá ser inspeccionado durante la conducción de un estudio, o después de ella, de acuerdo con las normas establecidas en la Disposición ANMAT N° 6677/10.<br> <br> 11.4.2 Estudios<br> <br> Sólo podrán conducirse Estudios de Investigación de Farmacología Clínica de Fase I en Centros con autorización vigente de la ANMAT, a cuyo efecto deberá presentarse la documentación respectiva como parte de la solicitud de aprobación del estudio.<br> <br> El patrocinador presentará una solicitud de reunión por la Circular ANMAT N° 001/13, de acuerdo con la norma vigente, que le será concedida dentro de un plazo no mayor de 15 (quince) días hábiles administrativos.<br> <br> Integrarán la Comisión de la Circular ANMAT N° 001/13 representantes de las Direcciones que deberán luego emitir el informe técnico. En un acta labrada a tal efecto, quedarán asentadas las observaciones y/o solicitud de aclaraciones formuladas durante la reunión.<br> <br> El patrocinador presentará la solicitud de aprobación del estudio, acompañando la documentación que corresponda requerida por la Disposición ANMAT N° 6677/10 y por la presente Disposición, junto con el acta de la Circular ANMAT N° 001/13 y las respuestas a las observaciones y/o solicitud de aclaraciones que correspondiesen.<br> <br> En el término de 20 (veinte) días hábiles administrativos, las áreas intervinientes elaborarán el informe técnico final y se dispondrá de 10 (diez) días hábiles administrativos adicionales para emitir el acto administrativo aprobatorio o denegatorio de la solicitud.<br> <br> ARTÍCULO 12°.- La presente disposición entrará en vigencia a los 30 (treinta) días corridos contados a partir del día siguiente al de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 13°.- Disposición transitoria: Dentro de los 30 (treinta) días establecidos en el artículo anterior, la Dirección de Informática procederá a efectuar las modificaciones al sistema de tramitación para la solicitud de autorización de un Estudio de Farmacología Clínica, como así también a adecuar el instructivo correspondiente.<br> <br> ARTÍCULO 14°.- Regístrese. Dése a la Dirección del Registro Oficial para su publicación. Comuníquese a la Cámara Industrial de Laboratorios Farmacéuticos Argentinos (CILFA), Cámara Argentina de Especialidades Medicinales (CAEMe), Cámara Empresaria de Laboratorios Farmacéuticos (COOPERALA), Cámara Argentina de Organizaciones de Investigación Clínica (CAOIC), Cámara Argentina de Productores de Medicamentos Genéricos y de Uso Hospitalario (CAPGEN), Cámara Argentina de Medicamentos de Venta Libre (CAPEMVeL). Comuníquese al Instituto Nacional de Medicamentos, a la Dirección de Informática y a la Dirección de Planificación y Relaciones Institucionales. Cumplido, archívese. &#8212; Carlos Chiale.<br> <br> <div style='text-align: right;'>e. 04/05/2017 N° 29075/17 v. 04/05/2017<br>  </div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-4008-2017-274332" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

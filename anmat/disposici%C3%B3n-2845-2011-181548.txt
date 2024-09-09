@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2845-2011-181548/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2845-2011-181548/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2845-2011-181548/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"KmSUIUuGW7tNRWOOvBXW6O9NuYwumEFR_QqypgD45TI","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-2845-2011-181548\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-2845-2011-181548 page-normativa-nacional-disposición-2845-2011-181548-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-2845-2011-181548/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-XaC7S0_60i1uPAv89kw-4Unz6eXDs9mzJLPi6VyDykc" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-2845-2011-181548">Disposición   2845/2011</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2011-04-28</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 2845/2011</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Cre&aacute;se el Programa de Monitoreo y Fiscalizaci&oacute;n de Publicidad y Promoci&oacute;n de Productos Sujetos a Vigilancia Sanitaria. Der&oacute;ganse las Disposiciones N° 2335/07 y 2437/09.</P> </B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Bs. As., 25/4/2011</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO la Ley Nº 16.463, la Decisi&oacute;n Administrativa Nº 22 del 14 de marzo de 2003, la Resoluci&oacute;n ex MS y AS Nº 20/2005, la Resoluci&oacute;n MS Nº 627/07 y las Disposiciones ANMAT Nros. 4980/05 y 1631/09 y el Expediente Nº 1-47-61-11-5 del Registro de esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica; y</P> <FONT SIZE=2> </FONT><P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que desde la perspectiva del consumidor la publicidad es el medio por excelencia de acceso a la informaci&oacute;n sobre la existencia y caracter&iacute;sticas de los bienes y servicios ofrecidos en el mercado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por ello la publicidad requiere del dictado de pautas o prohibiciones a determinadas conductas en protecci&oacute;n de los derechos e intereses de los consumidores y de los habitantes en general.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en ese entendimiento la Resoluci&oacute;n ex MS y AS Nº 20/05 actualiz&oacute; la normativa aplicable en materia de publicidad y propaganda de los productos incluidos en la &oacute;rbita de fiscalizaci&oacute;n de esta ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que de ese modo estableci&oacute; que la publicidad o propaganda dirigida al p&uacute;blico de especialidades medicinales de venta libre, suplementos dietarios, productos odontol&oacute;gicos, reactivos de diagn&oacute;stico, productos cosm&eacute;ticos, dispositivos de tecnolog&iacute;a m&eacute;dica, productos domisanitarios y productos alimenticios, cualquiera sea el medio que se emplee para su difusi&oacute;n, se encuentra sujeta a un sistema de control posterior, debiendo respetar los criterios &eacute;ticos que esta ADMINISTRACION NACIONAL, en su car&aacute;cter de autoridad de aplicaci&oacute;n de la referida resoluci&oacute;n, establezca (arts. 1, 2 y 3 de la citada norma).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en el cumplimiento de lo dispuesto en la aludida resoluci&oacute;n, por Disposici&oacute;n ANMAT Nº 4980/05, modificada posteriormente por Disposici&oacute;n ANMAT Nº 1631/09, se establecieron las normas generales y espec&iacute;ficas que debe cumplir toda publicidad o propaganda dirigida al p&uacute;blico en general de cualquiera de los productos enumerados la Resoluci&oacute;n ex MS y A 20/05.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que asimismo en el marco de la mencionada normativa y a los efectos implementar el sistema de fiscalizaci&oacute;n impuesto se cre&oacute;, por Disposici&oacute;n ANMAT Nº 2335/07, modificada por Disposici&oacute;n ANMAT Nº 2437/09, la Comisi&oacute;n de Fiscalizaci&oacute;n y Control de Publicidad de las especialidades medicinales de venta libre, productos alimenticios, suplementos dietarios, productos odontol&oacute;gicos, reactivos de diagn&oacute;stico, productos cosm&eacute;ticos, dispositivos de tecnolog&iacute;a m&eacute;dica y productos domisanitarios, conformada por un grupo interdisciplinario, encargada, entre otras funciones, de la evaluaci&oacute;n de las publicidades emitidas en los medios de comunicaci&oacute;n correspondientes a cualquiera de los referidos productos a los fines de controlar el cumplimiento de la normativa vigente en la materia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por otra parte, y en lo que se refiere espec&iacute;ficamente a los medicamentos de venta bajo receta, por Resoluci&oacute;n MS Nº 627/07 se aprobaron las &quot;BUENAS PRACTICAS DE PROMOCION DE MEDICAMENTOS DE VENTA BAJO RECETA&quot; por parte de los laboratorios productores, aplicables en materia de promoci&oacute;n destinada a los profesionales facultados para prescribir o dispensar medicamentos de venta bajo receta.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que las t&eacute;cnicas publicitarias y promocionales en general han experimentado y contin&uacute;an experimentando en la actualidad un amplio desarrollo en un complejo contexto en el que diferentes actores interact&uacute;an con diversos objetivos y &aacute;mbitos de acci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en el caso espec&iacute;fico de la publicidad o promoci&oacute;n de los productos sujetos a vigilancia sanitaria ese contexto involucra un proceso tendiente a convencer a prescriptores, dispensadores y usuarios de las ventajas o beneficios del producto con el objeto de estimular su consumo; representando, en consecuencia, un importante recurso de marketing en todos los eslabones de la cadena de consumo (elaboraci&oacute;n, distribuci&oacute;n, comercializaci&oacute;n).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la publicidad y promoci&oacute;n de productos sujetos a vigilancia sanitaria ejercen una gran influencia sobre los h&aacute;bitos de consumo; con el consecuente impacto que ello implica en los sistemas de salud.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por tal motivo los productos sujetos a vigilancia sanitaria no deben ser considerados como productos de consumo sino corno bienes de salud, en sentido amplio, debiendo garantizarse que estos productos sean siempre tratados como tales, a trav&eacute;s de un correcto monitoreo en materia publicitaria.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que dentro de dicho objetivo, el control de la promoci&oacute;n de los medicamentos de uso humano dirigida a los profesionales de la salud resulta fundamental a fin de garantizar que la informaci&oacute;n que sobre los medicamentos se destine a tales profesionales sea objetiva, rigurosa y no induzca a error.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por otra parte la industria tiene la obligaci&oacute;n y la responsabilidad de proporcionar informaci&oacute;n fidedigna y educaci&oacute;n sobre sus productos sanitarios, tanto al profesional de la salud como al consumidor, con el objeto de que &eacute;stos adquieran una comprensi&oacute;n clara del uso apropiado del producto.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el avance de los nuevos medios de comunicaci&oacute;n, al que tienen acceso en gran medida los consumidores, dispensadores y prescriptores complejiza a&uacute;n m&aacute;s el escenario comunicacional generando la necesidad de un monitoreo m&aacute;s amplio y coordinado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la normativa se&ntilde;alada, vigente en la actualidad en materia de publicidad y propaganda de los productos sujetos a la fiscalizaci&oacute;n de esta ADMINSITRACION NACIONAL, se ha dictado fundamentalmente con el fin de evitar que los consumidores, prescriptores y/o dispensadores tomen decisiones equivocadas basadas en afirmaciones falsas, enga&ntilde;osas, no veraces, sobre las propiedades y caracter&iacute;sticas de un determinado producto.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que desde su creaci&oacute;n la Comisi&oacute;n de Fiscalizaci&oacute;n y Control de Publicidad ha llevado a cabo una importante labor de fiscalizaci&oacute;n en materia de publicidad dirigida al p&uacute;blico de los productos incluidos en la Resoluci&oacute;n ex MS y AS Nº 20/05, en consonancia con las facultades atribuidas por la Disposici&oacute;n ANMAT Nº 2335/07.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que atento a la experiencia adquirida al respecto y con el fin de fortalecer el accionar de este Organismo en materia de control de publicidad y propaganda, adecu&aacute;ndolo a las transformaciones operadas en ese sector, resulta conveniente implementar una herramienta institucional que permita llevar a cabo un monitoreo amplio y coordinado de los mensajes publicitarios y promocionales de los productos sujetos a fiscalizaci&oacute;n sanitaria de este organismo, de acuerdo con las normativas vigentes en la materia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la creaci&oacute;n, en el &aacute;mbito de la Direcci&oacute;n de Planificaci&oacute;n y Relaciones Institucionales de este organismo, del &quot;Programa de Monitoreo y Fiscalizaci&oacute;n de Publicidad y Promoci&oacute;n de Productos sujetos a Vigilancia Sanitaria&quot; constituye una medida adecuada a los fines precedentemente indicados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el referido programa, a su vez, permitir&aacute; la implementaci&oacute;n de alertas y medidas administrativas de regulaci&oacute;n y control.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la DIRECCION DE PLANIFICACION Y RELACIONES INSTITUCIONALES y la DIRECCION DE ASUNTOS JURIDICOS han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por el Decreto Nº 1490/92 y el Decreto Nº 425/10.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONALDE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º —</B> Cre&aacute;se, en el &aacute;mbito de la Direcci&oacute;n de Planificaci&oacute;n y Relaciones Institucionales, el &quot;Programa de Monitoreo y Fiscalizaci&oacute;n de Publicidad y Promoci&oacute;n de Productos Sujetos a Vigilancia Sanitaria&quot;.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 2º —</B> Ser&aacute; funci&oacute;n del Programa:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Evaluar las publicidades emitidas en los medios de comunicaci&oacute;n que correspondan a cualquiera de los productos incluidos en el art&iacute;culo 1° de la Resoluci&oacute;n ex MS y AS Nº 20/05 y medios especializados donde se promocionen los productos incluidos en la Resoluci&oacute;n MS Nº 627/07, a los fines de verificar el cumplimiento de la normativa vigente en la materia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Realizar las notificaciones a los responsables de las publicidades que se considerasen emitidas en infracci&oacute;n a la normativa, a fin de que cesen en las conductas violatorias, sin perjuicio de las dem&aacute;s acciones que pudieran corresponder.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Emitir informes t&eacute;cnicos, con expresa descripci&oacute;n de las conductas consideradas en infracci&oacute;n y fundados en la normativa vigente, todo ello a los fines de ordenarse la iniciaci&oacute;n del sumario sanitario correspondiente.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Fomentar la integraci&oacute;n e interacci&oacute;n con otros organismos gubernamentales (provinciales y nacionales), organizaciones no gubernamentales e instituciones educativas, para la colaboraci&oacute;n en las actividades de monitoreo de piezas publicitarias.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 3º —</B> Des&iacute;gnase al Lic. Sebasti&aacute;n Duarte como Coordinador del &quot;Programa de Monitoreo y Fiscalizaci&oacute;n de Publicidad y Promoci&oacute;n de Productos Sujetos a Vigilancia Sanitaria&quot;.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 4º —</B> Fac&uacute;ltase al Coordinador del Programa a convocar a un Grupo T&eacute;cnico Asesor, conformado por profesionales pertenecientes a la diferentes &aacute;reas de esta Administraci&oacute;n Nacional, cuya funci&oacute;n ser&aacute; la de auxiliarlo en temas t&eacute;cnicos cient&iacute;ficos. El Grupo ser&aacute; convocado acorde a las necesidades del Programa.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 5º —</B> La DIRECCION DE PLANIFICACION Y RELACIONES INSTITUCIONALES propondr&aacute; estrategias para optimizar el funcionamiento del programa.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 6º —</B> Fac&uacute;ltase a la DIRECCION DE PLANIFICACION Y RELACIONES INSTITUCIONALES a proponer las normas complementarias necesarias para el funcionamiento del &quot;Programa de Monitoreo y Fiscalizaci&oacute;n de Publicidad y Promoci&oacute;n de Productos sujetos a Vigilancia Sanitaria&quot;.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 7º —</B> Der&oacute;gase la Disposici&oacute;n ANMAT Nº 2335/07 y la Disposici&oacute;n ANMAT Nº 2437/09.</P> <B><P ALIGN='JUSTIFY'>Art. 8º —</B> Reg&iacute;strese, comun&iacute;quese. D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n. Comun&iacute;quese a la Direcci&oacute;n de Planificaci&oacute;n y Relaciones Institucionales. Cumplido, arch&iacute;vese. — Carlos Chiale.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-2845-2011-181548" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

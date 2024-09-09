@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2604-2010-168293/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2604-2010-168293/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2604-2010-168293/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"BNmM7pMRAJshHi6sl2OUA4qIwXvljVhbiBMUrxuPx4I","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-2604-2010-168293\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-2604-2010-168293 page-normativa-nacional-disposición-2604-2010-168293-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-2604-2010-168293/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-noEFowxoLYFdxL90HiJc0BdYwlQ4rMb1cNcWKyCVodY" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-2604-2010-168293">Disposición   2604/2010</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2010-06-15</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ESPECIALIDADES MEDICINALES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 2604/2010</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Establ&eacute;cese como Sustancia de Referencia a Farmacopea para ensayos f&iacute;sico-qu&iacute;micos.</P> <P ALIGN='JUSTIFY'></P> </B><P ALIGN='JUSTIFY'>Bs. As., 27/5/2010</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO el Expediente N.º 1-47-1110-194-10-1 del Registro de esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica, y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Farmacopea Argentina o &quot;Codex Medicamentarius Argentino&quot; es el c&oacute;digo oficial donde se describen las drogas, medicamentos y productos m&eacute;dicos necesarios o &uacute;tiles para el ejercicio de la medicina y la farmacia, especificando lo concerniente al origen, preparaci&oacute;n, identificaci&oacute;n, pureza, valoraci&oacute;n y dem&aacute;s condiciones que aseguran la uniformidad y calidad de sus propiedades.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en un contexto de proceso de integraci&oacute;n regional, resulta de suma importancia disponer de instrumentos estrat&eacute;gicos que establezcan requisitos de calidad para las materias primas y las especialidades medicinales.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que esta ANMAT ha trabajado consensuadamente con su par brasile&ntilde;a (ANVISA) en la formulaci&oacute;n de un Programa de Desarrollo, de Sustancias de Referencia, como parte de una estrategia de integraci&oacute;n regional en el marco de los Acuerdos Bilaterales de Presidentes y en el marco del MERCOSUR.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que este tema fue incorporado en el punto 20 del Acta de la Declaraci&oacute;n Conjunta del Encuentro de Presidentes de Brasil y Argentina realizada en septiembre de 2008, por el cual los presidentes de ambos pa&iacute;ses instruyeron a ANVISA y ANMAT a realizar un proyecto de cooperaci&oacute;n con el objeto de fortalecer las Farmacopeas Argentina y Brasile&ntilde;a por medio del intercambio de conocimientos tecnol&oacute;gicos en el desarrollo de Sustancias de Referencia en todas sus etapas (investigaci&oacute;n, certificaci&oacute;n, producci&oacute;n, comercializaci&oacute;n y monitoreo) para aumentar la producci&oacute;n regional.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que asimismo ambos mandatarios instruyeron para que esa cooperaci&oacute;n logre el desarrollo cient&iacute;fico y tecnol&oacute;gico propio, la reducci&oacute;n de la dependencia de materias primas e insumos importados y el progreso de las Farmacopeas Argentina y Brasile&ntilde;a.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que otras Agencias de regulaci&oacute;n, constituidas como tales en Latinoam&eacute;rica, manifiestan su inter&eacute;s en apoyar la propuesta de constituir una Farmacopea Regional Latinoamericana y adherir al Programa de Desarrollo de Sustancias de Referencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el impacto sanitario y econ&oacute;mico de estos desarrollos es de enorme magnitud para toda la regi&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en funci&oacute;n de jerarquizar las Farmacopeas de ambos pa&iacute;ses, y con el objetivo de contribuir al fortalecimiento del MERCOSUR a trav&eacute;s de la implementaci&oacute;n del trabajo conjunto que pueda promover el desarrollo cient&iacute;fico y tecnol&oacute;gico, con impacto sanitario, con fecha 18 de noviembre de 2009, ANMAT y ANVISA, han suscripto un Memor&aacute;ndum de Entendimiento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por el Art&iacute;culo III del citado Memor&aacute;ndum, ambas Instituciones acordaron reconocer las Sustancias de Referencia producidas por las Farmacopeas Nacionales, las cuales se encuentran incluidas en el Anexo del mismo, mediante Resoluci&oacute;n de ANVISA y Disposici&oacute;n de ANMAT.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por el Art&iacute;culo IX del Memor&aacute;ndum se acord&oacute; que a fin de que el intercambio de las Sustancias de Referencia ya producidas por las Farmacopeas Nacionales sea viable, sus envases deber&aacute;n presentar r&oacute;tulos e informaciones estandarizadas, en los dos idiomas, bas&aacute;ndose en las referencias de la Organizaci&oacute;n Mundial de la Salud.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el Instituto Nacional de Medicamentos y la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en uso de las facultades acordadas por los Decretos Nº 1490/92 y Nº 425/10.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Recon&oacute;cense como Sustancias de Referencia FARMACOPEA ARGENTINA para ensayos f&iacute;sico-qu&iacute;micos, a las Sustancias de Referencia FARMACOPEA BRASILE&Ntilde;A que figuran en el ANEXO I que forma parte integrante de la presente.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 2º </B>— Establ&eacute;cese que los envases de las referidas Sustancias de Referencia deber&aacute;n presentar r&oacute;tulos e informaciones estandarizadas, en espa&ntilde;ol y portugu&eacute;s, bas&aacute;ndose en las referencias de la Organizaci&oacute;n Mundial de la Salud.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— Establ&eacute;cese que las Sustancias de Referencia que figuran en el ANEXO I reconocidas por la presente disposici&oacute;n se depositar&aacute;n y conservar&aacute;n en el Instituto Nacional de Medicamentos, y se distribuir&aacute;n a los solicitantes, bajo el pago del arancel correspondiente y ser&aacute;n acompa&ntilde;ados por un informe t&eacute;cnico resumido.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 4º </B>— Reg&iacute;strese, comun&iacute;quese a quienes corresponda. D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su Publicaci&oacute;n. Cumplido, arch&iacute;vese PERMANENTE. — Carlos Chiale.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>SUSTANCIAS QUIMICAS DE REFERENCIA PRODUCIDAS POR LA FARMACOPEA BRASILE&Ntilde;A.</P> <P ALIGN='JUSTIFY'></P> <TABLE CELLSPACING=0 BORDER=0 CELLPADDING=4 WIDTH=420> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>1. Amitriptilina, Clorhidrato de. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1061</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>2. Azatioprina. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1060</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>3. Bupivaca&iacute;na, Clorhidrato de. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1031</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>4. Carbamazepina. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1038</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>5. Cefadroxilo. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1051</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>6. Cefazolina. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1045</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>7. Diltiazem, Clorhidrato de. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1024</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>8. Glibenclamida. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1018</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>9. Haloperidol. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1058</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>10. Metildopa. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1056</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>11. Miconazol, Nitrato de. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1050</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>12. Norfloxacina. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1014</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>13. Salbutamol, Sulfato de.</TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'> Lote 1012</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>14. Sulfametoxazol. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1010</TD> </TR> <TR><TD WIDTH='71%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>15. Zidovudina. </TD> <TD WIDTH='29%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Lote 1023</TD> </TR> </TABLE>  <P ALIGN='JUSTIFY'></P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-2604-2010-168293" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

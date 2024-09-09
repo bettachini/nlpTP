@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.104',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2577-2011-181246/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2577-2011-181246/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2577-2011-181246/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"5VxhLSOgpP5p7tR9a4L_zYwGmWsIpkly5Xzziluk-iI","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-2577-2011-181246\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-2577-2011-181246 page-normativa-nacional-disposición-2577-2011-181246-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-2577-2011-181246/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-BLqCMxWsVp8JJlZ_B77iwNxmyZdvzWtKtWSM_OwWxrY" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-2577-2011-181246">Disposición   2577/2011</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2011-04-18</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>MINISTERIO DE SALUD</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>SECRETARIA DE POLITICAS, REGULACION E INSTITUTOS ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Disposici&oacute;n Nº 2577/2011</P> </B><FONT SIZE=2> </FONT><P ALIGN='JUSTIFY'>Bs. As., 12/4/2011</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO la Ley Nº 25.506, su Decreto Reglamentario Nº 2628/02 y sus normas modificatorias y complementarias, la Disposiciones ANMAT Nº 6889/10 Nº 906/11 y el Expediente Nº 1-47-5548-11- 0 del Registro de esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica; y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el empleo de las herramientas tecnol&oacute;gicas resulta un instrumento id&oacute;neo para facilitar el acceso a la informaci&oacute;n y a los servicios del Estado, dar r&aacute;pida respuesta a las necesidades y requerimientos de la poblaci&oacute;n, integrar los distintos niveles de la Administraci&oacute;n P&uacute;blica Nacional y permitir la comunicaci&oacute;n y el intercambio de informaci&oacute;n mediante canales alternativos al papel.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la alianza entre la tecnolog&iacute;a y la gesti&oacute;n gubernamental no s&oacute;lo facilita el incremento de la productividad, la mejora de la calidad de los servicios prestados por el Sector P&uacute;blico y la optimizaci&oacute;n de la gesti&oacute;n, sino que tambi&eacute;n permite la inserci&oacute;n de las organizaciones p&uacute;blicas en los procesos globales de la Sociedad de la Informaci&oacute;n y el Conocimiento —SIC— y de la econom&iacute;a digital.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en ese entendimiento, el Estado Nacional viene impulsando, hace varios a&ntilde;os, en todas las esferas de la actividad p&uacute;blica el uso de tecnolog&iacute;as de gesti&oacute;n que brinden seguridad, eficiencia y eficacia en las diferentes gestiones que en cada &aacute;rea se realizan.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que de ese modo, la sanci&oacute;n de la Ley de Firma Digital 25.506, su Decreto Reglamentario Nº 2628/02 y sus normas modificatorias y complementarias otorgaron un decisivo impulso para la implementaci&oacute;n del proceso de despapelizaci&oacute;n gradual del Estado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en ese contexto, por Disposici&oacute;n ANMAT Nº 6889/10 se cre&oacute; el Programa de Despapelizaci&oacute;n Segura de esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica, con el objeto de adoptar medidas de gesti&oacute;n tendientes a incorporar las Tecnolog&iacute;as de la Informaci&oacute;n y las Comunicaciones (Tics) as&iacute; como tambi&eacute;n instrumentar las herramientas institucionales necesarias para dar comienzo al proceso de despapelizaci&oacute;n gradual de este organismo, contribuyendo, de ese modo, a mejorar su gesti&oacute;n, facilitar el acceso de la comunidad a la informaci&oacute;n p&uacute;blica y posibilitar la realizaci&oacute;n de tr&aacute;mites por Internet en forma segura.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Ley de firma digital 25.506, su Decreto Reglamentario Nº 2628/02 y sus normas modificatorias y complementarias reconocen el empleo de la firma digital y de la firma electr&oacute;nica y su eficacia jur&iacute;dica en las condiciones que la misma ley establece.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la reglamentaci&oacute;n de la Ley de firma digital (Decreto Nº 2628/02 y modificatorios) apunt&oacute; a establecer una infraestructura de firma digital que ofreciera autenticaci&oacute;n, y garant&iacute;a de integridad para los documentos digitales o electr&oacute;nicos y constituyera la base tecnol&oacute;gica para otorgarles validez jur&iacute;dica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el art&iacute;culo 13 de la Ley Nº 25.506 establece que el Certificado digital es el documento digital firmado digitalmente por un certificador, que vincula los datos de verificaci&oacute;n de firma a su titular; agregando el art&iacute;culo 3º del Decreto Nº 2628/02 que estos certificados son aquellos cuya utilizaci&oacute;n permite disponer de una firma digital amparada por las presunciones de autor&iacute;a e integridad establecidas en los art&iacute;culos 7º y 8º de la ley citada.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que teniendo en cuenta lo expuesto, el Decreto Nº 2628/02 estableci&oacute; que en los casos contemplados en los art&iacute;culos 3°, 4° y 5° de la Ley N° 25.506 podr&aacute; utilizarse como sistema de comprobaci&oacute;n de autor&iacute;a e integridad, entre otros, la Firma digital basada en certificados digitales emitidos por certificadores licenciados en el marco de la reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en consecuencia, la firma digital constituye, dadas las caracter&iacute;sticas establecidas en su marco legal regulatorio, un elemento que asegura la autenticidad e inalterabilidad de la informaci&oacute;n contenida y la identificaci&oacute;n del firmante.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que tanto la Ley de firma digital como su Decreto Reglamentario contienen disposiciones referidas espec&iacute;ficamente a la utilizaci&oacute;n por el Estado Nacional de las tecnolog&iacute;as establecidas por dichas normas (cftar. en especial art&iacute;culos 47 y 48 de la Ley Nº 25.506 y art&iacute;culos 37, 38 y 42 del Decreto Nº 2628/02).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Infraestructura de Firma Digital de la Rep&uacute;blica Argentina (IFDRA) est&aacute; conformada por un conjunto de componentes (ente licenciante, certificador licenciado, autoridad de registro) que interact&uacute;an entre s&iacute;, permitiendo la emisi&oacute;n de certificados digitales para verificar firmas digitales en condiciones seguras, tanto desde el punto de vista t&eacute;cnico como legal.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en ese marco, y en uso de las facultades legalmente previstas, la SECRETARIA DE LA GESTION PUBLICA de la JEFATURA DE GABINETE DE MINISTROS, mediante Resoluci&oacute;n Nº 227/10, otorg&oacute; a la OFICINA NACIONAL DE TECNOLOGIAS DE INFORMACION de la SUBSECRETARIA DE TECNOLOGIAS DE GESTION de la SECRETARIA DE LA GESTION PUBLICA de la JEFATURA DE GABINETE DE MINISTROS la licencia para operar como CERTIFICADOR LICENCIADO, orden&oacute; su inscripci&oacute;n en el Registro de Certificadores Licenciados y aprob&oacute; la &quot;Pol&iacute;tica de Certificaci&oacute;n para Personas F&iacute;sicas de Entes P&uacute;blicos, Estatales o no Estatales, y Personas F&iacute;sicas que realicen tr&aacute;mites con el Estado&quot; de la AC ONTI.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que de acuerdo con lo que surge de la &quot;Pol&iacute;tica de Certificaci&oacute;n para Personas F&iacute;sicas de Entes P&uacute;blicos, Estatales o no Estatales, y Personas F&iacute;sicas que realicen tr&aacute;mites con el Estado&quot; de la AC ONTI, el Certificador (la Oficina Nacional de Tecnolog&iacute;as de Informaci&oacute;n) posee una estructura de AR que efect&uacute;a las funciones de validaci&oacute;n de identidad y de otros datos de los solicitantes y suscriptores de certificados, registrando las presentaciones y tr&aacute;mites que les sean formulados por &eacute;stos; siendo autorizadas las AR a funcionar como tales mediante notas firmadas por el Director Nacional de la ONTI.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que teniendo en cuenta el marco normativo expuesto y como primera medida para dar inicio al proceso de implementaci&oacute;n de la tramitaci&oacute;n electr&oacute;nica de actuaciones en esta Administraci&oacute;n Nacional utilizando la firma digital para la autenticaci&oacute;n de la identidad de los usuarios, por Disposici&oacute;n (ANMAT) Nº 906/11, se cre&oacute;, en el &aacute;mbito de este organismo, la Autoridad de Registro de la Autoridad Certificante ONTI (AR-ANMAT), design&aacute;ndose a su Responsable as&iacute; como tambi&eacute;n a los Oficiales de Registro (titular y suplentes), al Instructor de firma digital y al Responsable de Soporte de firma digital.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en el caso espec&iacute;fico de la implementaci&oacute;n de la firma digital en esta Administraci&oacute;n Nacional para la digitalizaci&oacute;n de los procedimientos y tr&aacute;mites internos de este organismo as&iacute; como tambi&eacute;n los vinculados con los administrados cabe se&ntilde;alar que: a) en t&eacute;rminos generales, y sin perjuicio del an&aacute;lisis que pueda ameritar alg&uacute;n caso en particular, las tramitaciones cuya digitalizaci&oacute;n se prev&eacute; no se encuentran incluidas en las excepciones de aplicaci&oacute;n de la Ley de firma Digital previstas en el art&iacute;culo 4º de la citada norma; b) la OFICINA NACIONAL DE TECNOLOGIAS DE INFORMACION en su calidad de Certificador Licenciado ser&aacute; qui&eacute;n otorgue, con la intervenci&oacute;n de la AR-ANMAT en lo referente a la validaci&oacute;n de identidad, los certificados digitales a los funcionarios y a las personas f&iacute;sicas que realizan tr&aacute;mites con esta Administraci&oacute;n Nacional; procedimiento que se encuentra previsto en la normativa rese&ntilde;ada; y c) el sistema de comprobaci&oacute;n de autor&iacute;a e integridad a utilizar ser&aacute;, entonces, el previsto por el inciso c) del art&iacute;culo 1º del Decreto Nº 2628/02 es decir la firma digital basada en certificados digitales emitidos por certificadores licenciados en el marco de la normativa aplicable.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que no obstante ello, debe se&ntilde;alarse que, si bien el Estado ha avanzado ampliamente en materia de incorporaci&oacute;n de la TIC’s a su gesti&oacute;n, a&uacute;n no se encuentran dadas las condiciones requeridas para el inicio de una etapa de digitalizaci&oacute;n del tr&aacute;mite administrativo en su totalidad.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por tal motivo corresponde aclarar que, en una primera instancia, la implementaci&oacute;n de la firma digital no incluir&aacute; la etapa final de las tramitaciones toda vez que los actos administrativos y/o constancias y/o certificados que se emitan ser&aacute;n suscriptos en soporte papel y con firma ol&oacute;grafa, para su posterior entrega al interesado, ello sin perjuicio de la conservaci&oacute;n de los soportes digitales de la referida documentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en ese mismo sentido y en atenci&oacute;n al gran n&uacute;mero y a la variedad de tr&aacute;mites y actuaciones administrativas que se gestionan ante este organismo y a los diversos actores que intervienen en ellas resulta conveniente implementar una instrumentaci&oacute;n progresiva de procedimientos administrativos digitalizados que eliminen el uso del papel como portador de informaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que a esos fines debe tenerse en cuenta que, en el marco del proceso de modernizaci&oacute;n del Estado, esta Administraci&oacute;n Nacional, ha venido adecuando los procedimientos administrativos a las disponibilidades que brinda hoy la tecnolog&iacute;a de la informaci&oacute;n y las comunicaciones, con el objeto de optimizar el uso de recursos y de agilizar el funcionamiento institucional.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en virtud de ello y atento a la experiencia adquirida, en una primera etapa, el proyecto de digitalizaci&oacute;n de tr&aacute;mites se focalizar&aacute; preferentemente en las tramitaciones en las cuales esta Administraci&oacute;n Nacional ya ha ido incorporando herramientas basadas en las Tecnolog&iacute;as de la Informaci&oacute;n y las Comunicaciones (TICs).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que cabe concluir que el sistema de tramitaci&oacute;n electr&oacute;nica mediante el empleo de la firma digital contribuir&aacute; a una aceleraci&oacute;n del proceso vigente, facilitando la realizaci&oacute;n de los tr&aacute;mites administrativos y disminuyendo los obst&aacute;culos derivados de las barreras geogr&aacute;ficas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en el marco descripto, el establecimiento del uso de la firma digital, en forma gradual, en las tramitaciones que se realizan en esta Administraci&oacute;n Nacional constituir&aacute; una instancia en pos del proceso de despapelizaci&oacute;n de este organismo, permitiendo proporcionar en el presente los beneficios de los adelantos tecnol&oacute;gicos tanto a la Administraci&oacute;n P&uacute;blica como a los particulares que se relacionan con ella.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el Comit&eacute; Ejecutor del Programa de Despapelizaci&oacute;n Segura de esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica se ha expedido al respecto mediante informe que obra a fojas 1/4.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Coordinaci&oacute;n de Inform&aacute;tica ha emitido a fojas 53/54 informe favorable en relaci&oacute;n con la implementaci&oacute;n de la firma digital.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Direcci&oacute;n de Asuntos Jur&iacute;dicos ha tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por el Decreto Nº 1490/92 y por el Decreto Nº 425/10.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>DISPONE:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 1º — Ad&oacute;ptase el uso de la firma digital en el &aacute;mbito de esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Los usuarios de la referida herramienta inform&aacute;tica ser&aacute;n tanto los funcionarios pertenecientes a esta Administraci&oacute;n Nacional como los terceros que realizan tr&aacute;mites ante este organismo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 2º — La medida dispuesta en el art&iacute;culo 1º de la presente se implementar&aacute; en forma gradual en las tramitaciones que esta Administraci&oacute;n Nacional oportunamente determine mediante el acto administrativo pertinente.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 3º — La presente disposici&oacute;n entrar&aacute; en vigencia el d&iacute;a siguiente al de su publicaci&oacute;n en el Bolet&iacute;n Oficial.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 4º — Reg&iacute;strese. D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n. Cumplido, arch&iacute;vese. — Dr. CARLOS CHIALE, Interventor, ANMAT.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>e. 18/04/2011 Nº 43086/11 v. 18/04/2011</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-2577-2011-181246" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

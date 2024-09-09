@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-654-2021-347168/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-654-2021-347168/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-654-2021-347168/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"-jNum9fTlLNdk3w-2oP3mDIlS2AMSqbi7J6IixTKotk","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/resoluci%C3%B3n-654-2021-347168\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-resolución-654-2021-347168 page-normativa-nacional-resolución-654-2021-347168-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/resoluci%C3%B3n-654-2021-347168/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-lDD2wjthcLNbXJgJpt8RoXDk0lYp2JmkqyMQIeunIhY" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/resoluci%C3%B3n-654-2021-347168">Resolución   654/2021</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>MINISTERIO DE SALUD</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2021-02-18</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>MINISTERIO DE SALUD</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Resolución 654/2021</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>RESOL-2021-654-APN-MS</span><br> <br> Ciudad de Buenos Aires, 12/02/2021<br> <br> VISTO el EX-2020-79289481-APN-DD#MS, la Ley N° 16.463 y el Decreto N° 150 del 20 de enero de 1992, la Ley Nº 27.350 y su Decreto Reglamentario N° 883 del 11 de noviembre de 2020, la Resolución de la ex SECRETARÍA DE REGULACIÓN Y GESTIÓN SANITARIA del entonces MINISTERIO DE SALUD Y DESARROLLO SOCIAL N° 133 del 4 de junio de 2019, y<br> <br> CONSIDERANDO:<br> <br> Que la Ley N° 27.350 establece el marco regulatorio para la investigación médica y científica del uso medicinal, terapéutico y/o paliativo del dolor de la planta de cannabis y sus derivados.<br> <br> Que el Decreto N° 883/20, reglamentario de la mencionada ley, dispuso que el PROGRAMA NACIONAL PARA EL ESTUDIO Y LA INVESTIGACION DEL USO MEDICINAL DE LA PLANTA DE CANNABIS, SUS DERIVADOS Y TRATAMIENTOS NO CONVENCIONALES, creado en la órbita del MINISTERIO DE SALUD, funcionará en el ámbito de la DIRECCIÓN NACIONAL DE MEDICAMENTOS Y TECNOLOGÍA SANITARIA, dependiente de la SUBSECRETARÍA DE MEDICAMENTOS E INFORMACIÓN ESTRATÉGICA de la SECRETARÍA DE ACCESO A LA SALUD de este Ministerio.<br> <br> Que el citado programa debe, entre otras acciones, desarrollar e implementar acciones de promoción y prevención dirigidas a los equipos de salud y organizaciones de la sociedad civil que aborden la temática sobre cannabis medicinal y a atender la salud integral de las personas a las cuales se les indique como modalidad terapéutica, medicinal o paliativa del dolor el uso de la planta de cannabis y sus derivados, conforme la normativa vigente, como así también desarrollar y aprobar guías de asistencia, tratamiento y accesibilidad basadas en la mejor evidencia científica disponible.<br> <br> Que el artículo 7° de la referida ley determina que la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT) permitirá la importación de aceite de cannabis y sus derivados.<br> <br> Que el MINISTERIO DE SALUD tiene la facultad de impartir al ANMAT las directivas relacionadas con el producto de cannabis, ello en concordancia con las obligaciones que le impone la Ley N° 27.350 y su reglamentación vigente.<br> <br> Que el Estado debe facilitar el acceso para aquellas personas que no posean cobertura de salud, y para ello es imperante que el Programa analice y evalúe constantemente la evolución de la evidencia científica del uso medicinal de la citada planta y sus derivados.<br> <br> Que la Ley N° 16.463 establece en su artículo 1° que quedan sometidos a la misma y a los reglamentos que en su consecuencia se dicten, la importación, exportación, producción, elaboración, fraccionamiento, comercialización o depósito en jurisdicción nacional o con destino al comercio interprovincial, de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico y todo otro producto de uso y aplicación en la medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades.<br> <br> Que el artículo 8°, inciso ñ) del Decreto N° 1490/92 confiere a la ANMAT facultades para adoptar las medidas más oportunas a fin de proteger la salud de la población ante la detección de cualquier factor de riesgo relacionado con los productos, substancias, elementos o materiales comprendidos en las materias de su competencia.<br> <br> Que el Decreto N° 150/92 regula el registro, elaboración, fraccionamiento, prescripción, expendio, comercialización, exportación e importación de medicamentos, disponiendo en su artículo 2° la prohibición en todo el territorio nacional de la comercialización o entrega a título gratuito de especialidades medicinales o farmacéuticas no registradas ante la autoridad competente, salvo las excepciones que de acuerdo a la reglamentación disponga la autoridad sanitaria.<br> <br> Que en igual sentido, la Resolución Conjunta N° 988/92 y N° 748/92 del entonces MINISTERIO DE ECONOMÍAY OBRAS Y SERVICIOS PÚBLICOS y del entonces MINISTERIO DE SALUD Y ACCIÓN SOCIAL, reglamentaria del Decreto N° 150/92, en su artículo 1° inciso c) del Anexo A establece que entre las excepciones a la prohibición a las que se refiere el artículo 2° del mencionado decreto, se encuentran las especialidades medicinales que importen los particulares para su uso personal sobre la base de una receta médica específica.<br> <br> Que por su parte el Decreto N° 883/20, reglamentario de la Ley N° 27.350, en el artículo 7° de su Anexo determina que los y las pacientes que tuvieren indicación médica para el uso de la planta de cannabis y sus derivados podrán adquirir especialidades medicinales elaboradas en el país, importar especialidades medicinales debidamente registradas por la autoridad sanitaria o adquirir formulaciones magistrales elaboradas por farmacias autorizadas u otras presentaciones que en el futuro se establezcan.<br> <br> Que el cannabis y las sustancias relacionadas con el cannabis están incluidas en las listas de la Convención Única sobre Estupefacientes de 1961, enmendada por el Protocolo de 1972, y del Convenio sobre Sustancias Sicotrópicas de 1971.<br> <br> Que en virtud de las convenciones de fiscalización internacional de drogas, la Comisión de Estupefacientes (CND) tiene el mandato de decidir sobre el alcance de la fiscalización de sustancias colocándolas en las listas de las convenciones.<br> <br> Que, asimismo, la referida Comisión toma sus decisiones sobre la base de las recomendaciones de la Organización Mundial de la Salud (OMS), la Junta Internacional de Fiscalización de Estupefacientes (JIFE) y los Estados partes en las convenciones.<br> <br> Que luego de una revisión crítica del cannabis realizada por el Comité de Expertos en Farmacodependencia, la Comisión de Estupefacientes (CND) aprobó la propuesta de la Organización Mundial de la Salud de retirar el cannabis y la resina de cannabis de la Lista IV de la Convención Única sobre Estupefacientes de 1961, permaneciendo sujetos a los niveles de control de la Lista I.<br> <br> Que la citada Convención define que un estupefaciente de la Lista I es particularmente susceptible de uso indebido y de producir efectos nocivos y se puede incluir en la Lista IV cuando tal susceptibilidad no está compensada por ventajas terapéuticas apreciables.<br> <br> Que de conformidad con la normativa aplicable, el Régimen de Acceso de Excepción a productos que contengan cannabinoides o derivados de la planta de cannabis, aprobado por la Resolución de la ex SECRETARÍA DE REGULACIÓN Y GESTIÓN SANITARIA N° 133/19, debe adecuarse a lineamientos internacionales actuales y a los establecidos por el Decreto N° 883/20.<br> <br> Que en el marco de la nueva reglamentación resulta imperante ponderar el rol de los médicos en el acompañamiento de los pacientes en tratamiento con productos derivados de la planta del cannabis con el objetivo de lograr su uso informado y seguro. En ese sentido, la responsabilidad del médico prescriptor es determinante y debe ser ajustada a disposiciones legales vigentes.<br> <br> Que circunscribir la prescripción médica a profesionales especialistas en neurología o neurología infantil implica restringir el acceso oportuno y equitativo de los y las pacientes al uso medicinal, terapéutico y/o paliativo del dolor de la planta de cannabis, sus derivados y tratamientos no convencionales.<br> <br> Que la evidencia científica existente sobre el uso medicinal, terapéutico y/o paliativo del dolor de la planta de cannabis, sus derivados y tratamientos no convencionales no tiene un carácter restrictivo sobre la facultad del médico para prescribir, sin embargo se estima conveniente la intervención de profesionales médicos especialistas a los fines de extremar los cuidados sobre el paciente y garantizar el seguimiento de la eficacia y seguridad de los productos en cuestión.<br> <br> Que la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT) autorizó recientemente el registro y comercialización de la primera especialidad medicinal que será elaborada en la República Argentina, pudiendo en el futuro registrar otras especialidades.<br> <br> Que sin perjuicio de ello, en virtud de la experiencia referida por médicos, usuarios y familiares sobre la mejoría sintomática de pacientes tratados con determinados productos que contienen cannabinoides o derivados de la planta de cannabis, diferentes al producto registrado en el país y que se importan por el Régimen de Acceso de Excepción, resulta necesario permitir la continuidad de los tratamientos ya iniciados.<br> <br> Que por su parte, el MINISTERIO DE SALUD a través de la ANMAT, debe garantizar a la población el acceso a productos para la salud y permitirá la importación de cannabinoides y derivados de la planta de cannabis para aquellas patologías con evidencia científica reconocida y para pacientes que cuenten con la indicación médica pertinente, bajo la responsabilidad y seguimiento del médico tratante sobre la calidad, seguridad y eficacia del producto prescripto conforme a las normas vigentes.<br> <br> Que la ANMAT, en el marco de sus competencias, deberá disponer los instrumentos que sean necesarios para hacer operativa la solicitud de importación de cannabinoides y derivados de la planta de cannabis conforme la presente Resolución.<br> <br> Que la presente medida, propiciada por el PROGRAMA NACIONAL PARA EL ESTUDIO Y LA INVESTIGACIÓN DEL USO MEDICINAL DE LA PLANTA DE CANNABIS, SUS DERIVADOS Y TRATAMIENTOS NO CONVENCIONALES, cuenta con la conformidad de la DIRECCIÓN NACIONAL DE MEDICAMENTOS Y TECONOLOGÍA SANITARIA, la SUBSECRETARÍA DE MEDICAMENTOS E INFORMACIÓN ESTRATÉGICA y la SECRETARÍA DE ACCESO A LA SALUD.<br> <br> Que la DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS ha tomado la intervención de su competencia.<br> <br> Que la presente medida se dicta en uso de las facultades conferidas por el artículo 103 de la Constitución Nacional, la Ley de Ministerios N° 22.520, sus normas modificatorias y complementarias, el artículo 4° de la Ley N° 27.350 y el artículo 4° del Anexo del Decreto Reglamentario N° 883/20.<br> <br> Por ello,<br> <br> EL MINISTRO DE SALUD<br> <br> RESUELVE:<br> <br> ARTÍCULO 1°.- Déjase sin efecto la Resolución N° 133 del 4 de junio de 2019 de la ex SECRETARÍA DE REGULACIÓN Y GESTIÓN SANITARIA.<br> <br> ARTÍCULO 2°.- Apruébase el Régimen de Acceso de Excepción a productos que contengan cannabinoides o derivados de la planta de cannabis destinados exclusivamente para uso medicinal ya sea para el tratamiento de un paciente individual o bien dentro del contexto de una investigación científica de acuerdo a lo establecido por la presente norma.<br> <br> ARTÍCULO 3°.- El Régimen aprobado por la presente resolución se aplicará cuando no existan registros sanitarios en el país de productos que contengan cannabinoides o derivados de la planta de cannabis o cuando dichos productos se encuentren en fase de investigación y en forma exclusiva para las patologías que revistan evidencia de calidad metodológica determinada por este MINISTERIO DE SALUD.<br> <br> ARTÍCULO 4°.- Los productos destinados al tratamiento de pacientes individuales cuya importación se autorice por la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT) a través del presente Régimen, deberán ser prescriptos por profesionales médicos matriculados ante autoridad sanitaria competente, bajo su exclusiva responsabilidad sobre la calidad, seguridad y eficacia del producto indicado, mediante receta ajustada a normativa vigente.<br> <br> ARTÍCULO 5°.- El trámite será solicitado ingresando a la plataforma &#8220;Trámites a Distancia (TAD)&#8221;. En el caso de imposibilidad de utilizar dicha plataforma, la ANMAT planteará las alternativas posibles para que el paciente o sus representantes presenten la documentación para dar inicio al trámite.<br> <br> ARTÍCULO 6°.- La solicitud de importación para el tratamiento de pacientes individuales se realizará conforme lo dispuesto por la ANMAT oportunamente. Se autorizará a importar la cantidad de producto necesaria para cubrir un tratamiento de hasta CIENTO OCHENTA (180) días corridos.<br> <br> ARTÍCULO 7°.- La autorización de importación emitida por el funcionario responsable de la ANMAT constituirá constancia suficiente para ser presentada ante la DIRECCIÓN GENERAL DE ADUANAS. La validez del formulario será de CIENTO OCHENTA (180) días corridos a partir de la fecha consignada en dicha autorización.<br> <br> ARTÍCULO 8°.- La ANMAT mantendrá la nómina de pacientes individuales que accedan a productos que contengan cannabinoides o derivados de la planta de cannabis conforme al régimen establecido en la presente norma, así como también de los médicos que prescriban los productos antes mencionados.<br> <br> ARTÍCULO 9°.- La importación de cannabinoides y/o derivados de la planta de cannabis, con fines de investigación médica y científica se realizará según el siguiente procedimiento:<br> <br> a) Estudios de investigación médica y científica.<br> <br> El Patrocinante deberá presentar ante la ANMAT la autorización del estudio por parte del Programa.<br> <br> El Patrocinante podrá solicitar la importación de las cantidades autorizadas en el protocolo a través de los procedimientos establecidos en las normas vigentes de la ANMAT.<br> <br> b) Estudios de Investigación médica y científica con fines registrales.<br> <br> Se deberán cumplir los procedimientos establecidos en las normas vigentes, en particular la Disposición ANMAT N° 6677/10 y sus modificatorias.<br> <br> ARTÍCULO 10.- La ANMAT dictará las normas complementarias, aclaratorias y/o modificatorias necesarias dentro de su competencia para la mejor implementación del régimen aprobado en la presente resolución.<br> <br> ARTÍCULO 11.- Para todo ingreso del producto indicado a un paciente, la ANMAT podrá solicitar la información actualizada y disponible sobre el uso y comercialización del producto. Podrá conformar grupos de trabajo para cada caso en particular y convocar a sociedades científicas especializadas a fin de requerir opinión. Además, podrá plantear consideraciones especiales referidas a aspectos éticos, clínicos y estadísticos, entre otros.<br> <br> ARTÍCULO 12.- Los pacientes que a la fecha de entrada en vigencia de la presente resolución hayan accedido, a través del régimen de excepción de importación establecido por la Resolución N° 133/19 de la ex SECRETARÍA DE REGULACIÓN Y GESTIÓN SANITARIA, a un producto específico que contenga cannabinoides o derivados de la planta de cannabis, podrán continuar con la importación del producto en cuestión.<br> <br> ARTÍCULO 13.- Las solicitudes que se encuentren en trámite por el régimen establecido en la Resolución Nº 133/2019 de la ex SECRETARÍA DE REGULACIÓN Y GESTIÓN SANITARIA a la fecha de la entrada en vigencia de la presente norma y con autorización emitida por el funcionario responsable de la ANMAT, tendrá el plazo de validez previsto en el artículo 7° de la presente Resolución contados a partir de su autorización.<br> <br> Aquellas solicitudes que se encuentren en trámite por el régimen establecido en la Resolución N° 133/2019 de la ex SECRETARÍA DE REGULACIÓN Y GESTIÓN SANITARIA y no se encuentren autorizadas por el funcionario responsable de la ANMAT a la fecha de la entrada en vigencia de la presente norma, serán evaluadas y/o autorizadas conforme a los plazos previstos en la presente medida.<br> <br> ARTÍCULO 14.- La presente resolución entrará en vigencia el día de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 15. &#8211;Dese a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL para su publicación. Comuníquese a la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT), a la DIRECCIÓN GENERAL DE ADUANAS &#8211; ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS (AFIP), a la autoridad sanitaria de cada jurisdicción provincial y de la Ciudad Autónoma de Buenos Aires. Notifíquese a las Cámaras de Especialidades Medicinales (CILFA, CAEME, COOPERALA, CAPGEN, CAPEMVeL, SAFYBI), a la Confederación Médica de la República Argentina (COMRA) y a la Confederación Farmacéutica Argentina (COFA) y archívese.<br> <br> Ginés Mario González García<br> </div> <br> <div style='text-align: right;'>e. 18/02/2021 N° 7970/21 v. 18/02/2021<br> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/resolución-654-2021-347168" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

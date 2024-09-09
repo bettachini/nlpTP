@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-4622-2012-200533/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-4622-2012-200533/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-4622-2012-200533/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"dsl-x9xQLZRs151OStVeXhgfw7F3LgDVBkUKYAc28lk","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-4622-2012-200533\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-4622-2012-200533 page-normativa-nacional-disposición-4622-2012-200533-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-4622-2012-200533/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-FaUgbMpZMOPiXN-6VLop5IbPTSfDq3uBoLBtDD2Ox0s" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-4622-2012-200533">Disposición   4622/2012</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2012-08-09</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>Administración Nacional de Medicamentos, Alimentos y Tecnología Médica</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>ESPECIALIDADES MEDICINALES</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 4622/2012</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Registro de especialidades medicinales y/o medicamentos. Créase la Comisión de Asignación y Evaluación de Medicamentos que deban ser inscriptos bajo condiciones especiales.</span><br style='font-weight: bold;'> <br> Bs. As., 7/8/2012<br> <br> VISTO la Ley 16.463, los Decretos Nros. 9763/64 y 150/92 (T.O. Decreto 177/93), sus modificatorios y complementarios, la Disposición ANMAT Nº 5755/97 y el Expediente Nº 1-47-1833-12-0 del Registro de esta Administración Nacional de Medicamentos, Alimentos y Tecnología Médica, y<br> <br> CONSIDERANDO:<br> <br> Que el artículo 1º de la Ley Nº 16.463 regula la importación, exportación, producción, elaboración, fraccionamiento, comercialización o depósito en jurisdicción nacional o con destino al comercio interprovincial de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico y todo otro producto de uso y aplicación en la medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades.<br> <br> Que el artículo 2° del aludido cuerpo legal establece que &#8220;Las actividades mencionadas en el artículo 1° sólo podrán realizarse, previa autorización y bajo el contralor del Ministerio de Asistencia Social y Salud Pública, en establecimientos habilitados por el mismo y bajo la dirección técnica del profesional universitario correspondiente, inscripto en dicho Ministerio. Todo ello en las condiciones y dentro de las normas que establezca la reglamentación, atendiendo a las características particulares de cada actividad y a razonables garantías técnicas en salvaguarda de la salud pública y de la economía del consumidor&#8221;.<br> <br> Que el artículo 1° del Decreto Nº 9763/64, reglamentario de la Ley 16.463, establece que el ejercicio del poder de policía sanitaria referido a las actividades indicadas en el artículo 1° de la mentada ley, y a las personas de existencia visible o ideal que intervengan en las mismas, se hará efectivo por el Ministerio de Asistencia Social y Salud Pública de la Nación, hoy Ministerio de Salud, en las jurisdicciones que allí se indican.<br> <br> Que por su parte el Decreto Nº 1490/92 crea esta Administración Nacional de Medicamentos, Alimentos y Tecnología Médica &#8212;ANMAT&#8212;, como organismo descentralizado de la Administración Pública Nacional, con un régimen de autarquía financiera y económica, con jurisdicción en todo el territorio nacional, asumiendo dichas funciones.<br> <br> Que el Decreto 150/92 (T.O. Decreto Nº 177/93) reglamenta el registro de medicamentos y especialidades medicinales, estableciendo en los Arts. 3º, 4º y 5º los regímenes de autorización con sus requisitos, información y documentación necesarios para el otorgamiento de la autorización de comercialización y venta, debiendo demostrarse fehacientemente su eficacia y seguridad.<br> <br> Que las enfermedades que padece el ser humano poseen, en líneas generales, una alta frecuencia de presentación, lo que se conoce como prevalencia, para las cuales se han desarrollado la mayoría de las herramientas terapéuticas.<br> <br> Que asimismo existen afecciones con muy baja prevalencia y con serias consecuencias para el paciente y su entorno sociofamiliar, agravado esto por el escaso desarrollo de recursos dirigidos a estas enfermedades, conocidas como &#8220;Enfermedades Poco Frecuentes&#8221;.<br> <br> Que se define a las Enfermedades Poco Frecuentes, como aquellas cuya prevalencia en la población es igual o inferior a una en dos mil (1 en 2000) personas, referida a la situación epidemiológica nacional.<br> <br> Que en el plano internacional, a los medicamentos destinados a estas enfermedades se los conoce como medicamentos huérfanos o drogas huérfanas.<br> <br> Que también se han definido a las Enfermedades Ultrarraras, siendo aquellas que poseen una prevalencia menor que las Enfermedades Poco Frecuentes.<br> <br> Que existen, según la Organización Mundial de la Salud, más de 6000 condiciones clínicas de baja prevalencia y de ellas, el 80% son de origen genético, afectando prioritariamente a la población pediátrica.<br> <br> Que la mayoría son enfermedades graves, amenazantes de la vida, crónicamente debilitantes e invalidantes y causan importante sufrimiento para los pacientes y su entorno familiar.<br> <br> Que estas enfermedades producen un impacto creciente en salud pública y en la demanda de recursos sanitarios pues requieren de abordajes multidisciplinarios tanto sanitarios, como sociosanitarios, sociales y educativos.<br> <br> Que los trastornos más frecuentes asociados a estas enfermedades son el déficit motor, en el 44% de los casos, trastornos estéticos y funcionales en el 37%, y dolores crónicos en el 22% de los pacientes.<br> <br> Que los pacientes afectados por las Enfermedades Poco Frecuentes no pueden ni deben ser excluidos de los progresos realizados por la ciencia y la práctica médica, teniendo el mismo derecho al tratamiento que cualquier otro paciente, sin crear falsas expectativas.<br> <br> Que paralelamente en la práctica médico-asistencial, se observan enfermedades, que si bien son frecuentes, es decir, tienen alta prevalencia, presentan un nivel de gravedad tal para el cual no siempre existen recursos disponibles, conocidas como Enfermedades Serias.<br> <br> Que por ello resulta socialmente valioso el desarrollo y el acceso de la población a nuevos medicamentos que cubran las necesidades insatisfechas para el diagnóstico, prevención y/o tratamiento de enfermedades poco frecuentes y/o serias, para las cuales no existan tratamientos disponibles eficaces, efectivos y seguros o que los mismos sean inadecuados.<br> <br> Que conforme surge de lo precedentemente señalado aquellos medicamentos o especialidades medicinales destinados a prevenir, diagnosticar y/o tratar enfermedades serias para las cuales no existan tratamientos disponibles eficaces y seguros o que los mismos sean inadecuados, pueden considerarse comprendidos en el concepto de orfandad terapéutica.<br> <br> Que es necesario tener en cuenta que, en ciertas normativas internacionales, para la solicitud del registro de un medicamento huérfano el patrocinante puede presentar estudios en fases tempranas del desarrollo del medicamento.<br> <br> Que los pacientes que sufren afecciones poco frecuentes y/o enfermedades serias para las cuales no existan tratamientos disponibles eficaces y seguros o que los mismos sean inadecuados, deben poder beneficiarse con medicamentos de calidad y eficacia comparables a aquellos que hubieran cumplido todas las fases del desarrollo.<br> <br> Que todo medicamento destinado al tratamiento de estas enfermedades debe presentar un beneficio considerable, entendiéndose por tal, según el Reglamento (CE) Nº 847/2000 de la Comisión de las Comunidades Europeas, a una &#8220;ventaja significativa clínicamente o una contribución importante a la atención del paciente&#8221;.<br> <br> Que por todo lo expuesto, deviene necesario establecer un procedimiento operativo uniforme y científicamente respaldado para la tramitación de las solicitudes de registro de especialidades medicinales y/o medicamentos destinados a la prevención, diagnóstico y/o tratamiento de Enfermedades Poco Frecuentes y/o Enfermedades Serias para las cuales no existan tratamientos disponibles, eficaces y seguros o que los mismos sean inadecuados, los que serán autorizados &#8220;Bajo Condiciones Especiales&#8221;, en los términos de la presente disposición.<br> <br> Que desde el punto de vista operativo es conveniente adoptar la modalidad de gestión descripta en la Disposición ANMAT Nº 5755/97, o la que en el futuro la sustituya.<br> <br> Que el Instituto Nacional de Medicamentos, la Dirección de Evaluación de Medicamentos y la Dirección de Asuntos Jurídicos han tomado intervención de su competencia.<br> <br> Que se actúa en virtud de las facultades conferidas por los Decretos Nros. 1490/92 y 425/10.<br> <br> Por ello,<br> <br> EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLGIA MEDICA<br> DISPONE:<br> <br> <span style='font-weight: bold;'>Artículo 1º &#8212;</span> Quedan comprendidos, en la presente disposición, las especialidades medicinales y/o medicamentos destinados a la prevención, diagnóstico y/o tratamiento de las enfermedades definidas en el ANEXO I de la presente disposición, que forma parte integrante de la misma, cuyo registro podrá ser concedido &#8220;Bajo Condiciones Especiales&#8221;.<br> <br> <span style='font-weight: bold;'>Art. 2º &#8212;</span> Establécese que para el registro de las especialidades medicinales y/o medicamentos definidos en el artículo 1°, deberán cumplimentarse los requisitos y documentación enumerados en el ANEXO II de la presente disposición, que forma parte integrante de la misma.<br> <br> <span style='font-weight: bold;'>Art. 3º &#8212;</span> Establécese que el otorgamiento del registro de las especialidades medicinales y/o medicamentos objeto de la presente disposición, y la determinación del plazo de vigencia del Certificado correspondiente, se evaluará caso por caso, teniendo en consideración, entre otros, las características particulares de la droga involucrada, la complejidad de la enfermedad a tratar y la información presentada sobre las fases de su desarrollo.<br> <br> <span style='font-weight: bold;'>Art. 4º &#8212;</span> Los titulares de registro de las especialidades medicinales y/o medicamentos contemplados en la presente disposición deberán hacer constar la leyenda &#8220;AUTORIZADO BAJO CONDICIONES ESPECIALES&#8221;, en los rótulos, prospectos y en toda información puesta a disposición del cuerpo profesional, con igual tamaño y realce que la marca comercial y la Denominación Común Argentina, DCA, o en su defecto la Denominación Común Internacional, DCI.<br> <br> <span style='font-weight: bold;'>Art. 5º &#8212;</span> Créase en el ámbito de esta Administración Nacional, la Comisión de Asignación y Evaluación de Medicamentos que deban ser inscriptos Bajo Condiciones Especiales, cuyos objetivos serán:<br> <br> a) Analizar la información y documentación presentada de un medicamento que se pretenda inscribir en el Registro de Especialidades Medicinales &#8220;Bajo Condiciones Especiales&#8221;.<br> <br> b) Asignación de la categoría de inscripción Bajo Condiciones Especiales.<br> <br> c) Análisis y evaluación de la información y documentación presentada para respaldar la solicitud, sobre la base de los hallazgos preclínicos y clínicos obtenidos.<br> <br> d) Dictaminar la oportunidad, mérito y conveniencia de la inscripción en el Registro de Especialidades Medicinales de un medicamento &#8220;Bajo Condiciones Especiales&#8221;.<br> <br> <span style='font-weight: bold;'>Art. 6º &#8212;</span> La mencionada Comisión estará coordinada por el Dr. Ricardo Bolaños, a quien subrogará la Dra. Claudia Saidman, e integrada por los siguientes funcionarios: Dra. Inés Bignone, Dra. Nora Donato, Dra. Rosa María Papale, Dr. Guido Pesce, Dr. Pablo Copertari y Dr. Andrés Brandolini, quedando facultada a convocar a representantes de las instituciones académico-científicas pertinentes.<br> <br> <span style='font-weight: bold;'>Art. 7º &#8212;</span> En caso de incumplimiento de cualquiera de las obligaciones establecidas en la presente disposición, esta Administración podrá suspender la comercialización de las especialidades medicinales y/o medicamentos, cuyo registro haya sido otorgado &#8220;Bajo Condiciones Especiales&#8221;, cuando razones de eficacia y/o seguridad así lo ameriten.<br> <br> <span style='font-weight: bold;'>Art. 8º &#8212;</span> Adóptase la modalidad de gestión establecida en la Disposición ANMAT Nº 5755/97, o la que en el futuro la sustituya.<br> <br> <span style='font-weight: bold;'>Art. 9º &#8212;</span> La presente disposición entrará en vigencia a los treinta (30) días corridos, contados a partir del primer día hábil siguiente al de su publicación en el Boletín Oficial.<br> <br> <span style='font-weight: bold;'>Art. 10. &#8212;</span> Regístrese, comuníquese a quienes corresponda. Notifíquese a CAEMe, CILFA, COOPERALA, CAPGEN, COFA y a otras entidades representativas del sector. Dése a la Dirección Nacional del Registro Oficial para su publicación; notifíquese a las entidades y organizaciones profesionales correspondientes. Cumplido, archívese PERMANENTE. &#8212; Carlos A. Chiale.<br> <br> <div style='text-align: right;'>ANEXO I<br> </div> <br> <div style='text-align: center;'>CARACTERISTICAS DE LAS ENFERMEDADES CONSIDERADAS EN ESTA DISPOSICION<br> </div> <br> 1.- CARACTERISTICAS DE LAS ENFERMEDADES POCO FRECUENTES (EPF).<br> <br> De acuerdo con la Ley 26.689, artículo 2° se consideran enfermedades poco frecuentes (EPF), aquellas cuya prevalencia en la población es igual o inferior a una en dos mil (1 en 2000) personas, referida a la situación epidemiológica nacional.<br> <br> 2.- CARACTERISTICAS DE LAS ENFERMEDADES SERIAS CON RIESGO DE MUERTE Y/O INVALIDEZ GRAVE.<br> <br> a) Enfermedades crónicas, debilitantes para las cuales no existan tratamientos disponibles efectivos o que sean de alguna manera inadecuados.<br> <br> b) Enfermedades severas o con riesgo de muerte para las cuales no existan tratamientos disponibles efectivos o que sean de alguna manera inadecuados.<br> <br> c) La aparición durante el tratamiento de una enfermedad de una resistencia ampliada (refractariedad) a los tratamientos con los agentes actualmente disponibles.<br> <br> d) La aparición de una nueva enfermedad que posea efectos severos o riesgo de muerte y para la cual no existan tratamientos disponibles efectivos o que sean de alguna manera inadecuados.<br> <br> <div style='text-align: right;'>ANEXO II<br> </div> <br> <div style='text-align: center;'>REQUISITOS Y DOCUMENTACION PARA LA AUTORIZACION<br> </div> <br> 1.- CONSIDERACIONES GENERALES.<br> <br> El solicitante deberá presentar toda la información completa al menos de las fases tempranas (Fase Preclínica y Fases I y/o II de la Farmacología Clínica) de investigación y/o de los resultados de los ensayos clínicos realizados con diseños adaptativos cuando correspondiere.<br> <br> En todos los casos deberá además acreditarse mediante evidencia fehaciente y completa que el medicamento cuyo registro se solicita ha sido categorizado como &#8220;medicamento huérfano&#8221;, o destinado para el diagnóstico, prevención y/o tratamiento de Enfermedades Poco Frecuentes y/o Enfermedades Serias para las cuales no existan tratamientos disponibles, eficaces y seguros o que los mismos sean inadecuados.<br> <br> 2.- PLAN DE MONITOREO DE LA EFICACIA, EFECTIVIDAD Y SEGURIDAD.<br> <br> El solicitante deberá presentar el Plan de Monitoreo de la Eficacia, Efectividad y Seguridad, para evaluar el beneficio/riesgo del tratamiento, el que deberá ser aprobado por la Dirección de Evaluación de Medicamentos, dando intervención al Departamento de Farmacovigilancia en la faz de su competencia.<br> <br> El mencionado Plan deberá contemplar el Registro de Pacientes tratados con el medicamento, así como el circuito de prescripción/dispensación. Esta información servirá para la retroalimentación de bases de datos de eficacia y seguridad nacionales e internacionales.<br> <br> Asimismo se deberá presentar una guía del manejo de la medicación tanto para los profesionales de la salud, como para los pacientes y aquellos que los asisten, con la finalidad de disminuir los errores en la medicación.<br> <br> 3.- INCLUSION EN UN PLAN DE FARMACOVIGILANCIA INTENSIVA.<br> <br> Cuando las características del medicamento lo ameriten esta Administración Nacional de Medicamentos, Alimentos y Tecnología Médica incluirá al mismo en un Plan de Farmacovigilancia Intensiva.<br> <br> 4.- OBLIGACION DE COMUNICAR INFORMES PERIODICOS.<br> <br> El titular del registro deberá presentar ante la Dirección de Evaluación de Medicamentos de esta Administración Nacional, mediante informes periódicos, los registros obtenidos en el marco del Plan de Monitoreo de la Eficacia, Efectividad y Seguridad del producto, como máximo anualmente o con la periodicidad que se determine para cada caso.<br> <br> 5.- OTROS REQUISITOS.<br> <br> En todos los casos, deberá obtenerse el consentimiento informado por escrito, otorgado por el paciente o sus representantes legales, sobre el alcance de los beneficios y riesgos del tratamiento.<br> <br> Sin perjuicio de las exigencias establecidas en los puntos anteriores, esta Administración Nacional podrá requerir cualquier otra evidencia y/o documentación complementaria que resulte necesaria para la evaluación del trámite.<br>  </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-4622-2012-200533" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

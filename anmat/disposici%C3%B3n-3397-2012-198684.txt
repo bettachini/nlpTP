@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3397-2012-198684/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3397-2012-198684/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3397-2012-198684/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"ok_gFvuDgyLN8Ihtnlcn-27W7eL7g45w64I1qLV5SiM","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-3397-2012-198684\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-3397-2012-198684 page-normativa-nacional-disposición-3397-2012-198684-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-3397-2012-198684/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-VUHQu1-VBvJ3x2ZhsAuk19ezy-a05GOpQNITyipfRHk" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-3397-2012-198684">Disposición   3397/2012</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2012-06-18</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>MINISTERIO DE SALUD</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>SECRETARIA DE POLITICAS, REGULACION E INSTITUTOS</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición Nº 3397/2012</span><br> <br> Bs. As., 12/6/2012<br> <br> VISTO la Ley Nº 16.463, sus Decretos Reglamentarios Nros. 9763/64, 150/92 (177/93, t.o. 1993), los Decretos Nros. 1490/92 y 341/92 y Disposiciones ANMAT Nros. 7075/11 y 5743/09; y el Expediente Nº 1-47-1110-380-11-3 del Registro de la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica; y<br> <br> CONSIDERANDO:<br> <br> Que el artículo 1º de la Ley 16.463 establece que: &#8220;quedan sometidos a la presente ley y a los reglamentos que en su consecuencia se dicten, la importación, exportación, producción, elaboración, fraccionamiento, comercialización o depósito en jurisdicción nacional o con destino al comercio interprovincial de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico, y todo otro producto de uso y aplicación en medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades&#8221;.<br> <br> Que el artículo 2º de la citada ley establece que las actividades mencionadas sólo podrán realizarse previa autorización y bajo el contralor de la autoridad sanitaria, en establecimientos por ella habilitados y bajo la dirección técnica del profesional universitario correspondiente; todo ello en las condiciones y dentro de las normas que establezca la reglamentación, atendiendo a las características particulares de cada actividad y a razonables garantías técnicas en salvaguarda de la salud pública y de la economía del consumidor.<br> <br> Que asimismo el artículo 3º del mencionado cuerpo legal prescribe que los productos comprendidos en la citada ley deberán reunir las condiciones establecidas en la Farmacopea Argentina, y en caso de no figurar en ella, las que surgen de los patrones internacionales y de los textos de reconocido valor científico, debiendo a la vez ser inscriptos por ante esta Administración Nacional de conformidad a lo establecido en el Decreto Nº 150/92 (T.O. 1993).<br> <br> Que el artículo 1º del Decreto Nº 9763/64, reglamentario de la Ley 16.463, establece que el ejercicio del poder de policía sanitaria referido a las actividades indicadas en el artículo 1º de la mentada ley, y a las personas de existencia visible o ideal que intervengan en las mismas, se hará efectivo por el Ministerio de Asistencia Social y Salud Pública de la Nación (hoy Ministerio de Salud), en las jurisdicciones que allí se indican.<br> <br> Que por su parte el Decreto Nº 1490/92, crea esta Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT), como organismo descentralizado de la Administración Pública Nacional, con un régimen de autarquía financiera y económica, con jurisdicción en todo el territorio nacional, asumiendo dichas funciones.<br> <br> Que en virtud del artículo 3º, inciso a), del mencionado decreto, esta Administración Nacional tiene competencia, entre otras materias, en todo lo referente al control y fiscalización sobre la sanidad y la calidad de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico, materiales y tecnologías biomédicas y todo otro producto de uso y aplicación en medicina humana.<br> <br> Que el Decreto Nº 150/92 (T.O. 1993), reglamentario de la Ley de Medicamentos Nº 16.463, estableció una serie de definiciones, normas y procedimientos, que constituyen la base sobre la cual se sustenta todo lo relacionado con el registro, elaboración, fraccionamiento, expendio, comercialización, exportación e importación de medicamentos y especialidades medicinales.<br> <br> Que de conformidad a las prescripciones de dicho decreto se entiende por medicamento a &#8220;toda preparación o producto farmacéutico empleado para la prevención, diagnóstico y/o tratamiento de una enfermedad o estado patológico, o para modificar sistemas fisiológicos en beneficio de la persona a quien se le administra&#8221; (art 1º, inciso a).<br> <br> Que por su parte el inciso b) del citado artículo define principio activo o droga farmacéutica como &#8220;toda sustancia o mezcla de sustancias relacionadas, de origen natural o sintético que poseyendo un efecto farmacológico específico, se emplea en medicina humana&#8221;.<br> <br> Que asimismo el inciso c) define nombre genérico como &#8220;denominación de un principio activo o droga farmacéutica, o cuando corresponda, de una asociación o combinación de principios activos a dosis fijas, adoptada por la autoridad sanitaria nacional, o, en su defecto, la denominación común internacional de un principio activo recomendada por la Organización Mundial de la Salud&#8221;.<br> <br> Que finalmente el inciso d) define especialidad medicinal como &#8220;todo medicamento designado por su nombre convencional, sea o no una marca de fábrica o comercial, o por el nombre genérico que corresponda a su composición y contenido, preparado y envasado uniformemente para su distribución y expendio, de composición cuantitativa definida, declarada y verificable, de forma farmacéutica estable y acción terapéutica comprobable&#8221;.<br> <br> Que de conformidad con lo establecido por la Ley 16.463 todo medicamento fabricado industrialmente en la República Argentina sólo podrá ser puesto en el mercado y circular a nivel nacional o con tránsito interprovincial previa autorización de la Autoridad sanitaria competente.<br> <br> Que la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica es la autoridad reguladora de Medicamentos competente para otorgar su registro sanitario, de acuerdo con los requisitos y procedimientos establecidos en cada caso.<br> <br> Que mediante Disposición A.N.M.A.T. Nº 7075/11 se establecieron los requisitos y exigencias para el registro de especialidades medicinales de origen biológico.<br> <br> Que los medicamentos obtenidos por vía de ADN recombinante, presentan algunas características especiales como consecuencia de la naturaleza del proceso productivo mediante el cual son obtenidos.<br> <br> Que similar consideración merecen los anticuerpos monoclonales utilizados tanto con fines terapéuticos como con finalidad diagnóstica in vivo.<br> <br> Que estas especialidades medicinales tienen importante implicancia médica.<br> <br> Que mediante la aplicación de los avances en la tecnología de purificación y separación molecular de proteínas se dispone de una amplia variedad de medicamentos de este origen.<br> <br> Que puesto que la calidad del producto terminado se ve afectada por todas las fases de su fabricación, todas las operaciones deben por consiguiente efectuarse conforme a un sistema adecuado de aseguramiento de la calidad que contemple el control de los materiales de partida, el origen de los mismos y los procesos de fabricación subsiguientes, incluida la eliminación e inactivación de los virus u otros agentes adventicios.<br> <br> Que por todo lo expuesto, y sin perjuicio del cumplimiento de la Disposición ANMAT Nº 7075/11, corresponde dictar normas complementarias que contemplen específicamente los medicamentos biológicos y anticuerpos monoclonales obtenidos por vía de ADN recombinante.<br> <br> Que el Instituto Nacional de Medicamentos y la Dirección de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que se actúa en virtud de las facultades conferidas por los Decretos Nros. 1490/92 y 425/10.<br> <br> Por ello,<br> <br> EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA<br> DISPONE:<br> <br> ARTICULO 1º &#8212; Apruébanse los requisitos específicos para la presentación de solicitudes de autorización e inscripción de medicamentos biológicos y/o anticuerpos monoclonales obtenidos por métodos de ADN recombinante que obran en el Anexo I de la presente Disposición que forma parte integrante de la misma, los cuales son complementarios a los establecidos para medicamentos biológicos por Disposición ANMAT Nº 7075/11.<br> <br> ARTICULO 2º &#8212; El incumplimiento de las obligaciones establecidas en la presente disposición hará pasible a los infractores de las sanciones previstas en la Ley Nº 16.463 y el Decreto Nº 341/92, sin perjuicio de las demás acciones que pudieran corresponder.<br> <br> ARTICULO 3º &#8212; La presente disposición entrará en vigencia a partir del siguiente al de su publicación en el Boletín Oficial.<br> <br> ARTICULO 4º &#8212; Regístrese. Comuníquese a quienes corresponda. Notifíquese a CAEME, CILFA, COOPERALA, CAPGEN, COFA y a otras entidades representativas del sector. Dése a la Dirección Nacional del Registro Oficial para su publicación. Cumplido, archívese permanente. &#8212; Dr. CARLOS A. CHIALE, Interventor, A.N.M.A.T.<br> <br> <div style='text-align: right;'>ANEXO I<br> </div> <br> <div style='text-align: center;'>CAPITULO I<br> <br> INFORMACION QUIMICO-FARMACEUTICA Y BIOLOGICA DE PRODUCTOS OBTENIDOS POR LA VIA DE ADN RECOMBINANTE<br> </div> <br> A los fines de solicitar la inscripción en el REM de medicamentos de origen biotecnológico obtenidos por la vía de ADN recombinante, deberá presentarse la información química, farmacéutica y biológica establecida en la reglamentación general sobre medicamentos biológicos (Disposición ANMAT Nº 7075/11) además de los incluidos en el presente Capítulo.<br> <br> 1. INFORMACION SOBRE EL INGREDIENTE FARMACEUTICO ACTIVO (IFA)<br> <br> 1.1 Información general<br> <br> 1.1.1 Estructura<br> <br> Detallada caracterización molecular: esquema de la secuencia de aminoácidos indicando los sitios de glicosilación y otras modificaciones post-traduccionales y la masa molecular relativa. Especificaciones de la estructura de orden superior, secundaria, terciaria y cuaternaria (si corresponden).<br> <br> 1.1.2 Propiedades generales<br> <br> Propiedades físico-químicas y otras propiedades relevantes del ingrediente farmacéutico activo incluyendo actividad biológica.<br> <br> 1.2 Caracterización, especificaciones y control de calidad del IFA:<br> <br> &#8226; Caracteres generales.<br> <br> &#8226; Identificación.<br> <br> &#8226; Propiedades físico-químicas: determinación de composiciones, propiedades físicas.<br> <br> &#8226; Actividad biológica.<br> <br> &#8226; Propiedades inmunoquímicas, cuando corresponda.<br> <br> &#8226; Esterilidad, cuando corresponda.<br> <br> &#8226; Endotoxinas bacterianas.<br> <br> &#8226; Pureza, impurezas y contaminantes.<br> <br> - Pureza por diferentes métodos<br> <br> - Actividad específica.<br> <br> - Impurezas relacionadas al producto<br> <br> - Impurezas relacionadas al proceso<br> <br> - Contaminantes<br> <br> - Concentración proteica<br> <br> &#8226; Especificaciones y métodos analíticos: justificación y criterios de aceptación.<br> <br> &#8226; Estándares y materiales de referencia, caracterización, trazabilidad a estándares internacionales (de existir).<br> <br> &#8226; Validación de métodos analíticos propios - Adecuación de métodos analíticos codificados.<br> <br> &#8226; Liberación de lote.Lunes 18 de junio de 2012 Primera Sección BOLETIN OFICIAL Nº 32.420 35<br> <br> 2. PROCESO DE PRODUCCION DEL INGREDIENTE FARMACEUTICO ACTIVO<br> <br> Se debe aportar información acerca del proceso de elaboración, bancos celulares, cultivo celular, cosecha, proceso de purificación, envasado, condiciones de almacenamiento y transporte, como asimismo la definición de lote, sistema de numeración de lotes, tamaño de lotes, incluyendo información acerca de la conformación de lotes a partir de pooles.<br> <br> 2.1 Diagrama de Flujo y resumen del proceso de producción del IFA<br> <br> Se deberá presentar:<br> <br> 2.1.1 El diagrama de flujo desde el inóculo original hasta la obtención del IFA, incluyendo los procesos de purificación e indicando las instancias de reprocesamiento de intermedios o de ingrediente farmacéutico activo.<br> <br> 2.1.2 Un resumen esquemático y descriptivo indicando cada una de las etapas del proceso de elaboración incluyendo información relevante tal como áreas, instalaciones, equipamiento mayor, medios de cultivo y otros aditivos utilizados, niveles de duplicación, concentración de células, tiempos de cultivo y de mantenimiento, controles de proceso, ensayos, parámetros operacionales y criterios de aceptación de productos intermedios. Se deben identificar los pasos críticos, las especificaciones y los criterios de aceptación correspondientes.<br> <br> De las etapas de purificación indicadas en el diagrama de flujo, detallar información tal como volúmenes utilizados, pH, tiempos de proceso críticos, tiempos de mantenimiento, temperaturas, almacenamiento de intermedios. Asimismo proveer información acerca de los procedimientos usados para transferir el material obtenido en los diferentes pasos, condiciones de transporte y almacenamiento. <br> <br> Describir los criterios y procedimientos de reprocesamiento de intermedios o de ingredientes farmacéuticos activos.<br> <br> 2.2 Controles en proceso<br> <br> Se debe presentar información sobre controles de pasos críticos e intermedios. A tal fin se deben aportar los ensayos y criterios de aceptación aplicados a los puntos críticos del proceso de manufactura para asegurar que el proceso está controlado e información relacionada con la calidad y el control de intermedios aislados durante el proceso.<br> <br> 2.3 Consistencia de proceso Protocolo resumido de producción y control con los resultados de los ensayos de 3 (tres) lotes consecutivos de un tamaño de lote que se corresponda con los de la rutina de producción o escalable a la misma.<br> <br> 2.4 Control de materiales<br> <br> Se deben indicar los materiales utilizados en cada paso del proceso de elaboración del ingrediente farmacéutico activo, proveyendo información sobre la calidad y control de los mismos que demuestre que cumplen con los estándares de calidad para el uso propuesto.<br> <br> Para los materiales de origen biológico aportar un resumen de la información de seguridad viral, control de agentes adventicios, cuando corresponda, e información acerca del origen, manufactura y caracterización.<br> <br> 2.4.1 Fuente, historia y generación de sustratos celulares - Bancos de Células, caracterización y control.<br> <br> Aportar información acerca de la fuente de sustratos celulares y de la construcción utilizada para modificar genéticamente las células y generar el Banco celular maestro, e información sobre los Sistemas de Bancos de Células, actividades de control de calidad y estabilidad de la línea celular durante la producción y el almacenamiento incluyendo procedimientos usados para generar el Banco celular maestro y el Banco celular de trabajo.<br> <br> 2.4.2. Información sobre los Sistemas de Bancos de Células:<br> <br> &#8226; Preparación, descripción y controles realizados al Banco celular maestro (BCM)<br> <br> &#8226; Preparación, descripción y controles realizados al Banco Celular de Trabajo (BCT).<br> <br> &#8226; Evidencias de la ausencia de bacterias, hongos, micoplasmas y virus.<br> <br> 2.4.3. Desarrollo genético<br> <br> &#8226; Descripción y caracterización del vector de expresión y características genotípicas y fenotípicas de la célula huésped.<br> <br> &#8226; Información sobre la fusión y el clonaje.<br> <br> &#8226; Información sobre el sistema de expresión: métodos empleados para promover, regular y controlar la expresión del gen donado.<br> <br> 2.4.4. Producción<br> <br> &#8226; Estabilidad del sistema de expresión huésped/vector en las condiciones de almacenamiento y recuperación.<br> <br> a) Confirmación de la secuencia del ADN.<br> <br> b) Procedimientos y materiales empleados para la propagación de las células y la inducción.<br> <br> c) Número máximo de duplicaciones celulares y cantidad de pases permitidos durante la producción, de acuerdo con la estabilidad establecida del sistema célula huésped/vector tanto en la producción por lote como para cultivos continuos.<br> <br> d) Características de la célula huésped y el vector al final de los ciclos de elaboración.<br> <br> e) Secuencia codificada de nucleótidos del gen de interés y determinación del número de copias cuando corresponda.<br> <br> 2.5 Llenado, almacenamiento y transporte<br> <br> Describir el proceso de llenado de intermedios y del ingrediente farmacéutico activo, controles de proceso y criterios de aceptación, sistema de cierre utilizado y condiciones de almacenamiento y transporte.<br> <br> 2.6 Validación de procesos<br> <br> Aportar las validaciones de los procesos de elaboración (incluyendo reprocesos) para demostrar que los mismos son adecuados para el fin propuesto y que han permitido definir los pasos críticos y establecer sus respectivos criterios de aceptación.<br> <br> 3. ESTABILIDAD Y PERIODO DE VALIDEZ<br> <br> Adjuntar informe del estudio de estabilidad del ingrediente farmacéutico activo de por lo menos tres lotes procedentes de materiales de partida diferentes que respalden las condiciones de almacenamiento y el período de validez establecidos. El mismo debe incluir especificaciones, criterios de aceptabilidad y resultados de los ensayos realizados.<br> <br> <div style='text-align: center;'>CAPITULO II<br> <br> INFORMACION QUIMICO-FARMACEUTICA Y BIOLOGICA DE ANTICUERPOS MONOCLONALES<br> </div> <br> A los fines de solicitar la inscripción en el REM de Anticuerpos Monoclonales producidos por la tecnología de ADN recombinante, deberá presentarse la información química, farmacéutica y biológica establecida en la reglamentación general sobre medicamentos biológicos (Disposición ANMAT Nº 7075/11), y en los Capítulos I y II del presente Anexo.<br> <br> 1. Materiales de partida (líneas celulares)<br> <br> &#8226; Caracterización de la línea celular parental, hibridomas, y para los anticuerpos monoclonales producidos por vía de ADN recombinante, caracterización de la línea celular hospedera.<br> <br> &#8226; Descripción del proceso de inmortalización utilizado en la generación de la línea celular, si procede.<br> <br> &#8226; Identificación y caracterización del inmunógeno. Caracterización bioquímica. Descripción del esquema de inmunización.<br> <br> 2. Producción:<br> <br> &#8226; Información sobre calidad y controles de los animales utilizados en las producciones que requieran de ellos.<br> <br> &#8226; Información sobre producción y control del líquido ascítico.<br> <br> &#8226; Caracterización de la molécula, que incluya datos de la reactividad cruzada con tejidos humanos.<br> <br> &#8226; Para inmunoconjugados se debe brindar la descripción completa de los reactivos y procedimientos usados para la construcción del inmunoconjugado, información sobre la inmunorreactividad, pureza y potencia. Debe brindarse información sobre los aspectos específicos del AcM acoplado al radionucleido.<br> <br> <div style='text-align: right;'>e. 18/06/2012 Nº 67051/12 v. 18/06/2012<br>  </div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-3397-2012-198684" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

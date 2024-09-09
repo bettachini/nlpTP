@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5260-2008-144631/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5260-2008-144631/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5260-2008-144631/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"FeVH3jpD8OnsgEKY-eQIErU_PiKfYFYF7PEWN2TafgI","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-5260-2008-144631\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-5260-2008-144631 page-normativa-nacional-disposición-5260-2008-144631-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-5260-2008-144631/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-0XII4ByTauspeNpE8k29AuF6bMnnA556ZP10ntc536Y" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-5260-2008-144631">Disposición   5260/2008</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2008-09-16</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>SALUD PUBLICA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 5260/2008</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Establ&eacute;cense los requisitos que deber&aacute;n cumplimentar los establecimientos que elaboren y/o fraccionen drogas y medicamentos.</P> </B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Bs. As., 8/9/2008</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO, las Leyes Nº 16.463, 17.818, 19.303; los Decretos Nº 9763/64, 150/92, 1890/92, 177/93; las Resoluciones Conjuntas Nº 268/92 (M.S. y A.S.) y 470/92 (M.E. y O.S.P.) y Nº 748/92 (M.S y A.S.) y 988/92 (M.E. y O.S.P.), el Decreto Nº 1490/92, la Resoluci&oacute;n del Grupo Mercado Com&uacute;n (GMC) Nº 88/93, incorporada al ordenamiento jur&iacute;dico nacional mediante Disposici&oacute;n A.N.M.A.T. Nº 5219/97, la Disposici&oacute;n (ANMAT) Nº 2819/04, los informes de PIC’S (Pharmaceutical Inspection Cooperation Scheme) y el expediente 1-47-1110-419-08-1 del Registro de esta Administraci&oacute;n Nacional, y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que los principios activos destinados a la elaboraci&oacute;n de medicamentos se encuentran comprendidos en los alcances de los art&iacute;culos 1º, 2º y 3º de la Ley Nº 16.463.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el Decreto Nº 150/92 en su art&iacute;culo 1º inciso b) define como principio activo o droga farmac&eacute;utica a &quot;toda sustancia qu&iacute;mica o mezcla de sustancias relacionadas, de origen natural o sint&eacute;tico, que poseyendo un efecto farmacol&oacute;gico espec&iacute;fico, se emplea en medicina humana&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el Decreto mencionado en el considerando anterior, en su Cap&iacute;tulo III (art&iacute;culos 7º, 8º y 9º) establece los requisitos que deber&aacute;n cumplimentar los establecimientos que elaboren y/o fraccionen drogas y medicamentos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que de acuerdo con el Decreto de Creaci&oacute;n Nº 1490/92, la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica (A.N.M.A.T.) tiene competencia en todo lo referido al control y fiscalizaci&oacute;n sobre la sanidad y calidad de las drogas, productos qu&iacute;micos, reactivos, formas farmac&eacute;uticas, medicamentos, elementos de diagn&oacute;stico, materiales y tecnolog&iacute;a biom&eacute;dicos y todo otro producto de uso y aplicaci&oacute;n en la medicina humana y al contralor de las actividades, procesos, y tecnolog&iacute;as que se realicen en funci&oacute;n del aprovisionamiento, producci&oacute;n, elaboraci&oacute;n, fraccionamiento, importaci&oacute;n y/o exportaci&oacute;n, dep&oacute;sito y comercializaci&oacute;n de los productos, sustancias, elementos y materiales consumidos o utilizados en la medicina humana (art. 3, incs. a y e).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en el marco de la referida competencia, el Decreto Nº 1490/92 confiere a la A.N.M.A.T. atribuciones para autorizar y registrar los referidos productos, fiscalizar el cumplimiento de las normas de sanidad y calidad establecidas para &eacute;stos as&iacute; como tambi&eacute;n proceder a la habilitaci&oacute;n de las personas f&iacute;sicas o jur&iacute;dicas que intervengan en las acciones de aprovisionamiento, producci&oacute;n, elaboraci&oacute;n, fraccionamiento, importaci&oacute;n y/o exportaci&oacute;n, dep&oacute;sito y comercializaci&oacute;n de los mismos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que tales actividades tienen como objetivo primordial garantizar a la poblaci&oacute;n la eficacia, seguridad y calidad de los productos que consume.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que con el fin de llevar a cabo estas acciones de control, previstas en el art&iacute;culo 8, inc. n) del Decreto 1490/92, resulta necesario contar con un modelo que asegure el control de las industrias con uniformidad de criterio, as&iacute; como tambi&eacute;n la neutralidad, simetr&iacute;a y reciprocidad en el tratamiento y aplicaci&oacute;n de las normas regulatorias de la elaboraci&oacute;n de medicamentos desde la materia prima hasta el producto final.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en ese entendimiento se dict&oacute; la Disposici&oacute;n A.N.M.A.T. Nº 2819/04, que adopt&oacute; las recomendaciones vigentes sobre Buenas Pr&aacute;cticas de Fabricaci&oacute;n Control de 2003, aprobadas por la Asamblea Mundial de la Salud e informes de la PIC’S —Pharmaceutical Inspection Cooperation Scheme—: PE 009-1 e ICH —International Conference on Harmonisation — Gu&iacute;a Q7A referida a las Buenas Pr&aacute;cticas de Fabricaci&oacute;n para Ingredientes Farmac&eacute;uticos Activos (IFA) incluidas como ANEXO VI cuyo cumplimiento, o el de la norma que en el futuro pudiera reemplazarla, es obligatorio para los establecimientos dedicados a la fabricaci&oacute;n, elaboraci&oacute;n, fraccionamiento, importaci&oacute;n y/o exportaci&oacute;n de Ingredientes Farmac&eacute;uticos Activos (IFA).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en su rol de verificar el cumplimiento de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n, esta Administraci&oacute;n advierte la necesidad de actualizar la normativa vigente y estima apropiado hacer uso de las facultades conferidas por el art. 8, inc. &ntilde;), del Decreto 1490/92 y el Decreto 341/92, que la facultan a adoptar las medidas m&aacute;s oportunas y adecuadas para proteger la salud de la poblaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Resoluci&oacute;n Conjunta Nº 268/92 (M.S. y A.S.) y Nº 470/92 (M.E. y O.S.P.) modificada por su similar Nº 748/92 (M.S. y A.S.) y Nº 988/92 (M.E. y O.S.P.), en su art&iacute;culo 6º, p&aacute;rrafo segundo, establece los t&iacute;tulos profesionales habilitantes para ejercer la direcci&oacute;n t&eacute;cnica cuando se trate de actividades relacionadas con drogas farmac&eacute;uticas o principios activos de medicamentos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por ser nuestro pa&iacute;s signatario de la Convenci&oacute;n Unica sobre Estupefacientes de 1961, su Protocolo modificado de 1971 y el Convenio de Sustancias Psicotr&oacute;picas de 1972, de las Naciones Unidas, debe remitir anualmente antes del treinta y uno de julio de cada a&ntilde;o a la Junta Internacional de Fiscalizaci&oacute;n de Estupefacientes (JIPE), las previsiones de importaci&oacute;n y elaboraci&oacute;n local de estupefacientes y sustancias psicotr&oacute;picas para el a&ntilde;o siguiente.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que resulta necesario dictar normas que hagan predecible el sistema de registro de las empresas que realicen actividades de fabricaci&oacute;n, elaboraci&oacute;n, fraccionamiento, importaci&oacute;n y/o exportaci&oacute;n de Ingredientes Farmac&eacute;uticos Activos (IFA).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por Resoluci&oacute;n del Grupo Mercado Com&uacute;n Nº 88/93 se aprob&oacute; el Documento T&eacute;cnico denominado &quot;Autorizaci&oacute;n de Funcionamiento de Industrias Farmoqu&iacute;micas&quot;, incorporado al ordenamiento jur&iacute;dico nacional mediante Disposici&oacute;n A.N.M.A.T. Nº 5219/97.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, en el &aacute;mbito del MERCOSUR, de acuerdo a lo mencionado en el considerando anterior, deviene necesario implementar una primera etapa en relaci&oacute;n con el cumplimiento de las normas establecidas en el Documento &quot;Autorizaci&oacute;n de Funcionamiento de Industrias Farmoqu&iacute;micas&quot; mediante la habilitaci&oacute;n de las industrias del sector por la Autoridad Sanitaria.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la habilitaci&oacute;n de establecimientos fabricantes/elaboradores, acondicionadores, importadores y/o exportadores de especialidades medicinales incluye exigencias comunes a aquellos dedicados a las actividades de fabricaci&oacute;n, elaboraci&oacute;n, fraccionamiento, importaci&oacute;n y/o exportaci&oacute;n de Ingredientes Farmac&eacute;uticos Activos (IFA).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el Instituto Nacional de Medicamentos y la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por los Decretos Nº 1490/92 y Nº 253/08.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Quedan sometidas a la presente Disposici&oacute;n las actividades de fabricaci&oacute;n/elaboraci&oacute;n, fraccionamiento, importaci&oacute;n, exportaci&oacute;n, comercializaci&oacute;n y/o dep&oacute;sito en jurisdicci&oacute;n nacional o con destino al comercio interjurisdiccional, de Ingredientes Farmac&eacute;uticos Activos (IFA) de s&iacute;ntesis qu&iacute;mica y las personas de existencia visible o ideal que intervengan en dichas actividades.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 2º </B>— Las actividades mencionadas en el art&iacute;culo anterior s&oacute;lo podr&aacute;n efectuarse previa autorizaci&oacute;n y bajo el contralor de esta Administraci&oacute;n Nacional, en establecimientos habilitados por la misma, debiendo cumplir con todos los requisitos establecidos por la presente Disposici&oacute;n y con las Buenas Pr&aacute;cticas de Fabricaci&oacute;n incluidas en Anexo VI de la Disposici&oacute;n A.N.M.A.T. Nº 2819/04 o las que en un futuro las reemplacen y/o sustituyan.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 3º </B>— A los fines de la presente Disposici&oacute;n se adoptan las siguientes definiciones:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) ELABORADOR CONTRATADO: establecimiento autorizado por la A.N.M.A.T. que realiza algunas de las etapas del proceso de fabricaci&oacute;n acordada con la empresa titular mediante un contrato.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) EMPRESA TITULAR DE ELABORACION, FRACCIONAMIENTO IMPORTACION Y/O EXPORTACION: persona f&iacute;sica o jur&iacute;dica autorizada por la A.N.M.A.T. para la fabricaci&oacute;n, elaboraci&oacute;n, fraccionamiento, importaci&oacute;n y/o exportaci&oacute;n de Ingredientes Farmac&eacute;uticos Activos (IFA). Es responsable de la liberaci&oacute;n de los lotes conforme a las pautas de calidad exigidas por esta Disposici&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) FABRICACION/ELABORACION: s&iacute;ntesis total de un Ingrediente Farmac&eacute;utico Activo (IFA) o s&iacute;ntesis parcial a partir de un insumo espec&iacute;fico, que puede involucrar las siguientes operaciones: recepci&oacute;n de materiales, producci&oacute;n, empaque, reempaque, rotulado, rerrotulado, control de calidad, despacho, almacenaje y su distribuci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) FRACCIONAMIENTO: todas las operaciones de recepci&oacute;n de un Ingrediente Farmac&eacute;utico Activo, divisi&oacute;n en envases o unidades menores, empaque, rotulado, control de calidad, despacho, almacenaje y sus controles asociados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>e) INGREDIENTE FARMACEUTICO ACTIVO (IFA): Cualquier sustancia o mezcla de sustancias destinada a ser utilizada en la fabricaci&oacute;n de un medicamento o especialidad medicinal que de tal manera se constituye en un ingrediente activo de tal producto, aun los calificados como psicotr&oacute;picos en virtud de la Ley Nº 19.303 y sus listados anexos o como estupefacientes en virtud de la Ley Nº 17.818 y sus listados anexos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Estas sustancias poseen actividad farmacol&oacute;gica u otro efecto directo en el diagn&oacute;stico, cura, alivio, tratamiento o prevenci&oacute;n de enfermedades, o influyen sobre la estructura y funci&oacute;n del cuerpo humano.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>f) INTERMEDIARIO: material elaborado durante las etapas del proceso de un Ingrediente Farmac&eacute;utico Activo que experimenta cambios moleculares adicionales, antes de que se transforme en Ingrediente Farmac&eacute;utico Activo. Los intermediarios pueden o no estar aislados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>g) LOTE: cantidad espec&iacute;fica de material producido en un proceso o serie de procesos que sea homog&eacute;neo dentro de los l&iacute;mites especificados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En el caso de producci&oacute;n continua, un lote puede corresponder a una fracci&oacute;n definida de la elaboraci&oacute;n. El tama&ntilde;o del lote puede ser definido ya sea por una cantidad fija o por la suma producida en un intervalo fijo de tiempo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>h) MATERIAL DE ENVASE y EMPAQUE: elementos destinados a proteger un Ingrediente Farmac&eacute;utico Activo, durante su envasado, almacenaje o transporte.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>i) NUMERO DE LOTE: combinaci&oacute;n &uacute;nica de n&uacute;meros, letras y/o s&iacute;mbolos que identifica un lote y por el cual puede ser determinado el historial de la producci&oacute;n y distribuci&oacute;n.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 4º </B>— Las empresas a que se refiere el art&iacute;culo 2º de la presente Disposici&oacute;n deber&aacute;n contar con un profesional farmac&eacute;utico que ejerza la direcci&oacute;n t&eacute;cnica de la empresa y personal suficiente, con la formaci&oacute;n adecuada, para que en forma permanente y continua se garantice la calidad de los Ingredientes Farmac&eacute;uticos Activos (IFA) y la realizaci&oacute;n de los controles de calidad exigidos en esta Disposici&oacute;n.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 5º </B>— Las empresas a que se refiere el art&iacute;culo 2º de la presente Disposici&oacute;n deber&aacute;n contar con una infraestructura m&iacute;nima compuesta por un &aacute;rea de producci&oacute;n y fraccionamiento, &aacute;reas de dep&oacute;sito y un laboratorio de control de calidad propio adecuadamente equipado, acorde con la actividad para la que fuere autorizada, pudiendo tercerizar aquellos controles de calidad a que se refiere el art&iacute;culo 13º de la presente.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 6º </B>— Los Ingredientes Farmac&eacute;uticos Activos que se elaboren y/o importen deber&aacute;n cumplir con las especificaciones t&eacute;cnicas de calidad exigidas en la Farmacopea Argentina vigente (FA), en la British Pharmacopoeia (BP), en la European Pharmacopoeia (EP), en la Farmacopeia Brasileira (FB), en la Farmacopea de los Estados Unidos Mexicanos (FEUM), en The Internacional Pharmacopoeia (OMS), en The Japanese Pharmacopoeia (JP), en la United State Pharmacopeia Nacional Formulary (USP-NF) y/o en otras farmacopeas internacionalmente reconocidas en que se establezcan sus especificaciones. En su defecto, deber&aacute;n cumplir con las especificaciones del fabricante.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 7º </B>— Las empresas mencionadas en el art&iacute;culo 2º de la presente Disposici&oacute;n que se encuentren actualmente en funcionamiento deber&aacute;n dar cumplimiento a lo aqu&iacute; establecido dentro del plazo de noventa (90) d&iacute;as, a partir de su publicaci&oacute;n en el Bolet&iacute;n Oficial, solicitando la habilitaci&oacute;n correspondiente. A tal efecto, deber&aacute;n presentar a la ANMAT la informaci&oacute;n requerida seg&uacute;n consta en el ANEXO I, el que forma parte integrante de la presente Disposici&oacute;n.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 8º </B>— Las empresas que cuenten con habilitaci&oacute;n para elaborar, especialidades medicinales quedar&aacute;n autom&aacute;ticamente autorizadas para realizar las actividades de fraccionamiento, importaci&oacute;n, y/o dep&oacute;sito de Ingredientes Farmac&eacute;uticos Activos (IFA), para uso propio, debiendo ajustarse a las pautas t&eacute;cnicas que se exigen en la presente Disposici&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Para el control del debido cumplimiento de lo establecido en el p&aacute;rrafo anterior, esta A.N.M.A.T., a trav&eacute;s del Instituto Nacional de Medicamentos (INAME), efectuar&aacute; las inspecciones que estime corresponder a fin de constatar la veracidad de los datos declarados.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 9º </B>— Las modificaciones de estructura edilicia en los establecimientos e instalaciones habilitados deber&aacute;n ser autorizadas por esta Administraci&oacute;n Nacional, quien previamente verificar&aacute; las mismas mediante inspecci&oacute;n.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 10. </B>— Una empresa elaboradora de Ingredientes Farmac&eacute;uticos Activos (IFA) habilitada, podr&aacute; delegar la realizaci&oacute;n de algunas de las etapas del proceso de fabricaci&oacute;n en otras empresas elaboradoras, habilitadas por la A.N.M.A.T., las que se denominar&aacute;n &quot;Elaborador Contratado&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La vinculaci&oacute;n jur&iacute;dica existente entre la Empresa Titular y el Elaborador Contratado deber&aacute; instrumentarse mediante un contrato escrito, el que establecer&aacute; las etapas del proceso productivo a cargo de cada una de las partes y deber&aacute; estar firmado por los Directores T&eacute;cnicos y representantes legales de ambas empresas.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 11. </B>— La Empresa Titular que encargue la elaboraci&oacute;n por contrato, debe disponer de un registro actualizado de los trabajos encomendados donde se indiquen los lotes fabricados y liberados, a fin de documentar y garantizar la trazabilidad de los mismos.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 12. </B>— La Empresa Titular y la/s empresa/s contratadas ser&aacute;n solidariamente responsables por las actividades de fabricaci&oacute;n, elaboraci&oacute;n, fraccionamiento, importaci&oacute;n y exportaci&oacute;n de Ingredientes Farmac&eacute;uticos Activos, como del cumplimiento de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 13. </B>— Las empresas habilitadas podr&aacute;n tercerizar aquellos controles de calidad que requieran instalaciones, equipamiento y/o procedimientos especiales.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El contrato entre la Empresa Titular y la contratada deber&aacute; instrumentarse por escrito y establecer&aacute; todos los controles involucrados a cargo de cada una de las partes. El mismo deber&aacute; estar firmado por los Directores T&eacute;cnicos de las partes intervinientes y sus representantes legales.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El laboratorio contratado estar&aacute; tambi&eacute;n sometido al r&eacute;gimen de inspecciones por parte de esta Administraci&oacute;n Nacional.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 14. </B>— Las empresas autorizadas a elaborar Ingredientes Farmac&eacute;uticos Activos podr&aacute;n obtener la certificaci&oacute;n de los productos elaborados y comercializados, un vez evaluada por esta Administraci&oacute;n Nacional la documentaci&oacute;n exigida en el Anexo II, que forma parte integrante de la presente Disposici&oacute;n. Estos Ingredientes Farmac&eacute;uticos Activos certificados formar&aacute;n parte de la actualizaci&oacute;n de la Farmacopea Argentina y del Programa Nacional de Desarrollo de Sustancias de Referencia.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 15. </B>— Reg&iacute;strese, an&oacute;tese. Comun&iacute;quese a las C&aacute;maras y dem&aacute;s Entidades Profesionales. Notif&iacute;quese a quienes corresponda. D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n. Cumplido, arch&iacute;vese PERMANENTE. — Ricardo Mart&iacute;nez.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='CENTER'>SOLICITUD DE HABILITACION DE EMPRESA</P> <P ALIGN='JUSTIFY'>Los Sres. …………………………………………. y ………………………………………..., en nuestro car&aacute;cter de propietario/representante legal y director t&eacute;cnico, respectivamente, de la Empresa ……………………………………………………………. nos dirigimos a Ud. a fin de solicitar la inspecci&oacute;n de nuestro Establecimiento para verificaci&oacute;n del cumplimiento de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n de Ingredientes Farmac&eacute;uticos Activos (IFA), declarando que los datos informados a continuaci&oacute;n son verdaderos:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. IDENTIFICACION DE LA EMPRESA</P> <P ALIGN='JUSTIFY'>- Nombre/Raz&oacute;n social:</P> <P ALIGN='JUSTIFY'>- Representante legal (acompa&ntilde;ar instrumentos que acrediten personer&iacute;a):</P> <P ALIGN='JUSTIFY'>- C.U.I.T.:</P> <P ALIGN='JUSTIFY'>- Domicilio de la sede de la empresa (plantas, dep&oacute;sitos, etc.):</P> <P ALIGN='JUSTIFY'>- Tel&eacute;fono y fax:</P> <P ALIGN='JUSTIFY'>- E-mail:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. TERCEROS CONTRATADOS:</P> <P ALIGN='JUSTIFY'>- Nombre/Raz&oacute;n social:</P> <P ALIGN='JUSTIFY'>- Representante legal (acompa&ntilde;ar instrumentos que acrediten personer&iacute;a):</P> <P ALIGN='JUSTIFY'>- C.U.I.T.:</P> <P ALIGN='JUSTIFY'>- Domicilio de la sede de la empresa (plantas, dep&oacute;sitos, etc.):</P> <P ALIGN='JUSTIFY'>- Tel&eacute;fono y fax:</P> <P ALIGN='JUSTIFY'>- E-mail:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3. ACTIVIDADES REALIZADAS POR LA EMPRESA</P> <P ALIGN='JUSTIFY'>- Elaboraci&oacute;n: SI/NO</P> <P ALIGN='JUSTIFY'>- Fraccionamiento: SI/NO</P> <P ALIGN='JUSTIFY'>- Importaci&oacute;n: SI/NO</P> <P ALIGN='JUSTIFY'>- Exportaci&oacute;n: SI/NO</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4. PRODUCTOS CON LOS QUE LA EMPRESA REALIZA ACTIVIDADES RELACIONADAS CON LA FABRICACION, ELABORACION, FRACCIONAMIENTO, IMPORTACION, EXPORTACION Y/O COMERCIALIZACION.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5. IDENTIFICACION DEL DIRECTOR TECNICO:</P> <P ALIGN='JUSTIFY'>- Nombre y Apellido:</P> <P ALIGN='JUSTIFY'>- D.N.I.:</P> <P ALIGN='JUSTIFY'>- Matr&iacute;cula Nº:</P> <P ALIGN='JUSTIFY'>- Acompa&ntilde;ar fotocopia autenticada de t&iacute;tulo y matr&iacute;cula.</P> <P ALIGN='JUSTIFY'>6. ESTRUCTURA EDILICIA:</P> <P ALIGN='JUSTIFY'>- Acompa&ntilde;ar original y dos copias de plano actualizado, a escala 1:100:</P> <P ALIGN='JUSTIFY'>7. EQUIPOS DE PRODUCCION Y CONTROL</P> <P ALIGN='JUSTIFY'>- Listado de equipos utilizados:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/144631_Disp5260-08_JPG/archivo'></P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO II</P> <P ALIGN='CENTER'>CERTIFICACION DE INGREDIENTES FARMACEUTICOS ACTIVOS FABRICADOS EN EL PAIS</P> <P ALIGN='JUSTIFY'>1.- DATOS DEL PRODUCTO</P> <P ALIGN='JUSTIFY'>Nombre del producto:</P> <P ALIGN='JUSTIFY'>Clasificaci&oacute;n farmacol&oacute;gica ATC:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. - DATOS DE LA EMPRESA TITULAR SOLICITANTE</P> <P ALIGN='JUSTIFY'>Nombre o Raz&oacute;n Social:</P> <P ALIGN='JUSTIFY'>Domicilio Legal:</P> <P ALIGN='JUSTIFY'>Domicilio de la Planta de Fabricaci&oacute;n:</P> <P ALIGN='JUSTIFY'>Tel&eacute;fono y fax:</P> <P ALIGN='JUSTIFY'>Correo electr&oacute;nico</P> <P ALIGN='JUSTIFY'>Sitio Web:</P> <P ALIGN='JUSTIFY'>Nº de CUIT:</P> <P ALIGN='JUSTIFY'>Nº de Disposici&oacute;n autorizante:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3. - DATOS DEL DIRECTOR TECNICO</P> <P ALIGN='JUSTIFY'>Nombre y Apellido:</P> <P ALIGN='JUSTIFY'>Tipo y Nº de documento:</P> <P ALIGN='JUSTIFY'>Disposici&oacute;n habilitante del Director T&eacute;cnico:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4. - DATOS DEL REPRESENTANTE LEGAL</P> <P ALIGN='JUSTIFY'>Nombre y Apellido:</P> <P ALIGN='JUSTIFY'>Domicilio:</P> <P ALIGN='JUSTIFY'>Tel&eacute;fono y fax:</P> <P ALIGN='JUSTIFY'>Tipo y Nº de documento:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5. - EMPRESA FABRICANTE CONTRATADA SI CORRESPONDIERE</P> <P ALIGN='JUSTIFY'>Nombre o Raz&oacute;n Social:</P> <P ALIGN='JUSTIFY'>Domicilio Legal:</P> <P ALIGN='JUSTIFY'>Domicilio de la Planta de Fabricaci&oacute;n:</P> <P ALIGN='JUSTIFY'>Tel&eacute;fono y fax:</P> <P ALIGN='JUSTIFY'>Correo electr&oacute;nico:</P> <P ALIGN='JUSTIFY'>Sitio Web:</P> <P ALIGN='JUSTIFY'>Nº de Disposici&oacute;n de habilitaci&oacute;n de la empresa:</P> <P ALIGN='JUSTIFY'>Nombre del director t&eacute;cnico de la empresa fabricante:</P> <P ALIGN='JUSTIFY'>Nº de Disposici&oacute;n de inscripci&oacute;n del director t&eacute;cnico:</P> <P ALIGN='JUSTIFY'>Contrato:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6. - CONTROL DE CALIDAD POR TERCEROS</P> <P ALIGN='JUSTIFY'>Nombre o raz&oacute;n social del laboratorio contratado:</P> <P ALIGN='JUSTIFY'>Domicilio:</P> <P ALIGN='JUSTIFY'>Tel&eacute;fono y fax:</P> <P ALIGN='JUSTIFY'>Nombre del director t&eacute;cnico del laboratorio contratado:</P> <P ALIGN='JUSTIFY'>Copia del contrato:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7. -DOCUMENTACION TECNICA REQUERIDA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>FABRICACION</P> <P ALIGN='JUSTIFY'>• Descripci&oacute;n del proceso de fabricaci&oacute;n y controles de proceso</P> <P ALIGN='JUSTIFY'>• Diagrama de flujo</P> <P ALIGN='JUSTIFY'>• Control de etapas cr&iacute;ticas</P> <P ALIGN='JUSTIFY'>• Validaci&oacute;n o evaluaci&oacute;n del proceso de fabricaci&oacute;n</P> <P ALIGN='JUSTIFY'>• Para drogas est&eacute;riles, validaci&oacute;n del proceso de esterilizaci&oacute;n</P> <P ALIGN='JUSTIFY'>• Desarrollo del proceso de fabricaci&oacute;n</P> <P ALIGN='JUSTIFY'>• Rendimiento esperado</P> <P ALIGN='JUSTIFY'>INFORMACION GENERAL Y CARACTERIZACION</P> <P ALIGN='JUSTIFY'>• Nomenclatura</P> <P ALIGN='JUSTIFY'>• Estructura: Peso molecular, f&oacute;rmula molecular y estructural</P> <P ALIGN='JUSTIFY'>• Propiedades: Caracteres generales, solubilidad, forma cristalina, quiralidad, tama&ntilde;o de part&iacute;cula</P> <P ALIGN='JUSTIFY'>• Elucidaci&oacute;n de la estructura y otras caracter&iacute;sticas</P> <P ALIGN='JUSTIFY'>CONTROL DE INTERMEDIARIOS Y MATERIALES DE PARTIDA</P> <P ALIGN='JUSTIFY'>• T&eacute;cnicas de muestreo</P> <P ALIGN='JUSTIFY'>• Caracteres generales</P> <P ALIGN='JUSTIFY'>• M&eacute;todos Anal&iacute;ticos</P> <P ALIGN='JUSTIFY'><FONT FACE='Monotype Sorts'>&#118;</FONT>  Ensayos f&iacute;sicos</P> <P ALIGN='JUSTIFY'><FONT FACE='Monotype Sorts'>&#118;</FONT>  Ensayos de identificaci&oacute;n</P> <P ALIGN='JUSTIFY'><FONT FACE='Monotype Sorts'>&#118;</FONT>  Ensayos de pureza</P> <P ALIGN='JUSTIFY'><FONT FACE='Monotype Sorts'>&#118;</FONT>  M&eacute;todos de valoraci&oacute;n</P> <P ALIGN='JUSTIFY'>• Especificaciones</P> <P ALIGN='JUSTIFY'>• Justificaci&oacute;n de Especificaciones</P> <P ALIGN='JUSTIFY'>• Elucidaci&oacute;n de estructura y otras caracter&iacute;sticas de las impurezas e intermediarios si correspondiere</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONTROL DEL IFA</P> <P ALIGN='JUSTIFY'>• T&eacute;cnicas de muestreo</P> <P ALIGN='JUSTIFY'>• Caracteres generales</P> <P ALIGN='JUSTIFY'>• M&eacute;todos Anal&iacute;ticos</P> <P ALIGN='JUSTIFY'><FONT FACE='Monotype Sorts'>&#118;</FONT>  Ensayos fisicos</P> <P ALIGN='JUSTIFY'><FONT FACE='Monotype Sorts'>&#118;</FONT>  Ensayos de identificaci&oacute;n</P> <P ALIGN='JUSTIFY'><FONT FACE='Monotype Sorts'>&#118;</FONT>  Ensayos de pureza</P> <P ALIGN='JUSTIFY'><FONT FACE='Monotype Sorts'>&#118;</FONT>  M&eacute;todos de valoraci&oacute;n</P> <P ALIGN='JUSTIFY'>• Validaci&oacute;n de las metodolog&iacute;as anal&iacute;ticas</P> <P ALIGN='JUSTIFY'>• Especificaciones</P> <P ALIGN='JUSTIFY'>• Justificaci&oacute;n de Especificaciones</P> <P ALIGN='JUSTIFY'>• Elucidaci&oacute;n de estructura y otras caracter&iacute;sticas</P> <P ALIGN='JUSTIFY'>• Protocolos de An&aacute;lisis de 3 Lotes</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En el caso de m&eacute;todos de control de productos codificados deber&aacute; indicarse la Farmacopea en que figuran.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>MATERIALES DE REFERENCIA/ESTANDARES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Requerimientos de acuerdo al Anexo 4 de la Disposici&oacute;n A.N.M.A.T. Nº 2819/04</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>MATERIAL DE ENVASE Y EMPAQUE</P> <P ALIGN='JUSTIFY'>• Descripci&oacute;n</P> <P ALIGN='JUSTIFY'>• Controles f&iacute;sico-qu&iacute;micos y de funcionalidad</P> <P ALIGN='JUSTIFY'>• Especificaciones</P> <P ALIGN='JUSTIFY'>• Justificaci&oacute;n de Especificaciones</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ESTABILIDAD</P> <P ALIGN='JUSTIFY'>• N&uacute;mero de lotes estudiados</P> <P ALIGN='JUSTIFY'>• Condiciones ambientales en que se realiz&oacute; el estudio</P> <P ALIGN='JUSTIFY'>• Descripci&oacute;n del envase definitivo</P> <P ALIGN='JUSTIFY'>• Metodolog&iacute;a anal&iacute;tica</P> <P ALIGN='JUSTIFY'>• Validaci&oacute;n de la metodolog&iacute;a anal&iacute;tica</P> <P ALIGN='JUSTIFY'>• Frecuencia de controles</P> <P ALIGN='JUSTIFY'>• Per&iacute;odo de vida &uacute;til asignado y forma de conservaci&oacute;n. Frecuencia de rean&aacute;lisis</P> <P ALIGN='JUSTIFY'>• Resumen del Informe - Conclusiones</P> <P ALIGN='JUSTIFY'>• Protocolo de estabilidad post-registro</P> <P ALIGN='JUSTIFY'>• Datos de Estabilidad</P> <P ALIGN='JUSTIFY'>Para todos los &iacute;tems, aportar documentaci&oacute;n que avale las determinaciones realizadas y permita la trazabilidad de la informaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <TABLE CELLSPACING=0 BORDER=0 CELLPADDING=4 WIDTH=666> <TR><TD WIDTH='50%' VALIGN='TOP'> <P ALIGN='CENTER'>FIRMA</TD> <TD WIDTH='50%' VALIGN='TOP'> <P ALIGN='CENTER'>FIRMA</TD> </TR> <TR><TD WIDTH='50%' VALIGN='TOP'> <P ALIGN='CENTER'>PROPIETARIO/REPRESENTANTE LEGAL</TD> <TD WIDTH='50%' VALIGN='TOP'> <P ALIGN='CENTER'>DIRECTOR TECNICO</TD> </TR> </TABLE>  <FONT FACE='Helvetica' SIZE=1><P ALIGN='JUSTIFY'></P></FONT>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-5260-2008-144631" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

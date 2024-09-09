@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/ley-19303-20966/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/ley-19303-20966/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/ley-19303-20966/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"hYPh8YPySmLSyOosSHgFq7XjYM0A6OhI4qB18-ihPZ8","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/ley-19303-20966\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-ley-19303-20966 page-normativa-nacional-ley-19303-20966-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/ley-19303-20966/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-aUHp7DdhQOec-qzap0QQXn57UfyUW0htMykTtFx5kUc" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/ley-19303-20966">Ley   19303/1971</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>PODER EJECUTIVO NACIONAL (P.E.N.)</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>1971-10-28</strong></time>
+
+          <hr>
+
+          <article>
+            <P ALIGN='RIGHT'><B><A HREF='/normativa/nacional/ley-19303-1971-20966'>Ir a texto actualizado y otros datos</B></A></P> <B><P ALIGN='JUSTIFY'>DROGAS</P> <P ALIGN='JUSTIFY'>Normas para la fabricaci&oacute;n, comercializaci&oacute;n, circulaci&oacute;n y uso. Su Reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'>Ley 19.303 </P> </B><P ALIGN='JUSTIFY'>Bs. As.11/10/71</P> <P ALIGN='JUSTIFY'>En uso de las atribuciones conferidas por el art&iacute;culo 5 del Estatuto de la Revoluci&oacute;n Argentina, </P> <P ALIGN='JUSTIFY'>EL PRESIDENTE DE LA NACION ARGENTINA SANCIONA Y PROMULGA CON FUERZA DE LEY:</P> <P ALIGN='CENTER'>CAPITULO I</P> <P ALIGN='CENTER'>Disposiciones Generales</P> <P ALIGN='JUSTIFY'>ARTICULO 1.- A los efectos de la presente Ley, de aplicaci&oacute;n en todo el territorio de la Rep&uacute;blica, se considerar&aacute;n sicotr&oacute;picos: </P> <P ALIGN='JUSTIFY'>a) las drogas, preparados y especialidades farmac&eacute;uticas incluidas en las Listas anexas I, II, III y IV, que forman parte integrante de la presente Ley. </P> <P ALIGN='JUSTIFY'>b) aquellas otras que, conforme a los estudios, dict&aacute;menes propios o recomendaciones de organismos internacionales, la autoridad nacional resuelva incluir en dichas listas.</P> <P ALIGN='JUSTIFY'>A tales fines la autoridad sanitaria nacional queda facultada para modificar las listas mencionadas. </P> <P ALIGN='JUSTIFY'>ARTICULO 2.- La importaci&oacute;n, exportaci&oacute;n, fabricaci&oacute;n, fraccionamiento, circulaci&oacute;n, expendio y uso de los sicotr&oacute;picos contemplados en el art&iacute;culo 1, quedan sujetos a las normas de la presente ley y de los reglamentos que en su consecuencia se dicten. </P> <P ALIGN='JUSTIFY'>ARTICULO 3.- Queda prohibida la importaci&oacute;n, exportaci&oacute;n, fabricaci&oacute;n, fraccionamiento, circulaci&oacute;n, expendio y uso de los sicotr&oacute;picos incluidos en la Lista I, con excepci&oacute;n de las cantidades estrictamente necesarias para la investigaci&oacute;n m&eacute;dica y cient&iacute;fica, incluidos los experimentos cl&iacute;nicos, que se realicen bajo autorizaci&oacute;n y fiscalizaci&oacute;n de la autoridad sanitaria nacional, conforme a lo que establezca la reglamentaci&oacute;n. </P> <P ALIGN='CENTER'>CAPITULO II </P> <P ALIGN='CENTER'>Importaci&oacute;n y Exportaci&oacute;n </P> <P ALIGN='JUSTIFY'>ARTICULO 4.- Los sicotr&oacute;picos incluidos en la Lista I, s&oacute;lo podr&aacute;n ser importados, exportados o reexportados por puertos o aeropuertos bajo jurisdicci&oacute;n de la Aduana de la Capital Federal. </P> <P ALIGN='JUSTIFY'>Los comprendidos en las Listas II, III y IV podr&aacute;n serlo por cualquiera de las Aduanas del pa&iacute;s.</P> <P ALIGN='JUSTIFY'>Las autoridades aduaneras no permitir&aacute;n la entrada o salida de ninguno de los sicotr&oacute;picos comprendidos en el Art&iacute;culo 1 de esta Ley, sin intervenci&oacute;n previa de la autoridad sanitaria nacional. </P> <P ALIGN='JUSTIFY'>ARTICULO 5.- S&oacute;lo podr&aacute;n importar, exportar o reexportar los sicotr&oacute;picos incluidos en las Listas II y III, las personas previamente habilitadas a tal efecto por la autoridad sanitaria nacional en la forma y condiciones que establezca la reglamentaci&oacute;n. </P> <P ALIGN='JUSTIFY'>La autoridad sanitaria nacional determinar&aacute; los registros que deber&aacute;n llevar dichas personas, foliados y rubricados por aqu&eacute;lla, en los que constar&aacute;n todos los datos sobre cantidades, pa&iacute;ses de procedencia, destino y todo otro que se establezca reglamentariamente. </P> <P ALIGN='JUSTIFY'>ARTICULO 6.- Para la importaci&oacute;n de los sicotr&oacute;picos incluidos en las Listas II y III, ser&aacute; indispensable obtener en cada caso y para cada uno de ellos, un certificado oficial otorgado por la autoridad sanitaria nacional, el que ser&aacute; extendido con las constancias que determine la reglamentaci&oacute;n. El certificado oficial de importaci&oacute;n ser&aacute; extendido por triplicado y se le dar&aacute; el siguiente destino:</P> <P ALIGN='JUSTIFY'>a) El original se entregar&aacute; al interesado; </P> <P ALIGN='JUSTIFY'>b) el duplicado lo remitir&aacute; la autoridad sanitaria nacional a los organismos competentes del pa&iacute;s exportador; </P> <P ALIGN='JUSTIFY'>c)el triplicado, ser&aacute; archivado por la autoridad sanitaria nacional. El certificado oficial de importaci&oacute;n caducar&aacute; a los CIENTO OCHENTA (180) d&iacute;as de la fecha de su emisi&oacute;n. </P> <P ALIGN='JUSTIFY'>ARTICULO 7.- Para la exportaci&oacute;n o reexportaci&oacute;n de los Psicotr&oacute;picos incluidos en las Listas II y III, ser&aacute; indispensable obtener en cada caso y para cada uno de ellos, un certificado oficial otorgado por la autoridad sanitaria nacional, el que ser&aacute; extendido con las constancias que determine la reglamentaci&oacute;n. </P> <P ALIGN='JUSTIFY'>El certificado oficial de exportaci&oacute;n o reexportaci&oacute;n ser&aacute; extendido por cuadruplicado y se le dar&aacute; el siguiente destino: </P> <P ALIGN='JUSTIFY'>a) el original, se entregar&aacute; al interesado;</P> <P ALIGN='JUSTIFY'>b) el duplicado lo remitir&aacute; la autoridad sanitaria nacional a la Administraci&oacute;n Nacional de Aduanas, la que lo restituir&aacute; cuando la operaci&oacute;n haya sido concluida; </P> <P ALIGN='JUSTIFY'>c) el triplicado, lo remitir&aacute; la autoridad sanitaria nacional a los organismos competentes del pa&iacute;s importador; </P> <P ALIGN='JUSTIFY'>d) el cuadruplicado, ser&aacute; archivado por la autoridad sanitaria nacional. </P> <P ALIGN='JUSTIFY'>El certificado oficial de exportaci&oacute;n o reexportaci&oacute;n caducar&aacute; a los NOVENTA (90) d&iacute;as de la fecha de su emisi&oacute;n. </P> <P ALIGN='JUSTIFY'>ARTICULO 8.- Los sicotr&oacute;picos comprendidos en las Listas I, II y III, en tr&aacute;nsito por el territorio del pa&iacute;s, deber&aacute;n estar amparados por un certificado oficial otorgado por la autoridad sanitaria nacional, previa presentaci&oacute;n de los certificados de importaci&oacute;n y exportaci&oacute;n expedidos por las autoridades competentes de los pa&iacute;ses de donde procedan y a donde se dirijan los sicotr&oacute;picos. </P> <P ALIGN='JUSTIFY'>El certificado oficial de tr&aacute;nsito ser&aacute; extendido por cuadruplicado y se le dar&aacute; el siguiente destino: </P> <P ALIGN='JUSTIFY'>a) el original, se entregar&aacute; al interesado; </P> <P ALIGN='JUSTIFY'>b) el duplicado, lo remitir&aacute; la autoridad sanitaria nacional a la Administraci&oacute;n Nacional de Aduanas, la que lo restituir&aacute; cuando los sicotr&oacute;picos hayan salido del territorio argentino; </P> <P ALIGN='JUSTIFY'>c) el triplicado, lo remitir&aacute; la autoridad sanitaria nacional a los organismos competentes del pa&iacute;s importador; </P> <P ALIGN='JUSTIFY'>d) el cuadruplicado, ser&aacute; archivado por la autoridad sanitaria nacional. El certificado oficial de tr&aacute;nsito caducar&aacute; a los SESENTA (60) d&iacute;as de la fecha de su emisi&oacute;n. </P> <P ALIGN='JUSTIFY'>Los sicotr&oacute;picos en tr&aacute;nsito no podr&aacute;n ser sometidos a manipulaci&oacute;n alguna que pueda alterar su naturaleza, como tampoco modificar su embalaje sin autorizaci&oacute;n previade la autoridad sanitaria nacional. </P> <P ALIGN='JUSTIFY'>La autoridad sanitaria nacional queda facultada para autorizar el cambio de destino de los sicotr&oacute;picos en tr&aacute;nsito de conformidad a los que establezca la reglamentaci&oacute;n. </P> <P ALIGN='CENTER'>CAPITULO III </P> <P ALIGN='CENTER'>Elaboraci&oacute;n Nacional </P> <P ALIGN='JUSTIFY'>ARTICULO 9.- Los establecimientos habilitados para la elaboraci&oacute;n y expendio de drogas y medicamentos deber&aacute;n inscribir diariamente las operaciones relacionadas con los sicotr&oacute;picos incluidas en las Listas II y III y IV que tengan o les sean autorizados en el futuro en los registros especiales que determinen la reglamentaci&oacute;n. </P> <P ALIGN='JUSTIFY'>ARTICULO 10.- Los establecimientos a que se refiere el Art&iacute;culo 9, s&oacute;lo podr&aacute;n expender los sicotr&oacute;picos incluidos en las Listas II, III y IV a quienes est&eacute;n autorizados por la autoridad sanitaria competente para su disposici&oacute;n. </P> <P ALIGN='CENTER'>CAPITULO IV </P> <P ALIGN='CENTER'>Comercio Interior </P> <P ALIGN='JUSTIFY'>ARTICULO11.- La enajenaci&oacute;n, por cualquier t&iacute;tulo, de los sicotr&oacute;picos incluidos en las listas II y III, s&oacute;lo podr&aacute; efectuarse mediante formularios aprobados por la autoridad sanitaria nacional y con las constancias que determine la reglamentaci&oacute;n. </P> <P ALIGN='JUSTIFY'>El formulario se confeccionar&aacute; por triplicado por el adquirente y se le dar&aacute; el siguiente destino: </P> <P ALIGN='JUSTIFY'>a) el original ser&aacute; remitido juntamente con los sicotr&oacute;picos y ser&aacute; archivado por el adquirente. </P> <P ALIGN='JUSTIFY'>b) el duplicado ser&aacute; remitido por el vendedor a la autoridad sanitaria competente dentro del plazo de cuarenta y ocho horas (48) horas. </P> <P ALIGN='JUSTIFY'>c) el triplicado quedar&aacute; en poder y archivado por el vendedor. </P> <P ALIGN='JUSTIFY'>La enajenaci&oacute;n, por cualquier t&iacute;tulo, de los sicotr&oacute;picos incluidos en la lista IV, s&oacute;lo podr&aacute; efectuarse con factura especial separada, por duplicado, individualizando la marca, procedencia, dosis y contenido del envase. Dichas facturas ser&aacute;n archivadas separadamente y por fechas correlativas durante DOS (2) a&ntilde;os, por el vendedor y el adquirente. </P> <P ALIGN='JUSTIFY'>ARTICULO 12.- Los sicotr&oacute;picos incluidos en las Listas II, III y IV podr&aacute;n ser adquiridos en las condiciones que en cada caso se determina por:</P> <P ALIGN='JUSTIFY'>a) Laboratorios habilitados y autorizados para elaborar medicamentos que contengan sicotr&oacute;picos; </P> <P ALIGN='JUSTIFY'>b) Droguer&iacute;as; </P> <P ALIGN='JUSTIFY'>c) Farmacias; </P> <P ALIGN='JUSTIFY'>d) Hospitales o establecimientos de asistencia m&eacute;dica con farmacia habilitada; </P> <P ALIGN='JUSTIFY'>e) Instituciones m&eacute;dicas o cient&iacute;ficas previamente autorizadas por la autoridad sanitaria competente.</P> <P ALIGN='JUSTIFY'>En los casos del inciso a) los laboratorios deber&aacute;n llevar un registro especial foliado y rubricado por la autoridad sanitaria competente, en el que se asentar&aacute;n las cantidades de drogas sicotr&oacute;picas adquiridas, fecha, nombre del proveedor y las cantidades invertidas para cada partida de especialidades farmac&eacute;uticas elaboradas, y el n&uacute;mero de unidades de cada producto obtenido y vendido, registrando igualmente la fecha, cantidades o unidades, y nombre y domicilio del adquirente. </P> <P ALIGN='JUSTIFY'>En los casos del inciso b) las droguer&iacute;as deber&aacute;n llevar un libro registro de entradas y salidas de drogas sicotr&oacute;picas y de especialidades farmac&eacute;uticas que las contengan, sujetas a la presente Ley, foliado y rubricado por la autoridad sanitaria competente, en el que se asentar&aacute; diariamente, con la firma del director t&eacute;cnico, la cantidad de drogas y unidades de especialidades farmac&eacute;uticas ingresadas y expedidas y los datos de identificaci&oacute;n del destinatario. </P> <P ALIGN='JUSTIFY'>En los casos del inciso c) las farmacias deber&aacute;n llevar un libro registro de entradas y salidas de drogas sicotr&oacute;picas y de especialidades farmac&eacute;uticas que las contengan, sujetas a la presente Ley, foliado y rubricado por la autoridad sanitaria competente, en el que se asentar&aacute; diariamente la cantidad de drogas y unidades de especialidades farmac&eacute;uticas empleadas en la preparaci&oacute;n de recetas o despachadas, con los datos de identificaci&oacute;n, fecha, procedencia, cantidad, m&eacute;dico que prescribe la receta, n&uacute;mero de la receta correspondiente al asiento en el libro copiador de recetas, n&uacute;mero de recetario oficial si correspondiere y saldo existente. Las recetas deber&aacute;n archivarse de acuerdo a lo establecido en los Art&iacute;culos 13 y 14. </P> <P ALIGN='JUSTIFY'>En los casos del inciso d) los establecimientos podr&aacute;n adquirir los sicotr&oacute;picos incluidos en las Listas II, III y IV con la firma autenticada del director m&eacute;dico. El pedido deber&aacute; ser previamente visado por la autoridad sanitaria competente.</P> <P ALIGN='JUSTIFY'>Dichas entidades deber&aacute;n consignar diariamente en registros especiales foliados y rubricados por la autoridad sanitaria competente, la cantidad de sicotr&oacute;picos preparados o adquiridos, indicando fecha de entrada, proveedor, origen, nombre del paciente, del m&eacute;dico que prescribi&oacute; su aplicaci&oacute;n , fecha y dosis instituida.El director m&eacute;dico del establecimiento firmar&aacute; diariamente tales registros.</P> <P ALIGN='JUSTIFY'>En los casos del inciso e) las instituciones m&eacute;dicas o cient&iacute;ficas, deber&aacute;n obtener autorizaci&oacute;n previa de las autoridades sanitarias, llevar un libro de entradas y salidas de sicotr&oacute;picos con las constancias que se determinen al acordarse la autoridad y documentar el uso dado a los mismos. </P> <P ALIGN='CENTER'>CAPITULO V </P> <P ALIGN='CENTER'>Despacho al p&uacute;blico</P> <P ALIGN='JUSTIFY'>ARTICULO 13.- Los sicotr&oacute;picos incluidos en la Lista II, s&oacute;lo podr&aacute;n ser prescriptos por profesionales m&eacute;dicos matriculados ante autoridad competente, mediante recetas extendidas en formularios oficializados, por triplicado, conforme al modelo aprobado por la autoridad sanitaria nacional. Las recetas deber&aacute;n ser manuscritas por el m&eacute;dico en forma legible, se&ntilde;alando la denominaci&oacute;n del sicotr&oacute;pico o la f&oacute;rmula y su prescripci&oacute;n, con cantidades expresadas en letras y n&uacute;meros, debiendo constar nombre, apellido, domicilio del enfermo y la dosis por vez y por d&iacute;a. Para despachar estas recetas el farmac&eacute;utico deber&aacute; numerarlas, siguiendo el n&uacute;mero correlativo de asiento en el libro recetario, sellarlas, fecharlas y firmarlas en su original y duplicado, remitiendo este &uacute;ltimo dentro de los ocho (8) d&iacute;as del expendio a la autoridad sanitaria competente. El triplicado lo conservar&aacute; el m&eacute;dico. </P> <P ALIGN='JUSTIFY'>Las recetas a las que se refiere el presente art&iacute;culo, ser&aacute;n despachadas por el farmac&eacute;utico por una &uacute;nica vez. </P> <P ALIGN='JUSTIFY'>Los originales deber&aacute;n ser copiados en el libro recetario y archivarse por el director t&eacute;cnico de la farmacia durante dos (2) a&ntilde;os. </P> <P ALIGN='JUSTIFY'>ARTICULO 14.- Los sicotr&oacute;picos incluidos en las Listas III y IV s&oacute;lo podr&aacute;n despacharse bajo receta archivada, manuscrita, fechada y firmada por el m&eacute;dico. </P> <P ALIGN='JUSTIFY'>Las recetas a que se refiere el presente art&iacute;culo se despachar&aacute;n por el farmac&eacute;utico una &uacute;nica vez, debiendo ser numeradas correlativamente siguiendo el n&uacute;mero de asiento en el libro recetario, donde ser&aacute;n copiadas, selladas, fechadas y firmadas por el director t&eacute;cnico de la farmacia, archiv&aacute;ndose durante dos (2) a&ntilde;os.</P> <P ALIGN='JUSTIFY'>Cuando en las recetas se encuentran omitidos el tama&ntilde;o o el contenido del envase, el farmac&eacute;utico deber&aacute; despachar el de menor contenido. </P> <P ALIGN='JUSTIFY'>En caso de que un mismo sicotr&oacute;pico circulare en distintas dosis y &eacute;sta no se especificara en la receta, deber&aacute; despacharse la de menor dosis. </P> <P ALIGN='JUSTIFY'>ARTICULO 15.- Queda prohibida la circulaci&oacute;n de todo medicamento cuya composici&oacute;n contenga los sicotr&oacute;picos incluidos en las Listas II, III y IV, que no lleve en sus envases, r&oacute;tulos y prospectos, en forma bien visible y destacada, la leyenda 'Este medicamento debe ser usado exclusivamente bajo prescripci&oacute;n y vigilancia m&eacute;dica y no</P> <P ALIGN='JUSTIFY'>puede repetirse sin nueva receta m&eacute;dica'. </P> <P ALIGN='JUSTIFY'>Los que no se ajusten a esta exigencia ser&aacute;n decomisados sin perjuicio de la aplicaci&oacute;n de las dem&aacute;s sanciones previstas en la presente Ley. </P> <P ALIGN='JUSTIFY'>ARTICULO 16.- En ning&uacute;n caso podr&aacute;n extenderse ni expenderse recetas cuya cantidad de sicotr&oacute;picos incluidos en la Lista II, exceda la necesaria para administrar, seg&uacute;n la dosis instituida, hasta veinte (20) d&iacute;as de tratamiento. </P> <P ALIGN='JUSTIFY'>ARTICULO 17.- Los veterinarios que acrediten ante la autoridad sanitaria estar matriculados por la autoridad competente, podr&aacute;n prescribir los sicotr&oacute;picos incluidos en las Listas II, III y IV, los que s&oacute;lo podr&aacute;n ser utilizados en medicina veterinaria. </P> <P ALIGN='JUSTIFY'>En las recetas deber&aacute;n figurar el nombre y domicilio del propietario del animal, fecha y dosis; ser&aacute;n manuscritas en forma legible por el veterinario y se extender&aacute;n por duplicado. Las recetas que contengan sicotr&oacute;picos de la Lista II, deber&aacute;n ser previamente visadas por la autoridad sanitaria competente. El original ser&aacute; archivado por el farmac&eacute;utico por el t&eacute;rmino de dos (2) a&ntilde;os y el duplicado deber&aacute; remitirlo a la autoridad sanitaria competente, dando asimismo, cumplimiento a las dem&aacute;s obligaciones de los Art&iacute;culos 13 y 14 de la presente Ley. </P> <P ALIGN='JUSTIFY'>ARTICULO 18.- Las recetas determinadas en los Art&iacute;culos 13, 14 y 17 de esta Ley, podr&aacute;n ser destruidas una vez cumplido el t&eacute;rmino se&ntilde;alado en cada caso, previa intervenci&oacute;n de la autoridad sanitaria competente. </P> <P ALIGN='CENTER'>CAPITULO VI </P> <P ALIGN='CENTER'>Aprovisionamiento en medios de Transporte</P> <P ALIGN='JUSTIFY'>ARTICULO 19.- La autoridad sanitaria nacional reglamentar&aacute; las condiciones de aprovisionamiento y administraci&oacute;n de los sicotr&oacute;picos incluidos en las Listas II, III y IV en medios de transporte de matr&iacute;cula nacional. Tambi&eacute;n reglamentar&aacute; las condiciones de aprovisionamiento eventual en territorio argentino de naves y aeronaves de matr&iacute;cula extranjera.</P> <P ALIGN='JUSTIFY'>ARTICULO 20.- Los sicotr&oacute;picos incluidos en las Listas II, III y VI cuyo uso sea indispensable por razones m&eacute;dicas en medios de transporte internacional, no se consideran comprendidos en el r&eacute;gimen previsto en el Cap&iacute;tulo II de esta Ley, pero estar&aacute;n sujetos a las medidas de inspecci&oacute;n y contralor que determine la autoridad sanitaria nacional. </P> <P ALIGN='CENTER'>CAPITULO VII </P> <P ALIGN='CENTER'>De las Sanciones y la Prescripci&oacute;n </P> <P ALIGN='JUSTIFY'>ARTICULO 21.- Las infracciones a las normas de la presente Ley y de las reglamentaciones que en su consecuencia se dicten, ser&aacute;n pasibles de las siguientes sanciones, que se graduar&aacute;n, pudiendo acumularse seg&uacute;n la gravedad y circunstancias de cada caso, sin perjuicio de lo establecido en el Art&iacute;culo 22: </P> <P ALIGN='JUSTIFY'>a) Multa de cien pesos ($100) a cincuenta mil pesos ($50.000), pudiendo aumentarse hasta el d&eacute;cuplo en caso de reincidencia.</P> <P ALIGN='JUSTIFY'>b) Comiso de los sicotr&oacute;picos en infracci&oacute;n; </P> <P ALIGN='JUSTIFY'>c) Suspensi&oacute;n o cancelaci&oacute;n de la autorizaci&oacute;n de elaboraci&oacute;n y venta de los sicotr&oacute;picos en infracci&oacute;n; </P> <P ALIGN='JUSTIFY'>d) Clausura temporaria o definitiva, parcial o total del establecimiento en infracci&oacute;n; </P> <P ALIGN='JUSTIFY'>e) Suspensi&oacute;n o inhabilitaci&oacute;n para el ejercicio de la actividad comercial espec&iacute;fica o de la profesi&oacute;n hasta un lapso de tres (3) a&ntilde;os. En caso de extrema gravedad o m&uacute;ltiple reiteraci&oacute;n de la o de las infracciones, la inhabilitaci&oacute;n podr&aacute; ser definitiva. </P> <P ALIGN='JUSTIFY'>ARTICULO 22.- Las acciones tipificadas por los art&iacute;culos 204 bis, 204 ter y 204 quater del C&oacute;digo Penal, ejecutadas respecto de los sicotr&oacute;picos incluidos en las Listas I y II de la presente Ley, ser&aacute;n reprimidas con las penas que dichos art&iacute;culos estatuyen. </P> <P ALIGN='JUSTIFY'>ARTICULO 23.- El producto de las multas que por imperio de esta Ley aplique la autoridad sanitaria nacional, ingresar&aacute;n al Fondo Nacional de la Salud, dentro del cual se contabilizar&aacute; por separado y deber&aacute; destinarse a funciones de fiscalizaci&oacute;n o polic&iacute;a sanitaria. </P> <P ALIGN='JUSTIFY'>El producto de las multas que apliquen las autoridades sanitarias provinciales se ingresar&aacute; de acuerdo a lo que en las respectivas jurisdicciones se disponga, pero con an&aacute;logo destino al expresado en el p&aacute;rrafo anterior. </P> <P ALIGN='JUSTIFY'>ARTICULO 24.- Las acciones administrativas emergentes de infracciones a la presente Ley y a los reglamentos que en su consecuencia se dicten, prescribir&aacute;n a los dos (2) a&ntilde;os. La prescripci&oacute;n quedar&aacute; interrumpida por los actos de procedimientos administrativo o judicial, o por la comisi&oacute;n de una nueva infracci&oacute;n. </P> <P ALIGN='CENTER'>CAPITULO VIII </P> <P ALIGN='CENTER'>Del Procedimiento</P> <P ALIGN='JUSTIFY'>ARTICULO 25.- Las infracciones a esta Ley y a sus disposiciones reglamentarias, ser&aacute;n sancionadas por la autoridad sanitaria competente, previo sumario que asegure el derecho de defensa de los presuntos infractores, conforme al procedimiento que se fije en cada jurisdicci&oacute;n. Las constancias del acta labrada en forma al tiempo de verificarse la infracci&oacute;n, podr&aacute;n ser consideradas como en plena prueba de la responsabilidad del imputado, en cuanto no sean enervadas por otras pruebas. </P> <P ALIGN='JUSTIFY'>ARTICULO 26.-Contra las decisiones administrativas que la autoridad sanitaria dicte en virtud de esta Ley podr&aacute; interponerse, una vez agotada la v&iacute;a administrativa, recurso de apelaci&oacute;n para ante la autoridad judicial competente, seg&uacute;n la jurisdicci&oacute;n en que se hayan dictado, con expresi&oacute;n concreta de agravios y dentro de los cinco (5) d&iacute;as h&aacute;biles de notificada la resoluci&oacute;n administrativa definitiva. </P> <P ALIGN='JUSTIFY'>Los recursos, tanto administrativos como judiciales se conceder&aacute;n con efecto suspensivo. Si la sanci&oacute;n apelada fuera alguna de las previstas en los incisos b), c) y d) del Art&iacute;culo 21, el recurso podr&aacute; concederse con efecto devolutivo, cuando a juicio fundado de la autoridad competente exista un riesgo para la salud de las personas. </P> <P ALIGN='JUSTIFY'>ARTICULO 27.- La falta de pago de las multas aplicadas, har&aacute; exigible su cobro por v&iacute;a de ejecuci&oacute;n fiscal, constituyendo suficiente t&iacute;tulo ejecutivo el testimonio de la resoluci&oacute;n condenatoria firme expedido por el organismo de aplicaci&oacute;n o la autoridad judicial. </P> <P ALIGN='CENTER'>CAPITULO IX </P> <P ALIGN='CENTER'>De las Medidas Preventivas y Facultades de Inspecci&oacute;n </P> <P ALIGN='JUSTIFY'>ARTICULO 28.- Sin perjuicio del sumario establecido en el Art&iacute;culo 25 y de la sanci&oacute;n que en definitiva corresponda, la autoridad sanitaria competente podr&aacute; adoptar las siguientes medidas preventivas: </P> <P ALIGN='JUSTIFY'>a) si se incurriere en actos u omisiones que constituyeran un peligro para la salud de las personas, proceder a la clausura total o parcial de los locales en que los mismos ocurrieron, u ordenar suspender la elaboraci&oacute;n y/o el expendio de los sicotr&oacute;picos incluidos en las Listas I, II, III y IV cuestionados. Dichas medidas, no podr&aacute;n tener una duraci&oacute;n mayor de noventa d&iacute;as; </P> <P ALIGN='JUSTIFY'>b) clausurar los establecimientos o locales que funcionen sin la correspondiente autorizaci&oacute;n; </P> <P ALIGN='JUSTIFY'>c) proceder al secuestro o intervenci&oacute;n de los sicotr&oacute;picos no autorizados. Los interesados podr&aacute;n interponer contra las medidas preventivas referidas el recurso previsto en el Art&iacute;culo 26 de esta Ley, el que se conceder&aacute; con efecto devolutivo. </P> <P ALIGN='JUSTIFY'>ARTICULO 29.- La autoridad sanitaria competente est&aacute; facultada para verificar el cumplimiento de esta Ley y de sus disposiciones reglamentarias, mediante inspecciones, retiro de muestras y pedidos de informes. A tales fines sus funcionarios autorizados tendr&aacute;n acceso a los establecimientos, habilitados o no, en que se ejerzan o se presuma el ejercicio de las actividades previstas por esta Ley y podr&aacute;n proceder al secuestro de elementos probatorios, disponer la intervenci&oacute;n de los sicotr&oacute;picos en infracci&oacute;n y el nombramiento de depositarios. </P> <P ALIGN='JUSTIFY'>ARTICULO 30.- A los efectos de lo dispuesto en los Art&iacute;culos 28 y 29 de la presente Ley, la autoridad sanitaria podr&aacute; requerir en caso necesario el auxilio de la fuerza p&uacute;blica y solicitar &oacute;rdenes de allanamiento de jueces competentes. </P> <P ALIGN='CENTER'>CAPITULO X </P> <P ALIGN='CENTER'>Disposiciones Varias </P> <P ALIGN='JUSTIFY'>ARTICULO 31.- Esta Ley y sus disposiciones reglamentarias, se aplicar&aacute;n y har&aacute;n cumplir por las autoridades sanitarias nacional y provinciales en sus respectivas jurisdicciones. Sin perjuicio de ello, la autoridad sanitaria nacional podr&aacute; concurrir, cuando lo estime necesario, para hacer cumplir dichas normas en cualquier parte del pa&iacute;s. </P> <P ALIGN='JUSTIFY'>ARTICULO 32.- La autoridad sanitaria nacional y los organismos de seguridad deber&aacute;n intercambiarse permanentemente toda informaci&oacute;n necesaria para prevenir y combatir el uso indebido y la fabricaci&oacute;n o tr&aacute;fico il&iacute;citos de los sicotr&oacute;picos contemplados en la presente Ley. </P> <P ALIGN='JUSTIFY'>ARTICULO 33.- El Poder Ejecutivo Nacional y el de cada una de las provincias, reglamentar&aacute; las normas de procedimientos para la aplicaci&oacute;n de las sanciones y de las medidas preventivas y de inspecci&oacute;n que prev&eacute; la presente Ley, en sus respectivas jurisdicciones. </P> <P ALIGN='JUSTIFY'>ARTICULO 34.- El Poder Ejecutivo Nacional, al dictar las disposiciones reglamentarias de la presente Ley, establecer&aacute; los plazos dentro de los cuales deban ser modificadas y ajustadas a estas normas las situaciones existentes al tiempo de su entrada en vigencia. </P> <P ALIGN='JUSTIFY'>ARTICULO 35.- Queda derogado el Decreto 257 del 16 de enero de 1964 y toda otra disposici&oacute;n que se oponga a la presente Ley. </P> <P ALIGN='JUSTIFY'>ARTICULO 36.- Comun&iacute;quese; publ&iacute;quese; d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial y arch&iacute;vese. </P> <P ALIGN='RIGHT'>LANUSSE.</P> <P ALIGN='RIGHT'>Francisco G. Manrique.</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/20966_Ley19303-09_JPG/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/20966_Ley19303-01_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/20966_Ley19303-02_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/20966_Ley19303-03_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/20966_Ley19303-04_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/20966_Ley19303-05_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/20966_Ley19303-06_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/20966_Ley19303-07_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/20966_Ley19303-08_jpg/archivo'></P> <P ALIGN='JUSTIFY'>En las listas quedan tambi&eacute;n comprendidas las sales, &eacute;steres, &eacute;teres e is&oacute;meros que sea posible formar con las drogas nominadas.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/ley-19303-20966" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

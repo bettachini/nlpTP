@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-13832-2016-269666/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-13832-2016-269666/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-13832-2016-269666/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"PvR3mGyGURpfkVvZt-y5S6X-zfgrGhOOCv-SLTVeWfQ","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-13832-2016-269666\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-13832-2016-269666 page-normativa-nacional-disposición-13832-2016-269666-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-13832-2016-269666/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-uHYDFEXH2CFkbKjluTqu-s_XY_Bnov5ZbY3jeJabB7I" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-13832-2016-269666">Disposición   13832/2016</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2016-12-26</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>Administración Nacional de Medicamentos, Alimentos y Tecnología Médica</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>PRODUCTOS COSMÉTICOS</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 13832/2016</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Prohibición de uso.</span><br> <br> Buenos Aires, 21/12/2016<br> <br> VISTO la Ley N° 16.463, los Decretos Nros. 1490/92 y 1271/13, la Resolución Conjunta N° 834/15 y 391/15 del Ministerio de Salud y del ex Ministerio de Agricultura, Ganadería y Pesca, la Resolución del ex MS y AS N° 155/98, las Disposiciones ANMAT Nros. 2035/12, 6365/12 y 6433/15, y el Expediente N° 1-47-1110-000800-16-3 del Registro de esta Administración Nacional de Medicamentos, Alimentos y Tecnología Médica; y<br> <br> CONSIDERANDO:<br> <br> Que el uso masivo de antimicrobianos para la salud humana ha traído como consecuencia la aparición del fenómeno de resistencia a los antimicrobianos, uno de los mecanismos que tienen los microorganismos para defenderse en un medio hostil o desfavorable, como es la presencia de los antibióticos.<br> <br> Que en virtud de ello, por Resolución Conjunta N° 834/15 y 391/15 del Ministerio de Salud y del ex Ministerio de Agricultura, Ganadería y Pesca se aprobó la Estrategia Argentina para el Control de la Resistencia Antimicrobiana a fin de garantizar el uso responsable de los antimicrobianos evitando su utilización innecesaria sin comprometer la salud de las personas.<br> <br> Que recientemente la Administración de Alimentos y Medicamentos de los Estados Unidos (FDA) ha emitido una monografía definitiva (21 CFR Part 310 &#8220;Safety and Effectiveness of Consumer Antiseptics; Topical Antimicrobial Drugs Products for Over-the-Counter Human Use&#8221;), publicada en el Federal Register Vol 81 N° 172 el 06 de Septiembre de 2016, que prohíbe la comercialización de productos antisépticos de venta libre (OTC) para el lavado de manos y cuerpo que se enjuagan con agua y que contengan como sustancias activas: cloflucarban; fluorosalan; hexaclorofeno; hexilresorcinol; yodóforos (tales como: complejo de yodo - éter sulfato de amonio y monolaurato polioxietilensorbitán, complejo de yodo- éster fosfato de alquilariloxipolietilenglicol, nonilfenoxipoli (etilenoxi) etanol yodo, complejo yodo-poloxámero, yodopovidona, complejo de yodo cloruro de undecoylium); cloruro de metilbencetonio; fenol; amiltricresoles secundarios; oxicloroseno de sodio; tribromsalan; triclocarbán; triclosán y colorante triple (combinación de sustancias colorantes entre las que se encuentra el cristal violeta - CI 42555).<br> <br> Que tales productos incluyen jabones líquidos, jabones en barra, espumas y geles de aplicación tanto en manos como en cuerpo diseñados para usarse con agua y enjuague posterior, para uso personal en el hogar y en lugares públicos de manera frecuente; encontrándose exentos los productos antisépticos tópicos que no requieren enjuague (entre ellos alcohol en gel) y toallitas antibacteriales para manos que se utilizan cuando no se dispone de agua y jabón.<br> <br> Que la referida medida se basó en datos científicos que indican que la exposición a largo plazo a ciertos ingredientes activos usados en los productos antibacteriales &#8212;como el triclosán (en jabones líquidos) y el triclocarbán (en jabones en barra)&#8212; podría presentar riesgos para la salud como la generación de resistencia a antimicrobianos y efectos hormonales.<br> <br> Que la población a la cual están dirigidos estos productos se compone de individuos en general sanos en los cuales el riesgo de infección y el alcance de su propagación es relativamente bajo en comparación con el ámbito de la atención de la salud, en el que los pacientes son generalmente más susceptibles a las infecciones y el potencial de propagación de éstas es mayor.<br> <br> Que en este mismo sentido, al momento no existen estudios clínicos que avalen una eficacia superior por parte de estos productos frente a los jabones no antibacteriales en la prevención de enfermedades o en la reducción del riesgo de infecciones cuando son utilizados en el ámbito del hogar y en lugares públicos.<br> <br> Que por lo tanto la FDA determinó que estas sustancias en los referidos productos antibacteriales de consumo masivo no podían categorizarse como &#8220;generalmente reconocidos como seguros y eficaces&#8221; (GRAS/GRAE, por sus siglas en inglés).<br> <br> Que en este marco es pertinente citar que la Organización Mundial de la Salud (OMS) sostiene que el lavado de manos con jabón tradicional y agua corriente sigue siendo una de las medidas más importantes que se pueden tomar para evitar contraer enfermedades y prevenir la propagación de microbios a otras personas.<br> <br> Que en concordancia con lo antes mencionado, el 30 de noviembre de 2015 esta ANMAT emitió un comunicado sobre &#8220;Uso responsable de los antibióticos&#8221; en el que informa a la población que (...) las principales medidas para prevenir enfermedades infecciosas son el lavado frecuente de manos y la aplicación de vacunas (&#8230;).<br> <br> Que de conformidad con Ley N° 16.463 y el Decreto N° 1490/92 esta Administración Nacional de Medicamentos, Alimentos y Tecnología Médica tiene competencia en todo lo referido a la autorización, control y fiscalización de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico y todo otro producto de uso y aplicación en la medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades.<br> <br> Que el Decreto N° 1490/92 faculta a esta Administración Nacional a establecer acciones de prevención y protección de la salud humana en función de los productos de su competencia, como son los productos de uso y aplicación en la medicina humana; alimentos y productos en contacto con alimentos; productos de higiene, tocador y cosmética humana; y productos de uso doméstico.<br> <br> Que en la República Argentina los productos antibacteriales (sin acción terapéutica) destinados a la higiene personal en el hogar y en lugares públicos están categorizados como Productos de Higiene Personal, Cosméticos y Perfumes.<br> <br> Que los Productos de Higiene Personal, Cosméticos y Perfumes deben ser seguros bajo las condiciones normales o previsibles de uso.<br> <br> Que esta Administración Nacional debe garantizar la seguridad y eficacia de estos productos realizando una evaluación técnica que considere tanto la dosis de exposición como la población a la que están destinados y la relación beneficio-riesgo involucrado en su uso.<br> <br> Que la Resolución del ex MS y AS N° 155/98 establece que esta Administración Nacional deberá determinar las limitaciones que corresponden al uso de ciertas materias primas que pueden utilizarse en Productos de Higiene Personal, Cosméticos y Perfumes.<br> <br> Que el artículo 8° de la referida resolución faculta a esta Administración Nacional a dictar todas las normas complementarias aclaratorias y/o reglamentarias correspondientes.<br> <br> Que las sustancias: hexaclorofeno; yodóforos (tales como: complejo de yodo - éter sulfato de amonio y monolaurato polioxietilensorbitán, complejo de yodo- éster fosfato de alquilariloxipolietilenglicol, nonilfenoxipoli (etilenoxi) etanol yodo, complejo yodo-poloxámero, yodopovidona, complejo de yodo cloruro de undecoylium); fenol; tribromsalan (3,4&#8217;,5-tribromosalicilanilida); y cristal violeta (CI 42555) &#8212;sustancia componente del colorante triple&#8212;, ya se encuentran prohibidas para su uso como ingredientes cosméticos mediante Disposición ANMAT N° 6433/15, que incorporó al ordenamiento jurídico nacional la Resolución MERCOSUR GMC N° 62/14 &#8220;Reglamento Técnico MERCOSUR sobre listas de sustancias que no pueden ser utilizadas en Productos de Higiene Personal, Cosméticos y Perfumes (Derogación de la Res. GMC N° 29/05)&#8221;, bajo los números de orden 371, 213, 1175, 373, 380, respectivamente.<br> <br> Que las sustancias triclocarbán y triclosán se encuentran listadas como conservantes permitidos bajo ciertas condiciones de uso por Disposición ANMAT N° 2035/12, que incorporó al ordenamiento jurídico nacional la Resolución MERCOSUR GMC N° 07/11 &#8220;Reglamento Técnico MERCOSUR sobre Lista de Sustancias de Acción Conservadora permitidas para Productos de Higiene Personal, Cosméticos y Perfumes (Derogación de las Res. GMC N° 05/99 y 72/00)&#8221;.<br> <br> Que a su vez, para otras finalidades de uso distintas a la de agente conservante de la formulación el triclocarbán sólo se permite en productos que se enjuagan, con ciertas restricciones, de conformidad a la Disposición ANMAT N° 6365/12, incorporando al ordenamiento jurídico nacional la Resolución MERCOSUR GMC N° 24/11 &#8220;Reglamento Técnico MERCOSUR sobre lista de sustancias que los productos de higiene personal, cosméticos y perfumes no deben contener, excepto en las condiciones y con las restricciones establecidas (derogación de la Resolución GMC N° 46/10)&#8221;.<br> <br> Que asimismo, en virtud de la opinión SCCS/1414/11 emitida por el Comité Científico de Seguridad de los Consumidores (SCCS), el REGLAMENTO (UE) N° 358/14 DE LA COMISIÓN del 9 de abril de 2014 modificó el Anexo V &#8220;Lista de Conservantes permitidos en productos cosméticos&#8221; del Reglamento (CE) N° 1223/09 del Parlamento Europeo y del Consejo, que incorporó restricciones adicionales para el triclosán (listado en el N° de referencia 25) relacionadas a su uso sólo en ciertos productos que se enjuagan o que se aplican en áreas reducidas de la piel.<br> <br> Que corresponde aplicar las mismas consideraciones ya sea que el triclosán se utilice como conservante de la formulación o con otra finalidad de uso, como es la de agente antimicrobiano.<br> <br> Que es necesario garantizar el uso responsable de estos productos antibacteriales evitando su utilización innecesaria sin comprometer la salud de las personas.<br> <br> Que en consecuencia resulta pertinente determinar condiciones y/o restricciones adicionales de uso para las sustancias cloflucarban; fluorosalan; hexilresorcinol; cloruro de metilbencetonio; amiltricresoles secundarios; oxicloroseno de sodio, triclocarbán y triclosán en Productos de Higiene Personal, Cosméticos y Perfumes.<br> <br> Que finalmente resulta necesario otorgar un plazo para la aplicación de las restricciones mencionadas a los efectos de que la industria pueda hacer los ajustes en las formulaciones de los productos alcanzados por la presente disposición.<br> <br> Que la Dirección de Vigilancia de Productos para la Salud y la Dirección General de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que la presente se dicta en ejercicio de las atribuciones conferidas por el Decreto N° 1490/92, el Decreto N° 101 del 16 de diciembre de 2015 y la Resolución ex MS y AS N° 155/98.<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1° &#8212; Prohíbese el uso en los productos antibacteriales inscriptos ante esta Administración Nacional como Productos de Higiene Personal, Cosméticos y Perfumes, sean éstos de origen nacional o importado, de las sustancias que figuran en el Anexo I, que forma parte integrante de la presente disposición.<br> <br> ARTÍCULO 2° &#8212; Los productos antibacteriales sujetos a la aplicación del artículo precedente incluyen jabones líquidos, jabones en barra, espumas, geles y todo otro producto de aplicación tanto en manos como en cuerpo, diseñados para usarse con agua y enjuague posterior.<br> <br> ARTÍCULO 3° &#8212; Establécese que la sustancia triclosán sólo podrá ser utilizada en Productos de Higiene Personal, Cosméticos y Perfumes bajo las condiciones y restricciones de uso detalladas en el Anexo II, el que forma parte integrante de la presente disposición.<br> <br> ARTÍCULO 4° &#8212; Otórgase un plazo de 24 (veinticuatro) meses contados desde la entrada en vigencia de la presente disposición, para que las empresas titulares, fabricantes e importadoras de Productos de Higiene Personal, Cosméticos y Perfumes alcanzadas por la presente disposición procedan con las adecuaciones necesarias e inicien ante la ANMAT el correspondiente trámite de modificación de fórmula cosmética y rótulo de conformidad con la Resolución del ex MS y AS N° 155/98 y disposiciones complementarias. Vencido dicho plazo no podrán introducirse en el mercado productos que no cumplan de manera integral con la presente normativa.<br> <br> En caso de no optar por lo previsto en el párrafo precedente dentro del plazo aludido, la admisión de dichos productos quedará cancelada de pleno derecho.<br> <br> ARTÍCULO 5° &#8212; El incumplimiento de lo establecido en la presente Disposición hará pasible a quienes resulten responsables de las sanciones previstas en la Ley N° 16.463 y en el Decreto N° 341/92, sin perjuicio de las demás acciones que pudieran corresponder.<br> <br> ARTÍCULO 6° &#8212; La presente Disposición entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 7° &#8212; Regístrese, notifíquese a la Asociación Argentina de Químicos Cosméticos, a la Asociación Industrial de Artículos para la Limpieza Personal del Hogar y Afines, a la Cámara Argentina de la Industria de Cosmética y Perfumería, a la Cámara Argentina de Aerosoles y demás Cámaras y Entidades Profesionales. Dése a la Dirección Nacional del Registro Oficial para su publicación; cumplido, archívese. &#8212; Carlos Chiale.<br> <br> <div style='text-align: center;'>ANEXO I<br> <br> Lista de sustancias prohibidas en ciertos productos antibacteriales cosméticos que se usan con enjuague (jabones líquidos, jabones en barra, espumas, geles y otros)<br> </div> <br> <table style='text-align: left; margin-left: auto; margin-right: auto;' border='1'> <tbody><tr><td style='text-align: center;'>N°</td> <td style='text-align: center;'>Sustancias<br> [NOMBRE INCI]</td> </tr> <tr> <td style='text-align: center;'>1</td> <td style='text-align: justify;'>Cloflucarban<br> [CLOFLUCARBAN]</td> </tr> <tr> <td style='text-align: center;'>2</td> <td style='text-align: justify;'>Fluorosalan<br> [FLUOROSALAN]</td> </tr> <tr> <td style='text-align: center;'>3</td> <td style='text-align: justify;'>Hexilresorcinol<br> [HEXYLRESORCINOL]</td> </tr> <tr> <td style='text-align: center;'>4</td> <td style='text-align: justify;'>Amiltricresoles secundarios</td> </tr> <tr> <td style='text-align: center;'>5</td> <td style='text-align: justify;'>Cloruro de metilbencetonio<br> [METHYLBENZETHONIUM CHLORIDE] </td> </tr> <tr> <td style='text-align: center;'>6</td> <td style='text-align: justify;'>Oxicloroseno de sodio</td> </tr> <tr> <td style='text-align: center;'>7</td> <td style='text-align: justify;'>3,4,4&#8217;-triclorocarbanllida<br> [TRICLOCARBAN]</td> </tr> <tr> <td style='text-align: center;'>8</td> <td style='text-align: justify;'>Tricloro-2,4,4&#8217; hidroxi-2&#8217; difenileter<br> [TRICLOSAN]</td></tr></tbody> </table> <br> <br> <div style='text-align: center;'>ANEXO II<br> <br> TRICLOSAN<br> <br> Condiciones y restricciones de uso en Productos de Higiene Personal, Cosméticos y Perfumes<br> </div> <br> <table border='1'> <tbody><tr><td style='text-align: center;'>Sustancias<br> [NOMBRE INCI]</td> <td style='text-align: center;'>Restricciones</td> <td style='text-align: center;'><br> </td> <td style='text-align: center;'><br> </td> </tr> <tr> <td style='text-align: center;'><br> </td> <td style='text-align: center;'>Campo de aplicación y/o utilización</td> <td style='text-align: center;'>Conc. máxima autorizada en el producto final</td> <td style='text-align: center;'>Otras limitaciones y requerimientos</td> </tr> <tr> <td style='text-align: center;'>Tricloro-2,4,4&#8217;<br> hidroxi-2&#8217;<br> difenileter<br> [TRICLOSAN]</td> <td>a) dentífricos, desodorantes, polvos faciales, cremas correctoras y  productos para limpiar las uñas de manos y pies antes de aplicar  sistemas de uñas artificiales<br> b) colutorios</td> <td>a) 0,3 %<br> b) 0,2%</td> <td>- Prohibido en aerosoles<br> - Prohibido su uso en otros productos que no sean los detallados en los ítems a) y b)</td></tr></tbody> </table> <br> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-13832-2016-269666" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

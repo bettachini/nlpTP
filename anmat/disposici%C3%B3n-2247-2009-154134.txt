@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2247-2009-154134/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2247-2009-154134/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2247-2009-154134/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"tYhd951eyQINlSlKGvs6SpnZtBSIDvbWACtqK7aYD1Q","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-2247-2009-154134\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-2247-2009-154134 page-normativa-nacional-disposición-2247-2009-154134-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-2247-2009-154134/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-oNZCofNEVOL5zmSIOLjfYKZZQv-HDYDYsMYjkan-zbU" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-2247-2009-154134">Disposición   2247/2009</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2009-06-04</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ESPECIALIDADES MEDICINALES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 2247/2009</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Apru&eacute;base la Gu&iacute;a para Estudios Cl&iacute;nicos de Diabetes Tipo 2. Criterios de Evaluaci&oacute;n de Protocolos.</P> <P ALIGN='JUSTIFY'></P> </B><P ALIGN='JUSTIFY'>Bs. As., 15/5/2009</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO el expediente Nº 1-0047-0000-0018547- 08-8 del Registro de esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica, y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por la Disposici&oacute;n ANMAT 5330/97 sus modificatorias y concordantes se ha establecido el R&eacute;gimen de Buenas Pr&aacute;cticas Cl&iacute;nicas para la realizaci&oacute;n de Estudios de Investigaci&oacute;n en Farmacolog&iacute;a Cl&iacute;nica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en el T&iacute;tulo II Cap&iacute;tulo III de la aludida norma se establecen las condiciones para la autorizaci&oacute;n, seguimiento y contralor de los referidos estudios.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en particular, la evaluaci&oacute;n de las autorizaciones realizada por esta ANMAT alcanza la valoraci&oacute;n de requisitos b&aacute;sicos, de la informaci&oacute;n precl&iacute;nica y cl&iacute;nica, de la documentaci&oacute;n presentada, las caracter&iacute;sticas de los centros, as&iacute; como los avales de los aspectos &eacute;ticos (Cap&iacute;tulos VI, VII, VIII, IX, X, XI de la Disposici&oacute;n ANMAT 5330/97).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en este sentido la evaluaci&oacute;n de estos aspectos comprende la valoraci&oacute;n integral a partir de un protocolo donde consten los antecedentes necesarios, criterios de inclusi&oacute;n y exclusi&oacute;n sobre un dise&ntilde;o justificado desde la perspectiva metodol&oacute;gica y &eacute;tica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la metodolog&iacute;a de evaluaci&oacute;n est&aacute; basada en el an&aacute;lisis profundo de los par&aacute;metros mencionados y llevada a cabo por personal capacitado, cuya funci&oacute;n consiste en aceptar, objetar o rechazar el protocolo de investigaci&oacute;n, de acuerdo a procesos de evaluaci&oacute;n con criterios uniformes.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en ese sentido y dada la multiplicidad de solicitudes de aprobaci&oacute;n de ensayos cl&iacute;nicos en pacientes con Diabetes, la Direcci&oacute;n de Evaluaci&oacute;n de Medicamentos ha considerado incorporar como criterio de evaluaci&oacute;n, no s&oacute;lo una valoraci&oacute;n t&eacute;cnico-cient&iacute;fica-metodol&oacute;gica, sino tambi&eacute;n exigencias propias y espec&iacute;ficas para nuestro pa&iacute;s, tendientes a un mayor cuidado y atenci&oacute;n de los pacientes.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que a tal fin, se elabor&oacute; una Gu&iacute;a para realizar estudios cl&iacute;nicos en pacientes con Diabetes Tipo 2, el cual tuvo como referencia las Gu&iacute;as Internacionales vigentes en la materia, tales como la de la Agencia de Medicamentos Europea (de fecha abril de 2002), la Gu&iacute;a en Diabetes, pre-diabetes y enfermedad Cardiovascular de la Sociedad Europea de Cardiolog&iacute;a (2007), y publicaciones en el &quot;Diabetes Care&quot; Vol&uacute;menes 30 (de fecha enero de 2007), 28 (de mayo de 2005) y 31 (suplemento 1 de fecha enero de 2008).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la referida Gu&iacute;a se ha centrado en dos aspectos importantes: en qu&eacute; casos se pueden efectuar estudios con el uso de Placebo y cu&aacute;les deben ser los requisitos que deber&aacute;n seguir los estudios con un comparador preestablecido.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que se han mantenido reuniones de trabajo, a los efectos de contemplar las opiniones de expertos en la materia, habi&eacute;ndose encontrado conveniente la adopci&oacute;n de esta Gu&iacute;a como parte del proceso de control que hace a la actividad de esta ANMAT, sobre par&aacute;metros consensuados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la nueva Gu&iacute;a permitir&aacute; un proceso de evaluaci&oacute;n uniforme y asegurar&aacute; que el balance riesgo beneficio del estudio sea adecuado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Direcci&oacute;n de Evaluaci&oacute;n de Medicamentos y la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por los Decretos 1490/92 y 253/08.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Ad&oacute;ptase la Gu&iacute;a para Estudios Cl&iacute;nicos de Diabetes Tipo 2, la cual incluye los criterios de evaluaci&oacute;n de los protocolos que se presenten en cumplimiento de la Disposici&oacute;n 5330/97 sus modificatorias y concordantes, la cual como Anexo I forma parte integrante de la presente Disposici&oacute;n, la que ser&aacute; de aplicaci&oacute;n en el marco de evaluaci&oacute;n de cada protocolo.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 2º </B>— Reg&iacute;strese. Comun&iacute;quese a la Secretar&iacute;a de Pol&iacute;ticas, Regulaci&oacute;n y Relaciones Sanitarias del Ministerio de Salud. Comun&iacute;quese a CAEME, CEDIQUIFA, CILFA, COOPERALA, SAFYBI, CAPGEN, CAOIC. D&eacute;se copia a la Direcci&oacute;n de Planificaci&oacute;n y Relaciones Institucionales, y a la Direcci&oacute;n de Evaluaci&oacute;n de Medicamentos. D&eacute;se a la Direcci&oacute;n Nacional de Registro Oficial para su publicaci&oacute;n. Cumplido arch&iacute;vese. PERMANENTE. — Ricardo Mart&iacute;nez.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>GUIA PARA ESTUDIOS CLINICOS EN DIABETES TIPO 2</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CRITERIOS DE EVALUACION DE PROTOCOLOS</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El siguiente documento fue desarrollado como una gu&iacute;a para establecer criterios en la evaluaci&oacute;n de protocolos de estudios cl&iacute;nicos para pacientes con diabetes tipo 2 que se lleven a cabo en la Argentina. La modalidad de la evaluaci&oacute;n de los protocolos por parte de la DEM continuar&aacute; siendo la de revisar cada estudio en forma individual, pudiendo solicitarse o aceptarse modificaciones a los protocolos, sobre aspectos que no est&eacute;n contemplados en las gu&iacute;as.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Se plantean dos situaciones hipot&eacute;ticas a continuaci&oacute;n, para delinear los criterios recomendables de los estudios de esta naturaleza:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CASO 1: DROGA EXPERIMENTAL VERSUS PLACEBO (m&aacute;s Dieta y Ejercido)</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Consideraciones con respecto al Dise&ntilde;o con placebo:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En las Gu&iacute;as &quot;Standards of Medical Care in Diabetes&quot; del 2007 y su actualizaci&oacute;n en 2008 (publicadas en la revista Diabetes Care, volume 30, Supplement 1, January 2007 y volume 31, Supplement 1, January 2008) se recomienda el inicio del tratamiento con Metformina cuando se realiza el diagn&oacute;stico de diabetes tipo 2, modific&aacute;ndose la recomendaci&oacute;n previa de un tratamiento inicial con dieta y ejercicio durante 2-3 meses. El uso de placebo m&aacute;s dieta y ejercicio como &uacute;nico tratamiento se contrapondr&iacute;a con esta recomendaci&oacute;n, motivo por el cual los estudios con este tipo de dise&ntilde;o quedar&iacute;an limitados a ciertos casos, en los que el uso de placebo se encuentre debidamente justificado desde un punto de vista metodol&oacute;gico y la selecci&oacute;n y seguimiento de los pacientes permita asegurar la minimizaci&oacute;n de los riesgos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Consideraciones acerca de las condiciones en las que se podr&iacute;an llevar a cabo este tipo de estudios:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Se evaluar&aacute;n los siguientes puntos:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Si el paciente recibi&oacute; tratamiento farmacol&oacute;gico con hipoulucemiantes previamente:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. No (pacientes naive, es decir, pacientes que nunca recibieron tratamiento previo): podr&iacute;a ser factible realizar un estudio con placebo</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. Si (pacientes experimentados, con o sin fallo al tratamiento): no ser&iacute;a adecuado este tipo de dise&ntilde;o</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Duraci&oacute;n y Fase del estudio a realizar:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. Estudios de Fase II: es factible la realizaci&oacute;n de este tipo de estudios, ya que el objetivo de la fase II es la evaluaci&oacute;n de la eficacia y la seguridad de la droga (generalmente se requiere de estudios que comparen la droga con placebo) y la duraci&oacute;n es generalmente de 2-3 meses.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. Estudios de Fase III: es objetable la realizaci&oacute;n de este tipo de estudios, porque el objetivo de la fase es evaluar la eficiencia de la droga en estudio versus un comparador est&aacute;ndar, junto con la seguridad de la misma. Por otra parte, la duraci&oacute;n habitual de este tipo de estudios (6-12 meses) har&iacute;a inaceptable el uso de placebo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Hemoglobina glicosilada (HbA1c) basal:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. Se aceptar&aacute; la inclusi&oacute;n de pacientes con HbA1c entre 7.0-9.0%, correspondiente a glucemia 200-240 mg/dl en este tipo de estudios.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. Se puede considerar aceptable el rango de HbA1c basal entre 7.0-10.0% en algunos casos, seg&uacute;n el dise&ntilde;o del protocolo, en el que se deber&aacute;n contemplar, al menos, los siguientes puntos: un seguimiento frecuente de los pacientes, la posibilidad de ajustes de los hipoglucemiantes (ajustes en las dosis y/o medicaci&oacute;n de rescate) y criterios de discontinuaci&oacute;n estrictos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El fundamento para este punto reside en que una HbA1c de 9.0% correlaciona con una glucemia plasm&aacute;tica media de 240 mg/dl y una HbA1c de 10.0% correlaciona con una glucemia plasm&aacute;tica media de 275 mg/dl. Por otra parte, se recomienda el inicio de insulinoterapia con valores de glucemia entre 250-30.0 mg/dl. Se considera m&aacute;s seguro el valor de HbA1c de hasta 9.0% para la inclusi&oacute;n de los pacientes en un protocolo con placebo, pero dicho valor podr&iacute;a aumentarse hasta 10.0% en algunos casos especiales (como se describi&oacute; anteriormente) sin que esto se encuentre en contraposici&oacute;n con las recomendaciones que se toman como referencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Comorbilidades: (incluyendo Factores De Riesgo Cardiovasculares):</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Pueden ingresar &uacute;nicamente pacientes sin comorbilidades o cuando las mismas se encuentren compensadas:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. Hipertensi&oacute;n arterial:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a. En el caso en que el protocolo no permita la optimizaci&oacute;n del tratamiento antihipertensivo durante el estudio, este deber&aacute; estar optimizado previo al ingreso del paciente en el estudio. Los valores de tensi&oacute;n arterial &oacute;ptimos para pacientes con diabetes tipo 2 son &lt;130-80 mmHg, siendo este el criterio para poder incluir a los pacientes en estudios de esta naturaleza.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b. En el caso en que el protocolo permita la optimizaci&oacute;n del tratamiento antihipertensivo durante el estudio, incluyendo distintos grupos terap&eacute;uticos de antihipertensivos y modificaci&oacute;n de las dosis de los mismos, y que contemple la realizaci&oacute;n de controles cl&iacute;nicos frecuentes, los valores aceptables de tensi&oacute;n arterial ser&aacute;n &lt;150-90 mmHg. Los pacientes que ingresen en estos estudios deber&aacute;n discontinuarse en caso de presentar valores de tensi&oacute;n arterial mayores a esta cifra durante el estudio.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. Dislipidemia: Los pacientes deben estar recibiendo tratamiento optimizado previo al ingreso en el estudio. En caso contrario, el protocolo deber&aacute; permitir la optimizaci&oacute;n de dicho tratamiento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3. Da&ntilde;o de &oacute;rgano blanco: no se admiten en este tipo de estudio pacientes con da&ntilde;o de &oacute;rgano blanco, debiendo descartarse su presencia a trav&eacute;s de los ex&aacute;menes adecuados:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a. Retinopat&iacute;a (&uacute;nicamente se admiten los pacientes con retinopat&iacute;a no proliferativa leve),</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b. Alteraci&oacute;n de la funci&oacute;n renal (clearence de creatinina calculado &lt;80 ml/min) y/o microalbuminuria,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c. Antecedentes previos o actuales de eventos o enfermedad cardiovascular y/o vascular perif&eacute;rica y/o cerebrovascular,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d. Pie diab&eacute;tico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4. Se aclara que la diabetes, si bien es un factor de riesgo cardiovascular, no se contempla entre los criterios de exclusi&oacute;n de los estudios cl&iacute;nicos, ya que es lo que se pretende estudiar. El motivo para la exclusi&oacute;n de pacientes con las condiciones descriptas anteriormente es que los pacientes que participen en estudios con placebo tengan minimizaci&oacute;n de los riesgos, a trav&eacute;s de un correcto control de los factores de riesgo cardiovasculares, una duraci&oacute;n breve del estudio y ausencia de da&ntilde;o de &oacute;rgano blanco (los pacientes que ya presentan da&ntilde;o de &oacute;rgano blanco deben recibir un tratamiento optimizado para la diabetes desde que se realiza el diagn&oacute;stico). Por otra parte, ya que se trata de estudios de fase II, los pacientes seleccionados no deber&iacute;an tener otras enfermedades concomitantes, para evitar factores confusores y poder obtener conclusiones v&aacute;lidas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Medicaci&oacute;n concomitante: tiene que permitirse la medicaci&oacute;n est&aacute;ndar para el control de los factores de riesgo (incluyendo enalapril y aspirina)</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Diabetes descompensada: deber&aacute;n excluirse los pacientes con:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. s&iacute;ntomas de diabetes descompensada (p&eacute;rdida de peso &gt;10% en los &uacute;ltimos 3 meses, poliuria, polidipsia, etc), por tener indicaci&oacute;n de insulinoterapia</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. glucemias mayores a 250 mg/dl, en 2 o 3 d&iacute;as consecutivos, por tener indicaci&oacute;n de insulinoterapia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3. antecedentes de complicaciones agudas de la diabetes (cetoacidosis o coma hiperosmolar).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Criterios de discontinuaci&oacute;n:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. hiperglucemia:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a. glucemia plasm&aacute;tica en ayunas &gt;240 mg/ dl, en dos d&iacute;as consecutivos, confirmado en laboratorio central dentro de las 48-72 hs. Es necesario descartar que se trate de alguna de las complicaciones agudas de la diabetes (cetoacidosis o coma hiperosmolar).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. hipoglucemia:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a. episodios repetidos de hipoglucemia leve, o</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b. un &uacute;nico episodio de hipoglucemia severa, sin desencadenantes claros y corregibles. Se define hipoglucemia severa al evento que requiere la asistencia de otra persona para administrar en forma activa carbohidratos, glucagon u otras medidas de resucitaci&oacute;n. Estos episodios pueden estar asociados con un grado de neuroglucopenia suficiente como para inducir convulsiones o coma. La medici&oacute;n de la glucemia plasm&aacute;tica puede no estar disponible durante el episodio, pero la recuperaci&oacute;n neurol&oacute;gica atribuible a la restauraci&oacute;n de la glucosa plasm&aacute;tica se considera como evidencia suficiente de que el evento fue inducido por una baja concentraci&oacute;n de glucosa plasm&aacute;tica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Estos criterios de discontinuaci&oacute;n deben ser considerados en el contexto del dise&ntilde;o del estudio cl&iacute;nico, fundamentalmente si se admiten ajustes de la medicaci&oacute;n hipoglucemiante.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CASO 2: DROGA EXPERIMENTAL VERSUS COMPARADOR ACTIVO (m&aacute;s Dieta y Ejercicio)</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Consideraciones con respecto al Dise&ntilde;o con control activo:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En las Gu&iacute;as &quot;Standards of Medical Care in Diabetes&quot; del 2007 y su actualizaci&oacute;n en 2008 (publicadas en la revista Diabetes Care, volume 30, Supplement 1, January 2007 y volume 31, Supplement 1, January 2008) se recomienda el inicio del tratamiento con Metformina cuando se realiza el diagn&oacute;stico de diabetes tipo 2 y el agregado de medicaci&oacute;n hipoglucemiante en forma gradual cuando el paciente no alcanza el control adecuado de su glucemia. El nivel &oacute;ptimo de HbA1c, que es el par&aacute;metro est&aacute;ndar para la evaluaci&oacute;n del tratamiento hipoglucemiante, es lo m&aacute;s cercano al valor normal de 6.0% posible.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Generalmente se considera aceptable un valor menor a 7.0%. Los valores de HbA1c, en la pr&aacute;ctica habitual, deben realizarse cada 3 meses hasta llegar al nivel &oacute;ptimo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En los estudios en los que se utiliza control activo en todas las ramas, los par&aacute;metros planteados en esta gu&iacute;a son flexibles, teniendo en cuenta el dise&ntilde;o particular de cada estudio y la magnitud de las diferencias entre el tratamiento propuesto para el estudio y un tratamiento optimizado para el paciente.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Consideraciones acerca de las condiciones en las que se podr&iacute;an llevar a cabo este tipo de estudios:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Se evaluar&aacute;n los siguientes puntos:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Si el paciente recibi&oacute; tratamiento farmacol&oacute;gico con hipoglucemiantes previamente:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. No (pacientes naive, es decir, pacientes que nunca recibieron tratamiento previo): podr&iacute;a ser factible realizar un estudio de estas caracter&iacute;sticas</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. Si (pacientes experimentados, con o sin fallo al tratamiento): podr&iacute;a ser factible realizar un estudio de estas caracter&iacute;sticas</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Duraci&oacute;n y Fase del estudio a realizar:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. Estudios de Fase II: es factible la realizaci&oacute;n de este tipo de estudios</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. Estudios de Fase III: es factible la realizaci&oacute;n de este tipo de estudios, porque el objetivo de la fase es evaluar la eficiencia de la droga en estudio versus un comparador est&aacute;ndar, junto con la seguridad de la misma, con una duraci&oacute;n habitual de 6-12 meses o m&aacute;s.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Hemoglobina glicosilada (HbA1c) basal:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. Pacientes naive: pueden tener valores de HbA1c m&aacute;s elevados (por ejemplo: 7.0-10.0% o mayores, seg&uacute;n el tipo de estudio)</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. Pacientes experimentados con falla al tratamiento:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a. Estudios con la misma droga que recib&iacute;an previamente versus droga en estudio: HbA1c entre 7.0-9.0%. Se puede considerar aceptable el rango de HbA1c basal entre 7.0-10.0% en algunos casos, seg&uacute;n el dise&ntilde;o del protocolo, en el que se contemplen, al menos, los siguientes puntos: un seguimiento frecuente de los pacientes, la posibilidad de ajustes de los hipoglucemiantes (ajustes en las dosis y/o medicaci&oacute;n de rescate) y criterios de descontinuaci&oacute;n estrictos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b. Estudios con la misma droga que recib&iacute;an previamente, m&aacute;s otra droga activa o droga en estudio: pueden ingresar pacientes con valores de HbA1c m&aacute;s elevados (por ejemplo: 7.0- 10.0%)</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Comorbilidades (incluyendo Factores de Riesgo Cardiovasculares):</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Se recomienda que los pacientes tengan un adecuado manejo y control de las comorbilidades.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. Hipertensi&oacute;n arterial:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a. En el caso en que el protocolo no permita la optimizaci&oacute;n del tratamiento antihipertensivo durante el estudio, este deber&aacute; estar optimizado previo al ingreso del paciente en el estudio. Los valores de tensi&oacute;n arterial &oacute;ptimos para pacientes con diabetes tipo 2 son &lt;130-80 mmHg, siendo este el criterio recomendado para poder incluir a los pacientes en estudios de esta naturaleza.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b. En el caso en que el protocolo permita la optimizaci&oacute;n del tratamiento antihipertensivo durante el estudio, incluyendo distintos grupos terap&eacute;uticos de antihipertensivos y modificaci&oacute;n de las dosis de los mismos, y que contemple la realizaci&oacute;n de controles cl&iacute;nicos frecuentes, los valores aceptables de tensi&oacute;n arterial ser&aacute;n &lt;150-90 mmHg. Los pacientes que ingresen en estos estudios deber&aacute;n discontinuarse en caso de presentar valores de tensi&oacute;n arterial mayores a esta cifra en cualquier momento durante el estudio o si no alcanzan un control adecuado luego de la realizaci&oacute;n de los ajustes necesarios de la medicaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. Dislipidemia: Los pacientes deben estar recibiendo tratamiento optimizado previo al ingreso en el estudio. En caso contrario, el protocolo deber&aacute; permitir la optimizaci&oacute;n de dicho tratamiento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3. Da&ntilde;o de &oacute;rgano blanco: no se admiten en este tipo de estudio pacientes con da&ntilde;o de &oacute;rgano blanco agudo y/o inestable, debiendo descartarse su presencia a trav&eacute;s de los ex&aacute;menes adecuados</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a. Retinopat&iacute;a (se recomienda admitir los pacientes con retinopat&iacute;a no proliferativa leve &uacute;nicamente),</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b. Alteraci&oacute;n de la funci&oacute;n renal (clearence de creatinina calculado &lt;80 ml/min) y/o microalbuminuria</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c. Antecedentes recientes, dentro de los 6 meses, o actuales de eventos o enfermedad cardiovascular y/o vascular perif&eacute;rica y/o cerebrovascular,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d. Pie diab&eacute;tico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4. Se aclara que la diabetes, si bien es un factor de riesgo cardiovascular, no se contempla entre los criterios de exclusi&oacute;n de los estudios cl&iacute;nicos, ya que es lo que se pretende estudiar en &eacute;stos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Medicaci&oacute;n concomitante: tiene que permitirse la medicaci&oacute;n est&aacute;ndar para el control de los factores de riesgo (incluyendo enalapril y aspirina)</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Diabetes descompensada: deber&aacute;n excluirse los pacientes con:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. s&iacute;ntomas de diabetes descompensada (p&eacute;rdida de peso &gt;10% en los &uacute;ltimos 3 meses, poliuria, polidipsia, etc), por tener indicaci&oacute;n de insulinoterapia</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. glucemias mayores a 250 mg/dl, en 2 &oacute; 3 d&iacute;as consecutivos, por tener indicaci&oacute;n de insulinoterapia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3. antecedentes de complicaciones agudas de la diabetes (cetoacidosis o coma hiperosmolar).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Se aclara que estas recomendaciones deben considerarse en el contexto de cada ensayo cl&iacute;nico en particular (por ejemplo, no aplicar&iacute;a para estudios en los que se planifica utilizar insulina).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- Criterios de discontinuaci&oacute;n:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. hiperglucemia:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a. primer etapa: glucemia plasm&aacute;tica en ayunas &gt;240 mg/d1, en dos d&iacute;as consecutivos, con- firmado en laboratorio central dentro de las 48- 72 hs (ej: dentro de las 8 semanas). Es necesario descartar que se trate de alguna de las complicaciones agudas de la diabetes (cetoacidosis o coma hiperosmolar).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Luego los niveles de glucemia deben ir descendiendo en forma gradual.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b. Segunda etapa (entre los 3 &oacute; 6 meses): se deber&iacute;a lograr un control ideal (HbA1c &lt;7% a los 6 meses, glucemia en ayunas 90-130 mg/dl a los 6 meses o un descenso significativo con respecto al valor de HbA1c basal)</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. hipoglucemia:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a. episodios repetidos de hipoglucemia leve, o</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b. un &uacute;nico episodio de hipoglucemia severa, sin desencadenantes claros y corregibles. Se define hipoglucemia severa al evento que requiere la asistencia de otra persona para administrar en forma activa carbohidratos, glucagon u otras medidas de resucitaci&oacute;n. Estos episodios pueden estar asociados con un grado de neuroglucopenia suficiente como para inducir convulsiones o coma. La medici&oacute;n de la glucemia plasm&aacute;tica puede no estar disponible durante el episodio, pero la recuperaci&oacute;n neurol&oacute;gica atribuible a la restauraci&oacute;n de la glucosa plasm&aacute;tica se considera como evidencia suficiente de que el evento fue inducido por una baja concentraci&oacute;n de glucosa plasm&aacute;tica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Estos criterios de discontinuaci&oacute;n deben ser considerados en el contexto del dise&ntilde;o del estudio cl&iacute;nico, fundamentalmente si se admiten ajustes de la medicaci&oacute;n hipoglucemiante.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-2247-2009-154134" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

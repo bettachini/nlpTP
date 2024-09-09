@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/ley-24766-41094/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/ley-24766-41094/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/ley-24766-41094/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"hZonxyeEb2CXl9jAUh3XdBoYkcRtgeAHwDvWaqn5kLI","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/ley-24766-41094\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-ley-24766-41094 page-normativa-nacional-ley-24766-41094-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/ley-24766-41094/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-55Vt1SmFUEZd0okoTbli6uJpkP1dG-JyXoj8cPg2mhs" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/ley-24766-41094">Ley   24766/1996</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>HONORABLE CONGRESO DE LA NACION ARGENTINA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>1996-12-30</strong></time>
+
+          <hr>
+
+          <article>
+            <P> <B>LEY DE CONFIDENCIALIDAD SOBRE INFORMACION Y PRODUCTOS QUE ESTEN LEGITIMAMENTE BAJO CONTROL DE UNA PERSONA Y SE DIVULGUE INDEBIDAMENTE DE MANERA CONTRARIA A LOS USOS COMERCIALES HONESTOS.</B> <P> <B>LEY N&#186; 24.766</B> <P> <B>Sancionada: Diciembre 18 de 1996.</B> <P> <B>Promulgada: Diciembre 20 de 1996.</B> <P> El Senado y C&aacute;mara de Diputados de la Naci&oacute;n Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley: <P> <B>ARTICULO 1&#176;</B>- Las personas f&iacute;sicas o jur&iacute;dicas podr&aacute;n impedir que la informaci&oacute;n que est&eacute; leg&iacute;timamente bajo su control se divulgue a terceros o sea adquirida o utilizada por terceros sin su consentimiento de manera contraria a los usos comerciales honesto, mientras dicha informaci&oacute;n re&uacute;na las siguientes condiciones: <P> a) A, sea secreta en el sentido de que no sea, como cuerpo o en la configuraci&oacute;n, reuni&oacute;n precisa de sus componentes, generalmente conocida ni f&aacute;cilmente accesible para personas introducidas en los c&iacute;rculos en que normalmente se utiliza el tipo de informaci&oacute;n en cuesti&oacute;n; y <P> b) Tenga un valor comercial por ser secreta; y <P> c) Haya sido objeto de medidas razonables, en las circunstancias, para mantenerla, secreta, tomadas por la persona que leg&iacute;timamente la controla. <P> Se considerar&aacute; que es contrario a los usos comerciales honestos el incumplimiento de contratos, el abuso de confianza, la instigaci&oacute;n a la infracci&oacute;n y adquisici&oacute;n de informaci&oacute;n no divulgada por terceros que supieran o no, por negligencia grave, que la adquisici&oacute;n implicaba tales practicas. <P> <B>ARTICULO 2&#176;</B>- La presente ley se aplicar&aacute; a la informaci&oacute;n que conste en documentos, medios electr&oacute;nicos o magn&eacute;ticos, discos &oacute;pticos, microfilmes, pel&iacute;culas u otros elementos similares. <P> <B>ARTICULO 3&#176;</B>- Toda persona que con motivo de su trabajo, empleo, cargo, puesto, desempe&ntilde;o de su profesi&oacute;n o relaci&oacute;n de negocios, tenga acceso a una informaci&oacute;n que re&uacute;na las condiciones enumeradas en el art&iacute;culo 1&#176; y sobre cuya confidencialidad se los haya prevenido, deber&aacute; abstenerse de usarla y de revelarla sin causa justificada o sin consentimiento de la persona que guarda dicha informaci&oacute;n o de su usuario autorizado. <P> II <P> Protecci&oacute;n de la informaci&oacute;n solicitada por la autoridad sanitaria como requisito para la aprobaci&oacute;n de productos <P> <B>ARTICULO 4&#176;</B>- Para los casos en que se solicite la aprobaci&oacute;n del registro o autorizaci&oacute;n de comercializaci&oacute;n de productos que utilicen nuevas entidades qu&iacute;micas que no tengan registro previo ni en la Argentina ni en cualquier otro pa&iacute;s, deber&aacute; presentarse a la autoridad sanitaria local informaci&oacute;n que acredite la eficacia e inocuidad del producto. En la medida que esta informaci&oacute;n re&uacute;na los requisitos del art&iacute;culo 1&#176; y sea resultado de un esfuerzo t&eacute;cnico y econ&oacute;mico significativo, ser&aacute; protegida contra todo uso comercial deshonesto tal como se define en la presente ley y no podr&aacute; ser divulgada <P> <B>ARTICULO 5&#176;</B>- Para el caso de productos que tengan registro o autorizaci&oacute;n de comercializaci&oacute;n en la Argentina o en pa&iacute;ses del anexo I, incluido el caso se&ntilde;alado en el art&iacute;culo anterior una vez que se haya otorgado el registro en la Argentina o en alguno de esos pa&iacute;ses del anexo I, la autoridad sanitaria local proceder&aacute; a la aprobaci&oacute;n o autorizaci&oacute;n de comercializaci&oacute;n de productos similares. A esos efectos la autoridad sanitaria local, para otorgar la inscripci&oacute;n de especialidades medicinales o farmac&eacute;uticas similares a las que se encuentran autorizadas en el pa&iacute;s o en pa&iacute;ses del anexo I, solicitar&aacute; que se presente &uacute;nicamente la siguiente informaci&oacute;n, distinta a la mencionada en el art&iacute;culo anterior: <P> a) Del producto: nombre propuesto para el mismo; f&oacute;rmula (definida y verificable); forma o formas farmac&eacute;uticas en que se presentara; clasificaci&oacute;n farmacol&oacute;gica, haciendo referencia al n&uacute;mero de c&oacute;digo -si existiere- de la clasificaci&oacute;n internacional de medicamentos de la Organizaci&oacute;n Mundial de la Salud (OMS); condici&oacute;n de expendio;  <P> b) Informaci&oacute;n t&eacute;cnica: m&eacute;todo de control; periodo de vida &uacute;til; m&eacute;todo de elaboraci&oacute;n de acuerdo con pr&aacute;cticas adecuadas de fabricaci&oacute;n vigente y datos sobre bioequivalencia o biodisponibilidad del producto respecto de los similares; <P> c) Proyecto de r&oacute;tulos y etiqueta que deber&aacute;n contener las siguientes inscripciones: nombre del laboratorio, direcci&oacute;n del mismo, nombre del Director T&eacute;cnico, nombre del producto y nombre gen&eacute;rico en igual tama&ntilde;o y realce, f&oacute;rmula por unidad de forma farmac&eacute;utica o porcentual, contenido por unidad de venta, fecha de vencimiento, forma de conservaci&oacute;n y condici&oacute;n de venta, n&uacute;mero de partida y serie de fabricaci&oacute;n; y la leyenda MEDICAMENTO AUTORIZADO POR EL MINISTERIO DE SALUD Y ACCION SOCIAL, Certificado N&#176;; <P> d) Proyecto de prospectos que reproducir&aacute;; las inscripciones no variables de los r&oacute;tulos y etiquetas; la acci&oacute;n o acciones farmacol&oacute;gicas y terap&eacute;uticas que se atribuyen al producto con indicaciones cl&iacute;nicas precisas y con advertencias, precauciones y, cuando corresponda, de antagonismos, antidotismos e interacciones medicamentosas y de los efectos adversos que puedan llegar a desencadenar, posolog&iacute;a habitual y dosis m&aacute;ximas y m&iacute;nimas, forma de administraci&oacute;n, presentaciones y riesgo de habituaci&oacute;n adictiva en caso de determinadas formas de uso indebido; <P> e) En el caso de especialidades medicinales o farmac&eacute;uticas importadas de los pa&iacute;ses incluidos en el Anexo II que forma parte integrante de la presente, adem&aacute;s de la informaci&oacute;n requerida en los incisos precedentes, deber&aacute; acompa&ntilde;arse un certificado de la autoridad sanitaria del pa&iacute;s de origen. Previa a la solicitud de registro o importaci&oacute;n ante la autoridad sanitaria local, el producto en cuesti&oacute;n deber&aacute; estar comercializado en el pa&iacute;s de origen. <P> La elaboraci&oacute;n de las especialidades medicinales o farmac&eacute;uticas a que se refiere, el presente art&iacute;culo deber&aacute; llevarse a cabo en laboratorios farmac&eacute;uticos cuyas p1antas se encuentren aprobadas por entidades gubernamentales de pa&iacute;ses de alta vigilancia sanitaria o por el Ministerio de Salud y Acci&oacute;n Social, que cumplan con las normas de elaboraci&oacute;n y control de calidad, exigidas por la autoridad sanitaria nacional. <P> Una vez presentada la informaci&oacute;n solicitada en este art&iacute;culo, el Ministerio de Salud y Acci&oacute;n Social tendr&aacute; un plazo de 120 d&iacute;as corridos para expedirse, contados a partir de la presentaci&oacute;n de la solicitud de inscripci&oacute;n de la especialidad medicinal o farmac&eacute;utica. La aprobaci&oacute;n del registro o de la autorizaci&oacute;n de comercializaci&oacute;n establecida al amparo de los procedimientos de aprobaci&oacute;n para productos similares establecidos en este art&iacute;culo, por parte de la autoridad administrativa local, no implica el uso de la informaci&oacute;n confidencial protegida por la presente ley. <P> El r&eacute;gimen del presente art&iacute;culo ser&aacute; comprensivo para: <P> I. Las solicitudes de registro de especialidades medicinales a elaborarse en nuestro pa&iacute;s y aquellas a importarse de pa&iacute;ses incluidos en el Anexo II que resulten similares a otras ya inscriptas en el Registro; y <P> II. Las solicitudes de registro de especialidades medicinales a elaborarse en nuestro pa&iacute;s, similares a las autorizadas para su consumo p&uacute;blico en al menos uno de los pa&iacute;ses que integran el Anexo I, a&uacute;n cuando se  tratara de una novedad dentro del Registro de la Autoridad Sanitaria <P> <B>ARTICULO 6&#176;</B>- En los casos que se enumeran m&aacute;s abajo adem&aacute;s de la informaci&oacute;n requerida en el art&iacute;culo 5&#176;, deber&aacute; presentarse a la autoridad sanitaria local, informaci&oacute;n que acredite la eficacia e inocuidad del producto. Los casos referidos son los siguientes: <P> a) Elaboraci&oacute;n en el pa&iacute;s de productos que no tengan registro previo en la Argentina, salvo la excepci&oacute;n prevista en el art&iacute;culo anterior, para las especialidades medicinales autorizadas en algunos de los pa&iacute;ses del Anexo 1; <P> b) Importaci&oacute;n desde un pa&iacute;s del Anexo II de esta ley que no tuviera similares inscriptos en el registro de la autoridad sanitaria local a&uacute;n cuando estuviera autorizada y comercializada en el pa&iacute;s de origen; <P> c) Importaci&oacute;n de productos manufacturados en pa&iacute;ses no incluidos en los Anexos I y II de la presente ley, y no autorizados para su consumo en alguno de los pa&iacute;ses del Anexo I. <P> <B>ARTICULO 7&#176;</B>- Cuando la comercializaci&oacute;n de los productos a registrar requiera la autorizaci&oacute;n del Instituto Argentino de Sanidad y Calidad Vegetal y del Servicio Nacional de Sanidad Animal o los nuevos organismos a crearse dependientes de la Secretar&iacute;a de Agricultura, Pesca y Alimentaci&oacute;n del Ministerio de Econom&iacute;a y Obras y Servicios P&uacute;blicos, dicho organismo fijar&aacute; la normativa administrativa correspondiente, creando un sistema de clasificaci&oacute;n, archivo y reserva de documentaci&oacute;n que asegure la protecci&oacute;n de la propiedad intelectual, de acuerdo al art&iacute;culo 1&#176; de la presente ley, de la informaci&oacute;n cient&iacute;fica y t&eacute;cnica que le fuera suministrada para la inscripci&oacute;n de productos fitosanitarios y zoosanitarios. <P> <B>ARTICULO 8&#176;</B>- Cuando se trate de un producto o procedimiento protegido por una patente de invenci&oacute;n, cualquier tercero podr&aacute; utilizar la invenci&oacute;n antes del vencimiento de la patente, con fines experimentales y para reunir la informaci&oacute;n requerida para la aprobaci&oacute;n de un producto o procedimiento por la autoridad competente para su comercializaci&oacute;n con posterioridad al vencimiento de la patente. <P> <B>ARTICULO 9&#186;</B>- La informaci&oacute;n a que se refiere este Cap&iacute;tulo, ser&aacute; protegida mientras re&uacute;na los requisitos del art&iacute;culo 1&#176;; por lo tanto no estar&aacute; protegida la informaci&oacute;n que hubiera ca&iacute;do en el dominio p&uacute;blico en cualquier pa&iacute;s, por la publicaci&oacute;n de cualquiera de los datos protegidos, la presentaci&oacute;n de todos o partes de los mismos en medios cient&iacute;ficos o acad&eacute;micos, o por cualquier otro medio de divulgaci&oacute;n. <P> <B>ARTICULO 10</B>.- Quedar&aacute; exceptuado de la protecci&oacute;n del art&iacute;culo 4&#176;, la informaci&oacute;n cuya publicaci&oacute;n sea necesaria para proteger al p&uacute;blico o cuando se adopten medidas para garantizar la protecci&oacute;n de dicha informaci&oacute;n contra todo uso comercial deshonesto. <P> III <P> Acciones por infracci&oacute;n a la ley <P> <B>ARTICULO 11</B>- La protecci&oacute;n conferida por esta ley no crea derechos exclusivos en favor de quien posea o hubiera desarrollado la informaci&oacute;n. <P> El acceso por terceros a la informaci&oacute;n de manera contraria a los usos comerciales honestos, dar&aacute; derecho a quien la posea a ejercer las siguientes acciones: <P> a) Solicitar medidas cautelares destinadas a hacer cesar las conductas il&iacute;citas. <P> b) Ejercer acciones civiles destinadas a prohibir el uso de la informaci&oacute;n no divulgada y obtener la reparaci&oacute;n econ&oacute;mica del perjuicio sufrido. <P> <B>ARTICULO 12</B>- Quien incurriera en la infracci&oacute;n de lo dispuesto en la presente ley en materia de confidencialidad, quedar&aacute; sujeto a la responsabilidad que correspondiera conforme con el C&oacute;digo Penal, y otras normas penales concordantes para la violaci&oacute;n de secretos, sin perjuicio de la responsabilidad penal en que se incurra por la naturaleza del delito. <P> <B>ARTICULO 13</B>- Los funcionarios de los organismos intervinientes ser&aacute;n pasibles de las acciones que pudieran corresponder por aplicaci&oacute;n del art&iacute;culo anterior, m&aacute;s la pena de exoneraci&oacute;n y multa. <P> <B>ARTICULO 14</B>- La presente ley ser&aacute; aplicable en lo que respecta a la informaci&oacute;n referida en el art&iacute;culo 4&#176; a partir del 1&#176; de enero del a&ntilde;o 1997, siempre que se refiera a productos nuevos en los t&eacute;rminos del art&iacute;culo 4&#176; de la ley 24.481. <P> <B>ARTICULO l5</B>- Comun&iacute;quese al Poder Ejecutivo. <P> DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRE, A LOS DIECIOCHO DIAS DEL MES DE DICIEMBRE DEL A&Ntilde;O MIL NOVECIENTOS NOVENTA Y SEIS. <P> Alberto R. Pierri. -Carlos F. Ruckauf. -Juan Estrada. -Edgardo Piuzzi. <P> <B>ANEXO I</B> <P> Estados Unidos <P> Jap&oacute;n <P> Suecia <P> Confederaci&oacute;n Helv&eacute;tica <P> Israel <P> Canad&aacute; <P> Austria <P> Alemania <P> Francia <P> Reino Unido <P> Pa&iacute;ses Bajos <P> B&eacute;lgica <P> Dinamarca <P> Espa&ntilde;a <P> Italia <P> <B>ANEXO II</B> <P> Commonwealth de Australia <P> Estados Unidos de M&eacute;xico <P> Rep&uacute;blica Federativa de Brasil <P> Rep&uacute;blica de Cuba <P> Rep&uacute;blica de Chile <P> Rep&uacute;blica de Finlandia <P> Rep&uacute;blica de Hungr&iacute;a <P> Irlanda <P> Rep&uacute;blica Popular China <P> Gran Ducado de Luxemburgo <P> Reino de Noruega <P> Nueva Zelanda <P> <B>Decreto 1607/96</B> <P> <B>Bs. As., 20/2/96</B> <P> POR TANTO: <P> T&eacute;ngase por Ley de la Naci&oacute;n N&#186; 24.766 c&uacute;mplase, comun&iacute;quese, publ&iacute;quese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial y arch&iacute;vese. -MENEM. -Jorge A. Rodriguez. -Guido Di Tella.          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/ley-24766-41094" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

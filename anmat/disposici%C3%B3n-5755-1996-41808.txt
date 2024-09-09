@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.104',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5755-1996-41808/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5755-1996-41808/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5755-1996-41808/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"JFn5Km7GQ37P4Atm5zAk8jJZF90tB7liuipS0ggfbAM","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-5755-1996-41808\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-5755-1996-41808 page-normativa-nacional-disposición-5755-1996-41808-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-5755-1996-41808/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-C0h3l8GR3fhi_KVRTj7l9ojFcV63hOBQI6uy7M-QHws" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-5755-1996-41808">Disposición   5755/1996</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>1997-02-10</strong></time>
+
+          <hr>
+
+          <article>
+            <b><p align='justify'>Administración Nacional de Medicamentos, Alimentos y Tecnología Médica</p> <p align='justify'>ESPECIALIDADES MEDICINALES</p> <p align='justify'>Disposición 5755/1996</p> <p align='justify'>Norma de aplicación a la gestión de las tramitaciones de solicitudes de inscripción en el Registro de Especialidades Medicinales encuadradas en los artículos 3º, 4º y 5º del Decreto 150/92.</p> </b><p align='justify'>Bs. As., 22/11/96</p> <p align='justify'>VISTO, la Ley Nº 19.549 de Procedimientos Administrativos, modificada por Ley Nº 21.686 y su Decreto reglamentario Nº 1759/72 (Texto Ordenado por Decreto Nº 1883/91), la Ley Nº 16.463, los Decretos Nºs 9763/64, 150/92, 1890/92 y 177/93, las Resoluciones Reglamentarias Conjuntas de los Ministerios de Salud y Acción Social, y Economía y Obras y Servicios Públicos Nºs 268/92 (MSyAS), 470/92 (MEeyOySP), y Nºs 748/92 (MSyAS), 988/92 (MEyOySP), y las Disposiciones (ANMAT) Nºs 406/95, 1128/95 y 3612/95 y,</p> <p align='justify'>CONSIDERANDO:</p> <p align='justify'>Que el proceso de modernización de la gestión de esta Administración Nacional encarado a través de una estructura ágil y dinámica, persigue como objetivo primordial el cumplimiento de los principios de eficiencia, eficacia, economía, transparencia y predictibilidad en el diligenciamiento de los trámites de su competencia.</p> <p align='justify'>Que en ese contexto se hace necesario continuar con la organización de las tramitaciones referidas a la inscripción en el Registro de Especialidades Medicinales o Farmacéuticas (en adelante REM), de acuerdo a lo establecido en el artículo 2º del Decreto 150/92.</p> <p align='justify'>Que resulta indispensable contar con procedimientos de gestión normatizados, para llevar a cabo de una manera uniforme y concordante la evaluación de todas y cada una de las tramitaciones contempladas en los Decretos mencionados.</p> <p align='justify'>Que es aconsejable tipificar los trámites dentro del marco legal vigente, contemplando el distinto tratamiento que merecerán las solicitudes de inscripción en el REM encuadradas en el Artículo 5º del Decreto Nº 150/92, las que para su resolución no se encuentran sujetas a plazo perentorio alguno en atención al grado de profundización que su evaluación requiere.</p> <p align='justify'>Que se hace necesario establecer la secuencia de acciones que determinen el camino crítico para cada tipo de trámite, delimitando la competencia de cada una de las Unidades de Responsabilidad Primaria intervinientes, así como las acciones a tomar por cada una de las Unidades Operativas que integran las mismas.</p> <p align='justify'>Que asimismo y respecto de las solicitudes que se encuadren en los Arts. 3º ó 4º del Decreto Nº 150/92, corresponde asignar a cada una de las Unidades Operativas y de Responsabilidad Primaria intervinientes el tiempo con que cuentan para resolverlas, en vista de los plazos perentorios de tramitación a que las mismas se encuentran sujetas.</p> <p align='justify'>Que para dotar a los procedimientos de mayor predictibilidad y transparencia se hace necesario establecer los requisitos de información y la documentación a aportar por el administrado, así como el contenido de las planillas electrónicas para la evaluación de las mismas por cada una de las Unidades Operativas intervinientes.</p> <p align='justify'>Que resulta procedente que los datos identificatorios de las especialidades medicinales en trámite de inscripción en el REM y los de cada una de sus formas farmacéuticas sean volcados a una base de datos (en adelante Base de Datos de Gestión) con la finalidad de agilizar la emisión de informes y demás documentos de índole administrativa y evitar la superposición de acciones.</p> <p align='justify'>Que se hace necesario contar con conceptos unívocos respecto de algunos de los recaudos contenidos en las normas que rigen la aprobación y autorización de venta de especialidades medicinales.</p> <p align='justify'>Que, para cumplimentar dicha finalidad resulta procedente contar con criterios preestablecidos fácilmente disponibles por los evaluadores.</p> <p align='justify'>Que como consecuencia de la profundización del estudio de dichas normas y la asimilación de la experiencia recogida durante la gestión de esta Administración Nacional, las áreas técnicas que la constituyen han unificado sus criterios de evaluación.</p> <p align='justify'>Que la coincidencia de criterios técnicos contribuye al mejoramiento del sistema de evaluación, evitando la revisión de instancias cumplidas en aras de la celeridad y seguridad jurídica de las decisiones.</p> <p align='justify'>Que los datos identificatorios característicos deben ser convalidados por una determinada Unidad Operativa responsable de la evaluación de solicitudes de inscripción en el REM:</p> <p align='justify'>Que resulta conveniente que, una vez concluida la evaluación, habiendo sido convalidados los datos identificatorios característicos y volcados a la base de datos de gestión y autorizada la inscripción de la nueva especialidad medicinal mediante el acto dispositivo, se transfieran los datos de la nueva especialidad medicinal inscripta en el REM a la Base de Datos de Medicamentos Autorizados.</p> <p align='justify'>Que la modalidad de gestión descripta constituye el basamento técnico que permite su adaptación continua al sistema de tramitaciones a través de imágenes digitalizadas, en curso de implementación por parte de la ANMAT.</p> <p align='justify'>Que, el Departamento de Estudios y Proyectos ha tomado la intervención de su competencia.</p> <p align='justify'>Que, el Departamento de Registro y la Coordinación de Evaluación de Medicamentos y Afines han tomado la intervención de su competencia.</p> <p align='justify'>Que el Instituto Nacional de Medicamentos, la Dirección de Coordinación y Administración y la Dirección de Asuntos Jurídicos han tomado la intervención de su competencia.</p> <p align='justify'>Que se actúa en virtud de las facultades conferidas por el Artículo 10º, inciso i), del Decreto 1490/92.</p> <p align='justify'>Por ello,</p> <p align='justify'>EL DIRECTOR NACIONAL DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</p> <p align='justify'>DISPONE:</p> <b></b><p align='justify'><b>Artículo 1º</b> — La presente Disposición se aplicará a la gestión de las tramitaciones de solicitudes de inscripción en el Registro de Especialidades Medicinales (en adelante REM), encuadradas en los artículos 3º, 4º y 5º del Decreto 150/92 (T. O. Decreto 177/93).</p> <p align='justify'><b>Art. 2º</b> — Apruébanse los procedimientos para la solicitud de inscripción en el Registro de Especialidades Medicinales (REM), que figuran como Anexo I de la presente disposición y que forma parte integrante de la misma. Las acciones a ejecutar por cada Unidad Operativa interviniente así como las posibles decisiones a tomar por las unidades de responsabilidad primaria, y la secuencia contemplada en dicho Anexo, el cual determina el flujograma, revisten carácter de cumplimiento obligatorio.</p> <b></b><p align='justify'><b>Art. 3º</b> — Establécese que respecto de las solicitudes de inscripción en el REM encuadradas en los artículos 3º o 4º del Decreto Nº 150/92, los tiempos para la resolución de las tramitaciones no podrán superar los estipulados en el Anexo II de la presente Disposición, y que forma parte integrante de la misma. El Decreto Nº 150/92 no establece plazos para la resolución de las solicitudes de inscripciones encuadradas en su artículo 5º, por lo que respecto de las mismas no se imponen plazos de tramitación en esta Disposición.</p> <b></b><p align='justify'><b>Art. 4º</b> — Apruébanse los requisitos de información documentación para la iniciación de los trámites de inscripción en el REM correspondientes a cada uno de los trámites tipificados, encuadrados en los artículos 3º, 4º y 5º del Decreto 150/92 (T. O. Decreto 177/93), que figuran como Anexo III de la presente Disposición y forman parte integrante de la misma. La información volcada en los formularios correspondientes tendrá el carácter de declaración jurada.</p> <b></b><p align='justify'><b>Art. 5º</b> — Defínese como especialidad medicinal o farmacéutica similar, a aquella que contiene el (los) mismo(s) principio(s) activo(s), la(s) misma(s) concentración(es), la misma(s) forma(s) farmacéutica(s), la misma vía de administración, la misma indicación terapéutica, la misma posología, y que es equivalente al producto de referencia, pudiendo diferir en características tales como tamaño y forma, excipientes, período de vida útil, envase primario.</p> <b></b><p align='justify'><b>Art. 6º</b> — Para los trámites correspondientes al artículo 3º del Decreto 150/92 (T. O. Decreto 177/93) se aceptarán asimismo las siguientes alternativas a la definición enunciada en el artículo precedente.</p> <p align='justify'>Producto conteniendo idénticos principios activos, en la misma concentración, en similar forma farmacéutica, e idénticas vías de administración, posología, e indicaciones terapéuticas.</p> <p align='justify'>Producto conteniendo idéntica estructura molecular terapéuticamente activa de los principios activos, pudiendo diferir la sal o el éster, en la misma concentración de la estructura molecular terapéuticamente activa, en idéntica o similar forma farmacéutica, e idénticas vías de administración, posología, e indicaciones terapéuticas y que es equivalente al producto de referencia, pudiendo diferir en características tales como tamaño y forma, excipientes, envase primario y período de vida útil.</p> <b></b><p align='justify'><b>Art. 7º</b> — Defínese como forma farmacéutica similar a aquella que se encuentra en el mismo estado físico (sólido, líquido, gaseoso), se administra por la misma vía y que demuestra ser equivalente a la forma farmacéutica del producto de referencia.</p> <b></b><p align='justify'><b>Art. 8º</b> — Defínese como evidencia de comercialización a la documentación probatoria del consumo de una especialidad medicinal o farmacéutica en el mercado interno del país que se invoque. A los efectos del cumplimiento de la presente Disposición serán aceptados los siguientes documentos: a) Certificado de libre venta del producto expedido por la autoridad sanitaria del país invocado; b) Envase y/o estuche del producto, indicativo del consumo en el país invocado y de los datos de su formulación; c) Copia de la inclusión del producto en un Formulario Terapéutico (Vademecum de productos farmacéuticos) de reconocido valor informativo a nivel internacional; d) Número de Certificado de Inscripción en el REM cuando se invoque el consumo en la Argentina.</p> <p align='justify'>Los documentos mencionados deberán presentarse en original o fotocopia autenticada. Si fueran expedidos por autoridad sanitaria extranjera deberán contar con la legalización correspondiente. Si estuvieran en idioma distinto al español deberán acompañarse de la respectiva traducción realizada por traductor público matriculado.</p> <b></b><p align='justify'><b>Art. 9º</b> — Establécese que el concepto de similar o bioequivalente inserto en el texto del Decreto Nº 150/92 (T. O. Decreto 177/93) alude a la comparación entre especialidades medicinales o farmacéuticas exclusivamente.</p> <b></b><p align='justify'><b>Art. 10.</b> — Apruébase el contenido de las planillas de evaluación técnica, y los modelos de aceptación, objeción o rechazo, que figuran como Anexo IV de la presente disposición, formando parte integrante de la misma.</p> <b></b><p align='justify'><b>Art. 11.</b> — Dispónese la habilitación de ventanas de ayuda ubicadas en las planillas de evaluación electrónicas, conteniendo en cada caso las definiciones y/o normativa legal vigente, así como toda otra información que se considere necesaria. El texto de las mismas estará disponible de acuerdo a las necesidades que se detecten mediante la implementación del sistema.</p> <b></b><p align='justify'><b>Art. 12.</b> — Las especialidades medicinales que se inscriban en el REM, así como cada una de sus formas farmacéuticas, serán particularizadas mediante datos identificatorios característicos.</p> <b></b><p align='justify'><b>Art. 13.</b> — Dispónese la implementación de una base de datos de gestión, que se irá completando con los datos identificatorios característicos que se convaliden e incorporen a la misma en el momento de producirse los Informes Técnicos de Aceptación por parte de las unidades operativas que corresponda. Los mismos serán automáticamente transcriptos a los informes técnicos, proyectos de Disposición Autorizante y su correspondiente Certificado de Inscripción en el REM.</p> <b></b><p align='justify'><b>Art. 14.</b> — Establécese que la Dirección de Asuntos Jurídicos, como unidad operativa y de responsabilidad primaria interviniente, efectuará en la temática de su competencia, un dictamen por cada solicitud de inscripción en el REM estudiada, dejando constancia de ello en las planillas y los dictámenes tipo cuyos modelos figuran como Anexo V de la presente Disposición, formando parte integrante de la misma.</p> <b></b><p align='justify'><b>Art. 15.</b> — Establécese que los Informes de Aceptación, Objeción o Rechazo, constituirán el aval técnico para sustentar, interrumpir, o denegar la inscripción en el REM.</p> <b></b><p align='justify'><b>Art. 16.</b> — Apruébanse los textos no variables de Disposición Autorizante de inscripción en el REM de una nueva especialidad medicinal o farmacéutica, que contendrán como Anexo los correspondientes certificados de inscripción en dicho Registro, que figuran en el Anexo VI de la presente Disposición, formando parte integrante de la misma.</p> <b></b><p align='justify'><b>Art. 17.</b> — Establécense como modelos de Disposición Denegatoria de inscripción en el REM, los que figuran en el Anexo VII de la presente Disposición, y formando parte integrante de la misma.</p> <b></b><p align='justify'><b>Art. 18.</b> — Establécese que la fecha de protocolización de la Disposición Autorizante y su correspondiente Certificado se imprimirá en ambos, así como la numeración correlativa asignada automáticamente, transfiriéndose simultáneamente la información contenida en la base de datos de gestión a la Base de Datos de Medicamentos autorizados, con el consecuente isomorfismo entre la información contenida en dichos actos administrativos, y ambas bases de datos.</p> <b></b><p align='justify'><b>Art. 19.</b> — Déjanse sin efecto las Disposiciones ANMAT 406/95 y 3612/95, las que quedarán reemplazadas en su totalidad por la presente Disposición.</p> <b></b><p align='justify'><b>Art. 20.</b> — El Departamento de Estudios y Proyectos será el encargado de proponer las modificaciones a la presente Disposición toda vez que las circunstancias así lo requieran: por indicación de la Dirección Nacional, en función de las sugerencias emanadas de las distintas unidades operativas y de responsabilidad primaria intervinientes en las tramitaciones objeto de la presente, para optimizar el sistema, o por necesidad de adecuación a nuevas normas legales.</p> <b></b><p align='justify'><b>Art. 21.</b> — Regístrese, comuníquese a quienes corresponda: a CILFA, CAEMe; COOPERALA y CAPEMVel. Publíquese en el Boletín Informativo, dése a la Dirección Nacional del Registro Oficial. Cumplido, archívese. Previo, publíquese en el Boletín Oficial. — Pablo M. Bazerque.</p> <p style='font-style: italic;' align='justify'><span style='font-style: italic;'>(</span><span style='font-weight: bold; font-style: italic;'>Nota Infoleg</span><span style='font-style: italic;'>: por art. 8° de la </span><a style='font-style: italic;'  target='_blank' href='/normativa/nacional/disposición-6428-2014-235064'>Disposición N° 6428/2014</a><span style='font-style: italic;'> de la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica B.O. 15/9/2014 se deja sin efecto el sistema de gestión de las tramitaciones de solicitudes de inscripción en el Registro de Especialidades Medicinales (REM) encuadradas en el artículo 4° del <a  target='_blank' href='/normativa/nacional/decreto-150-1992-8196'>Decreto Nº 150/92</a> (t.o. 1993) previsto en la presente Disposición, modificada por <a  target='_blank' href='/normativa/nacional/disposición-1646-1997-42788'>Disposición ANMAT Nº 1646/97</a>, únicamente en lo referente al trámite de inscripción de ingredientes farmacéuticos activos (IFA’S) de origen sintético y semisintético, el cual será reemplazado por el SISTEMA DE GESTION ELECTRONICA CON FIRMA DIGITAL adoptado por el artículo 1° de la disposición de referencia; manteniéndose la vigencia de los restantes artículos aplicables de ésta Disposición. Vigencia: el día siguiente al de su publicación en el Boletín Oficial)</span><span style='font-style: italic;'></span></p> <p style='font-style: italic;' align='justify'>(<span style='font-weight: bold;'>Nota Infoleg:</span> por art. 8° de la <a  target='_blank' href='/normativa/nacional/disposición-680-2013-208229'>Disposición N° 680/2013</a> de la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica B.O. 06/03/2013 se deja sin efecto el sistema de gestión de las tramitaciones de solicitudes de inscripción en el Registro de Especialidades Medicinales (REM) previsto en la presente Disposición, únicamente en lo referente al trámite de inscripción de ingredientes farmacéuticos activos (IFA’S) de origen sintético y semisintético, el cual será reemplazado por el SISTEMA DE GESTION ELECTRONICA CON FIRMA DIGITAL adoptado por el artículo 1° de la norma de referencia; manteniéndose la vigencia de los restantes artículos aplicables de ésta Disposición<span style='font-style: italic;'></span>)</p>   <p align='justify'>NOTA: Esta Disposición se publica sin Anexos. La documentación no publicada puede ser consultada en la Sede Central de esta Dirección Nacional (Suipacha 767 - Capital Federal) o en la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (Avda. de Mayo 869, 3º Piso, Oficina de Despacho, Capital Federal).</p>  <i><p align='justify'>(<b>Nota Infoleg</b>: Las modificaciones a los Anexos se pueden consultar en nuestra base ingresando al icono '<a  target='_blank' href='http://www.infoleg.gob.ar/infolegInternet/verVinculos.do?modo=2&amp;id=41808'>esta norma es modificada, complementada y/o reglamentada por…</a>'.)</p></i>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-5755-1996-41808" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

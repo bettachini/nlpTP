@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/decreto-341-1992-8383/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/decreto-341-1992-8383/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/decreto-341-1992-8383/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"_pL_A9a6nMZExOSK-po-thLQI3LmvwYQa-cEYFbSk2A","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/decreto-341-1992-8383\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-decreto-341-1992-8383 page-normativa-nacional-decreto-341-1992-8383-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/decreto-341-1992-8383/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-EhCCyCZ86dohVWxoszaKdWniITUStFM5hVRnNAXEWj8" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/decreto-341-1992-8383">Decreto DNU 341/1992</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>PODER EJECUTIVO NACIONAL (P.E.N.)</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>1992-02-27</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>EMERGENCIA SANITARIA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Decreto 341/92</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Unif&iacute;canse las sanciones pecuniarias a aplicar a las infracciones cometidas contra normas sanitarias.</P> </B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Bs. As., 24/2/92</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO los t&eacute;rminos del Decreto Nº 251 del 6 de febrero de 1992, y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que mediante dicho acto administrativo se declara la Emergencia Sanitaria en todo el Territorio de la Naci&oacute;n con motivo de la situaci&oacute;n epidemiol&oacute;gica provocada por el avance del c&oacute;lera.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que resulta necesario que el MINISTERIO DE SALUD Y ACCION SOCIAL, y en su caso la autoridad sanitaria local, cuenten con el sustento normativo que les permita aplicar en forma r&aacute;pida y efectiva las sanciones pecuniarias previstas en la legislaci&oacute;n sanitaria nacional, unific&aacute;ndose &eacute;stas y el procedimiento para su aplicaci&oacute;n, en orden a obtener un resultado satisfactorio en la lucha contra el flagelo antes mencionado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que a tales fines, y sin perjuicio de las penalidades previstas en los distintos ordenamientos sanitarios vigentes, est&iacute;mase aconsejable unificar las sanciones de multa previstas en los mismos, deleg&aacute;ndose en el MINISTERIO DE SALUD Y ACCION SOCIAL la fijaci&oacute;n de nuevos importes cuando las circunstancias as&iacute; lo hicieren necesarios.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, asimismo, corresponde delegar en el MINISTERIO DE SALUD Y ACCION SOCIAL la facultad de establecer, en el orden nacional, el procedimiento administrativo tendiente a investigar las presuntas infracciones a las normas sanitarias, asegurando el derecho de defensa del presunto infractor.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la indispensable celeridad que precisa para instrumentar y poner en pr&aacute;ctica el nuevo ordenamiento obliga a recurrir en parte al ejercicio de facultades legislativas reservadas a otro Poder de la Rep&uacute;blica en un caso como el presente, ya que la epidemia de c&oacute;lera y la declaraci&oacute;n de emergencia sanitaria decretada en su consecuencia en todo el territorio de la Naci&oacute;n impiden esperar el tiempo que demandar&iacute;a su sanci&oacute;n por el HONORABLE CONGRESO DE LA NACION, con el consecuente perjuicio social que ello importar&iacute;a. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que lo expuesto califica como URGENTE la situaci&oacute;n descripta, requiriendo inexcusablemente la adopci&oacute;n en forma inmediata de las soluciones de fondo tendientes a impedir los potenciales graves perjuicios que acarrear&iacute;a a la salud de la poblaci&oacute;n una demora en su implementaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el PODER EJECUTIVO NACIONAL, adem&aacute;s de las facultades que le confiere el art&iacute;culo 86 de la CONSTITUCION NACIONAL, puede ejercer atribuciones legislativas cuando la necesidad se hace presente y la urgencia lo justifica, contando para ello con el respaldo de la mejor doctrina constitucional y de la jurisprudencia de la CORTE SUPREMA DE JUSTICIA DE LA NACION.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>As&iacute; Joaqu&iacute;n V. GONZALEZ ha sostenido en su &quot;Manual de la Constituci&oacute;n Argentina&quot; que &quot;…puede el Poder Ejecutivo, al dictar reglamentos o resoluciones generales, invadir la esfera legislativa o, en casos excepcionales o urgentes, creer necesario anticipar la sanci&oacute;n de una ley…&quot; (Conforme en el mismo sentido BIELSA, Rafael — Derecho Administrativo 1954 — Tº 1 — p&aacute;gina 3091). Tambi&eacute;n la CORTE SUPREMA DE JUSTICIA DE LA NACION le ha dado acogida favorable a esta postura doctrinaria (Fallos 11:405; 23:257). </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, asimismo, ha se&ntilde;alado la CORTE SUPREMA DE JUSTICIA DE LA NACION que la Constituci&oacute;n no reconoce derechos absolutos en momentos de perturbaci&oacute;n social y econ&oacute;mica y en otras situaciones semejantes de emergencia y que, ante la urgencia en atender a la soluci&oacute;n de los problemas que ella crea, es posible el ejercicio del poder del Estado en forma m&aacute;s en&eacute;rgica que la admisible en per&iacute;odos de sosiego y normalidad.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el presente se dicta en el contexto de la situaci&oacute;n de emergencia y con sustento en la doctrina de los reglamentos de necesidad y urgencia, toda vez que se configuran en el caso los requisitos que lo legitiman.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por &uacute;ltimo, la legitimidad y validez de tales decretos se reconoce tambi&eacute;n sobre la base de existir una intenci&oacute;n manifiesta de someter el reglamento a la ratificaci&oacute;n legislativa.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, cumplidos tales recaudos, las atribuciones del PODER EJECUTIVO NACIONAL para dictar estos decretos es aceptada por la doctrina y la jurisprudencia, ya que el principio de divisi&oacute;n de poderes no puede ser entendido de modo tal que impida proveer &uacute;ltimamente la satisfacci&oacute;n de la suprema necesidad de la vida del Estado, cuando la urgencia del procedimiento requerido no permite esperar hasta la aprobaci&oacute;n del &oacute;rgano legislativo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que dicho ejercicio est&aacute; sujeto al control y decisi&oacute;n final del &oacute;rgano legislativo de la Naci&oacute;n, de acuerdo a la doctrina de los reglamentos de necesidad y urgencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello, </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL PRESIDENTE DE LA NACION ARGENTINA</P> <P ALIGN='JUSTIFY'>DECRETA: </P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º</B> — Unif&iacute;canse las sanciones pecuniarias a aplicar a las infracciones cometidas contra las normas sanitarias identificadas en el Anexo I, en las sumas de PESOS MIL ($ 1000) a PESOS UN MILLON ($ 1.000.000), sin perjuicio de la aplicaci&oacute;n de las restantes sanciones administrativas que cupieren y de las denuncias penales que se formularen cuando as&iacute; correspondiere. La autoridad sanitaria de aplicaci&oacute;n graduar&aacute; los montos a aplicar en cada caso teniendo para ello presente los antecedentes del imputado, la gravedad de la falta y su proyecci&oacute;n desde el punto de vista sanitario. En caso de reincidencia, atendi&eacute;ndose a los mismos par&aacute;metros de graduaci&oacute;n la sanci&oacute;n podr&aacute; establecerse en hasta el d&eacute;cuplo del valor impuesto a la infracci&oacute;n anterior.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 2º</B> — El MINISTERIO DE SALUD Y ACCION SOCIAL, queda autorizado para fijar nuevos valores, de conformidad con la legislaci&oacute;n vigente, cuando las circunstancias sanitarias de la Naci&oacute;n as&iacute; lo hicieren aconsejable, los que no podr&aacute;n exceder el duplo de los mencionados en el art&iacute;culo precedente.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 3º</B> — Los inspectores o funcionarios debidamente facultados tendr&aacute;n la atribuci&oacute;n de penetrar en los lugares donde se ejerzan actividades aprehendidas por las normas de la legislaci&oacute;n sanitaria durante las horas destinadas a su ejercicio, y aun cuando mediare negativa del propietario o responsable, estar&aacute;n autorizados a ingresar cuando haya motivo fundado para creer que se est&aacute; cometiendo una infracci&oacute;n que atente contra la salud de la poblaci&oacute;n. Las autoridades policiales de la jurisdicci&oacute;n deber&aacute;n prestar el concurso pertinente, a solicitud de aqu&eacute;llos, para el cumplimiento de sus funciones. La negativa injustificada del propietario o responsable lo har&aacute; pasible de la aplicaci&oacute;n de una multa que se establecer&aacute; de conformidad con lo previsto en el art&iacute;culo 1º. Los jueces, con habilitaci&oacute;n de d&iacute;a y hora, acordar&aacute;n de inmediato a los funcionarios designados por la autoridad sanitaria la orden de allanamiento y el auxilio de la fuerza p&uacute;blica, si estas medidas fueren solicitadas por dicha autoridad.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 4º</B> — El MINISTERIO DE SALUD Y ACCION SOCIAL establecer&aacute; el procedimiento administrativo a aplicar en su jurisdicci&oacute;n para la investigaci&oacute;n de presuntas infracciones a las normas sanitarias, asegurando el derecho de defensa del presunto infractor y dem&aacute;s garant&iacute;as constitucionales. No obstante, sin perjuicio de las penalidades que se determine aplicar por el procedimiento requerido, la autoridad sanitaria de aplicaci&oacute;n, teniendo presente la gravedad y/o reiteraci&oacute;n de la infracci&oacute;n, podr&aacute; proceder a la suspensi&oacute;n, inhabilitaci&oacute;n, clausura, comiso, interdicci&oacute;n de autorizaci&oacute;n, matriculaci&oacute;n, habilitaci&oacute;n de profesionales, t&eacute;cnicos, locales, establecimientos o productos, en forma preventiva y por un plazo m&aacute;ximo de hasta NOVENTA (90) d&iacute;as.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 5º</B> — Autor&iacute;zase al MINISTERIO DE SALUD Y ACCION SOCIAL a adoptar medidas de excepci&oacute;n, debidamente fundadas, con relaci&oacute;n a la venta ambulante de sustancias alimenticias incorporadas al C&oacute;digo Alimentario Argentino y a la importaci&oacute;n, exportaci&oacute;n, elaboraci&oacute;n, comercializaci&oacute;n y fraccionamiento de productos relacionados con la prevenci&oacute;n y/o tratamiento del c&oacute;lera.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 6º</B> — La autoridad sanitaria de aplicaci&oacute;n, en caso de comprobar el incumplimiento de las obligaciones previstas en las normas sanitarias vigentes, deber&aacute; intimar al funcionario responsable bajo apercibimiento de sancionarlo de acuerdo con las normas respectivas. En caso de comprobarse la demora en la tramitaci&oacute;n, el superior y jer&aacute;rquico deber&aacute; avocarse a la prosecuci&oacute;n del tr&aacute;mite, sin perjuicio de la sanci&oacute;n que corresponda al responsable de la dilaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 7º</B> — D&eacute;se cuenta al HONORABLE CONGRESO DE LA NACION.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 8º</B> — Comun&iacute;quese, publ&iacute;quese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial y arch&iacute;vese. — MENEM. — Julio C. Ar&aacute;oz.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ley 11.843, modificada por las Leyes N<SUP>os</SUP> 14.156, 21.510, 22.577 y el Decreto Ley 8.660/63.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ley Nº 12.317.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ley Nº 16.463, reglamentada por el Decreto Nº 9.763/64.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ley Nº 17.818 modificada por la Ley Nº 22.599.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ley Nº 17.565, modificada por las Leyes N<SUP>os</SUP> 19.451, 19.579 y 22.728.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ley Nº 17.132, modificada por las Leyes N<SUP>os</SUP> 22.650 y 23.873.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ley Nº 24.004.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ley Nº 18.284 modificada por las Leyes N<SUP>os</SUP> 18.560, 18.420 y 21.978.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ley Nº 19.303, modificada por la Ley Nº 19.678.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Decreto Nº141/53 (Reglamento Alimentario Nacional) en cuanto resulta de aplicaci&oacute;n para todo producto que no sea alimento o bebida.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/decreto-341-1992-8383" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

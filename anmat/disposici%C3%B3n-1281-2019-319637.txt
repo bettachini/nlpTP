@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1281-2019-319637/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1281-2019-319637/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1281-2019-319637/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"H7c-9V2UjvL-YjetbRUICtpZdRpMKHjYxbL5cufwJrU","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-1281-2019-319637\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-1281-2019-319637 page-normativa-nacional-disposición-1281-2019-319637-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-1281-2019-319637/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-L4LxpOBjbXUoyDFDNkDPBs4fCwLMrcSNb3-zf1Z3jPc" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-1281-2019-319637">Disposición   1281/2019</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2019-02-06</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 1281/2019</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>DI-2019-1281-APN-ANMAT#MSYDS</span><br> <br> Ciudad de Buenos Aires, 01/02/2019<br> <br> VISTO la Ley 16.463 y los Decretos Reglamentarios Nros. 9763/64, 150/92 (T.O. 1993), la Ley N° 18.284, los Decretos Nros. 1490/92, y 341/92 y el EX-2019-05951265-APN-DECBR#ANMAT del Registro de esta ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA; y<br> <br> CONSIDERANDO:<br> <br> Que por Disposición ANMAT N° 3827/2018 se aprobó la &#8220;Guía de Buenas Prácticas de Fabricación para Elaboradores, Importadores/Exportadores de Medicamentos de Uso Humano&#8221; como Anexo IF-2018-17200050-APN-ANMAT#MS.<br> <br> Que en virtud de la necesidad de adoptar requerimientos internacionales sobre Buenas Prácticas de Fabricación de Especialidades Medicinales, la Guía antes citada fue establecida sobre la base y en concordancia con los principios y lineamentos de la Guía sobre Buenas Prácticas de fabricación de la PIC&#8217;S - Pharmaceutical Inspection Cooperation Scheme, entre otros.<br> <br> Que como consecuencia de los avances científicos y tecnológicos la ANMAT ha previsto revisar en forma periódica la Guía de Buenas Prácticas de Fabricación para Elaboradores, Importadores/Exportadores de Medicamentos de Uso Humano a fin de reflejar la mejora continua de las mejoras prácticas en el campo de la Calidad.<br> <br> Que en Julio de 2018, fue publicada la revisión del Anexo 17- Liberación Paramétrica de la Guía PIC/S sobre Buenas Prácticas de fabricación.<br> <br> Que el motivo de la revisión fue que la versión anterior de dicho Anexo solo se encontraba enfocada a la aplicación de la Liberación paramétrica definida como la liberación de un lote de producto con esterilización terminal sobre la base de una verificación de parámetros de control de procesos críticos y no en la realización de ensayos de esterilidad en los productos finales. Por otra parte, fueron considerados los avances en la aplicación de la tecnología analítica de procesos (PAT), la calidad por diseño (QbD) y los principios de gestión de riesgos de calidad (QRM) en el desarrollo y fabricación farmacéutica, que permitieron demostrar que una combinación adecuada de controles de proceso junto con el monitoreo y la verificación oportunos de los atributos preestablecidos del material ofrecían una mayor garantía de la calidad del producto que los ensayos sobre los productos terminados por sí solo.<br> <br> Que en virtud de ello fue incorporado el concepto de Liberación de lote a tiempo real junto al de Liberación paramétrica.<br> <br> Que como consecuencia de ello, en términos de convergencia regulatoria, resulta oportuno alinear el Anexo 11-Liberacion paramétrica aprobado por Disposición ANMAT 3827/2018 a la nueva versión del Anexo 17 de la Guía PIC/S antes citada, ahora denominado Ensayos de liberación en tiempo real y Liberación paramétrica, mediante la adopción de los cambios introducidos en el mismo.<br> <br> Que se actúa en virtud de las facultades conferidas por el Decreto N° 1490 de fecha 20 de agosto de 1992 y sus modificatorios.<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1°.- Apruébase la actualización y nueva denominación del Anexo 11 de la &#8220;Guía de Buenas Prácticas de Fabricación para Elaboradores, Importadores/Exportadores de Medicamentos de Uso Humano&#8221; establecida por Disposición ANMAT n° 3827/18, el cual, como Anexo IF-2019-05953200-APN-DECBR#ANMAT, forma parte integrante de la presente disposición.<br> <br> ARTÍCULO 2º.- Déjase sin efecto el Anexo 11- Liberación Paramétrica aprobado por Disposición ANMAT N° 3827/18.<br> <br> ARTÍCULO 3°.- Regístrese. Dése a la Dirección Nacional del Registro Oficial para su publicación. Notifíquese a las Cámaras de Especialidades Medicinales (CILFA, CAEME, COOPERALA, CAPGEN, CAPEMVEL), Cámara Argentina de Biotecnología (CAB), SAFYBI, Confederación Médica de la República Argentina (COMRA) y a la Confederación Farmacéutica Argentina (COFA) Cumplido, archívese. Carlos Alberto Chiale<br> <br> NOTA: El/los Anexo/s que integra/n este(a) Disposición se publican en la edición web del BORA -www.boletinoficial.gob.ar-<br> <br> <div style='text-align: right;'>e. 06/02/2019 N° 6379/19 v. 06/02/2019<br>  <br> <div style='text-align: left;'><span style='font-style: italic;'>(<span style='font-weight: bold;'>Nota Infoleg:</span> Los anexos referenciados en la presente norma han sido extraídos de la edición web de Boletín Oficial)<br> <br> </span> </div> <div style='text-align: justify;'> <div style='text-align: justify;'> <div style='text-align: center;'><span style='font-weight: bold;'>ANEXO 11</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>ENSAYOS DE LIBERACIÓN EN TIEMPO REAL Y LIBERACIÓN PARAMÉTRICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <div style='text-align: left;'><span style='font-weight: bold;'>1. PRINCIPIO</span><br> </div> </div> <br> 1.1 Los medicamentos deben cumplir con sus especificaciones aprobadas. En cumplimiento de las BPF, en general, se los puede liberar al mercado con la realización de un conjunto completo de pruebas en los ingredientes farmacéuticos activos y/o productos terminados, según lo especifique la autorización de comercialización o la autorización del ensayo clínico correspondiente. En situaciones específicas, cuando se lo autorice y sobre la base del conocimiento del producto y de la comprensión del proceso, para la liberación del lote se puede usar la información obtenida durante el proceso de fabricación en vez de los ensayos en el producto final. Toda actividad independiente necesaria para esta modalidad de liberación de lotes debe estar comprendida en el Sistema de Calidad Farmacéutico.<br> <br> <span style='font-weight: bold;'>2. ALCANCE</span><br> <br> 2.1 Este documento tiene por objeto describir los requisitos para la aplicación de los ensayos de liberación en tiempo real - RTRT (siglas en inglés de Real Time Release Testing) y la liberación paramétrica, mediante los cuales, el control de los parámetros críticos y los atributos de los materiales pertinentes se autorizan como una alternativa a los ensayos en el producto final de ingredientes farmacéuticos activos y/o productos terminados. Un objetivo específico de este lineamiento es incorporar la aplicación de los RTRT a cualquier etapa del proceso de fabricación y a cualquier tipo de producto terminado o sustancia activa, incluyendo los productos intermedios.<br> <br> <span style='font-weight: bold;'>3. ENSAYOS DE LIBERACIÓN EN TIEMPO REAL - RTRT</span><br> <br> 3.1 De acuerdo con la modalidad RTRT, una combinación de monitoreos y controles en proceso, cuando se la autoriza, puede reemplazar los ensayos en los productos finales como parte de la decisión de liberación de lotes. Es necesaria la interacción con todas las autoridades reguladoras pertinentes antes de y durante el proceso de evaluación que antecede a la aprobación regulatoria. El grado de interacción dependerá del grado de complejidad del procedimiento de control de los RTRT aplicado en la planta.<br> <br> 3.2 En el diseño de la estrategia de los RTRT, como mínimo, se deben establecer y cumplir los siguientes criterios:<br> <br> (i) La medición y el control en tiempo real de los atributos de los materiales en proceso y los procesos paramétricos pertinentes deben ser indicadores precisos de los atributos de los correspondientes productos terminados.<br> <br> (ii) La combinación válida de atributos de materiales y controles de procesos pertinentes evaluados para reemplazar los atributos de producto terminado se debe establecer mediante evidencia científica sobre la base del conocimiento del material, producto y proceso.<br> <br> (iii) Las mediciones combinadas del proceso (parámetros del proceso y atributos de los materiales) y cualquier otro dato analítico generado durante el proceso de elaboración deben proporcionar una base sólida para los RTRT y la decisión de liberación de lote.<br> <br> 3.3 El sistema de calidad farmacéutico debe integrar y controlar la estrategia para los RTRT. Se debe incluir o hacer referencia a información de lo siguiente:<br> <br> - Gestión del riesgo para la calidad, con la inclusión de una evaluación de riesgo del proceso completo, de conformidad con los principios descriptos en el Capítulo 1 de la Parte A y el Capítulo 2 de la Parte B de la Guía de Buenas Prácticas de Fabricación de Medicamentos de Uso Humano establecida por Disposición ANMAT 3827-2018<br> <br> - Programa de control de cambios.<br> <br> - Estrategia de control.<br> <br> - Programa de capacitación del personal específico.<br> <br> - Políticas de calificación y validación.<br> <br> - Sistemas de desvíos y CAPA.<br> <br> - Procedimiento de contingencia en caso de falla de un sensor o equipamiento<br> <br> - Programa de revisión/reevaluación periódica para medir la efectividad del plan de RTRT para la garantía continua de la calidad de los productos.<br> <br> 3.4 De acuerdo con los principios descriptos en el Capítulo 1 de la Parte A, el Capítulo 13 de la Parte B y el Anexo 5 de la Guía de Buenas Prácticas de Fabricación de Medicamentos de Uso Humano establecida por Disposición ANMAT 3827-2018, el programa de control de cambios constituye una parte importante del enfoque de los ensayos de liberación en tiempo real. Cualquier cambio que pudiera tener un impacto en la fabricación y los ensayos de los productos; o, el status de validación de las instalaciones, los sistemas, el equipamiento, los métodos o procesos analíticos se debe evaluar en función del riesgo para la calidad del producto y el impacto en la reproducibilidad del proceso de fabricación. Tras la implementación de cambios, se debe realizar una evaluación para comprobar que no exista un impacto no buscado ni perjudicial para la calidad del producto.<br> <br> 3.5 Se debe diseñar una estrategia de control no sólo para monitorear el proceso, sino también para mantener un estado de control y asegurar que se fabricará uniformemente un producto de la calidad necesaria. La estrategia de control debe describir y justificar la selección de los controles en proceso, los atributos de los materiales y los parámetros de los procesos que exigen un monitoreo de rutina; y, se deben fundar en la comprensión del producto, de la formulación y del proceso. La estrategia de control es dinámica y puede cambiar durante la vida útil del producto para lo que puede necesitar un enfoque de gestión del riesgo para la calidad y de gestión del conocimiento. Asimismo, la estrategia de control debe describir el plan de muestreo y los criterios de aceptación/rechazo.<br> <br> 3.6 El personal debe recibir capacitación específica en las tecnologías, los principios y los procedimientos de RTRT. El personal clave debe demostrar experiencia, conocimiento y comprensión adecuados de los productos y procesos. Una implementación exitosa de los RTRT exige la participación de un equipo transversal multidisciplinario con la experiencia pertinente en cuestiones específicas como ingeniería, analítica, modelos químico-métricos o estadísticas.<br> <br> 3.7 Las políticas de validación y calificación constituyen aspectos importantes de la estrategia de RTRT, en particular, en lo que refiere a métodos analíticos avanzados. Se debe prestar especial atención a la calificación, validación y gestión de los métodos en la línea y dentro de la línea, cuando la sonda de muestreo se coloque en el equipamiento de fabricación.<br> <br> 3.8 Todo desvío o falla del proceso se debe investigar exhaustivamente y se le debe dar seguimiento apropiado a toda tendencia adversa que indique un cambio en el estado de control.<br> <br> 3.9 El aprendizaje continuo a través de la recolección de datos y el análisis en el ciclo de vida de un producto es importante y debe ser parte del sistema de calidad farmacéutico. Con el avance de la tecnología, se pueden observar ciertas tendencias de datos, propias de un proceso actualmente aceptable. Los fabricantes deben evaluar los datos científicamente en consulta con las autoridades reguladoras, de corresponder, para definir cómo o si esas tendencias indican oportunidades para mejorar la calidad/uniformidad.<br> <br> 3.10 Una vez aprobado el uso de RTRT, se deberá utilizar este enfoque rutinariamente para la liberación de lotes. En el caso de que los resultados de RTRT fallen o indiquen una tendencia a la falla, no se podrá reemplazar por ensayos en el producto final. Todas las fallas se deben investigar exhaustivamente y se las debe tener en cuenta en la decisión de liberación de lote según los resultados de dichas investigaciones; además, deben cumplir con lo establecido en la autorización de comercialización y los requisitos de las BPF. Las tendencias deben tener un seguimiento apropiado.<br> <br> 3.11 Los atributos (por ej. uniformidad de contenido) que se contralan indirectamente a través de los RTRT aprobados deben figurar en los certificados de análisis de los lotes. Se debe mencionar el método aprobado para realizar ensayos en el producto final y los resultados se deben exhibir con la leyenda: 'cumple si se lo analiza' con una nota al pie que mencione: 'controlado por ensayos de liberación en tiempo real'.<br> <br> <span style='font-weight: bold;'>4. LIBERACIÓN PARAMÉTRICA Y ESTERILIZACIÓN</span><br> <br> 4.1 Esta sección proporciona lineamientos sobre la liberación paramétrica, que se define como la liberación de un lote de producto con esterilización terminal sobre la base de una revisión de parámetros de control de procesos críticos y no en la realización de ensayos de esterilidad en los productos finales.<br> <br> 4.2 Un ensayo de esterilidad en un producto final tiene capacidad limitada para detectar contaminación, ya que utiliza sólo un pequeño número de muestras en relación con el tamaño de lote general; además, los medios de cultivo sólo pueden estimular el crecimiento de algunos microorganismos, pero no de todos. Por lo tanto, el ensayo de esterilidad en un producto final sólo proporciona la oportunidad de detectar fallas mayores en el sistema de aseguramiento de la esterilidad (es decir, una falla que deriva en la contaminación de un gran número de unidades de producto y/o que conduce a la contaminación causada por microorganismos específicos cuya proliferación es sustentada por el medio determinado). Por el contrario, los datos prevenientes de los controles en-proceso (por ej. la carga biológica del producto antes de la esterilización o el monitoreo ambiental) y de los parámetros de esterilización pertinentes pueden proporcionar información más precisa y relevante para dar sustento al aseguramiento de la esterilidad del producto.<br> <br> 4.3 La liberación paramétrica solamente se puede aplicar a productos esterilizados en su envase final mediante calor húmedo, calor seco o radiación ionizante (liberación dosimètrica).<br> <br> 4.4 Para utilizar este enfoque, el fabricante debe tener un historial de cumplimiento de BPF aceptable y un programa de aseguramiento de la esterilidad robusto que demuestre un control de proceso constante y la comprensión del proceso.<br> <br> 4.5 Se debe documentar el programa de aseguramiento de la calidad que debe incluir, al menos: la identificación y el monitoreo de los parámetros de los procesos críticos, el desarrollo y la validación del ciclo del esterilizador, la validación de la integridad del contenedor/envase, el control de la carga biológica, el programa de monitoreo ambiental, el plan de segregación de productos, el equipamiento, el programa de calificación y diseño de los servicios y las instalaciones, el programa de calibración y mantenimiento, el programa de control de cambios y la capacitación del personal. También debe incorporar un enfoque de gestión del riesgo para la calidad.<br> <br> 4.6 La gestión del riesgo es un requisito esencial para la liberación paramétrica y se debe enfocar en mitigar los factores que aumentan el riesgo de falla para alcanzar y mantener la esterilidad en cada unidad del lote. Si se considera un nuevo producto o proceso para la liberación paramétrica, se debe realizar una evaluación del riesgo durante el desarrollo del proceso que incluya una evaluación de los datos de producción de productos existentes, si corresponde. Si se considera un producto o proceso existente, la evaluación del riesgo debe incluir una evaluación de todo historial de datos generados.<br> <br> 4.7 El personal que realiza el proceso de liberación paramétrica debe tener experiencia en las siguientes áreas: microbiología, aseguramiento de la esterilidad, ingeniería, producción y esterilización. Se deben documentar las calificaciones, la experiencia, la competencia y la capacitación de todo el personal que participa en la liberación paramétrica.<br> <br> 4.8 Se debe registrar en el sistema de control de cambios todo cambio propuesto que pueda influir en el aseguramiento de la esterilidad y lo debe revisar personal apropiadamente calificado y con experiencia en el aseguramiento de la esterilidad.<br> <br> 4.9 Se debe desarrollar un programa de monitoreo de carga biológica pre-esterilización para el producto y sus componentes a los efectos de sustentar la liberación paramétrica. La carga biológica se debe controlar en cada lote. Los puntos de muestreo de las unidades llenadas antes de la esterilización se deben posicionar en función de las condiciones del peor caso y deben ser representativos del lote. Se debe identificar todo organismo hallado durante el ensayo de la carga biológica para confirmar que no sean formadores de esporas, que pueden ser más resistentes al proceso de esterilización.<br> <br> 4.10 Se debe minimizar la carga biológica del producto mediante el diseño apropiado del entorno de fabricación y el proceso a través de:<br> <br> - Un buen diseño del equipamiento y de las instalaciones que permitan la limpieza, desinfección y sanitización efectivas.<br> <br> - La disponibilidad de procedimientos detallados y efectivos para limpiar, desinfectar y sanitizar.<br> <br> - El uso de filtros microbianos retentivos, cuando sea posible.<br> <br> - La disponibilidad de prácticas y procedimientos operativos que promuevan la higiene del personal y apliquen el control de vestimenta apropiado.<br> <br> - Especificaciones microbiológicas apropiadas para las materias primas, los productos intermedios y los auxiliares de proceso (por ej. gases).<br> <br> 4.11 En el caso de productos acuosos o microbiológicamente inestables, se debe definir el lapso entre la disolución de materiales de partida, la filtración del líquido del producto y la esterilización, a fin de minimizar el desarrollo de la carga biológica y un aumento de endotoxinas (si corresponde).<br> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Proceso de esterilización</span><br> <br> 4.12 Las actividades de calificación y validación son críticas para asegurar que el equipamiento de esterilización puede cumplir uniformemente los parámetros operativos del ciclo y que los dispositivos de monitoreo verifican el proceso de esterilización.<br> <br> Se deben planificar y justificar la recalificación periódica de los equipos y la revalidación de los procesos, de conformidad con los requisitos de los Anexos 1 y 5 de la Guía de Buenas Prácticas de Fabricación para Elaboradores, Importadores/Exportadores de Medicamentos de Uso Humano establecida por la ANMAT<br> <br> 4.13 La medición apropiada de los parámetros de procesos críticos durante la esterilización es un requisito crítico en un programa de liberación paramétrica. Se deben especificar los estándares usados para los dispositivos de medición de procesos y la calibración debe ser acorde a estándares nacionales o internacionales.<br> <br> 4.14 Se deben establecer, definir y someter a reevaluaciones periódicas los parámetros de procesos críticos. Se deben establecer rangos operativos sobre la base del proceso de esterilización, la capacidad del proceso, los límites de tolerancia de calibración y la criticidad del parámetro.<br> <br> 4.15 El monitoreo de rutina del esterilizador debe demostrar que en cada ciclo alcanza las condiciones validadas necesarias para lograr el proceso especificado. Se deben monitorear específicamente los procesos críticos durante la fase de esterilización.<br> <br> 4.16 El registro de esterilización debe incluir todos los parámetros de procesos críticos. Se debe comprobar el cumplimiento de la especificación de los registros de esterilización mediante, al menos, dos sistemas independientes. Estos sistemas pueden constar de dos personas o un sistema informático validado más una persona.<br> <br> 4.17 Una vez que la autoridad reguladora ha aprobado la liberación paramétrica, la decisión de liberar o rechazar un lote se debe fundar en las especificaciones aprobadas y la revisión de los datos del control de los procesos críticos. Antes de liberar los productos para la comercialización, se deben registrar, evaluar y aprobar las verificaciones de rutina del esterilizador, los cambios, los desvíos, las actividades de mantenimiento no planificadas y las planificadas de rutina. Que un producto terminado pase el ensayo de esterilidad no anula la falta de cumplimiento de la especificación para la liberación paramétrica.<br> <br> <span style='font-weight: bold;'>5. GLOSARIO </span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Estrategia de control</span><br> <br> Conjunto de controles planificados, originados en la comprensión vigente del producto y proceso que asegura el desempeño del proceso y la calidad del producto. Los controles pueden incluir parámetros y atributos relacionados con el ingrediente farmacéutico activo y los materiales y componentes del medicamento, las condiciones operativas de las instalaciones y el equipamiento, los controles en proceso, las especificaciones del producto terminado, y los métodos asociados y la frecuencia del monitoreo y control.<br> <br> <span style='font-weight: bold;'>Parámetro de proceso crítico</span><br> <br> Parámetro del proceso cuya variabilidad influye en un atributo de calidad crítico y, por tanto, se debe monitorear o controlar para asegurar que el proceso produce la calidad deseada [ICH Q8 (R2)].<br> <br> <span style='font-weight: bold;'>Atributo de calidad crítico</span><br> <br> Propiedad o característica física, química, biológica o microbiológica que debe encontrarse dentro de un límite, un rango o en una distribución apropiados para asegurar la calidad deseada del producto.<br> <br> <span style='font-weight: bold;'>Liberación paramétrica</span><br> <br> Forma de RTRT. La liberación paramétrica para los productos con esterilización terminal se basa en la revisión de la documentación del monitoreo del proceso (por ej. temperatura, presión, tiempo de esterilización terminal) y no en ensayos de un atributo específico sobre una muestra (ICH Q8 Q&amp;A).<br> <br> <span style='font-weight: bold;'>Ensayo de liberación en tiempo real - RTRT</span> (siglas en inglés de <span style='font-style: italic;'>Real Time Release Testing</span>)<br> <br> Capacidad de evaluar y asegurar la calidad de un producto en proceso o final a través de datos que incluyen, en general, una combinación válida de atributos de materiales y controles de proceso medidos. (ICH Q8)<br> <br> <span style='font-weight: bold;'>Estado de control</span><br> <br> Condición en la que el conjunto de controles proporciona la garantía constante del desempeño continuo del proceso y de la calidad del producto. (ICH Q10)<br> <br> <div style='text-align: right;'>IF-2019-05953200-APN-DECBR#ANMAT<br> </div> &nbsp;<br> <div style='text-align: center;'><img  src='../../../normativa/319637_disp1281pie_jpg/archivo'><br></div> </div>  <span style='font-style: italic;'>    </span></div> </div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-1281-2019-319637" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

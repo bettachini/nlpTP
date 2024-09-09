@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3477-2005-107239/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3477-2005-107239/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3477-2005-107239/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"jwlpcyWOmJnUOP9XdIVwmM7r-ISv30HxEktv68fc6R4","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-3477-2005-107239\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-3477-2005-107239 page-normativa-nacional-disposición-3477-2005-107239-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-3477-2005-107239/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-FyDRPHYd1yXFsezXASDKps38eGu6HVYTaI2SvlnrLG8" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-3477-2005-107239">Disposición   3477/2005</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2005-06-22</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica </P> <P ALIGN='JUSTIFY'>PRODUCTOS FARMACEUTICOS </P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 3477/2005 </P> <P ALIGN='JUSTIFY'>Apru&eacute;base el documento 'Contrataci&oacute;n de Servicios de Tercerizaci&oacute;n para Productos Farmac&eacute;uticos en el Ambito del Mercosur', Resoluci&oacute;n Mercosur GMC Nº 50/2002.</P> </B><P ALIGN='JUSTIFY'>Bs. As., 10/6/2005 </P> <P ALIGN='JUSTIFY'>VISTO el Tratado de Asunci&oacute;n, el Protocolo de Ouro Preto, la Resoluci&oacute;n MERCOSUR GMC N° 50/02 y el Expediente N° 1-47-17357-04- 8 del Registro de esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica; y </P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que atento a la necesidad de garantizar el control y la fiscalizaci&oacute;n sanitaria de los productos farmac&eacute;uticos producidos bajo el r&eacute;gimen de tercerizaci&oacute;n, se dict&oacute; la Resoluci&oacute;n MERCOSUR GMC N° 50/02 que aprob&oacute; el documento 'CONTRATACION DE SERVICIOS DE TERCERIZACION PARA PRODUCTOS FARMACEUTICOS EN EL AMBITO DEL MERCOSUR'.</P> <P ALIGN='JUSTIFY'>Que la citada resoluci&oacute;n fue previamente discutida y armonizada en la Comisi&oacute;n de Productos Para la Salud, contando con representaci&oacute;n competente de la Rep&uacute;blica Argentina y fue recomendada al Grupo Mercado Com&uacute;n por la Comisi&oacute;n de Productos para la Salud y la Comisi&oacute;n de Coordinadores Nacionales del SGT N° 11 Salud/Mercosur.</P> <P ALIGN='JUSTIFY'>Que en virtud del Art&iacute;culo 38 del Protocolo de Ouro Preto signado por nuestro pa&iacute;s, nace el compromiso de adoptar las medidas necesarias para asegurar el cumplimiento de las normas emanadas de los &oacute;rganos del Mercosur y en consecuencia deben incorporarse las Resoluciones GMC/MERCOSUR a la normativa jur&iacute;dica nacional.</P> <P ALIGN='JUSTIFY'>Que la Direcci&oacute;n de Asuntos Jur&iacute;dicos ha tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por los Decretos Nros. 1490/92 y 197/02.</P> <P ALIGN='JUSTIFY'>Por ello; </P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE: </P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1° </B>— Apru&eacute;base el documento 'CONTRATACION DE SERVICIOS DE TERCERIZACION PARA PRODUCTOS FARMACEUTICOS EN EL AMBITO DEL MERCOSUR' (Resoluci&oacute;n MERCOSUR GMC N° 50/02), que como Anexo I forma parte integrante de la presente disposici&oacute;n.</P> <B><P ALIGN='JUSTIFY'>Art. 2° </B>— Comun&iacute;quese a la Secretar&iacute;a MERCOSUR con sede en la Ciudad de Montevideo para el conocimiento de los Estados Parte, a trav&eacute;s de la Secci&oacute;n Nacional del Grupo Mercado Com&uacute;n- Mercosur.</P> <B><P ALIGN='JUSTIFY'>Art. 3° </B>— Reg&iacute;strese, D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n. Cumplido, arch&iacute;vese PERMANENTE. — Manuel R. Limeres.</P> <P ALIGN='RIGHT'>ANEXO I </P> <P ALIGN='JUSTIFY'>MERCOSUR/GMC/RES. N° 50/02 </P> <P ALIGN='CENTER'>CONTRATACION DE SERVICIOS DE TERCERIZACION PARA PRODUCTOS FARMACEUTICOS EN EL AMBITO DEL MERCOSUR</P> <P ALIGN='JUSTIFY'>VISTO: el Tratado de Asunci&oacute;n, el Protocolo de Ouro Preto, las Resoluciones N° 91/93, 4/92, 23/ 95, 14/96, 23/96, 51/96, 55/96 y 39/97 del Grupo Mercado Com&uacute;n.</P> <P ALIGN='JUSTIFY'>CONSIDERANDO: </P> <P ALIGN='JUSTIFY'>La necesidad de garantizar el control y la fiscalizaci&oacute;n sanitaria de los productos farmac&eacute;uticos producidos bajo el r&eacute;gimen de tercerizaci&oacute;n en el &aacute;mbito del MERCOSUR.</P> <P ALIGN='JUSTIFY'>Que la contrataci&oacute;n de servicios de terceros, en el &aacute;rea de productos farmac&eacute;uticos, requiere cuidados espec&iacute;ficos para asegurar la calidad, eficacia y seguridad de estos productos.</P> <P ALIGN='JUSTIFY'>EL GRUPO MERCADO COMUN</P> <P ALIGN='JUSTIFY'>RESUELVE: </P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1° </B>- Aprobar la 'Contrataci&oacute;n de Servicios de Tercerizaci&oacute;n para Productos Farmac&eacute;uticos en el Ambito del MERCOSUR' que figura en el Anexo y forma parte de la presente Resoluci&oacute;n.</P> <B><P ALIGN='JUSTIFY'>Art. 2° </B>- Los Estados Partes pondr&aacute;n en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resoluci&oacute;n, a trav&eacute;s de los siguientes organismos: </P> <TABLE CELLSPACING=0 BORDER=0 CELLPADDING=4 WIDTH=597> <TR><TD WIDTH='18%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Argentina: </TD> <TD WIDTH='82%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica - ANMAT </TD> </TR> <TR><TD WIDTH='18%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Brasil: </TD> <TD WIDTH='82%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Ag&eacute;ncia Nacional de Vigil&aacute;ncia Sanit&aacute;ria do Minist&eacute;rio da Sa&uacute;de </TD> </TR> <TR><TD WIDTH='18%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Paraguay: </TD> <TD WIDTH='82%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Direcci&oacute;n de Vigilancia Sanitaria del Ministerio de Salud P&uacute;blica y Bienestar Social </TD> </TR> <TR><TD WIDTH='18%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Uruguay: </TD> <TD WIDTH='82%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Ministerio de Salud P&uacute;blica. Direcci&oacute;n</TD> </TR> <TR><TD WIDTH='18%' VALIGN='TOP'> <P>&nbsp;</TD> <TD WIDTH='82%' VALIGN='TOP'> <P>&nbsp;</TD> </TR> </TABLE>  <B><P ALIGN='JUSTIFY'>Art. 3° </B>- Los Estados Partes del MERCOSUR deber&aacute;n incorporar la presente Resoluci&oacute;n a sus ordenamientos jur&iacute;dicos nacionales antes del 31/05/03.</P> <P ALIGN='RIGHT'>XLVIII GMC, Brasilia, 28/XI/02 </P> <P ALIGN='CENTER'>ANEXO</P> <P ALIGN='CENTER'>CONTRATACION DE SERVICIOS DE TERCERIZACION PARA PRODUCTOS FARMACEUTICOS EN EL AMBITO DEL MERCOSUR</P> <P ALIGN='JUSTIFY'>1. Objetivo </P> <P ALIGN='JUSTIFY'>Regular el tema tercerizaci&oacute;n de la producci&oacute;n, de control de la calidad y del almacenamiento de los productos farmac&eacute;uticos en el &aacute;mbito del MERCOSUR.</P> <P ALIGN='JUSTIFY'>2. Definiciones </P> <P ALIGN='JUSTIFY'>A los efectos de esta Resoluci&oacute;n son adoptadas las siguientes definiciones: </P> <P ALIGN='JUSTIFY'>2.1. Tercerizaci&oacute;n: Es la contrataci&oacute;n de servicios de terceros para la ejecuci&oacute;n de etapas relativas a la producci&oacute;n de productos farmac&eacute;uticos, control de calidad o almacenamiento.</P> <P ALIGN='JUSTIFY'>2.2. Producto Terminado: Producto farmac&eacute;utico que pas&oacute; por todas las fases de producci&oacute;n y acondicionamiento. Despu&eacute;s de liberado el producto terminado constituye el medicamento listo para la venta.</P> <P ALIGN='JUSTIFY'>2.3. Producto semi-elaborado: 1) Cualquier material o mezcla de materiales que todav&iacute;a se encuentran en proceso de fabricaci&oacute;n; 2) cualquier sustancia o mezcla de sustancias que requieren posteriores procesos de producci&oacute;n con el fin de convertirse en productos a granel.</P> <P ALIGN='JUSTIFY'>2.4. Producto a Granel/Producto Elaborado a Granel: cualquier material procesado que se encuentre en su forma farmac&eacute;utica definitiva el cual solamente requiere ser acondicionado/embalado antes de convertirse en producto terminado.</P> <P ALIGN='JUSTIFY'>2.5. Empresa contratante: Empresa que contrata servicios de terceros, responsable por todos los aspectos legales y t&eacute;cnicos vinculados con el producto o proceso objeto de la tercerizaci&oacute;n.</P> <P ALIGN='JUSTIFY'>2.6. Empresa contratada: Empresa que realiza el servicio de tercerizaci&oacute;n, corresponsable por los aspectos t&eacute;cnicos y legales inherentes a la actividad objeto de tercerizaci&oacute;n.</P> <P ALIGN='JUSTIFY'>3. Condiciones Generales </P> <P ALIGN='JUSTIFY'>3.1. Las empresas que realicen contrato de tercerizaci&oacute;n deben disponer de toda la documentaci&oacute;n que compruebe: </P> <P ALIGN='JUSTIFY'>a) Autorizaci&oacute;n/Habilitaci&oacute;n de Funcionamiento de la Empresa emitida por la autoridad sanitaria competente.</P> <P ALIGN='JUSTIFY'>b) En el caso de Empresa Representante MERCOSUR, contrato entre la Empresa Titular del Registro de Productos Farmac&eacute;uticos en el Estado Parte Productor y la Empresa Representante en el Estado Parte Receptor.</P> <P ALIGN='JUSTIFY'>3.2. Los establecimientos de las empresas contratantes y contratadas deben cumplir con las Buenas Pr&aacute;cticas vigentes en el MERCOSUR, y contar con los respectivos certificados de cumplimiento que correspondan.</P> <P ALIGN='JUSTIFY'>3.3. Cada contrato de tercerizaci&oacute;n debe definir con claridad las fases de fabricaci&oacute;n y control, o almacenamiento, as&iacute; como cualquier aspecto t&eacute;cnico y operativo acordado con respecto al objeto del contrato.</P> <P ALIGN='JUSTIFY'>3.4. El contrato debe definir las obligaciones espec&iacute;ficas del contratante y del contratado y debe ser firmado por los respectivos representantes legales y responsables t&eacute;cnicos.</P> <P ALIGN='JUSTIFY'>3.5. En el contrato debe constar la forma por la cual el responsable t&eacute;cnico del contratante va a ejercer su responsabilidad respecto a la aprobaci&oacute;n de cada lote de producto para la venta o respecto a la emisi&oacute;n de certificado de an&aacute;lisis de calidad.</P> <P ALIGN='JUSTIFY'>3.6. En todos los casos la empresa contratada, su Director T&eacute;cnico y su Representante Legal son solidariamente responsables ante las autoridades sanitarias, junto con el contratante, por los aspectos t&eacute;cnicos, operativos y legales inherentes a la actividad objeto de la tercerizaci&oacute;n.</P> <P ALIGN='JUSTIFY'>3.7. Tanto el contrato como sus modificaciones posteriores deber&aacute;n ser presentados a la autoridad sanitaria.</P> <P ALIGN='JUSTIFY'>3.8. Las partes contratantes deben garantizar las Buenas Pr&aacute;cticas de Fabricaci&oacute;n y Control en la ejecuci&oacute;n del contrato.</P> <P ALIGN='JUSTIFY'>3.9. El contratado no podr&aacute; subcontratar, en todo o en parte, los trabajos previstos en el contrato.</P> <P ALIGN='JUSTIFY'>3.10. El contratado est&aacute; sujeto en cualquier momento a la inspecci&oacute;n por la autoridad sanitaria.</P> <P ALIGN='JUSTIFY'>3.11. El contratante debe suministrar al contratado todas las informaciones necesarias para que el mismo realice las operaciones contratadas de acuerdo con el registro realizado ante la autoridad sanitaria competente y la autorizaci&oacute;n de funcionamiento as&iacute; como cualquier otra exigencia legal.</P> <P ALIGN='JUSTIFY'>3.12. El contratante debe asegurar que el contratado sea informado de cualquier problema asociado al producto, servicios o ensayos, que puedan poner en riesgo la calidad del producto as&iacute; como las instalaciones del contratado, sus equipamientos, su personal, dem&aacute;s materiales, u otros productos.</P> <P ALIGN='JUSTIFY'>3.13. El contratante debe garantizar que todos los productos procesados y materiales entregados por el contratado cumplan con sus especificaciones y que el producto haya sido liberado por el responsable t&eacute;cnico del contratado.</P> <P ALIGN='JUSTIFY'>3.14. El contratado debe poseer instalaciones, equipamientos, conocimiento adecuado, adem&aacute;s de experiencia y personal competente para desempa&ntilde;ar satisfactoriamente el servicio solicitado por el contratante atendiendo los requisitos de las Buenas Pr&aacute;cticas correspondientes.</P> <P ALIGN='JUSTIFY'>3.15.La empresa contratante s&oacute;lo podr&aacute; requerir del contratado la fabricaci&oacute;n de productos farmac&eacute;uticos debidamente registrados ante la autoridad sanitaria del Estado Parte de la empresa contratante.</P> <P ALIGN='JUSTIFY'>3.16. En todos los casos, la fabricaci&oacute;n de productos farmac&eacute;uticos implica la realizaci&oacute;n por el contratado de los controles de los procesos de elaboraci&oacute;n del producto, los cuales deben estar debidamente documentados.</P> <P ALIGN='JUSTIFY'>3.17. El almacenamiento y el descarte de los, productos rechazados (materias primas, productos semi elaborados, a granel y/o productos terminados) deben ser realizados conforme a procedimientos escritos e informados al contratante que es el responsable por la alternativa a aplicar en cada caso y de conservar tambi&eacute;n la documentaci&oacute;n que permita a las autoridades sanitarias la verificaci&oacute;n de lo acontecido.</P> <P ALIGN='JUSTIFY'>3.18. En ning&uacute;n caso la autorizaci&oacute;n otorgada por la autoridad sanitaria competente para la tercerizaci&oacute;n de la fabricaci&oacute;n exime al titular del registro de la responsabilidad por la calidad del producto farmac&eacute;utico liberado al consumo.</P> <P ALIGN='JUSTIFY'>3.19. La empresa fabricante del producto debe contar con laboratorio de control de calidad propio debidamente equipado para realizar todos los controles necesarios del proceso de producci&oacute;n.</P> <P ALIGN='JUSTIFY'>3.20. El control de calidad de la materia prima podr&aacute; ser realizado por el contratante o por la empresa contratada para la fabricaci&oacute;n de la forma farmac&eacute;utica.</P> <P ALIGN='JUSTIFY'>4. Condiciones Especificas </P> <P ALIGN='JUSTIFY'>4.1. Empresas Contratantes: los tipos de empresas que pueden contratar servicios de tercerizaci&oacute;n para productos farmac&eacute;uticos ser&aacute;n definidos por las legislaciones nacionales de cada uno de los Estados Partes receptores.</P> <P ALIGN='JUSTIFY'>4.2. Empresas Contratadas: Pueden ser contratadas para ejecutar servicios a terceros las empresas farmac&eacute;uticas que cuenten con unidad fabril, laboratorio de control de calidad o dep&oacute;sito propios instalados en un Estado Parte del MERCOSUR.</P> <P ALIGN='JUSTIFY'>4.3. La participaci&oacute;n de terceros en forma permanente en la fabricaci&oacute;n de productos farmac&eacute;uticos requiere la autorizaci&oacute;n por parte de la autoridad sanitaria.</P> <P ALIGN='JUSTIFY'>4.4. La autorizaci&oacute;n que trata el &iacute;tem anterior, cuando se trate de la participaci&oacute;n permanente de un tercero, ser&aacute; concedida conjuntamente con el registro del respectivo producto.</P> <P ALIGN='JUSTIFY'>4.5. Cualquier modificaci&oacute;n que ocurra en las condiciones en que fue concedido el registro ser&aacute; encuadrada en el reglamento de modificaci&oacute;n del registro.</P> <P ALIGN='JUSTIFY'>4.6. En el proceso de fabricaci&oacute;n hasta la fase de producto a granel podr&aacute; participar solamente 1 (una) empresa tercerista contratada.</P> <P ALIGN='JUSTIFY'>4.7. La intervenci&oacute;n de un tercero de forma transitoria en la producci&oacute;n, control o almacenamiento de productos farmac&eacute;uticos, tendr&aacute; car&aacute;cter excepcional, por un Per&iacute;odo m&aacute;ximo de 12 (doce) meses, y no ser&aacute; necesaria la modificaci&oacute;n en el registro, siendo obligatoria la comunicaci&oacute;n inmediata a la autoridad sanitaria.</P> <P ALIGN='JUSTIFY'>4.8. En la comunicaci&oacute;n a la autoridad sanitaria de la intervenci&oacute;n transitoria de terceros en alguna fase de fabricaci&oacute;n, control o almacenamiento, deben constar los productos farmac&eacute;uticos, las formas farmac&eacute;uticas y los laboratorios contratados.</P> <P ALIGN='JUSTIFY'>4.9. En el caso de control de calidad est&aacute; permitida &uacute;nicamente la tercerizaci&oacute;n del control de materias primas y productos terminados en los siguientes casos: </P> <P ALIGN='JUSTIFY'>a) Cuando la peligrosidad y/o grado de complejidad de la determinaci&oacute;n haga necesaria la utilizaci&oacute;n de equipamientos y/o recursos humanos altamente especializados.</P> <P ALIGN='JUSTIFY'>b) Cuando la frecuencia con la cual se efect&uacute;an ciertos an&aacute;lisis sea tan baja que se haga injustificable la adquisici&oacute;n de, equipamiento de alto costo.</P> <P ALIGN='JUSTIFY'>4.10. Se prohibe la tercerizaci&oacute;n del control de procesos de forma disociada de la fabricaci&oacute;n.</P> <P ALIGN='JUSTIFY'>4.11. En el caso de contrataci&oacute;n de almacenamiento, los productos farmac&eacute;uticos a almacenar deben estar debidamente registrados ante la autoridad sanitaria competente.</P> <P ALIGN='JUSTIFY'>4.12. En todos los casos, los productos farmac&eacute;uticos almacenados deben estar debidamente documentados, comprobando su situaci&oacute;n ante el laboratorio de control de calidad, incluyendo la informaci&oacute;n de aprobado, en cuarentena o rechazado.</P> <P ALIGN='JUSTIFY'>4.13. Las empresas que infrinjan las disposiciones de esta Resoluci&oacute;n quedan sujetas a interdicci&oacute;n parcial o total de la empresa y los productos, a la cancelaci&oacute;n parcial o total de la autorizaci&oacute;n de funcionamiento, a la cancelaci&oacute;n de los registros de los productos involucrados y a las dem&aacute;s penalidades correspondientes en la legislaci&oacute;n vigente en el o los Estados Partes involucrados.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-3477-2005-107239" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-750-2006-114000/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-750-2006-114000/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-750-2006-114000/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"79BfyjJPzOnFCHqHaM-LvE7_7pUb-lAWIHSlZUS_9Hw","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-750-2006-114000\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-750-2006-114000 page-normativa-nacional-disposición-750-2006-114000-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-750-2006-114000/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-_FaTZTWYmLD6btYoql7WHYpUrNi3ZJf5twXjMgn4idU" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-750-2006-114000">Disposición   750/2006</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2006-02-16</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>PRODUCTOS MEDICOS</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 750/2006</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Establ&eacute;cese que los &quot;reactivos de diagn&oacute;stico de uso in vitro&quot; son considerados &quot;productos m&eacute;dicos&quot; en los t&eacute;rminos de la definici&oacute;n adoptada por la Disposici&oacute;n Nº 2318/ 2002 (T.O. 2004).</P> <P ALIGN='JUSTIFY'></P> </B><P ALIGN='JUSTIFY'>Bs. As., 9/2/2006</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO el Decreto 1490/92, las Decisiones Administrativas Nº 434/96 y 22/03, las Disposiciones ANMAT Nº 2850/94 y 2318/02 (TO 2004) y el Expediente Nº 1-47-1866-06-1 del registro de esta ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA; y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por Decreto Nº 1490/92 se cre&oacute; la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (A.N.M.A.T.), como organismo descentralizado en el &aacute;mbito del Ministerio de Salud, cuya incumbencia es el resguardo y atenci&oacute;n de la salud de la poblaci&oacute;n a trav&eacute;s del control y fiscalizaci&oacute;n de la calidad y sanidad de los productos, sustancias, elementos y materiales que se consumen o se utilizan en la medicina, cosm&eacute;tica y alimentaci&oacute;n humanas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que mediante la Disposici&oacute;n ANMAT Nº 2850/ 94 se aprob&oacute; la segunda apertura de la estructura organizativa de esta Administraci&oacute;n Nacional, estableci&eacute;ndose en el Ap&eacute;ndice 6 la estructura del Ex DEPARTAMENTO DE TECNOLOGIA MEDICA, el cual contaba con cuatro Divisiones bajo su dependencia jer&aacute;rquica, entre ellas la DIVISION REACTIVOS DE DIAGNOSTICO.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que sin embargo, por razones operativas, originadas en el desarrollo incipiente del &aacute;rea de Tecnolog&iacute;a M&eacute;dica al crearse esta Administraci&oacute;n Nacional, la DIVISION REACTIVOS DE DIAGNOSTICO, comenz&oacute; a funcionar de hecho en el &aacute;mbito del INSTITUTO NACIONAL DE MEDICAMENTOS.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que mediante la Decisi&oacute;n Administrativa Nº 434/96, emanada de la Jefatura de Gabinete de Ministros, se aprob&oacute; la estructura organizativa del primer nivel de este Organismo, elev&aacute;ndose al Ex DEPARTAMENTO DE TECNOLOGIA MEDICA al rango de DIRECCION, manteniendo su vigencia las aperturas inferiores.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la presente medida obedece a la necesidad de adecuar la estructura real a la estructura formal aprobada para esta Administraci&oacute;n Nacional, en cumplimiento de las observaciones formuladas por la Auditor&iacute;a General de la Naci&oacute;n en la Resoluci&oacute;n Nº 122/02.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que es criterio compartido tanto en la normativa internacional como en la regional, la consideraci&oacute;n de la definici&oacute;n de los reactivos para diagn&oacute;sticos de uso in vitro como productos m&eacute;dicos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la enmienda del 28 de mayo de 1976 a la Ley Federal de Alimentos, Drogas y Cosm&eacute;ticos (Federal Food, Drugs and Cosmetics Act – FFDCA) de los Estados Unidos de Norteam&eacute;rica, incluy&oacute; a los reactivos para diagn&oacute;sticos in vitro en la definici&oacute;n &quot;productos m&eacute;dicos&quot; (medical device).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Directiva 93/42/CEE, del Consejo de la Comunidad Europea, modificada por la Directiva 98/79/CEE, que regula a los productos m&eacute;dicos, estableci&oacute; asimismo que los &quot;productos m&eacute;dicos para diagn&oacute;sticos in vitro&quot; (in-vitro diagnostic medical devices) constituyen un subgrupo especial entre los &quot;productos m&eacute;dicos&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que mediante MERCOSUR/GMC/RES. Nº 40/00, incorpora al ordenamiento jur&iacute;dico nacional por Disposici&oacute;n ANMAT Nº 2318/02 (TO 2004), se define como producto m&eacute;dico, entre otros a todos los productos de aplicaci&oacute;n laboratorial destinados a su uso en diagn&oacute;sticos, definici&oacute;n a la que se ajustan los reactivos para diagn&oacute;sticos in vitro.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que los avances tecnol&oacute;gicos introducidos en los &uacute;ltimos a&ntilde;os incorporan la utilizaci&oacute;n de equipamientos asociados directamente con los reactivos para diagn&oacute;sticos in Vitro, constituyendo en conjunto un sistema para diagn&oacute;stico, motivo por el cual resulta necesario evitar la duplicaci&oacute;n de tr&aacute;mites, tal como la que implica la inscripci&oacute;n de las partes componentes de dichos sistemas en registros separados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que actualmente la DIRECCION DE TECNOLOGIA MEDICA ha iniciado el proceso de inscripci&oacute;n de productos m&eacute;dicos conforme a la normativa aplicable.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que mediante la Decisi&oacute;n Administrativa Nº 22/03 se aprob&oacute; una nueva estructura organizativa del primer nivel de esta Administraci&oacute;n Nacional, previ&eacute;ndose entre las responsabilidades primarias del INSTITUTO NACIONAL DE MEDICAMENTOS, la de registrar y controlar a los &quot;reactivos y elementos de diagn&oacute;stico&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el Anexo II de la mencionada Decisi&oacute;n Administrativa Nº 22/03, prev&eacute; que la DIRECCION DE TECNOLOGIA MEDICA tendr&aacute; como responsabilidad primaria &quot;Controlar, fiscalizar y vigilar la calidad de los productos m&eacute;dicos como as&iacute; tambi&eacute;n las actividades, procesos y tecnolog&iacute;as que se realicen en funci&oacute;n de la elaboraci&oacute;n, fraccionamiento, importaci&oacute;n y/o exportaci&oacute;n y dep&oacute;sito de dichos productos a fin de asegurar a la poblaci&oacute;n la utilizaci&oacute;n de productos m&eacute;dicos de comprobada calidad, eficacia y seguridad&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que asimismo, en virtud de lo previsto en el Art. 4º de la mencionada Decisi&oacute;n Administrativa, las aperturas inferiores de la estructura organizativa aprobada por Disposici&oacute;n ANMAT Nº 2850/94 mantienen su vigencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por ello, corresponde formular la distinci&oacute;n entre aquellos reactivos de diagn&oacute;stico previstos para su uso in vitro, que por las razones expuestas deben ser considerados &quot;productos m&eacute;dicos&quot;, y aquellos reactivos de diagn&oacute;stico previstos para su uso in vivo, los cuales resultan asimilables a los medicamentos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por consiguiente, y a efectos de evitar una aparente colisi&oacute;n normativa, resulta necesario plasmar en una norma positiva esta distinci&oacute;n conceptual, de modo tal que permita interpretar de manera consistente la asignaci&oacute;n de responsabilidades prevista en la Decisi&oacute;n Administrativa Nº 22/03, organizando adecuadamente las actividades de regulaci&oacute;n, fiscalizaci&oacute;n y control de equipamientos y reactivos de diagn&oacute;stico, evitando superposiciones de funciones, mejorando la eficiencia del Organismo, y respetando las aperturas inferiores de la estructura organizativa aprobada por Disposici&oacute;n ANMAT Nº 2850/04, cuya vigencia fuera confirmada por la mencionada Decisi&oacute;n Administrativa.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que corresponde al INSTITUTO NACIONAL DE MEDICAMENTOS, la responsabilidad primaria sobre los &quot;reactivos de diagn&oacute;stico&quot; previstos para su uso in vivo, en tanto que corresponde a la DIRECCION DE TECNOLOGIA MEDICA la responsabilidad primaria en relaci&oacute;n con los reactivos de diagn&oacute;stico para uso in vitro, por ser considerados &eacute;stos &quot;productos m&eacute;dicos&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por el Decreto Nº 1490/92 y por el Decreto Nº 197/02.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Establ&eacute;cese que los &quot;reactivos de diagn&oacute;stico de uso in vitro&quot; son considerados &quot;productos m&eacute;dicos&quot; en los t&eacute;rminos de la definici&oacute;n adoptada por la Disposici&oacute;n ANMAT Nº 2318/ 02 (T.O. 2004).</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 2º </B>— El personal que actualmente se desempe&ntilde;a en las tareas de registro, fiscalizaci&oacute;n y control de reactivos de diagn&oacute;stico de uso in vitro en el &aacute;mbito del INSTITUTO NACIONAL DE MEDICAMENTOS, pasar&aacute; a desempe&ntilde;arse en la DIRECCION DE TECNOLOGIA MEDICA.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— La presente Disposici&oacute;n comenzar&aacute; a regir a partir del d&iacute;a siguiente al de su publicaci&oacute;n en el Bolet&iacute;n Oficial.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 4º </B>— Reg&iacute;strese; comun&iacute;quese a CACID, CADIE, CADIEM, CADIME, CAEHFA, CAEME, CAPA, CAPEMVeL, CAPGEN, CAPRODI, CAPROFAC, CAREIDIM, CIGVA, CILFA, COOPERALA, FAIC y UAPE. D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n. D&eacute;se copia al Instituto Nacional de Medicamentos, a la Direcci&oacute;n de Tecnolog&iacute;a M&eacute;dica, a la Direcci&oacute;n de Coordinaci&oacute;n y Administraci&oacute;n, a la Direcci&oacute;n de Planificaci&oacute;n y Relaciones Institucionales, a la Direcci&oacute;n de Asuntos Jur&iacute;dicos, al Departamento de Registro y al Departamento de Personal. Cumplido, arch&iacute;vese (PERMANENTE). — Manuel R. Limeres.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-750-2006-114000" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

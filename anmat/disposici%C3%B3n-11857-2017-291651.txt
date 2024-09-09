@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-11857-2017-291651/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-11857-2017-291651/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-11857-2017-291651/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"u7h2BP9X1i9I7sc5gX8ilk7cX2jBq1hqC5wMf1-krXk","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-11857-2017-291651\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-11857-2017-291651 page-normativa-nacional-disposición-11857-2017-291651-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-11857-2017-291651/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-diY7ZaO9Hn4Qtzggqv6C9Zk1o_ECiXwIbernH6EtBgc" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-11857-2017-291651">Disposición E 11857/2017</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2017-11-27</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 11857-E/2017</span><br style='font-weight: bold;'> <br> Ciudad de Buenos Aires, 23/11/2017<br> <br> VISTO la Ley Nº 16.643, sus Decretos Reglamentarios Nros. 9763/64, 150/92 (T.O. 1993), el Decreto Nº 1490/92, las Resoluciones GMC Nº 52/94 y 57/96, las Disposiciones ANMAT Nº1149/97 y 2819/04, ANEXO IX, y el EX-2017-29139328-APN- ANMAT#MS de la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica; y<br> <br> CONSIDERANDO:<br> <br> Que las normas precitadas tienen por finalidad la protección de la salud de la población, mediante la adopción de mecanismos adecuados de autorización, registro, normatización, control epidemiológico, vigilancia y fiscalización de medicamentos, es decir, mediante un modelo fiscalizador de gestión que destine sus mayores esfuerzos a garantizar la eficacia, seguridad y calidad de los productos regulados.<br> <br> Que de conformidad con el Artículo 1° de la Ley N° 16.463 quedan sometidos a su régimen y a los reglamentos que en su consecuencia se dicten la importación, exportación, producción, elaboración, fraccionamiento, comercialización o depósito en jurisdicción nacional o con destino al comercio interprovincial, de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico y todo otro producto de uso y aplicación en la medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades.<br> <br> Que el artículo 2º de la citada Ley establece que las actividades mencionadas sólo podrán realizarse previa autorización y bajo el contralor de la Autoridad Sanitaria, en establecimientos por ella habilitados y bajo la dirección técnica del profesional universitario correspondiente; todo ello en las condiciones y dentro de las normas que establezca la reglamentación, atendiendo a las características particulares de cada actividad y a razonables garantías técnicas en salvaguarda de la salud pública y de la economía del consumidor.<br> <br> Que asimismo, su artículo 3° prescribe que los productos comprendidos en la citada ley deberán reunir las condiciones establecidas en la Farmacopea Argentina y, en caso de no figurar en ella, las que surgen de los patrones internacionales y de los textos de reconocido valor científico, a la vez que deben ser inscriptos ante esta Administración previamente a su comercialización (cfr. art. 2°, Decreto Nº 150/92).<br> <br> Que el artículo 1º del Decreto Nº 9763/64, reglamentario de la Ley Nº 16.463, establece que el ejercicio del poder de policía sanitaria referido a las actividades indicadas en el artículo 1º de la Ley 16.463 se hará efectivo por el Ministerio de Asistencia Social y Salud Pública de la Nación (hoy Ministerio de Salud) en las jurisdicciones que allí se indican.<br> <br> Que por Decreto Nº 1490/92, se creó esta Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT), como organismo descentralizado de la Administración Pública Nacional, con un régimen de autarquía económica y financiera, con jurisdicción en todo el territorio de la Nación, asumiendo las referidas funciones.<br> <br> Que conforme al artículo 3º inciso a) del mencionado Decreto, esta Administración Nacional tiene competencia, entre otras materias, en todo lo referido al control y fiscalización sobre la sanidad y calidad de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico, materiales y tecnología biomédicos y todo otro producto de uso y aplicación en la medicina humana.<br> <br> Que además, mediante el artículo 8º incisos n) y ñ) del precitado decreto, esta Administración se encuentra facultada para disponer, en base a sus competencias, la realización de todo tipo de controles, verificaciones e inspecciones que se considere adecuados, y adoptar, ante la detección de cualquier factor de riesgo relacionado con la calidad y sanidad de los productos, substancias, elementos o materiales comprendidos en el artículo 3º del referido decreto, las medidas más oportunas y adecuadas para proteger la salud de la población, conforme a la normativa vigente.<br> <br> Que por Disposición ANMAT Nº 1149/1997 se aprobó el texto del Documento A- l/91 &#8220;Soluciones Parenterales de Gran Volumen&#8221; de las Resoluciones GMC Nros. 52/94 y 57/96, de aplicación obligatoria para todas las empresas habilitadas para la Fabricación, importación y/o distribución de Soluciones Parenterales de Gran Volumen (SPGV).<br> <br> Que por Disposición ANMAT Nº 2819/04, ANEXO IX, se establecieron las Normas para la identificación por colores de envases de las drogas de uso anestesiológico y de las soluciones parenterales.<br> <br> Que la elevada carga de morbimortalidad que conllevan las Infecciones Asociadas a la Atención de la Salud (IAAS) llevó a la Organización Mundial de la Salud (OMS) a prestar atención a su prevención y control.<br> <br> Que en consecuencia, la Asamblea Mundial de la Salud ha dictado Resoluciones destinadas a la prevención y control de IAAS por ser consideradas un importante problema de salud pública debido a la frecuencia con que se producen, la morbilidad y mortalidad que provocan y la carga que imponen a los pacientes, al personal sanitario y a los sistemas de salud.<br> <br> Que las infecciones primarias de la sangre representan una de las infecciones nosocomiales más comunes y para su prevención es indispensable implementar acciones que contribuyan a la calidad del sistema de salud.<br> <br> Que diversos estudios han demostrado que la contaminación de soluciones parenterales, antes de o durante su administración, es una causa importante de las infecciones primarias de la sangre.<br> <br> Que distintos estudios científicos también han demostrado que el uso de sistemas cerrados de infusión para soluciones parenterales de gran volumen previene un porcentaje muy elevado de las infecciones primarias de la sangre.<br> <br> Que dicha prevención viene a contribuir con el Plan de Acción Mundial de la OMS para la contención de la Resistencia a los Antimicrobianos (RAM), alineado con lo dispuesto en la 84ª Asamblea General de la Organización Mundial de la Salud Animal (OIE) de Mayo del 2016 y adoptado por nuestro país, a través de la Estrategia Argentina para el Control de la Resistencia Antimicrobiana, aprobada por Resolución Conjunta N° 834/15 del Ministerio de Salud y N° 391/15 del ex Ministerio de Agricultura, Ganadería y Pesca.<br> <br> Que las buenas prácticas específicas también sugieren que los sistemas cerrados de infusión para SPGV cuenten con al menos dos sitios de inserción independientes que permitan, en forma segura, el agregado exclusivo de medicamentos por un lado y la conexión al sistema de infusión por otro.<br> <br> Que en tal sentido las agencias sanitarias de numerosos países han establecido la sustitución del sistema abierto por los sistemas cerrados para la infusión de SPGV.<br> <br> Que el Instituto Nacional de Medicamentos y la Dirección General de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que se actúa en virtud de las facultades conferidas por los Decretos Nº 1490/92 y Nº 101 del 16 de diciembre de 2015.<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1º.- A partir de la entrada en vigencia de la presente disposición, deberá emplearse el sistema cerrado para la elaboración de Soluciones Parenterales de Gran Volumen (SPGV).<br> <br> El envase a utilizar deberá contar con al menos 2 (dos) sitios de inserción independientes para permitir simultáneamente la administración con un equipo de infusión y el agregado de soluciones medicamentosas.<br> <br> ARTÍCULO 2°.- Los titulares de SPGV inscriptas en el Registro de Especialidades Medicinales (REM) deberán sustituir el sistema abierto por el sistema cerrado de infusión dentro de un plazo máximo de 2 (dos) años improrrogables contados a partir de la entrada en vigencia de la presente disposición.<br> <br> A esos fines, los titulares de SPGV inscriptas en el REM deberán presentar ante esta Administración Nacional durante el plazo referido, mediante expediente no arancelado, la documentación correspondiente al trámite de Cambio de Envase según Disposición N° 853/89 de la ex Subsecretaría de Regulación y Control. Además deberán presentar informe con los cambios efectuados en los procesos productivos a fin de realizar la fabricación de SPGV mediante sistema cerrado.<br> <br> ARTÍCULO 3°.- Aquellas SPGV contempladas en el artículo 1° de la presente disposición y que contengan IFAs que no prevean el agregado de otras soluciones medicamentosas quedan exceptuadas de la obligación de poseer 2 (dos) sitios de inserción.<br> <br> Cuando los medicamentos demuestren interacción con envases plásticos se deberán utilizar envases de vidrio, en cuyo caso el equipo para su administración deberá prever el ingreso de aire filtrado por membrana de 0,22 micrones.<br> <br> ARTÍCULO 4°.- Aprúebase el documento &#8220;Soluciones Parenterales de Gran Volumen en Sistema Cerrado&#8221; que, como Anexo IF-2017-29495260-APN-ANMAT#MS, forma parte integrante de la presente disposición.<br> <br> Los establecimientos habilitados para la fabricación, importación y/o distribución de SPGV que se adecuen al sistema cerrado indicado en el artículo 1° deberán cumplir con lo establecido en el referido Anexo.<br> <br> ARTÍCULO 5°.- El incumplimiento de la presente disposición hará pasible a los infractores de las sanciones establecidas por la ley N° 16.463 y el Decreto N° 341/92, sin perjuicio de las demás acciones que pudieren corresponder a criterio de esta Administración Nacional con el fin de preservar la salud de la población.<br> <br> ARTÍCULO 6º.- La presente disposición entrará en vigencia a partir del día siguiente al de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 7º.- Regístrese. Dése a la Dirección Nacional del Registro Oficial para su publicación. Notifíquese a las Cámaras de Especialidades Medicinales (CILFA, CAEME, COOPERALA, CAPGEN, CAPEMVeL), SAFYBI, Confederación Médica de la República Argentina (COMRA) y a la Confederación Farmacéutica Argentina (COFA). Cumplido, archívese. &#8212; Carlos Alberto Chiale.<br> <br> NOTA: El/los Anexo/s que integra/n este(a) Disposición se publican en la edición web del BORA -www.boletinoficial.gob.ar- y también podrán ser consultados en la Sede Central de esta Dirección Nacional (Suipacha 767 - Ciudad Autónoma de Buenos Aires).<br> <br> <div style='text-align: right;'>e. 27/11/2017 N° 91449/17 v. 27/11/2017<br> </div> <br> <div style='text-align: center;'><img  src='../../../normativa/291651_disp11857-Anexo-1_jpg/archivo'></div> <br> ANEXO I<br> <br> SOLUCIONES PARENTERALES DE GRAN VOLUMEN EN SISTEMA CERRADO<br> <br> CONTENIDO<br> <br> 1 OBJETIVO<br> <br> 2 GLOSARIO<br> <br> 3 CONDICIONES ESPECÍFICAS 1-OBJETIVO<br> <br> El presente documento establece los requisitos mínimos para el empleo del Sistema Cerrado de Soluciones Parenterales de Gran Volumen (SPGV).<br> <br> 2-GLOSARIO<br> <br> &#8226; Soluciones Parenterales de Gran Volumen<br> <br> Soluciones en base acuosa, estériles, apirogénicas, acondicionadas en recipiente único con capacidad de 100 ml o más, esterilizadas terminalmente. Están incluidas en esta definición las soluciones para administración endovenosa, soluciones para irrigación y soluciones para diálisis peritoneal. El término Parenteral de Gran Volumen no incluye ningún producto de origen biológico.<br> <br> &#8226; Sistema Abierto de Infusión<br> <br> Sistema de administración de solución parenteral que durante el proceso de preparado y/o administración permite el contacto de la solución con el medio ambiente.<br> <br> Sistema Cerrado de Infusión<br> <br> Sistema de administración de solución parenteral que durante todo el proceso de preparado y administración de la solución parenteral no permite el contacto de la solución con el medio ambiente.<br> <br> &#8226; Bolsa Secundaria<br> <br> Envase secundario con el que se pueden comercializar las SPGV cuya finalidad es proporcionar protección adicional, ya sea como simple protección mecánica a la manipulación o también como protección a la acción de la luz y/o el medio ambiente.<br> <br> &#8226; Diafragma<br> <br> Membrana plástica ubicada en el interior del pico de administración con el fin de impedir la salida de la solución una vez abierta la tapa que cierra el pico. Cuando el conector del equipo de infusión se inserta en el pico de administración, se perfora el diafragma sin ingreso de aire a la solución. Una vez que se ha perforado el diafragma no se puede volver a sellar.<br> <br> 3-CONDICIONES ESPECÍFICAS<br> <br> 3.1 Los envases de SPGV en Sistema Cerrado deberán cumplir con las condiciones relativas a los aspectos físicos, químicos y biológicos para los recipientes plásticos fijadas en la Disposición ANMAT N° 1149/1997 así como los que se establecen en la presente disposición.<br> <br> 3.2 Los envases, una vez conectados al sistema de infusión y éste al paciente, deberán garantizar el escurrimiento total de su contenido por gravedad sin necesidad de ingreso de aire.<br> <br> 3.3 Los envases deben contar con al menos dos sitios de inserción independientes que permitan simultáneamente el agregado de medicamentos de forma segura y la conexión al sistema de infusión.<br> <br> 3.4 Los envases pueden presentarse recubiertos por una Bolsa Secundaria con el fin de garantizar la estabilidad de ciertos productos.<br> <br> 3.5 Sin perjuicio de lo indicado en la Disposición ANMAT N° 1149/97, a fin de respaldar la adecuación de las SPGV al sistema cerrado, se deberán presentar los siguientes controles y ensayos:<br> <br> 3.5.1. Requisitos físicos<br> <br> 3.5.1.1 Control visual<br> <br> 3.5.1.2 Soldadura previa del pico<br> <br> 3.5.1.3 Distribución de material<br> <br> 3.5.1.4 Transparencia<br> <br> 3.5.1.5 Permeabilidad al vapor de agua<br> <br> 3.5.1.6 Resistencia de la base del pico<br> <br> 3.5.1.7 Estanqueidad y resistencia a la temperatura y a la presión interna<br> <br> 3.5.1.8 Firmeza y estanqueidad de la conexión del pico del recipiente con el equipo<br> <br> 3.5.1.9 Resistencia del asa de sustentación<br> <br> 3.5.1.10 Resistencia al impacto<br> <br> 3.5.1.11 Estanqueidad del lugar de inoculación<br> <br> 3.5.1.12 Adherencia del rótulo<br> <br> 3.5.1.13 Peso y dimensiones<br> <br> 3.5.2 Requisitos Químicos<br> <br> 3.5.2.1 Deberá cumplir todos los requisitos químicos para el material en cuestión, conforme a la FA u otra Farmacopea internacionalmente reconocida.<br> <br> 3.5.3 Requisitos biológicos<br> <br> 3.5.3.1. Impermeabilidad a los microorganismos<br> <br> 3.5.3.2. Toxicidad<br> <br> 3.5.3.3. Sustancias piretógenas<br> <br> 3.5.4 Especificaciones y Control de Producto Terminado<br> <br> Deberán cumplir con el ANEXO E de la Disposición ANMAT N° 1149/97<br> <br> 3.5.4.1 Volumen del Envase<br> <br> Deberá demostrarse la capacidad de escurrimiento del volumen total del envase sin ingreso de aire, manteniendo el caudal de infusión durante toda la administración.<br> <br> 3.5.4.2 Partículas<br> <br> Deberán ajustarse a los requerimientos de la FA VII Ed., Cap. &lt;650&gt; u otras farmacopeas internacionalmente reconocidas.<br> <br> <img  src='../../../normativa/291651_disp11857-Anexo-2_jpg/archivo'><br> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-11857-2017-291651" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

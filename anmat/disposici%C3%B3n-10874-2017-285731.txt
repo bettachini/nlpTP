@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.104',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-10874-2017-285731/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-10874-2017-285731/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-10874-2017-285731/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"ysPBX6D_WDTPGIRW27VZtl7Pia7em9aRq5-y0Ksba-A","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-10874-2017-285731\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-10874-2017-285731 page-normativa-nacional-disposición-10874-2017-285731-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-10874-2017-285731/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-7XxFynXbiPA2PPbfATF3YxvLftZ_WWpN_BX7uuLqJ18" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-10874-2017-285731">Disposición E 10874/2017</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2017-10-31</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 10874-E/2017</span><br> <br> Ciudad de Buenos Aires, 18/10/2017<br> <br> VISTO la ley 16.463, los Decretos reglamentarios Nros. 9763/64 y 150/92 (T.O. Dec. 177/93), sus modificatorios y complementarios, la Resolución Conjunta N° 748/92 y N° 988/92 del Ex Ministerio de Salud y Acción Social y del ex Ministerio de Economía y Obras y Servicios Públicos, respectivamente, las Resoluciones del Ministerio de Salud Nros. 1490/07 y 1480/2011, las Disposiciones ANMAT Nros. 6677/10, 10.401/16, 12.792/16, 828/17, el EX-2017-XXXXXXXX-APN-XX#MS de la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT); y<br> <br> CONSIDERANDO:<br> <br> Que la protección de la vida y de su calidad constituyen derechos y libertades esenciales inherentes a la naturaleza humana y que están consagrados en la Constitución Nacional y en los Tratados de Derechos Humanos con jerarquía constitucional, art.75, inciso 22.<br> <br> Que toda acción médica que involucra a seres humanos debe basarse en valores y principios éticos y metodológicos fundados en el respeto por la dignidad de las personas y el bienestar e integridad de los sujetos participantes.<br> <br> Que los artículos 1° y 2° de la ley 16.463 establecen que las actividades de importación, exportación, producción, elaboración, fraccionamiento, comercialización o depósito en jurisdicción nacional o con destino al comercio interprovincial de las drogas, las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico, y todo otro producto de uso y aplicación en medicina humana sólo pueden realizarse previa autorización y bajo el contralor del ex Ministerio de Asistencia Social y Salud Pública, en establecimientos habilitados por éste y bajo la dirección técnica del profesional universitario correspondiente; todo ello en las condiciones y dentro de las normas que establezca la reglamentación atendiendo a las características particulares de cada actividad y a razonables garantías técnicas en salvaguarda de la salud pública y de la economía del consumidor.<br> <br> Que el Art. 1º del Decreto 9.763/64, reglamentario de la ley 16.463, establece que el ejercicio del poder de policía sanitaria referido a las actividades indicadas en el Artículo 1º de la ley 16.463 y a las personas de existencia visible o ideal que intervengan en las mismas se hará efectivo por el Ministerio de Asistencia Social y Salud Pública de la Nación (Hoy Ministerio de Salud), en las jurisdicciones que allí se indican.<br> <br> Que en el año 1992, por Decreto N° 1490 se creó esta Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT), como organismo descentralizado de la Administración Pública Nacional, con un régimen de autarquía financiera y económica, con jurisdicción en todo el territorio nacional, asumiendo dichas funciones.<br> <br> Que el Decreto N° 150/92 (T.O. Dec. 177/93) reglamenta el registro de medicamentos y especialidades medicinales estableciendo en los artículos 3°, 4° y 5° los regímenes de autorización con sus requisitos, información y documentación necesarios para el otorgamiento de la autorización de comercialización y venta debiendo demostrarse fehacientemente su eficacia y seguridad.<br> <br> Que asimismo el artículo 2° del referido decreto dispone la prohibición en todo el territorio nacional de la comercialización o entrega a título gratuito de especialidades medicinales o farmacéuticas no registradas ante la autoridad sanitaria, salvo las excepciones que de acuerdo a la reglamentación disponga la autoridad sanitaria.<br> <br> Que de conformidad con ello, la Resolución Conjunta MEOSP 470/92 &#8211; Res. MSAS 268/92, reglamentaria del Dec. 150/92 (T.O. según la Resolución Conjunta N° 748/92 y N° 988/92 del Ex Ministerio de Salud y Acción Social y del ex Ministerio de Economía y Obras y Servicios Públicos, respectivamente) reglamentaria del Decreto N° 150/92), establece que una de las excepciones a la prohibición a las que se refiere el art. 2° del precitado decreto son las especialidades medicinales que se importen los particulares para su uso personal sobre la base de una receta médica específica.<br> <br> Que siempre deben arbitrarse los medios para satisfacer las necesidades de salud y dar una respuesta idónea y eficaz a los casos particulares y extraordinarios de pacientes gravemente enfermos que no tienen otras opciones de tratamiento, siempre sobre la base de una prescripción profesional debidamente fundamentada en evidencias científicas.<br> <br> Que todas las agencias de vigilancia sanitaria del mundo cumplen un papel fundamental en la regulación de los medicamentos.<br> <br> Que de acuerdo con la ciencia reguladora y el alineamiento internacional de ANMAT con agencias de vigilancia sanitaria del mundo, las decisiones basadas en el análisis de la mejor evidencia disponible, con datos completos, garantiza la transparencia multilateral y el mejor servicio al ciudadano, con equidad.<br> <br> Que existen diversas circunstancias por las cuales un medicamento puede no estar disponible en el país. Que asimismo y por distintas razones, algunas situaciones clínicas requieren la utilización de un medicamento que no se encuentra registrado en el país.<br> <br> Que los casos particulares y extraordinarios tales como la falta de tratamiento específico en el país para situaciones clínicas con alto riesgo de muerte o de severo deterioro de la calidad de vida, la intolerancia a todo tratamiento apropiado existente, la incompatibilidad o presunción fundamentada de perjuicio de un tratamiento con aquellas drogas disponibles, requieren de una respuesta apropiada y pertinente.<br> <br> Que existen situaciones en las que la indicación del médico para un paciente determinado es difícil de atender debido a que el medicamento o el recurso prescrito no se hallan disponibles en el país o su acceso al mismo implica una erogación económica mayúscula que pone en riesgo a la capacidad del sistema de salud para atender las necesidades del universo de sus beneficiarios.<br> <br> Que dada la complejidad del tema y para asegurar que no se vulneren los derechos y seguridad de las personas necesitadas de asistencia que impliquen la provisión de medicamentos o recursos de alto costo, que si bien constituyen una reducida minoría, satisfacer su necesidad podría afectar los derechos de la mayoría de recibir la atención médica necesaria.<br> <br> Que considerando la finitud de los recursos económicos es imperativo asegurarse de que su aplicación esté plenamente justificada y avalada por la correspondiente evidencia científica.<br> <br> Que al acceso a tratamientos con medicamentos no registrados en el país se los enmarca como &#8220;acceso de excepción a medicamentos no registrados&#8221;.<br> <br> Que la evolución de las tecnologías sanitarias genera nuevas alternativas terapéuticas que apuntan a satisfacer la necesidad de salud de pacientes gravemente enfermos que al momento no tienen otras opciones de tratamiento.<br> <br> Que en consecuencia, resulta necesario adecuar las normas vigentes de modo que se contemplen estas situaciones particulares.<br> <br> Que en tal sentido y con dicha finalidad, se requiere una normativa más explícita e informativa con respecto a los requisitos reglamentarios, las restricciones y responsabilidades que se asumen en las situaciones descriptas precedentemente.<br> <br> Que el acceso excepcional a medicamentos es aquel que involucra una especialidad medicinal no registrada o no disponible en el país, ya sea por no estar comercializada o por ser un medicamento aún en etapa de investigación clínica debidamente autorizada una agencia regulatoria de medicamentos con la cual se mantenga una convergencia regulatoria.<br> <br> Que debido a sus características, el acceso de excepción a medicamentos reviste carácter extraordinario y está dirigido a un paciente en particular.<br> <br> Que por ende, el profesional que prescribe un medicamento en estas condiciones debe fundamentar la prescripción con evidencias científicas y contar con los antecedentes y experiencia profesional suficientes. Asimismo, la institución en la que se tratará el paciente, debe ofrecer los recursos requeridos para la administración y monitoreo de la eficacia y la seguridad del medicamento en cuestión.<br> <br> Que consientes de que la metodología estadística tradicional no encuentra plena aplicabilidad en estudios llevados a cabo en enfermedades poco frecuentes, la ANMAT exige el mejor estándar disponible para el análisis completo de datos provenientes de estudios en fases tempranas para asegurar, en la medida de estas posibilidades, la mejor ecuación riesgo-beneficio para los pacientes, sabiendo que el cuerpo completo de las pruebas sería insuficiente para aprobaciones o registros tradicionales.<br> <br> Que resulta imprescindible la intervención del Comité de Ética de la institución en la cual se asiste el paciente y que se halle debidamente reconocido por la autoridad sanitaria jurisdiccional para respaldar la pertinencia de la indicación y la ponderación de los riesgos y beneficios y la continuidad de los tratamientos de excepción.<br> <br> Que esta intervención de los Comités de Ética, como así también la posterior actuación de la ANMAT, no tiene un carácter restrictivo sobre la facultad del médico para prescribir sino que se solicita para extremar los cuidados sobre el paciente y garantizar el seguimiento de la eficacia y seguridad del medicamento en cuestión.<br> <br> Que mediante el artículo 10°, inciso l) del Decreto 1490/92, el Administrador Nacional podrá, a los efectos de desarrollar las acciones previstas en el artículo 8° del referido Decreto, convocar, con el acuerdo del Secretario de Salud, a organismos públicos y entidades privadas, para la formación de Comités o comisiones Asesoras o Grupos de Trabajo ad hoc, u otras modalidades de trabajo y cooperación que se considere adecuadas.<br> <br> Que en ese orden de ideas y frente a determinadas circunstancias, la ANMAT podrá convocar como consultores externos a profesionales de la salud especializados y reconocidos por su trayectoria, a los efectos de recabar su opinión sobre la pertinencia del medicamento solicitado.<br> <br> Que la Disposición ANMAT N° 10.401/16 establece un Régimen de Acceso de Excepción a Medicamentos (RAEM) y que atendiendo a la experiencia recogida desde su implementación, se sugiere su actualización a fin de reforzar algunos aspectos que hacen a la autorización de medicamentos no registrados destinados para ciertos pacientes con situaciones clínicas con alto riesgo de muerte o de severo deterioro de la calidad de vida.<br> <br> Que el Dirección Nacional del Instituto Nacional de Medicamentos y la Dirección de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que se actúa en uso de las facultades conferidas por los Decretos Nros. 1490 del 16 de diciembre de 2015.<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1°.- Apruébese el Régimen de Acceso de Excepción a Medicamentos no registrados (RAEM- NR), por medio del cual se establece el procedimiento para la aprobación de importación de medicamentos no registrados en el país destinados al tratamiento de un paciente individual para el que no exista disponible un registro de un producto idéntico, similar o alternativa terapéutica adecuada.<br> <br> ARTÍCULO 2°.- El Régimen de Acceso de Excepción a Medicamentos no registrados (RAEM-NR) establecido en la presente disposición, se aplicará en los pacientes que requieran imprescindiblemente de un medicamento que no esté registrado en el país pero que si lo esté en alguno de los países incluidos en el Anexo I del Decreto 150/92 o en un país con el que se haya establecido convergencia regulatoria (ver Anexo I de la presente) o en un paciente con condiciones clínicas que contraindiquen la utilización de los medicamentos en sus formas farmacéuticas o concentraciones disponibles en el país y requiera de uno que si lo esté en alguno de los países incluidos en el Anexo I del Decreto 150/92 o en el Anexo I de la presente). También se aplicará a las solicitudes destinadas a un paciente con serio riesgo de vida o de secuelas graves en los que el tratamiento necesario se halle aún en investigación clínica avanzada en uno de los países incluidos en el Anexo I del Decreto 150/92 o en el Anexo I de la presente y del que se disponga de información suficiente y de moderada a alta calidad que sugiera que el balance beneficio- riesgo es aceptable para esos pacientes.<br> <br> ARTÍCULO 3°.- Los medicamentos que se autoricen a través del RAEM-NR deberán ser prescriptos por un médico que posea los antecedentes profesionales necesarios y suficientes para garantizar la pertinencia de la indicación y el seguimiento de los tratamientos (adjuntar síntesis de su curriculum vitae).<br> <br> ARTÍCULO 4°.- La solicitud de importación de un medicamento a través del RAEM-NR, debe realizarse presentando la Declaración Jurada confeccionada por el médico tratante (ver ANEXO II) que debe estar completa en todos sus campos y redactada con letra claramente legible. La misma debe acompañarse del Consentimiento Informado firmado por el paciente o sus representantes legales (ver ANEXO IV). La Declaración Jurada mencionada, una vez firmada, sellada y fechada por el funcionario responsable de la ANMAT registrado ante la autoridad aduanera, constituirá constancia suficiente para ser presentado ante la Dirección General de Aduanas. La validez de dicha Declaración Jurada será de 45 días corridos a partir de la fecha consignada por el médico prescriptor. La validez del formulario ante la Dirección General de Aduanas será de 30 días corridos a partir de la fecha consignada por el funcionario responsable de la ANMAT.<br> <br> ARTÍCULO 5°.- La cantidad del producto que se autorizará a importar dentro del RAEM-NR será como máximo el adecuado para cubrir la necesidad de tratamiento de 60 días corridos. De ser necesario un nuevo ingreso, el próximo trámite podrá presentarse a partir de las tres semanas previas a la finalización del período antes señalado desde la autorización precedente y con una constancia emitida por el médico tratante sobre los resultados clínicos obtenidos, siendo requisito presentar la fotocopia del remito o factura de origen, donde figure lote y vencimiento del medicamento importado en la solicitud inmediata anterior. Para el caso de pacientes con enfermedades crónicas en tratamiento prolongado, se establece que luego de tres importaciones consecutivas por 60 días, podrá presentar la Declaración Jurada del RAEM solicitando una cantidad de producto para cubrir un periodo máximo de 180 días y continuar con dicho plazo todas las veces subsiguientes que fuera necesario, siempre y cuando el producto siga cumpliendo los requisitos de la presente Disposición.<br> <br> ARTÍCULO 6°.- Frente a la necesidad de pacientes atendidos en centros asistenciales por una emergencia médica que requiera la inmediata administración de un medicamento no disponible en el país, se establece que los centros asistenciales que cuenten con protocolos para determinadas situaciones de emergencia médica que requirieran el uso de productos no comercializados en el país, podrán presentar una nota a la ANMAT solicitando la autorización para la importación de una cantidad limitada de unidades para mantener como reserva en la Farmacia del establecimiento. La nota debe especificar la medicación, la indicación y justificar la cantidad solicitada que no podrá ser mayor a la estimada para un año. Cada vez que la medicación sea utilizada será responsabilidad ineludible de la institución sanitaria notificarlo a la autoridad sanitaria, adjuntando los datos pertinentes (fecha de utilización, paciente, médico actuante) y firmada por el farmacéutico responsable. Las nuevas solicitudes para el mismo producto serán autorizadas cuando sea necesario restituir la reserva mínima según surja de las notificaciones presentadas.<br> <br> ARTÍCULO 7°.- Si para la administración del medicamento se requiere de la hospitalización del paciente, sólo podrá ser aplicado en un establecimiento asistencial que cuente con la debida conformidad del Comité de Ética de esa institución y de su máxima autoridad. A tales efectos deberá completarse el formulario correspondiente que como ANEXO VI forma parte de la presente disposición. La ANMAT, en función del estado clínico del paciente expuesto por el médico tratante en su Declaración Jurada y la naturaleza de los tratamientos solicitados, podrá determinar las excepciones a este uso exclusivo en un establecimiento asistencial.<br> <br> ARTÍCULO 8°.- Las Asociaciones Civiles con personería jurídica podrán importar medicamentos para sus asociados. En dicho caso, la cantidad del producto que se autorizará a importar será como máximo el necesario para cubrir un tratamiento de 180 días corridos por paciente, utilizando la Declaración Jurada que obra en el ANEXOX III de la presente disposición. Las solicitudes de importación podrán ser formuladas por las referidas asociaciones dos veces al año como máximo. Las asociaciones se comprometen a informar mensualmente a la ANMAT detalladamente sobre el destino (paciente, fecha de entrega, médico prescriptor) de cada una de las unidades importadas.<br> <br> ARTÍCULO 9°.- Cuando así lo considere necesario y en virtud de la complejidad del caso a evaluar, la ANMAT podrá convocar un Grupo de Trabajo coordinado por la propia Administración con la participación de especialistas externos para que intervengan en la evaluación científico-técnica y den opinión sobre la pertinencia de la solicitud de medicamentos por vía de RAEM/NR a fin de incorporar las actuaciones al expediente de solicitud de acceso a tal medicación, con los antecedentes que correspondan conforme a la normativa aplicable. El Grupo de Trabajo deberá elevar a esta Administración Nacional un informe recomendando la aceptación o denegatoria de las solicitudes sujetas a su análisis con los fundamentos del caso. Asimismo, podrá proponer opciones alternativas de tratamiento para dar respuestas de manera coordinada, eficiente y efectiva a la necesidad del paciente.<br> <br> ARTÍCULO 10.- Todo medicamento comprendido en el RAEM&#8211;NR no puede ser comercializado ni promocionado en plaza como si estuviera registrado pues su ingreso al país solamente está permitido para la asistencia de un paciente individual y esa excepción debe estar debidamente autorizada por la ANMAT.<br> <br> ARTÍCULO 11.- Para todos aquellos casos en que los productos alcanzados por el RAEM &#8211; NR no sean retirados de manera directa por el paciente en el servicio de Aduana respectivo, hasta tanto sean entregados al paciente o al establecimiento asistencial público o privado donde serán administrados, los mismos deberán ser almacenados en los depósitos de los laboratorios, distribuidoras y/o droguerías habilitados por esta Administración en los términos de las disposiciones ANMAT Nº 2819/2004, Nº 7439/99 y Nº 7038/15, según aplique en cada caso, a fin de asegurar las condiciones de conservación adecuadas que garanticen la calidad, seguridad y eficacia de tales medicamentos. En dicho caso, deberán tener en su poder copia de toda la documentación del trámite de solicitud que fuera autorizada por Anmat, como también la constancia del retiro de aduana y la factura de origen. Solo podrán almacenar los productos en las cantidades autorizadas y consignadas en la Declaración Jurada para la Importación de Medicamentos a través de RAEM que obra en el Anexo II de la presente Disposición. Los inspectores o funcionarios autorizados por esta Administración Nacional tendrán las atribuciones previstas en la Ley 16.463, su Decreto reglamentario 9763/64, el Decreto 341/92 y el Decreto 1490/92 y sus normas modificatorias y/o complementarias, pudiendo ingresar en los locales, habilitados o no, donde se ejerzan actividades comprendidas en la presente disposición, durante las horas destinadas a su ejercicio, y aun cuando mediare negativa del propietario o responsable.<br> <br> ARTÍCULO 12.- El médico responsable de la prescripción de los medicamentos, junto al Comité de Ética y en función de los informes periódicos de seguridad y eficacia, evaluarán la pertinencia de la continuidad del uso de los productos cuya importación fue realizada través del RAEM-NR. La ANMAT establecerá en cada caso el período de cobertura de los informes de seguridad y eficacia e independientemente de esto, en el caso de que hubiera efectos adversos serios, el médico responsable que haya solicitado el medicamento deberá reportar dichos eventos de forma inmediata al Sistema Nacional de Farmacovigilancia.<br> <br> ARTÍCULO 13.- Para solicitar la autorización de importación de excepción para un paciente individual de un medicamento que aún se halle en fase de investigación autorizada por la agencia sanitaria de países del Anexo I del Decreto 150/92 o en el Anexo I de la presente disposición, el médico prescriptor deberá aportar toda la información científica utilizada para justificar la indicación en ese paciente en particular. Dada la escasa evidencia que suele acompañar a estos productos, generalmente aplicables a afecciones de baja frecuencia, la indicación no podrá extrapolarse a pacientes con características distintas a los que integraron el estudio clínico en el que se sustenta la indicación. El proceso de evaluación no se iniciará hasta que no se entregue la información requerida.<br> <br> ARTÍCULO 14.- Para solicitar la autorización de importación de excepción para un paciente individual de un medicamento que se halle registrado por la agencia sanitaria de un país del Anexo I del Decreto 150/92 o en el Anexo I de la presente disposición, el médico prescriptor deberá adjuntar, el prospecto del producto con el cual se comercializa en su país de origen que respalde la indicación para el paciente en cuestión. El proceso de evaluación no se iniciará hasta que no se entregue la información requerida.<br> <br> ARTÍCULO 15.- El médico prescriptor deberá completar el formulario sobre su potencial conflicto de intereses que figura en el ANEXO V.<br> <br> ARTÍCULO 16.- Derógase la Disposición ANMAT Nro. 10.401/16 y sus Anexos y las Circulares 1/2017, 2/2017 y 5/2017, que serán reemplazada por lo aprobado por la presente disposición.<br> <br> ARTÍCULO 17.- La presente Disposición entrará en vigencia a partir de los 15 días siguientes al de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 18.- Regístrese, Dése a la Dirección Nacional de Registro Oficial para su publicación. Dése a publicidad a través de página web institucional. Comuníquese a la Dirección Nacional de Aduanas (DGA) dependiente de la Administración Federal de Ingresos Públicos (AFIP), a CAEME, CILFA, COOPERALA, CAPGEN, CAPROFAC, FACAFF, COFA, COMRA, CAOIC, COMRA, AMA, FEMEBA y demás entidades representativas del sector. Comuníquese la presente Dirección Nacional del INAME, Dirección de Evaluación y Registro de Medicamentos, Dirección de Evaluación de Tecnologías Sanitarias y a la Dirección de Relaciones Institucionales. Cumplido archívese, PERMANENTE. &#8212; Carlos Alberto Chiale.<br> <br> NOTA: El/los Anexo/s que integra/n este(a) Disposición se publican en la edición web del BORA -www.boletinoficial.gob.ar- y también podrán ser consultados en la Sede Central de esta Dirección Nacional (Suipacha 767 - Ciudad Autónoma de Buenos Aires).<br> <br> <div style='text-align: right;'>e. 31/10/2017 N° 82869/17 v. 31/10/2017<br> </div> <br> <span style='font-style: italic;'>(<span style='font-weight: bold;'>Nota Infoleg:</span> Los anexos referenciados en la presente norma han sido extraídos de la edición web de Boletín Oficial. Los mismos pueden consultarse en el siguiente link: <a  target='_blank' href='../../../normativa/285731_disp10874-1_pdf/archivo'>AnexoI</a>, <a  target='_blank' href='../../../normativa/285731_disp10874-2_pdf/archivo'>AnexoII</a>, <a  target='_blank' href='../../../normativa/285731_disp10874-3_pdf/archivo'>AnexoIII</a>, <a  target='_blank' href='../../../normativa/285731_disp10874-4_pdf/archivo'>AnexoIV</a>, <a  target='_blank' href='../../../normativa/285731_disp10874-5_pdf/archivo'>AnexoV</a>, <a  target='_blank' href='../../../normativa/285731_disp10874-6_pdf/archivo'>AnexoVI</a>)</span><br>  </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-10874-2017-285731" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

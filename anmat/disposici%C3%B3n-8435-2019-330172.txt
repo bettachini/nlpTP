@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-8435-2019-330172/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-8435-2019-330172/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-8435-2019-330172/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"fV6tfyIfVleli0oBfxo2VAgNkDfMvINTYY8jxauVlEY","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-8435-2019-330172\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-8435-2019-330172 page-normativa-nacional-disposición-8435-2019-330172-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-8435-2019-330172/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-vmYSXtiGEHX90C59gDJbIXP8tBEUx7W1f9elsMFrD5o" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-8435-2019-330172">Disposición   8435/2019</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2019-10-17</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify; font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> </div> <div style='text-align: justify;'><br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 8435/2019</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>DI-2019-8435-APN-ANMAT#MSYDS</span><br> <br> Ciudad de Buenos Aires, 11/10/2019<br> <br> VISTO el Decreto N° 434 del 1 de marzo de 2016, el Decreto N° 891 del 1 de noviembre de 2017, el Decreto Nº 1063 del 4 de octubre de 2016, la Resolución ex MS y AS Nº 709 del 7 de septiembre de 1998, la Disposición ANMAT Nº 7292 del 4 de diciembre de 1998 y sus modificatorias y el Expediente EX-2018-32114982-APN-DVPS#ANMAT; y<br> <br> CONSIDERANDO:<br> <br> Que los dispositivos de acondicionamiento de agua de red domiciliaria son considerados productos domisanitarios.<br> <br> Que es menester actualizar la Disposición ANMAT Nº 7292/98 en cuanto a los requisitos para el registro de los dispositivos de acondicionamiento de agua de red domiciliaria.<br> <br> Que por otra parte el Decreto N° 434/16 aprobó el Plan de Modernización del Estado que contempló, como uno de los instrumentos del Plan, la reingeniería de procesos administrativos y de control con el objetivo de dotarlos de mayor eficiencia para la consecución de los objetivos de los organismos de la Administración Pública Nacional.<br> <br> Que a esos fines se dictó el Decreto N° 891/17 por el que se aprobaron las BUENAS PRÁCTICAS EN MATERIA DE SIMPLIFICACIÓN aplicables para el funcionamiento del Sector Público Nacional y el dictado de la normativa y sus regulaciones.<br> <br> Que dicho decreto consideró indispensable elaborar una estrategia sistémica e integral cuya premisa básica sea la mejora regulatoria como una labor continua del sector público y abierta a la participación de la sociedad, que incluya la reducción de los trámites excesivos, la simplificación de procesos y la elaboración de normas de manera tal que nos lleve a un Estado eficiente, predecible y capaz de responder a las necesidades ciudadanas.<br> <br> Que en otro orden de ideas, en el marco del citado Decreto Nº 1063/2016 se aprobó la implementación de la Plataforma de Trámites a Distancia (TAD) del Sistema de Gestión Documental Electrónica (GDE), como medio de interacción del ciudadano con la administración, a través de la recepción y remisión por medios electrónicos de presentaciones, solicitudes, escritos, notificaciones y comunicaciones, entre otros.<br> <br> Que en ese contexto, y con el fin de avanzar en el proceso de gestión estatal que persigue como objetivo el cumplimiento de los principios de eficiencia, transparencia y predictibilidad y adaptarlo a los estándares de las nuevas herramientas tecnológicas y sobre la base de la experiencia adquirida en la aplicación sistemática de la normativa vigente en materia de Dispositivos de acondicionamiento de agua de red domiciliaria, resulta conveniente la revisión y actualización de aspectos procedimentales a los fines de agilizar la evaluación de los trámites de autorización de Dispositivos de acondicionamiento de agua de red domiciliaria.<br> <br> Que la Dirección de Evaluación y Gestión de Monitoreo de Productos para la Salud y la Dirección de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que la presente se dicta en ejercicio de las atribuciones conferidas por el Decreto N° 1490/92 y sus modificatorios.<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1º.- Quedan comprendidos en la presente disposición todos los dispositivos de acondicionamiento de agua de red domiciliaria destinados a mejorar algunas de las características químicas, físicas y/u organolépticas del agua de bebida para consumo humano.<br> <br> ARTÍCULO 2º.- Para registrar dispositivos de acondicionamiento de agua de red domiciliaria, el interesado deberá comunicar con carácter de declaración jurada la información que se detalla a continuación de acuerdo con al Anexo I (IF-2019-38374853-APN-DVPS#ANMAT):<br> <br> · Nombre del titular del producto.<br> <br> · Domicilio y teléfono comercial.<br> <br> · Número de RNE del titular y de los establecimientos participantes.<br> <br> · Nombre o marca del producto y modelo.<br> <br> · Para el caso de productos importados, deberá presentarse fotocopia autenticada del Certificado de Libre Venta emitido por la Autoridad Sanitaria competente o por la empresa elaboradora avalado por la Cámara de Comercio del país de origen, debidamente legalizado, consularizado y en su caso traducido por traductor público matriculado.<br> <br> · Nombre y apellido del Representante Legal y del Director Técnico, número de documento, título universitario y matrícula correspondiente.<br> <br> · Composición cualicuantitativa del material activo expresada en forma porcentual.<br> <br> · Capacidad nominal del dispositivo.<br> <br> · Método de elaboración.<br> <br> · Método de control de calidad del producto terminado.<br> <br> · Descripción del envase primario y secundario y del sistema de identificación de lote o partida.<br> <br> · Descripción de la unidad de venta: Dispositivo, accesorios de instalación, repuestos. En el caso de los repuestos (cartuchos), los mismos deberán ser comercializados únicamente bajo el amparo del RNPUD del Dispositivo. Para cualquier otro insumo, los mismos deberán ser incluidos con el Dispositivo en la cantidad necesaria para todo el período de vida útil.<br> <br> · Diseño de rótulo y manual del usuario. En caso de productos importados presentar además el rótulo y manual de instrucciones de origen y su traducción.<br> <br> · Ensayos físicos, químicos, microbiológicos de eficacia efectuados por laboratorios de organismos oficiales según los protocolos establecidos en la presente disposición.<br> <br> ARTÍCULO 3º.- Será aceptada como única denominación para estos productos &#8220;dispositivo de acondicionamiento de agua de red domiciliaria&#8221;; quedando excluido el uso de los términos: purificador, potabilizador y similares.<br> <br> ARTÍCULO 4º.- Los dispositivos de acondicionamiento de agua de red domiciliaria serán Dispositivos de punto de uso (PDU) que deberán ser instalados en el punto de empleo.<br> <br> ARTÍCULO 5º.- Los interesados deberán declarar si corresponde a Punto de Uso por presión dinámica, Punto de Uso por Presión estática o Punto de Uso por acción de la gravedad, debiendo cumplimentar en cada caso con los ensayos de resistencia a la presión del agua según corresponda.<br> <br> ARTÍCULO 6º.- Se deberá declarar el material de la carcasa y adjuntar los ensayos de migración total y migración específica realizados en país de origen por laboratorios certificados por la autoridad sanitaria ó en el país por laboratorio de organismo oficial. El material deberá cumplir en un todo con lo establecido en el Capítulo IV del Código Alimentario Argentino (C.A.A.) y sus actualizaciones.<br> <br> ARTÍCULO 7º.- Se deberán declarar todos los componentes que forman parte del dispositivo de acondicionamiento de agua de red domiciliaria, así como sus respectivas especificaciones a saber:<br> <br> 1. Carcasa.<br> <br> 2. Válvulas de cierre, reguladores de caudal y demás elementos necesarios para la instalación y funcionamiento del equipo.<br> <br> 3. Elementos filtrantes.<br> <br> 1. Carbón activado.<br> <br> 2. Carbón activado impregnado con plata.<br> <br> 3. Tierras minerales.<br> <br> 4. Aleación Cobre &#8211; Cinc y otras.<br> <br> 5. Filtros de separación, mallas micrométricas.<br> <br> 6. Resina de Intercambio Aniónico, Catiónico o cualquier otro medio activo filtrante.<br> <br> 7. Adsorbentes naturales o sintéticos.<br> <br> 8. Otros.<br> <br> 4. Materiales de relleno (material soporte del medio activo).<br> <br> 5. Prefiltro.<br> <br> 6. Filtro.<br> <br> 7. Post filtro.<br> <br> 8. Indicador de cambio de cartucho y/o regeneración de resina.<br> <br> 9. Otros.<br> <br> ARTÍCULO 8º.- Además de lo mencionado en el artículo precedente se deberá presentar la siguiente información para los materiales listados a continuación:<br> <br> 1- Carbón activado para tratamiento de agua destinada a consumo humano: certificado de análisis y hoja de seguridad emitido por el proveedor.<br> <br> 2- Carbón activado impregnado en plata para tratamiento de agua destinada a consumo humano: certificado de análisis, análisis de contenido de plata y hoja de seguridad emitido por el proveedor.<br> <br> 3- Resina de intercambio iónico para tratamiento de agua de red domiciliaria, materiales de relleno, medios activos: certificado emitido por proveedor con especificaciones técnicas, incluyendo efectividad de la resina, material con el cual se regenera y cantidad de regeneraciones posibles, y hoja de seguridad.<br> <br> ARTÍCULO 9º.- Las condiciones de acondicionamiento y agotamiento del equipo, para ensayos al inicio y al final de la vida útil constan en el Anexo II (IF-2019-38374945-APN-DVPS#ANMAT).<br> <br> ARTÍCULO 10.- Los siguientes ensayos generales deberán efectuarse, según corresponda, en laboratorios oficiales de acuerdo a la metodología que consta en cada uno de los Anexos mencionados<br> <br> 1. Ensayo de resistencia del dispositivo a la presión dinámica del agua de acuerdo a la metodología que figura en el Anexo III (IF-2019-38376949-APN-DVPS#ANMAT).<br> <br> 2. Ensayo de resistencia del dispositivo a la presión estática del agua de acuerdo a la metodología que figura en el Anexo III (IF-2019-38376949-APN-DVPS#ANMAT).<br> <br> 3. Ensayo de cuantificación de sustancias extraíbles de acuerdo a la metodología que figura en el Anexo IV (IF-2019-38377055-APN-DVPS#ANMAT).<br> <br> 4. Ensayo de calidad bacteriológica del agua de salida del dispositivo de acuerdo a la metodología que figura en el Anexo VA (IF-2019-38392763-APN-DVPS#ANMAT).<br> <br> ARTÍCULO 11.- Para aquellos dispositivos de acondicionamiento de agua de red domiciliaria que declaren funciones específicas como eficiencia bacteriostática, reducción de cloro residual total u otras sustancias, se deberán realizar los siguientes ensayos de desempeño:<br> <br> 1.- Ensayo de eficiencia bacteriostática de acuerdo a la metodología que figura en el Anexo VB (IF-2019-38392884-APN-DVPS#ANMAT).<br> <br> 2.- Ensayo de reducción de contenido de cloro de acuerdo a la metodología que figura en el Anexo VI (IF-2019-38392943-APN-DVPS#ANMAT) y Anexo XII (IF-2019-38392303-APN-DVPS#ANMAT).<br> <br> 3.- Ensayo de reducción del contenido de sustancias químicas inorgánicas como metales, nitratos y dureza total, de acuerdo a la metodología que figura en el Anexo VII (IF-38393012-APN-DVPS#ANMAT) y Anexo XII (IF-2019-38392303-APN-DVPS#ANMAT).<br> <br> 4.- Ensayo de reducción del contenido de sustancias inorgánicas a través de medios activos de acuerdo a la metodología que figura en el Anexo VII (IF-38393012-APN-DVPS#ANMAT) y Anexo XII (IF-2019-38392303-APN-DVPS#ANMAT).<br> <br> 5.- Ensayo de reducción del contenido de sustancias químicas orgánicas de acuerdo a la metodología que figura en el Anexo VIII (IF-2019-38392712-APN-DVPS#ANMAT) y Anexo XII (IF-2019-38392303-APN-DVPS#ANMAT).<br> <br> 6.- Ensayo de reducción de olor y sabor de acuerdo a la metodología que figura en el Anexo IX (IF-2019-38392611-APN-DVPS#ANMAT) y Anexo XII (IF-2019-38392303-APN-DVPS#ANMAT), debiendo declarar la concentración de sustancia orgánica de la cual se parte, el porcentaje de reducción y realizado en condiciones de laboratorio. Alternativamente se podrá realizar el ensayo de reducción de olor y sabor de acuerdo a metodologías internacionalmente reconocidas. Si este último fuera el caso, deberá adjuntar protocolo utilizado y respaldo bibliográfico.<br> <br> 7. Otros.<br> <br> En todos los casos los resultados de los análisis realizados deberán consignar la metodología empleada y cuando la Autoridad Sanitaria estime corresponder, el error/incertidumbre del método empleado.<br> <br> ARTÍCULO 12.- Cualquier cambio o modificación de algún componente o material en contacto con el agua que no afecte la eficiencia del dispositivo de acondicionamiento de agua de red domiciliaria, deberá ser declarado debiéndose realizar los ensayos de control de cuantificación de sustancias extraíbles y nivel microbiológico, de acuerdo a lo consignado en los Anexos IV (IF-2019-38377055-APN-DVPS#ANMAT) y VA (IF-2019-38392763-APN-DVPS#ANMAT), respectivamente. En caso de que el componente o material que se cambie o modifique esté sometido a presión se deberá realizar el ensayo correspondiente de resistencia del dispositivo a la presión dinámica o estática del agua de acuerdo a la metodología que figura en el Anexo III (IF-2019-38376949-APN-DVPS#ANMAT).<br> <br> ARTÍCULO 13.- En caso de que el dispositivo de acondicionamiento de agua de red domiciliaria tenga por finalidad la reducción y/o retención de sustancias químicas específicas ya sean orgánicas y/o inorgánicas, estas últimas deberán declararse por nombre químico debiéndose realizar los ensayos de eficiencia correspondientes.<br> <br> ARTÍCULO 14.- No se podrá declarar la reducción o retención de sustancias químicas orgánicas por su denominación genérica, por ejemplo pesticidas, hidrocarburos, metales pesados, a excepción de los Trihalometanos (THM), debiéndose declarar el nombre químico del compuesto a reducir o retener.<br> <br> ARTÍCULO 15.- Para aquellos dispositivos que presenten resinas de intercambio iónico específicas para ciertas sustancias, se deberá declarar, la vida útil de la resina, el número de regeneraciones y la cantidad de sustancia retenida especificando el/los margen/es de seguridad para la retención de las sustancias declaradas. Esto deberá ser avalado por los respectivos análisis de laboratorio. El dispositivo deberá contar con algún sistema a través del cual se indique al usuario el momento en el que deberá realizarse el cambio de resina y/o su regeneración.<br> <br> ARTÍCULO 16.- Para los dispositivos mencionados en el artículo anterior, se deberán declarar las sustancias interferentes y el mecanismo a través del cual afectan la retención de la sustancia a reducir.<br> <br> ARTÍCULO 17.- Se deberán declarar asimismo los iones que pueden liberar las resinas de intercambio iónico durante su vida útil y en el momento de la realización de las regeneraciones.<br> <br> ARTÍCULO 18.- Las resinas de intercambio iónico no deberán liberar al agua iones en cantidad tal que exceda los límites establecidos por el C.A.A. durante su vida útil de acuerdo con las especificaciones del fabricante.<br> <br> ARTÍCULO 19.- En los casos de dispositivos de acondicionamiento de agua de red domiciliaria en los que cada componente presente acciones específicas diferentes, la capacidad nominal del dispositivo estará determinada por aquella para la cual se declare la menor vida útil considerando dichas partes por separado. Quedan exceptuados aquellos compuestos auxiliares que deben ser regenerados en el transcurso de la vida útil.<br> <br> ARTÍCULO 20.- El rotulado del dispositivo de acondicionamiento de agua de red domiciliaria deberá cumplir con los requisitos establecidos en el Anexo X (IF-2019-38392451-APN-DVPS#ANMAT).<br> <br> ARTÍCULO 21.- Junto con el dispositivo de acondicionamiento de agua de red domiciliaria se deberá proveer de un manual de instrucciones para la instalación, uso del dispositivo y cambio de las piezas o repuestos. Dicho manual deberá cumplir con los requisitos establecidos en el Anexo XI (IF-2019-38392373-APN-DVPS#ANMAT).<br> <br> ARTÍCULO 22.- Apruébase el glosario del Anexo XIII (IF-2019-38392237-APN-DVPS#ANMAT) que forma parte integrante de la presente disposición.<br> <br> ARTÍCULO 23.- La solicitud de registro de dispositivos de acondicionamiento de agua de red domiciliaria se realizará mediante la PLATAFORMA DE TRÁMITES A DISTANCIA (TAD) aprobada por el Decreto N° 1063/16 y reglamentada por la Resolución 90-E/17 del ex MINISTERIO DE MODERNIZACIÓN DE LA NACIÓN y las normas que en el futuro las modifiquen, complementen o sustituyan.<br> <br> Hasta que dicha plataforma se encuentre operativa, los trámites se realizarán en forma presencial ante la mesa de entrada de este organismo, mediante un dispositivo de almacenamiento por medio electrónico (pendrive) o cualquier medio que la Administración Nacional permita<br> <br> ARTÍCULO 24.- Derógase el ítem c) del artículo 2º de la Disposición ANMAT Nº 7292/98.<br> <br> ARTÍCULO 25.- La presente disposición entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 26.- Invítase a las Provincias y al Gobierno Autónomo de la Ciudad de Buenos Aires a adherir a la presente disposición.<br> <br> ARTÍCULO 27.- Regístrese. Dése a la Dirección Nacional del Registro Oficial para su publicación. Dése a la Dirección de Evaluación y Gestión de Monitoreo de Productos para la Salud y a la Dirección de Relaciones Institucionales. Comuníquese a la Asociación Industrial de Artículos para la Limpieza Personal, del Hogar y Afines, a la Cámara Argentina de Aerosoles y demás entidades relacionadas. Cumplido, archívese. Carlos Alberto Chiale<br> <br> NOTA: El/los Anexo/s que integra/n este(a) Disposición se publican en la edición web del BORA -www.boletinoficial.gob.ar-<br> <br> <div style='text-align: right;'>e. 17/10/2019 N° 78824/19 v. 17/10/2019<br> </div> <br> <span style='font-style: italic;'>(<span style='font-weight: bold;'>Nota Infoleg:</span> Los anexos referenciados en la presente norma han sido extraídos de la edición web de Boletín Oficial. Los mismos pueden consultarse en el siguiente link: <a  target='_blank' href='../../../normativa/330172_disp8435-1_pdf/archivo'>AnexoI</a>, <a  target='_blank' href='../../../normativa/330172_disp8435-2_pdf/archivo'>AnexoII</a>, <a  target='_blank' href='../../../normativa/330172_disp8435-3_pdf/archivo'>AnexoIII</a>, <a  target='_blank' href='../../../normativa/330172_disp8435-4_pdf/archivo'>AnexoIV</a>, <a  target='_blank' href='../../../normativa/330172_disp8435-5_pdf/archivo'>AnexoVA</a>, <a  target='_blank' href='../../../normativa/330172_disp8435-6_pdf/archivo'>AnexoVB</a>, <a  target='_blank' href='../../../normativa/330172_disp8435-7_pdf/archivo'>AnexoVI</a>, <a  target='_blank' href='../../../normativa/330172_disp8435-8_pdf/archivo'>AnexoVII</a>, <a  target='_blank' href='../../../normativa/330172_disp8435-9_pdf/archivo'>AnexoVIII</a>, <a  target='_blank' href='../../../normativa/330172_disp8435-10_pdf/archivo'>AnexoIX</a>, </span><a  target='_blank' href='../../../normativa/330172_disp8435-11_pdf/archivo'>AnexoX</a><span style='font-style: italic;'>, <a  target='_blank' href='../../../normativa/330172_disp8435-12_pdf/archivo'>AnexoXI</a>, </span><span style='font-style: italic;'><a  target='_blank' href='../../../normativa/330172_disp8435-13_pdf/archivo'>AnexoXII</a>, </span><span style='font-style: italic;'><a  target='_blank' href='../../../normativa/330172_disp8435-14_pdf/archivo'>AnexoXIII</a>)</span>  </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-8435-2019-330172" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

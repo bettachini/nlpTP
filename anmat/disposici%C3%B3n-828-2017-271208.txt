@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-828-2017-271208/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-828-2017-271208/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-828-2017-271208/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"VuzhQ3ugnnG0Zbuv41RT1mZEbwqiNv8k0OrLk6nQk9k","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-828-2017-271208\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-828-2017-271208 page-normativa-nacional-disposición-828-2017-271208-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-828-2017-271208/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-EXNlF4TQKIHLm_1jf6UsO36OBNRZyKpOj7-abB81bco" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-828-2017-271208">Disposición   828/2017</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2017-01-26</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>MINISTERIO DE SALUD</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>SECRETARÍA DE POLÍTICAS, REGULACIÓN E INSTITUTOS</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 828/2017</span><br> <br> Buenos Aires, 23/01/2017<br> <br> VISTO la Ley N° 16.463, y sus decretos reglamentarios Nros. 9763/64 y 150/92 (T.O. 1993), la Resolución del Ministerio de Salud Nº 1480/11, y las Disposiciones ANMAT Nros. 6677/10, 10401/16 y 12792/16, y el Expediente N° 1-47-0000-000178-17-1 del registro de esta Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT), y<br> <br> CONSIDERANDO:<br> <br> Que el artículo 1º de la Ley 16.463 establece que &#8220;quedan sometidos a la presente ley y a los reglamentos que en su consecuencia se dicten, la importación, exportación, producción, elaboración, fraccionamiento, comercialización o depósito en jurisdicción nacional o con destino al comercio interprovincial de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico, y todo otro producto de uso y aplicación en medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades.&#8221;.<br> <br> Que el artículo 2° de la citada ley establece que las actividades mencionadas sólo podrán realizarse previa autorización y bajo el contralor de la autoridad sanitaria, en establecimientos por ella habilitados y bajo la dirección técnica del profesional universitario correspondiente; todo ello en las condiciones y dentro de las normas que establezca la reglamentación, atendiendo a las características particulares de cada actividad y a razonables garantías técnicas en salvaguarda de la salud pública y de la economía del consumidor.<br> <br> Que asimismo el artículo 3° del mencionado cuerpo legal prescribe que los productos comprendidos en la citada ley deberán reunir las condiciones establecidas en la Farmacopea Argentina, y en caso de no figurar en ella, las que surgen de los patrones internacionales y de los textos de reconocido valor científico, debiendo a la vez ser inscriptos por ante esta Administración Nacional de conformidad a lo establecido en el Decreto N° 150/92 (T.O. 1993).<br> <br> Que el artículo 1° del Decreto N° 9763/64, reglamentario de Ley 16.463, establece que el ejercicio del poder de policía sanitaria referido a las actividades indicadas en el artículo 1° de la mentada ley, y a las personas de existencia visible o ideal que intervengan en las mismas, se hará efectivo por el Ministerio de Asistencia Social y Salud Pública de la Nación (hoy Ministerio de Salud), en las jurisdicciones que allí se indican.<br> <br> Que por su parte el Decreto N° 1490/92, crea esta Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT), como organismo descentralizado de la Administración Pública Nacional, con un régimen de autarquía financiera y económica, con jurisdicción en todo el territorio nacional, asumiendo dichas funciones.<br> <br> Que la Ley 16.463 y el Decreto N° 150/92 (T.O. 1993) dictado en su consecuencia, establecen el marco regulatorio que rige la importación, elaboración y comercialización de especialidades medicinales.<br> <br> Que el Art. 2° del Decreto N° 150/92 establece que &#8220;...La comercialización de especialidades medicinales o farmacéuticas en el mercado local estará sujeta a la autorización previa de la autoridad sanitaria nacional. Las especialidades medicinales o farmacéuticas autorizadas para su expendio en el mercado nacional serán las inscriptas en un registro especial en el Ministerio de Salud y Acción Social, de acuerdo a las disposiciones del presente decreto y su reglamentación. Prohíbese en todo el territorio nacional la comercialización o entrega a título gratuito de especialidades medicinales o farmacéuticas no registradas ante la autoridad sanitaria, salvo las excepciones que de acuerdo a la reglamentación disponga la autoridad sanitaria&#8221;.<br> <br> Que la Resolución Conjunta N° 748/92 y N° 988/92 del ex Ministerio de Salud y Acción Social y del ex Ministerio de Economía y Obras y Servicios Públicos, respectivamente, establece en su artículo 1°, que &#8220;las excepciones a la prohibición a las que se refiere el art. 2° del decreto mencionado son las especialidades medicinales que: inciso a) estén destinadas a los estudios en investigaciones clínicas que hayan sido autorizadas de acuerdo a la normas vigentes (...); inciso c) importen los particulares para su uso personal sobre la base de una receta médica específica.&#8221;.<br> <br> Que en el referido contexto, esta Administración Nacional ha dictado la Disposición N° 6677/2010, en cuyo punto 6 &#8212;Protección del Participante del Estudio&#8212; numeral 6.8, establece que: &#8220;Los participantes que requirieran continuar su tratamiento al finalizar el estudio deberán tener acceso a la intervención que haya resultado beneficiosa o a una intervención alternativa o a otro beneficio apropiado, aprobado por el Comité de Ética en Investigación (CEI), y por el plazo que este haya determinado o hasta que su acceso se encuentre garantizado por otro medio&#8221; (Sección B).<br> <br> Que en razón de ello, mediante Disposición ANMAT N° 12792/16, se aprueba el &#8220;Procedimiento para la Solicitud de Importación de la Medicación/Tratamiento y Materiales para el Acceso Post- Estudio&#8221;, por parte de las personas participantes en un estudio de farmacología clínica autorizado por esta Administración Nacional, estableciéndose los requisitos a cumplir por parte del patrocinador, con carácter previo a la finalización del estudio.<br> <br> Que asimismo y en lo que respecta a lo establecido en el inciso c) del artículo 1° de la Resolución Conjunta mencionada precedentemente, mediante Disposición ANMAT Nº 10401/16, que deroga sus similares Nros. 840/95, 2324/97 y 5472/01, aprueba el &#8220;Régimen de Acceso de Excepción a Medicamentos&#8221;, por medio del cual se establece el procedimiento para el ingreso desde el exterior de medicamentos destinados al tratamiento de un paciente en particular para el que no exista en el país una alternativa terapéutica adecuada.<br> <br> Que el régimen de excepción vigente no contempla la situación particular de especialidades medicinales que han demostrado una ventaja terapéutica durante su utilización en los pertinentes ensayos clínicos y que a juicio del médico tratante podrían resultar beneficiosas para el tratamiento de pacientes que padecen situaciones severas de salud en los que por la gravedad de la patología no fuera aconsejable que se demorara la iniciación de su tratamiento, a la espera de completar el proceso habitual de registro.<br> <br> Que tratándose de medicamentos destinados al tratamiento de patologías graves y que podrían haber obtenido recientemente las evidencias clínicas experimentales suficientes como para iniciar el proceso de registro y autorización de comercialización ante esta Administración Nacional u otra agencia regulatoria perteneciente al Anexo I del Decreto N° 150/92 (t.o. 1993), resulta conveniente propiciar programas que faciliten la accesibilidad a los referidos nuevos agentes terapéuticos.<br> <br> Que en dicho contexto, y mientras el producto no esté disponible en el mercado local, se considera conveniente autorizar la accesibilidad a los tratamientos, dentro de un marco regulatorio que contemple la excepcionalidad de la medida, la gratuidad del tratamiento, que tenga por objeto únicamente medicamentos con eficacia y seguridad evidenciada clínicamente y cuyo fin último sea posibilitar el tratamiento de un grupo de pacientes que serán tratados y monitoreados sobre la base de criterios previamente definidos en un Programa de Acceso Expandido (PAE).<br> <br> Que la Dirección de Evaluación y Registro de Medicamentos del Instituto Nacional de Medicamentos y la Dirección General de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que se actúa en virtud de las facultades conferidas por el Decreto N° 1490/92 y el Decreto N° 101 del 16 de diciembre de 2015.<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1° &#8212; Establécese que los laboratorios habilitados por esta Administración Nacional como importadores y/o elaboradores de especialidades medicinales podrán solicitar la autorización de Programas de Acceso Expandido (PAE) a medicamentos para grupos de pacientes que requieran tratamientos con medicamentos aún no comercializados en el país, de acuerdo a lo especificado en el Artículo 2° de la presente Disposición.<br> <br> ARTÍCULO 2° &#8212; Los PAE serán autorizados solamente ante la necesidad de tratamiento de situaciones clínicas con alto riesgo de muerte o de severo deterioro de la calidad de vida y para las cuales no exista un tratamiento eficaz disponible en el país. La pertinencia de la indicación será evaluada y eventualmente, aprobada en el proceso de solicitud.<br> <br> ARTÍCULO 3° &#8212; A los fines de la autorización de un PAE:<br> <br> 1. El medicamento debe:<br> <br> a. estar autorizado o estar en curso el trámite de autorización para su comercialización ante la autoridad sanitaria de un país del Anexo I del Decreto N° 150/92 (T.O. 1993).<br> <br> b. tratarse de un medicamento que se haya desarrollado en el país y tenga aprobada la fase II por esta Administración Nacional, pero que aún no se completó el proceso de registro.<br> <br> 2. El PAE podrá ser solicitado al mismo tiempo en el que el laboratorio solicita el registro del medicamento ante esta Administración Nacional o antes de haberse presentado dicha solicitud de registro. En este último caso la solicitud de registro deberá ser presentada en un lapso no mayor a 12 meses contados a partir de la fecha de la solicitud del PAE.<br> <br> ARTÍCULO 4º &#8212; A los fines de obtener la autorización del PAE, se deberá iniciar un expediente y presentar ante esta Administración Nacional, lo siguiente:<br> <br> a) Documentación:<br> <br> 1. Copia de la habilitación otorgada al laboratorio por esta Administración Nacional.<br> <br> 2. Acreditar la personería de quien actúe como representante legal o apoderado del laboratorio.<br> <br> 3. En caso de que el laboratorio no sea el que desarrolla el medicamento a ser incluido en el PAE, deberá acreditar su relación con el elaborador/titular de la medicación a ser incluida en el PAE, mediante documentación original o copia autenticada, debidamente legalizada y traducida por traductor público nacional, cuando así corresponda.<br> <br> 4. En caso de que el laboratorio habilitado por esta Administración Nacional sea el que ha desarrollado la medicación a ser incluida en el PAE, deberá adjuntar una declaración jurada en tal sentido, suscripta por el representante legal o apoderado.<br> <br> 5. Indicar las razones que motivan la solicitud, acompañándola con una síntesis consolidada de los resultados obtenidos (favorables y desfavorables) en las diferentes fases de investigación del ingrediente farmacéutico activo (IFA) para la condición a tratar.<br> <br> 6. Declaración Jurada del laboratorio en la cual expresa que solicitará el registro del medicamento y la fecha estimada en la que se espera presentar dicha solicitud que no deberá ser mayor a 12 meses, desde la fecha de presentación del trámite. Si ya la hubiera presentado, deberá indicar el número de expediente de dicha solicitud.<br> <br> 7. El número estimado de pacientes que podrían incluirse en el PAE.<br> <br> 8. Información sobre estudios en curso y/o ya realizados así como otras investigaciones programadas con el mismo producto para la misma enfermedad, ya sea en Argentina o en el resto del mundo.<br> <br> 9. Información acerca de cualquier otro uso ya aprobado en otros países para la misma indicación terapéutica solicitada.<br> <br> 10. La última versión disponible del Manual del Producto de Investigación (MPI) en idioma español, otra información de seguridad disponible y el proyecto del prospecto a ser utilizado.<br> <br> 11. En caso de encontrarse el medicamento autorizado en un país del Anexo I del Decreto N° 150/92 (t.o. 1993), deberá presentar la autorización de comercialización en el país de origen, en original o copia autenticada, traducido por traductor público matriculado y debidamente legalizado, cuando se encuentre redactado en idioma extranjero.<br> <br> 12. El listado de los centros de salud y de los médicos tratantes que podrán administrar el producto.<br> <br> 13. Curriculum vitae y declaración jurada del médico tratante que participará del PAE, por medio de la cual se compromete a:<br> <br> a. Informar a los pacientes y obtener el consentimiento informado de los mismos.<br> <br> b. Informar al médico de cabecera, si correspondiera.<br> <br> c. Registrar toda la información en la historia clínica de acuerdo a lo establecido en la Ley N° 26.529 de Derechos del Paciente.<br> <br> d. Manifestar que se adhiere rigurosamente a las condiciones indicadas en el borrador de prospecto y/o en el MPI y en el protocolo del PAE.<br> <br> e. Informar al laboratorio titular del PAE cualquier discontinuación del tratamiento y las razones de dicho evento.<br> <br> f. Notificar al laboratorio sobre los eventos adversos o la falta de eficacia.<br> <br> 14. Declaración jurada de la autoridad máxima del establecimiento de salud por medio de la cual autoriza la realización del PAE en la institución y bajo la conducción del médico tratante propuesto.<br> <br> b) El PROGRAMA DE ACCESO EXPANDIDO (PAE), que constituye el protocolo de aplicación, deberá contener la siguiente información:<br> <br> 1. La indicación terapéutica específica para la cual se solicita la autorización.<br> <br> 2. La racionalidad de su uso en dicha indicación, incluyendo de ser necesario, el detalle de los regímenes terapéuticos disponibles para la misma y cuáles de ellos deberían haberse probado previamente antes de usar el fármaco propuesto o el motivo por el cual es preferible a los regímenes disponibles en el mercado.<br> <br> 3. Descripción de los pacientes a ser tratados y los criterios de inclusión y exclusión.<br> <br> 4. Métodos de administración del fármaco y su posología.<br> <br> 5. Descripción de los procedimientos a realizar para monitorear los efectos del medicamento y para minimizar sus riesgos.<br> <br> 6. Metodología para recolectar información acerca del uso pragmático del fármaco, en cuanto a su eficacia y seguridad.<br> <br> c) Detalle del producto y cantidades a ser importados en el marco de la solicitud efectuada, y materiales complementarios, cuando así corresponda.<br> <br> d) Aprobación del uso del fármaco y del PAE por parte del Comité de Ética del establecimiento asistencial en el cual será aplicado.<br> <br> e) Formulario de consentimiento informado para el paciente, el que deberá incluir la siguiente información:<br> <br> 1. El objetivo o propósito del Programa de Acceso Expandido.<br> <br> 2. Datos del Laboratorio: nombre o denominación y razón social y domicilio.<br> <br> 3. Institución participante y médico tratante.<br> <br> 4. Identificación de la enfermedad que se está tratando, su posibilidad de recuperación, pronóstico y sus eventuales consecuencias.<br> <br> 5. Antecedentes clínicos disponibles de la medicación que se le suministrará.<br> <br> 6. Aclaración de que el producto aún no está aprobado en Argentina, por lo que en caso de daño relacionado con el producto, el laboratorio se hará cargo de la atención médica apropiada.<br> <br> 7. Procedimientos a los que se someterá el participante, el cronograma de visitas, y la duración prevista de su participación.<br> <br> 8. Enumeración de las opciones terapéuticas alternativas disponibles o la aclaración de que no hay opciones terapéuticas disponibles.<br> <br> 9. Descripción de los mecanismos de prevención y protección del embarazo y del lactante.<br> <br> 10. Los compromisos que asume el paciente si aceptara participar.<br> <br> 11. Posibles beneficios y riesgos, detallando el riesgo de efectos adversos.<br> <br> 12. Declaración de la posibilidad de que existan riesgos inesperados o efectos indeseables tardíos.<br> <br> 13. Utilización prevista para todas las muestras que se obtengan, si corresponde.<br> <br> 14. Descripción de los procedimientos de monitoreo a realizar.<br> <br> 15. Compromiso del titular del PAE de recolectar la información sobre uso del medicamento, cumplimentando todos los requisitos de protección de la confidencialidad según lo establecido en la Ley N° 25.326 de Protección de Datos Personales y tenerla disponible a requerimiento de la autoridad sanitaria.<br> <br> 16. Constancia de que el laboratorio importará y proveerá en forma gratuita el medicamento y de los materiales complementarios que puedan corresponder, mientras el medicamento no esté comercializado en el país.<br> <br> 17. Declaración de que el laboratorio titular del PAE no otorga ni otorgará al médico ningún beneficio directo o indirecto por prescribir el producto.<br> <br> 18. Constancia de que la participación en el PAE es voluntaria y que el participante puede rehusarse a participar o abandonar en cualquier momento, sin tener que expresar las razones de su decisión y sin ninguna pérdida de beneficios a los que tiene derecho.<br> <br> 19. El compromiso de brindar respuestas pertinentes y completas a preguntas, aclaraciones o dudas sobre los procedimientos, riesgos o beneficios relacionados con el PAE.<br> <br> 20. El compromiso de la comunicación oportuna al participante de toda información nueva que pueda modificar su decisión de seguir participando en el PAE.<br> <br> 21. La circunstancias y/o razones previstas por las cuales se podría finalizar o suspender el PAE o la participación de la persona en el mismo.<br> <br> 22. Permiso que el participante debe otorgar al laboratorio, sus representantes, el Comité de Ética, a la institución y a la autoridad reguladora para acceder a sus registros médicos, señalando su alcance y haciendo constar que se autoriza dicho acceso por la firma del formulario del consentimiento.<br> <br> 23. Los datos de contacto del investigador y del Comité de Ética que aprobó el PAE.<br> <br> 24. Página de firmas, con espacio para firma, aclaración, DNI y fecha colocadas por el participante (o su representante legal) y por el médico tratante que condujo el proceso.<br> <br> ARTÍCULO 5º &#8212; La Dirección de Evaluación y Registro de Medicamentos (DERM), intervendrá y se expedirá con respecto a la solicitud de autorización del PAE y, cuando corresponda, sobre la importación del producto y del material adicional que solicite el laboratorio.<br> <br> ARTÍCULO 6º &#8212; Establécese que una vez presentada la documentación de solicitud de autorización de un PAE, esta Administración Nacional se expedirá en un plazo no mayor a 30 días hábiles, a contar de la fecha de iniciación del trámite. Dicho plazo podrá ser suspendido toda vez que se realicen objeciones y hasta tanto el interesado haga entrega del total de la documentación y/o cumplimente todas las observaciones y/o aclaraciones solicitadas.<br> <br> ARTÍCULO 7º &#8212; La solicitud de autorización de un PAE podrá ser denegada si se considera que la evidencia de su eficacia y seguridad son insuficientes, u otras razones de salud pública así lo aconsejen.<br> <br> ARTÍCULO 8° &#8212; La importación de los productos indicados en el inciso c) del artículo 4°, se sustanciará ante el Departamento de Comercio Exterior del Instituto Nacional de Medicamentos (INAME), bajo el trámite de importación de materiales destinados a investigación clínica.<br> <br> ARTÍCULO 9° &#8212; RESPONSABILIDADES<br> <br> El laboratorio que solicita la autorización de un PAE es responsable de:<br> <br> a. Solicitar la autorización del PAE ante esta Administración Nacional.<br> <br> b. Asegurar que los establecimientos de salud participantes/médicos tratantes tengan las condiciones necesarias para conducir el PAE en forma segura.<br> <br> c. Enviar toda la información necesaria (protocolo de aplicación del PAE, MPI, otras informaciones de seguridad, Consentimiento Informado (CI) presentado ante la ANMAT) al establecimiento de salud/médico tratante.<br> <br> d. Conservar disponibles a solicitud de esta Administración Nacional todos los consentimientos informados firmados por los pacientes participantes.<br> <br> e. Asegurar el cumplimiento de los procedimientos establecidos en el PAE en los establecimientos de salud participantes.<br> <br> f. Recolectar y analizar toda la información generada por los médicos tratantes acerca del uso terapéutico del fármaco.<br> <br> g. Realizar los reportes inmediatos y periódicos correspondientes ante esta Administración Nacional acorde a lo dispuesto en la presente normativa.<br> <br> h. Informar a los médicos tratantes y a los establecimientos de salud participantes de los reportes inmediatos y periódicos correspondientes.<br> <br> i. Informar a esta Administración Nacional, a través de la DERM, en un lapso no mayor a 10 días hábiles, cualquier información que pudiera afectar la evaluación de la relación beneficio/riesgo del medicamento (tales como restricciones impuestas por otras autoridades regulatorias, resultados de ensayos clínicos, entre otros).<br> <br> ARTÍCULO 10. &#8212; El laboratorio titular del PAE queda sujeto a la obligación de reportar a la DERM las reacciones adversas medicamentosas serias e inesperadas (RAMSI) relacionadas al producto, en un plazo de 10 días hábiles administrativos a partir de haber tomado conocimiento de ella. Los reportes deben contener como mínimo la siguiente información:<br> <br> -denominación de la reacción adversa y tipo de informe: inicial, actualización (número de actualización) o final;<br> <br> -establecimiento de salud y médico tratante;<br> <br> -código del participante, edad y sexo;<br> <br> -fechas de aparición de la RAMSI;<br> <br> -criterio de seriedad de la RAMSI y breve descripción de la RAMSI;<br> <br> -descripción de la RAMSI, medicación concomitante, y cualquier otros datos y/o antecedente relevante.<br> <br> ARTÍCULO 11. &#8212; PROCEDIMIENTO PARA INGRESAR EN UN PAE AUTORIZADO. El médico tratante o el establecimiento de salud pueden contactar al titular de un PAE autorizado por esta Administración Nacional para ingresar en el PAE.<br> <br> El titular del PAE deberá acompañar toda la información correspondiente al nuevo establecimiento y así como del médico tratante, establecida en el artículo 4° de la presente disposición.<br> <br> La Dirección de Evaluación y Registro de Medicamentos, una vez evaluada dicha solicitud, tendrá la facultad de autorizar el ingreso de un nuevo establecimiento y/o médico tratante al PAE, y notificará al laboratorio por el Departamento de Mesa de Entradas. Una vez notificado, el titular del PAE proveerá el producto.<br> <br> ARTÍCULO 12. &#8212; PROMOCIÓN. La promoción de los productos sometidos bajo este régimen queda absolutamente prohibida en cualquiera de sus modalidades.<br> <br> ARTÍCULO 13. &#8212; COSTOS. Los costos de la importación del fármaco y cargo de complementarios, en su caso, incluidos en un PAE, quedan a cargo del laboratorio y su provisión a los pacientes deberá ser sin costo alguno para ellos, ni para la institución donde se utilicen, ni para el sistema de seguridad social o medicina prepaga que posea el paciente.<br> <br> ARTÍCULO 14. &#8212; CONTENIDO DE LOS REPORTES PERIÓDICOS. El laboratorio deberá presentar los reportes periódicos con una frecuencia semestral a partir de la fecha de la autorización del PAE otorgada por esta Administración Nacional, los que deberán contener una descripción de los datos recolectados durante el período (tanto los datos del semestre como los datos acumulativos desde el inicio del PAE), así como cualquier nueva información relevante sobre la droga que hubiere aparecido desde la autorización del PAE. Esto incluye también un análisis de la relación beneficio/riesgo del fármaco.<br> <br> Como mínimo los reportes deben incluir:<br> <br> a. Información actualizada del registro del fármaco en el mundo.<br> <br> b. Descripción del uso del fármaco en el PAE (población, posología, entre otros).<br> <br> c. Reacciones adversas.<br> <br> d. Número de pacientes incluidos en el PAE.<br> <br> e. Lista de establecimientos de salud/médicos tratantes que están participando en el PAE.<br> <br> Una copia del reporte periódico deberá ser enviada por el laboratorio titular del PAE a los establecimientos de salud/médicos tratantes que participen del aludido Programa.<br> <br> ARTÍCULO 15. &#8212; ETIQUETADO DEL MEDICAMENTO. La etiqueta deberá contener al menos la siguiente información:<br> <br> a) DCI propuesta o aceptada y Código de investigación.<br> <br> b) Nombre y dirección del fabricante.<br> <br> c) Lote.<br> <br> d) Vía de administración.<br> <br> e) Composición.<br> <br> f) Fecha de vencimiento.<br> <br> g) Condiciones de almacenamiento.<br> <br> h) Precauciones: incluir la leyenda &#8220;mantener fuera del alcance de los niños&#8221;.<br> <br> i) La leyenda: &#8220;Esta medicación es para uso exclusivo del Programa de Acceso Expandido. Está prohibida su comercialización.&#8221;.<br> <br> ARTÍCULO 16. &#8212; En la página web de esta Administración Nacional se publicará el listado de fármacos autorizados dentro de un PROGRAMA DE ACCESO EXPANDIDO (PAE), el prospecto o proyecto del prospecto, así como el listado de establecimientos de salud participantes.<br> <br> ARTÍCULO 17. &#8212; SUSPENSIÓN DE LA AUTORIZACIÓN DE UN PAE. La autorización otorgada para un PAE puede ser suspendida en cualquier momento por esta Administración Nacional cuando por razones de salud pública se considere que la relación beneficio/riesgo deja de ser razonable u otras razones de salud pública así lo ameriten, y siempre justificando adecuadamente dicha decisión.<br> <br> ARTÍCULO 18. &#8212; DURACIÓN DEL PAE. La autorización del PAE será otorgada hasta que la medicación esté comercialmente disponible en el mercado o hasta transcurridos 12 meses desde la fecha de su autorización.<br> <br> ARTÍCULO 19. &#8212; FINALIZACIÓN DEL PAE. Una vez aprobada la solicitud de registro en el Registro de Especialidades Medicinales (REM) de la medicación sujeta a un PAE, por parte de esta Administración Nacional, no podrá efectuarse una nueva solicitud y finalizará el ingreso de nuevos pacientes. Los pacientes en tratamiento podrán continuar en el PAE hasta que la medicación se encuentre comercializada y sea organizado el acceso de los pacientes al medicamento aprobado.<br> <br> En caso de existir pacientes que habiendo participado de un PAE, no puedan acceder al medicamento cuando ya esté registrado en el REM y disponible comercialmente, y se haya agotado la vigencia del PAE, el laboratorio podrá solicitar la extensión del PAE, justificándolo debidamente, juntamente con un dictamen del Comité de Ética del establecimiento donde ingresó el paciente, el cual deberá indicar el tiempo por el cual estima conveniente la extensión, bajo las mismas condiciones de autorización. Esta solicitud será evaluada y eventualmente autorizada por la Dirección de Evaluación y Registro de Medicamentos.<br> <br> ARTÍCULO 20. &#8212; El incumplimiento de lo establecido en la presente disposición hará pasible a los infractores de las sanciones contenidas en la Ley Nº 16.463 y/o el Decreto N° 341/92.<br> <br> ARTÍCULO 21. &#8212; La presente disposición entrará en vigencia a partir del día siguiente al de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 22. &#8212; Regístrese. Dése a la Dirección Nacional de Registro Oficial para su publicación. Dése a publicidad a través de la página web institucional de esta Administración Nacional. Comuníquese a CAEME, CILFA, COOPERALA, CAPGEN, CAPROFAC, FACAF, COFA, COMRA, CAOIC y demás instituciones del sector. Cumplido, archívese. &#8212; Carlos Chiale.<br> <br> <div style='text-align: right;'>e. 26/01/2017 N° 3935/17 v. 26/01/2017<br>  </div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-828-2017-271208" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

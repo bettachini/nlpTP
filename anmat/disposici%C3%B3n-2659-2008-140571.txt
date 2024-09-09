@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2659-2008-140571/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2659-2008-140571/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2659-2008-140571/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"52Zwen4TSAK8sGrlbhOH63nHUqu-ZPMp1BvQTSWFvuc","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-2659-2008-140571\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-2659-2008-140571 page-normativa-nacional-disposición-2659-2008-140571-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-2659-2008-140571/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-6fGpBp-EMx9GbzhB-oKKCWL8au_MFm2YU4_9qFJztHI" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-2659-2008-140571">Disposición   2659/2008</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2008-05-14</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'>PRODUCTOS DOMISANITARIOS</P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 2659/2008</P> <P ALIGN='JUSTIFY'>Proh&iacute;bese el uso de determinados principios activos en formulaciones de productos domisanitarios. Modificaci&oacute;n de la Disposici&oacute;n Nº 7292/98.</P> </B><P ALIGN='JUSTIFY'>Bs. As., 8/5/2008</P> <P ALIGN='JUSTIFY'>VISTO el expediente Nº 1-47-2110-8662-07-3 de esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica y,</P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que es necesario actualizar la Disposici&oacute;n ANMAT Nº 7292/98 en lo que respecta a los productos con acci&oacute;n desinfestante, teniendo en cuenta la toxicidad de algunos principios activos empleados en su formulaci&oacute;n.</P> <P ALIGN='JUSTIFY'>Que el principio activo clorpirif&oacute;s, insecticida organofosforado, inhibidor de la colinesterasa, act&uacute;a sobre el sistema nervioso de los seres humanos, pudiendo provocar problemas en &eacute;l y d&eacute;ficits en la funci&oacute;n cognitiva, adem&aacute;s de otra sintomatolog&iacute;a comprobada.</P> <P ALIGN='JUSTIFY'>Que el clorpirif&oacute;s puede producir neuropat&iacute;a retardada por inhibici&oacute;n de la estearasa diana de neuropat&iacute;a (NTE), como consecuencia de exposiciones agudas o cr&oacute;nicas.</P> <P ALIGN='JUSTIFY'>Que la EPA (U.S. Environmental Protection Agency) ha demostrado que la exposici&oacute;n a bajas concentraciones de clorpirif&oacute;s puede interferir en el desarrollo del sistema nervioso de los mam&iacute;feros y que existe relaci&oacute;n entre la exposici&oacute;n al clorpirif&oacute;s y el bajo peso y cabeza de tama&ntilde;o reducido en los reci&eacute;n nacidos.</P> <P ALIGN='JUSTIFY'>Que la EPA (U.S. Environmental Protection Agency), prohibi&oacute; el uso del clorpirif&oacute;s en los productos de uso dom&eacute;stico debido al alto riesgo que representa para la salud de los ni&ntilde;os.</P> <P ALIGN='JUSTIFY'>Que la EPA (U.S. Environmental Protection Agency) cancel&oacute; todos los registros de productos que contengan clorpirif&oacute;s para uso residencial, exceptuando los cebos matacucarachas con cierre a prueba de ni&ntilde;os.</P> <P ALIGN='JUSTIFY'>Que a partir de dicha prohibici&oacute;n el peso de los neonatos aument&oacute;.</P> <P ALIGN='JUSTIFY'>Que la ANVISA (Agencia Nacional de Vigilancia Alimentaria - Brasil) adopt&oacute; la misma medida que la EPA al respecto (Resoluci&oacute;n RDC Nº 206/04).</P> <P ALIGN='JUSTIFY'>Que, el principio activo diazin&oacute;n, insecticida organofosforado, inhibidor de las colinesterasas en seres humanos, es altamente t&oacute;xico y perjudicial para la salud.</P> <P ALIGN='JUSTIFY'>Que el diazin&oacute;n posee como impureza el tetraetil pirofosfato (TEPP), sustancia altamente t&oacute;xica cuya dosis letal 50 oral (DL<SUB>50</SUB>) es 0.46-4.08 mg/Kg.</P> <P ALIGN='JUSTIFY'>Que la venta de productos desinfestantes domisanitarios en base a diazin&oacute;n, est&aacute; prohibida en los Estados Unidos por la EPA (U.S. Environmental Protection Agency).</P> <P ALIGN='JUSTIFY'>Que, asimismo el principio activo diclorv&oacute;s, insecticida perteneciente al grupo de organofosfatos es un l&iacute;quido altamente vol&aacute;til a temperatura ambiente, caracter&iacute;stica que aumenta notablemente la posibilidad de exposici&oacute;n a este t&oacute;xico por v&iacute;a inhalatoria.</P> <P ALIGN='JUSTIFY'>Que el diclorv&oacute;s es un inhibidor directo de la colinesterasa que no necesita de un paso metab&oacute;lico previo para producir su acci&oacute;n t&oacute;xica.</P> <P ALIGN='JUSTIFY'>Que el diclorv&oacute;s es un insecticida clasificado en el Grupo IB de la OMS (Organizaci&oacute;n Mundial de la Salud), con una dosis letal 50 oral (DL<SUB>50</SUB>) de 80 mg/Kg, una dosis letal 50 d&eacute;rmica (DL<SUB>50</SUB>) de aproximadamente 100 mg/Kg y un valor l&iacute;mite umbral (TLV) de 1 ppm, siendo las principales v&iacute;as de ingreso al organismo la d&eacute;rmica y la inhalatoria.</P> <P ALIGN='JUSTIFY'>Que la EPA (U.S. Environmental Protection Agency) y la IARC (Internacional Agency for Research on Cancer) lo consideran como posible carcin&oacute;geno en humanos.</P> <P ALIGN='JUSTIFY'>Que la EPA restringi&oacute; su uso y concentraci&oacute;n para determinadas aplicaciones. </P> <P ALIGN='JUSTIFY'>Que el principio activo malati&oacute;n, es un insecticida organofosforado, inhibidor de la colinesterasa que posee como impureza el isomalati&oacute;n, cuya concentraci&oacute;n depende tanto del proceso de fabricaci&oacute;n como del modo de almacenamiento.</P> <P ALIGN='JUSTIFY'>Que dicha impureza cuya dosis letal 50 oral (DL<SUB>50</SUB>) es de 89 mg/Kg desciende marcadamente la DL<SUB>50</SUB> del producto formulado.</P> <P ALIGN='JUSTIFY'>Que la EPA (U.S. Environmental Protection Agency) ha suspendido el registro de productos en base a malati&oacute;n para uso residencial.</P> <P ALIGN='JUSTIFY'>Que es necesario salvar la contradicci&oacute;n existente entre los art&iacute;culos 2, &iacute;tem 2.1 y el art&iacute;culo 14, respecto del art&iacute;culo 16 de la Disposici&oacute;n ANMAT Nº 7292/98, en lo relativo a los tipos de formulados raticidas/rodenticidas permitidos.</P> <P ALIGN='JUSTIFY'>Que los art&iacute;culos citados en el considerando anterior disponen lo siguiente: 'ARTICULO 2.- 2.1.- No se permitir&aacute;n los rodenticidas formulados l&iacute;quidos o en polvo, ni formulaciones de liberaci&oacute;n lenta a base de DICLORVOS'; 'ARTICULO 14.- Se proh&iacute;ben los rodenticidas a base de alfanaftiltiourea (ANTU), ars&eacute;nico y sus sales, estricnina, fosfitos met&aacute;licos, f&oacute;sforo blanco, monofluoroacetato de sodio monofluoroacetamida, sales de bario y sales de talio y los rodenticidas formulados l&iacute;quidos o en polvo. No se permiten formulaicones l&iacute;quidas, comprimidas o no, polvos solubles, polvos mojables, cebos en polvo y cebos en pasta'; 'ARTICULO 16.- Las formas de presentaci&oacute;n de los rodenticidas pueden ser: a) polvos de contacto; b) cebos simples, parafinados o resinados, en forma de granulados, pellets o bloques'.</P> <P ALIGN='JUSTIFY'>Que en consecuencia, corresponde dejar sin efecto el inciso a) del art&iacute;culo 16 de la Disposici&oacute;n ANMAT Nº 7292/98.</P> <P ALIGN='JUSTIFY'>Que el Insituto Nacional de Alimentos y la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por el Decreto Nº 1490/92 y el Decreto Nº 253/08.</P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Proh&iacute;bese el uso del principio activo clorpirif&oacute;s en formulaciones de productos desinfestantes domisanitarios, a excepci&oacute;n de cebos matacucarachas que posean cierre a prueba de ni&ntilde;os.</P> <B><P ALIGN='JUSTIFY'>Art. 2º </B>— Proh&iacute;bese el uso del principio activo diazin&oacute;n en formulaciones de productos desinfestantes domisanitarios.</P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— Proh&iacute;bese el uso del principio activo diclorv&oacute;s en formulaciones de productos en aerosol.</P> <B><P ALIGN='JUSTIFY'>Art. 4º </B>— Proh&iacute;bese la venta libre de formulaciones de productos desinfectantes domisanitarios que contengan el principio activo diclorv&oacute;s.</P> <B><P ALIGN='JUSTIFY'>Art. 5º </B>— Lim&iacute;tase a 0.5% la concentraci&oacute;n m&aacute;xima permitida para el principio activo diclorv&oacute;s en formulaciones de productos desinfestantes l&iacute;quidos no presurizados domisanitarios que sean de Venta y Uso Profesional exclusivo.</P> <B><P ALIGN='JUSTIFY'>Art. 6º </B>— Proh&iacute;bese la Venta Libre y la Venta Profesional de productos desinfectantes domisanitarios cuyas formulaciones contengan el principio activo malati&oacute;n.</P> <B><P ALIGN='JUSTIFY'>Art. 7º </B>— Incorp&oacute;rase el principio activo diazin&oacute;n al Anexo VII de la Disposici&oacute;n ANMAT 7292/ 98 titulado 'Listado de principios activos no permitidos en insecticidas domisanitarios'.</P> <B><P ALIGN='JUSTIFY'>Art. 8º </B>— D&eacute;jase sin efecto el inciso a) del art&iacute;culo 16 de la Disposici&oacute;n ANMAT Nº 7292/98.</P> <B><P ALIGN='JUSTIFY'>Art. 9º </B>— Los certificados de aprobaci&oacute;n de todos los productos registrados a la fecha que contengan los principios activos clorpirif&oacute;s, diazin&oacute;n, diclorv&oacute;s y malati&oacute;n, alcanzados por las prohibiciones o restricciones establecidas en la presente norma, caducar&aacute;n de pleno derecho a partir de los 180 d&iacute;as de la entrada en vigencia de esta Disposici&oacute;n. Una vez operada la caducidad, los titulares deber&aacute;n adoptar las medidas necesarias para efectuar el recupero de los productos, debiendo acreditar ante el INAL las diligencias correspondientes, mediante la presentaci&oacute;n de la documentaci&oacute;n respaldatoria pertinente.</P> <B><P ALIGN='JUSTIFY'>Art. 10. </B>— Los certificados de aprobaci&oacute;n de todos los productos raticidas/rodenticidas en forma de polvos de contacto registrados a la fecha, caducar&aacute;n de pleno derecho a partir de los 180 d&iacute;as de la entrada en vigencia de esta Disposici&oacute;n. Una vez operada la caducidad, los titulares deber&aacute;n adoptar las medidas necesarias para efectuar el recupero de los productos, debiendo acreditar ante el INAL las diligencias correspondientes, mediante la presentaci&oacute;n de la documentaci&oacute;n respaldatoria pertinente.</P> <B><P ALIGN='JUSTIFY'>Art. 11. </B>— Inv&iacute;tase a las Autoridades Sanitarias de las Provincias y del Gobierno Aut&oacute;nomo de la Ciudad de Buenos Aires a adherir a la presente disposici&oacute;n.</P> <B><P ALIGN='JUSTIFY'>Art. 12. </B>— La presente disposici&oacute;n entrar&aacute; en vigencia a partir del d&iacute;a siguiente al de su publicaci&oacute;n en el Bolet&iacute;n Oficial.</P> <B><P ALIGN='JUSTIFY'>Art. 13. </B>— Reg&iacute;strese, Comun&iacute;quese a quienes corresponda. D&eacute;se a la Direcci&oacute;n Nacional de Registro Oficial a efectos de su publicaci&oacute;n. Cumplido, arch&iacute;vese. — Ricardo Mart&iacute;nez.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-2659-2008-140571" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

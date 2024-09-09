@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-194-1999-55745/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-194-1999-55745/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-194-1999-55745/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"iHt8LqSg5jZtlWDAzzeDomyYSXLb2oSbyH5Uf0wI2r8","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-194-1999-55745\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-194-1999-55745 page-normativa-nacional-disposición-194-1999-55745-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-194-1999-55745/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-4LGxfktF0-tu7KYqF1iTzYrVFYWUtNKxiWdaQMts-WE" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-194-1999-55745">Disposición   194/1999</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>1999-01-27</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'>ESPECIALIDADES MEDICINALES</P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 194/99</P> <P ALIGN='JUSTIFY'>Establ&eacute;cese un R&eacute;gimen de Inspecci&oacute;n para Fabricantes o Importadores de Productos M&eacute;dicos.</P> <P ALIGN='JUSTIFY'>Bs. As., 12/1/99</P> <P ALIGN='JUSTIFY'>B.O: 27/1/99</P> </B><P ALIGN='JUSTIFY'>VISTO el tratado de Asunci&oacute;n por el cual se crea el Mercado Com&uacute;n del Sur (MERCOSUR), el Protocolo de Ouro Preto, la Resoluci&oacute;n GMC N° 31/97, el expediente n° 1-47-8435-98-3 del Registro de la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica, y</P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que se hace necesario establecer un r&eacute;gimen de inspecci&oacute;n com&uacute;n a los cuatro Estados Parte del MERCOSUR para la realizaci&oacute;n de inspecciones en todas las situaciones donde sea necesario comprobar el cumplimiento de la legislaci&oacute;n armonizada y de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n por parte de los establecimientos que desarrollan actividades relacionadas con los productos m&eacute;dicos.</P> <P ALIGN='JUSTIFY'>Que en el marco de las armonizaciones llevadas a cabo en el &aacute;mbito del MERCOSUR por el Grupo Productos para la Salud, Subgrupo Reglamentos T&eacute;cnicos (SGT3) se consensu&oacute; el Reglamento T&eacute;cnico denominado 'R&eacute;gimen de Inspecci&oacute;n para Fabricantes o Importadores de Productos M&eacute;dicos'.</P> <P ALIGN='JUSTIFY'>Que dicho documento fue aprobado por el Grupo Mercado Com&uacute;n mediante la Resoluci&oacute;n GMC n° 31/97.</P> <P ALIGN='JUSTIFY'>Que se hace necesario incorporar dicho documento al cuerpo normativo vigente.</P> <P ALIGN='JUSTIFY'>Que la Direcci&oacute;n de Tecnolog&iacute;a M&eacute;dica y la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por el Decreto n° 1490/92.</P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'>EL DIRECTOR NACIONAL DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA DISPONE:</P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1°-</B>Establ&eacute;cese que el r&eacute;gimen de inspecciones a aplicarse para la fiscalizaci&oacute;n del cumplimiento de la legislaci&oacute;n armonizada y de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n por parte de los establecimientos que desarrollan actividades relacionadas con los productos m&eacute;dicos ser&aacute; el establecido en el documento denominado 'R&eacute;gimen de Inspecci&oacute;n para Fabricantes o Importadores de Productos M&eacute;dicos', que como Anexo I forma parte de la presente Disposici&oacute;n.</P> <B><P ALIGN='JUSTIFY'>Art. 2°-</B>Reg&iacute;strese, comun&iacute;quese a quienes corresponda; a ADECRA, Administraci&oacute;n Nacional de Aduanas, AQA, CACID, CAOIE, CADIEM, CADIME, CAEHFA, CAEME, CAAPDROFAR, CAPRODI, CIGVA, CILFA, CNEA, COFA, COMRA, COMFECLISA, COOPERALA, CUBRA, ECUAF, Y B, FAIC, FUDESA. INTI, IRAM, SAFYBI, SAR, Secretar&iacute;a de Industria y Comercio, UAPE, UIA, Gobierno de la Ciudad de Buenos Aires, Ministerio de Salud de todas las Provincias y a la Comisi&oacute;n de Reinscripciones, Departamento de Registro, Instituto Nacional de Alimentos, Instituto Nacional de Medicamentos de la A.N.M.A.T.; publ&iacute;quese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial. Cumplido, arch&iacute;vese PERMANENTE.-Pablo M. Bazerque.</P> <P ALIGN='JUSTIFY'>MERCOSUR/GMC/RES. N° 31/97</P> <P ALIGN='JUSTIFY'>REGIMEN DE INSPECCION PARA FABRICANTES O IMPORTADORES DE PRODUCTOS MEDICOS</P> <P ALIGN='JUSTIFY'>VISTO: El Tratado de Asunci&oacute;n, el Protocolo de Ouro Preto, las Resoluciones N° 91/93 y 4/95 del Grupo Mercado Com&uacute;n y la Recomendaci&oacute;n N° 24/97 del SGT N° 3 'Reglamentos T&eacute;cnicos'.</P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que existe la necesidad de establecer mecanismos para la realizaci&oacute;n de inspecciones destinadas a Verificar el Cumplimiento de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n de Productos M&eacute;dicos.</P> <P ALIGN='JUSTIFY'>EL GRUPO MERCADO COMUN</P> <P ALIGN='JUSTIFY'>RESUELVE:</P> <P ALIGN='JUSTIFY'>Art. 1.-Aprobar el R&eacute;gimen de Inspecci&oacute;n para Fabricantes o Importadores de Productos M&eacute;dicos, que consta como Anexo y forma parte de la presente Resoluci&oacute;n.</P> <P ALIGN='JUSTIFY'>Art. 2.-Los Estados Parte pondr&aacute;n en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resoluci&oacute;n a trav&eacute;s de los siguientes organismos:</P> <P ALIGN='JUSTIFY'>Argentina:</P> <P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos Alimentos y Tecnolog&iacute;a M&eacute;dica-ANMAT.</P> <P ALIGN='JUSTIFY'>Brasil:</P> <P ALIGN='JUSTIFY'>Secretar&iacute;a de Vigilancia Sanitaria do Ministerio da Saude.</P> <P ALIGN='JUSTIFY'>Paraguay:</P> <P ALIGN='JUSTIFY'>Ministerio de Salud P&uacute;blica y Bienestar Social.</P> <P ALIGN='JUSTIFY'>Uruguay:</P> <P ALIGN='JUSTIFY'>Ministerio de Salud P&uacute;blica.</P> <P ALIGN='JUSTIFY'>Art. 3.-La presente Resoluci&oacute;n entrar&aacute; en vigencia el 12/I/98.</P> <P ALIGN='JUSTIFY'>XXVII GMC - Montevideo, 5/IX/97</P> <P ALIGN='JUSTIFY'>REGIMEN DE INSPECCION PARA FABRICANTES O IMPORTADORES DE PRODUCTOS MEDICOS</P> <P ALIGN='JUSTIFY'>1. OBJETIVO.</P> <P ALIGN='JUSTIFY'>Establecer una sistem&aacute;tica com&uacute;n para la realizaci&oacute;n de inspecciones con la finalidad de instrumentar las acciones de Vigilancia Sanitaria de los Estados Parte, necesarias para la regulaci&oacute;n y control de los establecimientos que desarrollan actividades relacionadas con la fabricaci&oacute;n o importaci&oacute;n de Productos M&eacute;dicos en los Estados Parte.</P> <P ALIGN='JUSTIFY'>2. AMBITO DE APLICACION</P> <P ALIGN='JUSTIFY'>Esta sistem&aacute;tica se aplica para las inspecciones en el &aacute;mbito del MERCOSUR, relacionadas con los productos bajo vigilancia sanitaria, aqu&iacute; denominados como PRODUCTOS MEDICOS, conforme lo definido en la Resoluci&oacute;n MERCOSUR/GMC/Res. N° 04/95.</P> <P ALIGN='JUSTIFY'>3. ALCANCES</P> <P ALIGN='JUSTIFY'>Este reglamento es de aplicaci&oacute;n a todas las situaciones indicadas a continuaci&oacute;n, en que las Autoridades Sanitarias deban verificar el cumplimiento de la Legislaci&oacute;n Armonizada de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n de Productos M&eacute;dicos (BPF) por parte de los establecimientos que desarrollan las actividades descriptas en el &iacute;tem I (Objetivo):</P> <P ALIGN='JUSTIFY'>a) En el otorgamiento de la Constancia/Certificado de cumplimiento de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n (BPF), (Conforme al modelo presentado en el Anexo 2);</P> <P ALIGN='JUSTIFY'>b) En la solicitud de ampliaci&oacute;n o comunicaci&oacute;n de modificaciones en las BPF verificadas</P> <P ALIGN='JUSTIFY'>c) En la verificaci&oacute;n de rutina del cumplimiento de las BPF;</P> <P ALIGN='JUSTIFY'>d) En la dilucidaci&oacute;n de casos informados por el Sistema de Vigilancia Sanitaria y por cuestiones ligadas a los procesos productivos;</P> <P ALIGN='JUSTIFY'>e) En la investigaci&oacute;n de denuncias o irregularidades sobre cualquier Producto M&eacute;dico o sobre los Establecimientos que desarrollen cualquiera de las actividades descriptas en el &iacute;tem I (Objetivo).</P> <P ALIGN='JUSTIFY'>f) En auditor&iacute;as por controversias t&eacute;cnicas relativas a las BPF.</P> <P ALIGN='JUSTIFY'>4. FUNDAMENTOS Y ORIENTACION DE LAS INSPECCIONES</P> <P ALIGN='JUSTIFY'>Las inspecciones son consideradas el instrumentos m&aacute;s apropiado para la constataci&oacute;n del cumplimiento de las BPF de todos los Productos M&eacute;dicos.</P> <P ALIGN='JUSTIFY'>La Constancia/Certificado de Cumplimiento de las BPF (anexo 2), indicar&aacute; la conformidad de un establecimiento con las BPF de todos los Productos M&eacute;dicos all&iacute; detallados.</P> <P ALIGN='JUSTIFY'>La Constancia/Certificado de Cumplimiento de las BPF de los Productos M&eacute;dicos encuadrados en la Clase II o III (medio o alto riesgo), ser&aacute; otorgada a los establecimientos que cumplen con los requisitos de BPF, avalados a trav&eacute;s del documento de 'Verificaci&oacute;n del Cumplimiento de las BPF de PRODUCTOS MEDICOS' despu&eacute;s de realizada la inspecci&oacute;n. </P> <P ALIGN='JUSTIFY'>La ampliaci&oacute;n o modificaci&oacute;n de la Constancia/ Certificado de Cumplimiento de las BPF se har&aacute; de acuerdo a lo establecido en el punto 8.3. Si dicha ampliaci&oacute;n involucra productos de una Clase de mayor riesgo, la Constancia/Certificado de Cumplimiento de las BPF de los Productos M&eacute;dicos, ser&aacute; otorgada a los establecimientos que cumplan con los requisitos de BPF, avalados a trav&eacute;s del documento de 'Verificaci&oacute;n del Cumplimiento de las BPF de PRODUCTOS MEDICOS' despu&eacute;s de realizada la inspecci&oacute;n.</P> <P ALIGN='JUSTIFY'>La Constancia/Certificado de Cumplimiento de las BPF de los Productos M&eacute;dicos encuadrados en la Clase I (bajo riesgo), ser&aacute; otorgada a los establecimientos cuyos responsables Legal y T&eacute;cnico declaren legalmente que cumplen con los requisitos establecidos por el documento de 'Verificaci&oacute;n de Cumplimiento de las BPF de Productos M&eacute;dicos'.</P> <P ALIGN='JUSTIFY'>No ser&aacute; otorgada la Constancia/Certificado de Cumplimiento de BPF a los establecimientos fabricantes o importadores de productos m&eacute;dicos exentos de registro conforme a lo establecido en la Resoluci&oacute;n correspondiente al Registro Armonizado de Productos M&eacute;dicos.</P> <P ALIGN='JUSTIFY'>Las inspecciones de los establecimientos que desarrollen las actividades descriptas en el &iacute;tem I (Objetivo), localizadas en cualquiera de los Estados-Parte, deber&aacute;n ser realizadas por inspectores entrenados y acreditados conforme a un programa armonizado de capacitaci&oacute;n.</P> <P ALIGN='JUSTIFY'>Una inspecci&oacute;n ser&aacute; considerada conjunta cuando de ella participen por lo menos los Estados-Parte directamente involucrados, o sea: la Autoridad Sanitaria del Estado-Parte Sede del establecimiento a ser inspeccionado y las Autoridades Sanitarias de los Estados-Parte en los cuales los productos ser&aacute;n comercializados, denominados en adelante Estados-Parte Receptores.</P> <P ALIGN='JUSTIFY'>Las Autoridades Sanitarias del Estado-Parte Sede del establecimiento a ser inspeccionado programar&aacute; la inspecci&oacute;n e invitar&aacute; a las Autoridades Sanitarias de los Estados-Parte Receptores para que participen de la inspecci&oacute;n conjunta, conforme a lo descripto en el &iacute;tem 8.1 de este documento.</P> <P ALIGN='JUSTIFY'>La Autoridad Sanitaria del Estado-Parte Receptor podr&aacute; no participar de la inspecci&oacute;n conjunta para la cual fue invitada por la Autoridad Sanitaria del Estado-Parte Sede, quedando, en este caso, autom&aacute;ticamente aceptado el resultado de la inspecci&oacute;n realizada.</P> <P ALIGN='JUSTIFY'>Todo Estado-Parte Receptor, podr&aacute; en los casos previstos en el &iacute;tem 3.b, 3.d. y 3.e de este documento, solicitar la inspecci&oacute;n del establecimiento ya habilitado por el Estado-Parte Sede, justificando su decisi&oacute;n y sugiriendo fecha probable para realizar la inspecci&oacute;n, seg&uacute;n lo previsto en el &iacute;tem 8.2 de este documento.</P> <P ALIGN='JUSTIFY'>5. AUDITORIA DE LAS INSPECCIONES</P> <P ALIGN='JUSTIFY'>Es un sistema de control de gesti&oacute;n de las Autoridades Sanitarias en cada Estado Parte, que permite un diagn&oacute;stico permanente del funcionamiento de las inspecciones, tanto en el aspecto informativo como operativo.</P> <P ALIGN='JUSTIFY'>Las controversias entre los inspectores del equipo Inter-pa&iacute;ses deber&aacute;n constar en el Acta de Inspecci&oacute;n.</P> <P ALIGN='JUSTIFY'>Para una resoluci&oacute;n en estos casos se recurrir&aacute; a las siguientes instancias:</P> <P ALIGN='JUSTIFY'>1. Sistemas de Auditor&iacute;a de cada Estado Parte involucrado.</P> <P ALIGN='JUSTIFY'>2. Autoridades Sanitarias de cada Estado Parte involucrado.</P> <P ALIGN='JUSTIFY'>3. Arbitraje definido de com&uacute;n acuerdo por las Autoridades Sanitarias de los pa&iacute;ses involucrados.</P> <P ALIGN='JUSTIFY'>Las controversias deber&aacute;n ser resueltas en un plazo no mayor a 45 d&iacute;as corridos.</P> <P ALIGN='JUSTIFY'>6. CLASIFICACION Y EVALUACION -</P> <P ALIGN='JUSTIFY'>Se considerar&aacute; la clasificaci&oacute;n establecida en el documento de 'Verificaci&oacute;n del Cumplimiento de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n de Productos M&eacute;dicos'.</P> <P ALIGN='JUSTIFY'>7. PENALIDADES</P> <P ALIGN='JUSTIFY'>Las penalidades relativas al no cumplimiento de la resoluci&oacute;n armonizada de las BPF, verificado durante las inspecciones, ser&aacute;n aplicadas a trav&eacute;s de las Autoridades Sanitarias de cada Estado Parte Sede e informadas, en un plazo no mayor a 15 (quince) d&iacute;as corridos, a las Autoridades Sanitarias de los otros Estados Parte.</P> <P ALIGN='JUSTIFY'>El no cumplimiento en la primera inspecci&oacute;n, de los &iacute;tems clasificados como IMPRESCINDIBLE y NECESARIO, impide el otorgamiento de la Constancia/Certificado de Cumplimiento de la BPF de Productos M&eacute;dicos.</P> <P ALIGN='JUSTIFY'>El no cumplimiento de los &iacute;tems clasificados como IMPRESCINDIBLE en el documento de 'Verificaci&oacute;n del Cumplimiento de las BPF de Productos M&eacute;dicos', implica la anulaci&oacute;n de la Constancia/Certificado de BPF correspondiente a los productos involucrados.</P> <P ALIGN='JUSTIFY'>El no cumplimiento de los &iacute;tems clasificados como NECESARIO en el documento de 'Verificaci&oacute;n del Cumplimiento de las BPF de Productos M&eacute;dicos', implica la suspensi&oacute;n temporaria de la Constancia/Certificado de BPF correspondiente a los productos involucrados, adem&aacute;s ser&aacute;n autom&aacute;ticamente tratados como IMPRESCINDIBLE en la pr&oacute;xima inspecci&oacute;n, acord&aacute;ndose el plazo para la realizaci&oacute;n de la misma entre los inspectores y los representantes de la empresa.</P> <P ALIGN='JUSTIFY'>Si se verifica en una inspecci&oacute;n que involucre productos de Clase II, el no cumplimiento del 60% del total de los &iacute;tems clasificados como RECOMENDABLE se acordar&aacute; entre los inspectores y los representantes de la empresa, un plazo para una nueva inspecci&oacute;n. Su no cumplimiento (60%) en esa segunda oportunidad, implicar&aacute; la suspensi&oacute;n temporaria de la Constancia/Certificado de BPF correspondiente a los productos involucrados.</P> <P ALIGN='JUSTIFY'>Si se verifica en una inspecci&oacute;n que involucre productos de Clase III, el no cumplimiento del 80% del total de los &iacute;tems clasificados como RECOMENDABLE se acordar&aacute; entre los inspectores y los representantes de la empresa un plazo para una nueva inspecci&oacute;n. Su no cumplimiento (80%) en esa segunda oportunidad, implicar&aacute; la suspensi&oacute;n temporaria de la Constancia/Certificado de BPF correspondiente a los productos involucrados.</P> <P ALIGN='JUSTIFY'>8. PROCEDIMIENTOS Y PLAZOS</P> <P ALIGN='JUSTIFY'>8.1 OTORGAMIENTO DE CONSTANCIA/CERTIFICADO DEL CUMPLIMIENTO DE LAS BPF.</P> <P ALIGN='JUSTIFY'>Las empresas interesadas en ser inspeccionadas deber&aacute;n manifestar su intenci&oacute;n por medio de una 'Solicitud de Inspecci&oacute;n de Establecimiento', Anexo I, ante la Autoridad Sanitaria del Estado-Parte Sede.</P> <P ALIGN='JUSTIFY'>La Autoridad Sanitaria del Estado-Parte Sede deber&aacute; comunicar al Estado-Parte Receptor la solicitud de inspecci&oacute;n, indicando la fecha en que se realizar&aacute; la misma, en un plazo m&aacute;ximo de 15 (quince) d&iacute;as corridos, a partir de la fecha de solicitud.</P> <P ALIGN='JUSTIFY'>La Autoridad Sanitaria del Estado-Parte Receptor deber&aacute; acusar el recibo de la comunicaci&oacute;n en un plazo m&aacute;ximo de 15 (quince) d&iacute;as corridos, a partir de la fecha de recepci&oacute;n de la invitaci&oacute;n.</P> <P ALIGN='JUSTIFY'>La Autoridad Sanitaria del Estado-Parte Sede deber&aacute; comunicar al solicitante, la fecha de la inspecci&oacute;n en un plazo m&aacute;ximo de 10 (diez) d&iacute;as corridos, a partir de la comunicaci&oacute;n del EstadoParte Receptor.</P> <P ALIGN='JUSTIFY'>El Estado-Parte Sede tambi&eacute;n comunicar&aacute; a los Estados-Parte no involucrados, la fecha de la inspecci&oacute;n conjunta, los cuales deber&aacute;n informar de su participaci&oacute;n en la inspecci&oacute;n, en un plazo m&aacute;ximo de 15 (quince) d&iacute;as corridos, a partir de la fecha de recepci&oacute;n de la invitaci&oacute;n.</P> <P ALIGN='JUSTIFY'>La inspecci&oacute;n deber&aacute; ser realizada en un plazo m&aacute;ximo de 30 (treinta) d&iacute;as corridos, a contar de la fecha de respuesta de los Estados-Parte Receptores.</P> <P ALIGN='JUSTIFY'>Las inspecciones ser&aacute;n realizadas por inspectores entrenados y acreditados conforme al Programa Armonizado de Capacitaci&oacute;n en BPF, utilizando el documento de Verificaci&oacute;n del Cumplimiento de las BPF, en establecimientos fabricantes o importadores de Productos M&eacute;dicos.</P> <P ALIGN='JUSTIFY'>El Acta de Inspecci&oacute;n ser&aacute; elaborada inmediatamente despu&eacute;s de la inspecci&oacute;n, de acuerdo con el Anexo B del Documento de 'Verificaci&oacute;n del Cumplimiento de las BPF de Productos M&eacute;dicos'.</P> <P ALIGN='JUSTIFY'>El Acta de Inspecci&oacute;n deber&aacute; describir en forma objetiva, las irregularidades constatadas y las faltas y circunstancias comprobadas. La misma deber&aacute; ser firmada por los inspectores y el Director/Responsable T&eacute;cnico del Establecimiento y su Representante Legal, que podr&aacute; expresar su disconformidad con los t&eacute;rminos del Acta.</P> <P ALIGN='JUSTIFY'>La Autoridad Sanitaria del Estado-Parte Sede, emitir&aacute; la Constancia/Certificado del Cumplimiento de las BPF, a los establecimientos que cumplan con los requisitos de las BPF avalados a trav&eacute;s del Documento de 'Verificaci&oacute;n del Cumplimiento de las BPF de Productos M&eacute;dicos', en un plazo m&aacute;ximo de 15 (quince) d&iacute;as corridos luego de realizada la Inspecci&oacute;n.</P> <P ALIGN='JUSTIFY'>La Constancia/Certificado del Cumplimiento de las BPF ser&aacute; otorgado al establecimiento fabricante o importador de Productos M&eacute;dicos encuadrados en la Clase I (bajo riesgo), en un plazo m&aacute;ximo de 15 (quince) d&iacute;as, luego que los responsables Legal y T&eacute;cnico del establecimiento declaren legalmente el cumplimiento de los requisitos establecidos por el documento de Verificaci&oacute;n de las BPF, verificados a trav&eacute;s de la Auditor&iacute;a Interna realizada por el propio fabricante o importador.</P> <P ALIGN='JUSTIFY'>El no cumplimiento de cualquiera de los plazos establecidos habilitar&aacute; al solicitante a denunciar tal situaci&oacute;n al Grupo de Mercado Com&uacute;n como barrera no arancelaria.</P> <P ALIGN='JUSTIFY'>8.2 VERIFICACION DEL CUMPLIMIENTO DE LAS BPF EN ESTABLECIMIENTOS YA HABILITADOS DEL MERCOSUR.</P> <P ALIGN='JUSTIFY'>Todo Estado-Parte Receptor podr&aacute; solicitar la inspecci&oacute;n de un establecimiento ya habilitado por el Estado-Parte Sede, justificando su decisi&oacute;n y sugiriendo una fecha probable de realizaci&oacute;n de la inspecci&oacute;n.</P> <P ALIGN='JUSTIFY'>La Autoridad Sanitaria del Estado-Parte Sede deber&aacute; acusar recibo de la comunicaci&oacute;n en un plazo m&aacute;ximo de 15 (quince) d&iacute;as corridos, a partir de la fecha de recepci&oacute;n de la solicitud, confirmando la fecha de la inspecci&oacute;n.</P> <P ALIGN='JUSTIFY'>El Estado-Parte Sede tambi&eacute;n comunicar&aacute; a la empresa la fecha de la inspecci&oacute;n conjunta en un plazo no mayor de 10 d&iacute;as corridos.</P> <P ALIGN='JUSTIFY'>La inspecci&oacute;n deber&aacute; ser realizada en un plazo m&aacute;ximo de 30 (treinta) d&iacute;as corridos, a contar de la fecha de respuesta del Estado-Parte Sede.</P> <P ALIGN='JUSTIFY'>El Acta de Inspecci&oacute;n ser&aacute; elaborada despu&eacute;s del acto de inspecci&oacute;n, de acuerdo con el Anexo B del Documento de 'Verificaci&oacute;n del cumplimiento de las BPF de Productos M&eacute;dicos'.</P> <P ALIGN='JUSTIFY'>El Acta de Inspecci&oacute;n deber&aacute; describir en forma objetiva, las infracciones constatadas y las faltas y circunstancias comprobadas. La misma deber&aacute; ser firmada por los inspectores y el Director/Responsable T&eacute;cnico del establecimiento y su Representante Legal, que podr&aacute; expresar su disconformidad con los t&eacute;rminos del Acta.</P> <P ALIGN='JUSTIFY'>Cuando no se efect&uacute;a la inspecci&oacute;n conjunta dentro de los plazos previstos, el Estado-Parte Solicitante podr&aacute; denunciar esta situaci&oacute;n ante el Grupo del Mercado Com&uacute;n.</P> <P ALIGN='JUSTIFY'>8.3 AMPLIACION Y/O MODIFICACION DE LAS BPF DE PRODUCTOS MEDICOS</P> <P ALIGN='JUSTIFY'>Las empresas interesadas en solicitar ampliaci&oacute;n en la gama de productos o la modificaci&oacute;n de las BPF de Productos M&eacute;dicos autorizados, deber&aacute; presentar:</P> <P ALIGN='JUSTIFY'>-Solicitud de inspecci&oacute;n (Anexo I)</P> <P ALIGN='JUSTIFY'>-Memoria descriptiva del proceso a seguir</P> <P ALIGN='JUSTIFY'>-Documentaci&oacute;n de las modificaciones a realizar</P> <P ALIGN='JUSTIFY'>-Declaraci&oacute;n jurada del cumplimiento de las BPF</P> <P ALIGN='JUSTIFY'>La constancia de la prestaci&oacute;n de esta documentaci&oacute;n autom&aacute;ticamente ampliar&aacute; el Certificado de Cumplimiento de BPF, quedando facultada la Autoridad Sanitaria del Pa&iacute;s Sede a realizar la inspecci&oacute;n destinada a la verificaci&oacute;n del cumplimiento de las BPF, excepto en el caso que dicha ampliaci&oacute;n implique el cambio a una clase de mayor riesgo.</P> <P ALIGN='JUSTIFY'>La Autoridad Sanitaria del Pa&iacute;s Sede comunicar&aacute;, dentro de los 10 d&iacute;as corridos de la presentaci&oacute;n, a las Autoridades Sanitarias correspondientes de los dem&aacute;s Pa&iacute;ses Parte dicha solicitud, otorgando el certificado correspondiente a los 15 d&iacute;as corridos a partir de la fecha de comunicaci&oacute;n, de no mediar interposici&oacute;n de recurso por parte de los otros Estados-Partes.</P> <P ALIGN='JUSTIFY'>8.4 VALIDEZ DEL CERTIFICADO.</P> <P ALIGN='JUSTIFY'>La Constancia/Certificado de Cumplimiento de las BPF de Productos M&eacute;dicos tendr&aacute; validez por 5 (cinco) a&ntilde;os, a partir de la fecha de su otorgamiento.</P> <P ALIGN='JUSTIFY'>Para solicitar la renovaci&oacute;n de la Constancia/ Certificado de Cumplimiento de las BPF de Productos M&eacute;dicos, el Establecimiento deber&aacute; presentar la Solicitud que figura como Anexo I del presente documento.</P> <P ALIGN='JUSTIFY'>Los procedimientos y plazos ser&aacute;n los indicados en el punto 8.1.</P> <P ALIGN='JUSTIFY'>ANEXO I</P> <P ALIGN='JUSTIFY'>SOLICITUD DE INSPECCION PARA VERIFICACION DEL CUMPLIMIENTO DE LAS BUENAS PRACTICAS DE FABRICACION DE PRODUCTOS MEDICOS.</P> <P ALIGN='JUSTIFY'>La Empresa solicita la inspecci&oacute;n de su establecimiento para la verificaci&oacute;n del cumplimiento de las BPF, declarando que los datos informados a continuaci&oacute;n son verdaderos:</P> <P ALIGN='JUSTIFY'>1.-IDENTIFICACION DE LA EMPRESA</P> <P ALIGN='JUSTIFY'>DOMICILIO COMPLETO DE LA SEDE DE LA EMPRESA Y DE EL/LOS ESTABLECIMIENTO/S INVOLUCRADO/S:</P> <P ALIGN='JUSTIFY'>TEL:</P> <P ALIGN='JUSTIFY'>FAX:</P> <P ALIGN='JUSTIFY'>2.-TIPO DE INSPECCION:</P> <P ALIGN='JUSTIFY'>Inspecci&oacute;n Inicial:</P> <P ALIGN='JUSTIFY'>Reinspecci&oacute;n:</P> <P ALIGN='JUSTIFY'>Inspecci&oacute;n por la incorporaci&oacute;n de nuevo producto:</P> <P ALIGN='JUSTIFY'>Inspecci&oacute;n por modificaci&oacute;n:</P> <P ALIGN='JUSTIFY'>3.-NUMERO DE REGISTRO DE LA EMPRESA (en caso de reinspecci&oacute;n, inspecci&oacute;n por la incorporaci&oacute;n de nuevo producto o inspecci&oacute;n por modificaci&oacute;n):</P> <P ALIGN='JUSTIFY'>4.-ACTIVIDADES REALIZADAS POR LA EMPRESA, MOTIVO DE ESTA SOLICITUD:</P> <P ALIGN='JUSTIFY'>Fabricaci&oacute;n:</P> <P ALIGN='JUSTIFY'>Importaci&oacute;n:</P> <P ALIGN='JUSTIFY'>5.-NOMBRE Y CLASE DE PRODUCTOS CON LOS QUE LA EMPRESA REALIZA ACTIVIDADES RELACIONADAS CON LA FABRICACION Y/O IMPORTACION, MOTIVO DE ESTA SOLICITUD.</P> <P ALIGN='JUSTIFY'>6.-FIRMA, NOMBRE Y APELLIDO DEL REPRESENTANTE LEGAL</P> <P ALIGN='JUSTIFY'>7,-FIRMA, NOMBRE Y APELLIDO DEL DIRECTOR/RESPONSABLE TECNICO</P> <P ALIGN='JUSTIFY'>ANEXO II (bilingue)</P> <P ALIGN='JUSTIFY'>CONSTANCIA DE CUMPLIMIENTO DE LAS BUENAS PRACTICAS DE FABRICACION DE PRODUCTOS MEDICOS</P> <P ALIGN='JUSTIFY'>1.-ESTADO PARTE SEDE:</P> <P ALIGN='JUSTIFY'>2.-NUMERO DE CONSTANCIA/CERTIFICADO</P> <P ALIGN='JUSTIFY'>3.-RAZON SOCIAL DEL ESTABLECIMIENTO</P> <P ALIGN='JUSTIFY'>4.-DIRECCION(ES) DE LAS PLANTA(S) O LOCALES</P> <P ALIGN='JUSTIFY'>5.-ACTA DE INSPECCION N°</P> <P ALIGN='JUSTIFY'>EL ESTABLECIMIENTO CUMPLE CON LOS REQUISITOS DEL DOCUMENTO DE VERIFICACION DEL CUMPLIMIENTO DE LAS BUENAS PRACTICAS DE FABRICACION PARA LOS SIGUIENTES PRODUCTOS MEDICOS.</P> <P ALIGN='JUSTIFY'>AUTORIDAD SANITARIA DEL ESTADO-PARTE SEDE</P> <TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=568> <TR><TD WIDTH='50%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>LUGAR:</TD> <TD WIDTH='50%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>FECHA:</TD> </TR> </TABLE>  <P ALIGN='JUSTIFY'>PLAZO DE VALIDEZ O FECHA DE VENCIMIENTO</P> <P ALIGN='JUSTIFY'>El plazo de vencimiento no invalida la posibilidad de realizar Verificaciones de BPF en cualquier momento, en las situaciones previstas por la reglamentaci&oacute;n.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-194-1999-55745" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

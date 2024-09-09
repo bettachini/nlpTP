@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1112-2013-208871/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1112-2013-208871/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1112-2013-208871/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"E5vPZCgZNc6gDMIX7eFG8g6PWlaczwPbqIIb8ErZ2CI","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-1112-2013-208871\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-1112-2013-208871 page-normativa-nacional-disposición-1112-2013-208871-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-1112-2013-208871/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form--JI8E9Ix3tcfCCXfqqCFy9eAKJ6H9QgmcPqij-t_CMo" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-1112-2013-208871">Disposición   1112/2013</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2013-02-27</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>MINISTERIO DE SALUD</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>SECRETARIA DE POLITICAS, REGULACION E INSTITUTOS</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición Nº 1112/2013</span><br> <br> Bs. As., 21/2/2013<br> <br> VISTO la Resolución (ex MS y AS) Nº 709/98, la Disposición ANMAT Nº 7292/98 y el Expediente Nº 1-47-22.246-12-3 del Registro de esta Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT), y<br> <br> CONSIDERANDO:<br> <br> Que por la referida Resolución (ex MS y AS) Nº 709/98 se establecieron las normas aplicables al registro de los productos de uso doméstico.<br> <br> Que el artículo 8° de la aludida norma dispuso que a los fines del registro de los productos domisanitarios de Riesgo I debe presentarse una declaración jurada, cumplimentando los requisitos que se establezcan en la reglamentación.<br> <br> Que de acuerdo con lo establecido en la referida resolución corresponde a esta Administración Nacional dictar las normas aclaratorias y complementarias necesarias para su mejor cumplimiento.<br> <br> Que en ese contexto se dictó la Disposición ANMAT Nº 7292/98 que estableció, entre otras cuestiones, la información que debe presentarse para el registro de los referidos productos de Riesgo I.<br> <br> Que teniendo en cuenta el tiempo transcurrido y la experiencia adquirida desde su dictado, resulta conveniente proceder a la modificación de la Disposición ANMAT Nº 7292/98.<br> <br> Que el Instituto Nacional de Alimentos y la Dirección de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que la presente se dicta en virtud de las facultades conferidas por el Decreto Nº 1490/92 y por el Decreto Nº 425/10.<br> <br> Por ello,<br> <br> EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA<br> <br> DISPONE:<br> <br> ARTICULO 1º &#8212; Establécese que el registro de los Productos Domisanitarios de Riesgo I, categorizados conforme la Resolución (ex M.S. y A.S.) Nº 709/98, previsto en el artículo 8° de la referida norma se regirá por la presente disposición.<br> <br> ARTICULO 2º &#8212; Establécese que el registro de Productos Domisanitarios de Riesgo I se deberá realizar con carácter previo a la comercialización de los productos.<br> <br> ARTICULO 3º &#8212; Establécese que la presente disposición no se aplicará a los Productos Domisanitarios de Riesgo II.<br> <br> ARTICULO 4º &#8212; Establécese que según el artículo 5° de la Resolución ex MSyAS Nº 709/98, el registro de los productos domisanitarios tendrá una validez de 5 años. Cumplido dicho plazo los productos deberán ser reinscriptos. La no reinscripción producirá, sin necesidad de notificación previa, la cancelación del registro.<br> <br> ARTICULO 5º &#8212; A los efectos de la presente disposición y de acuerdo con lo establecido por la Resolución (ex MS y AS) Nº 709/98 se entiende por: PRODUCTO DOMISANITARIO: Aquellas sustancias o preparaciones destinadas a la limpieza, lavado, odorización, desodorización, higienización, desinfección o desinfestación, para su utilización en el hogar, y/o ambientes colectivos públicos y/o privados.<br> <br> RIESGO I: Comprende todos los productos de limpieza y afines en general, exceptuando los cáusticos y corrosivos.<br> <br> RIESGO II: Comprende los productos con actividad antimicrobiana, con actividad desinfestante (insecticidas, acaricidas, etc.), los productos cuyo valor de pH sea inferior a dos (2) o mayor que trece (13), productos con alto poder oxidante o reductor y productos biológicos a base de bacterias.<br> <br> ARTICULO 6º &#8212; A los fines del Registro de Productos Domisanitarios de Riesgo I, categorizados conforme la Resolución (ex MS y AS) Nº 709/98, se deberá presentar en carácter de declaración jurada en original y copia el formulario que como Anexo I forma parte integrante de la presente disposición y acompañar la documentación pertinente prevista en el Anexo II que forma parte integrante de la presente disposición. El trámite se iniciará ante la Mesa de Entradas que asignará el número de trámite interno y la fecha correspondiente habilitando la comercialización del producto mientras tanto no se realice objeción alguna sobre el mismo.<br> <br> ARTICULO 7° &#8212; El trámite de Registro Productos Domisanitarios de Riesgo I deberá ser realizado por el titular del producto debidamente habilitado ante esta Administración Nacional.<br> <br> ARTICULO 8° &#8212; El titular y/o el importador y/o elaborador y/o fraccionador y/o cualquiera de los participantes en las etapas del proceso de elaboración deberá/n garantizar la seguridad de uso de los productos registrados durante su período de vida útil avalado por los estudios correspondientes.<br> <br> ARTICULO 9° &#8212; Los productos registrados en los términos de la presente disposición, podrán ser observados y/o cancelados por la Autoridad Sanitaria por incumplimiento de la normativa aplicable.<br> <br> ARTICULO 10. &#8212; En los trámites observados por la Autoridad Sanitaria el Titular deberá responder las observaciones realizadas en un plazo no mayor a diez (10) días hábiles administrativos de notificada la observación.<br> <br> ARTICULO 11. &#8212; El titular del producto deberá informar a esta Administración Nacional, a través de nota, el cese en la comercialización de alguno de sus productos registrados para ser dados de baja del Registro.<br> <br> ARTICULO 12. &#8212; Toda modificación que se realice sobre el registro de los productos objeto de la presente disposición deberá ser notificada a la Autoridad Sanitaria en carácter de declaración jurada adjuntando original y copia del formulario que, como Anexo III, forma parte integrante de la presente disposición. La documentación a adjuntar deberá justificar la modificación solicitada.<br> <br> El trámite de solicitud de modificación deberá ser presentado ante la Mesa de Entradas y deberá ser realizado por el titular del producto debidamente habilitado ante esta Administración Nacional.<br> <br> ARTICULO 13. &#8212; A los fines de verificar el cumplimiento de la normativa aplicable, la Autoridad Sanitaria podrá efectuar inspecciones con o sin retiro de muestras en los establecimientos elaboradores o importadores, los depósitos de los mismos y bocas de expendio.<br> <br> ARTICULO 14. &#8212; Las denominaciones posibles a declarar ante la Autoridad Sanitaria para Productos Domisanitarios serán exclusivamente las siguientes: Blanqueadores, Detergentes/Productos para el lavado de ropa, Detergentes/Lavavajillas, Desincrustantes, Productos para acabado de superficies, Limpiadores, Neutralizadores/Eliminadores de olores, Odorizadores/Aromatizantes de ambientes, Productos para pre y post lavado, Removedores, Jabones para lavado de ropa, Auxiliares, Lubricantes para cintas transportadoras, Facilitadores de planchado, Absorbedores de humedad, Trampas para insectos elaboradas en base a sustancias adhesivas y soporte inerte.<br> <br> ARTICULO 15. &#8212; Para las diferentes versiones/variedades de un producto, bajo un nombre/marca, con una misma fórmula base en lo que se refiere a principios activos y coadyuvantes diferenciándose entre ellas únicamente por los componentes menores y/o aditivos, el registro se realizará bajo un mismo número. Se exceptúan los productos cuya formulación sea 100% esencia los cuales no podrán ser presentados como variedades de un mismo producto.<br> <br> ARTICULO 16. &#8212; Serán permitidos los envases de vidrio sólo cuando se trate de aceites esenciales para hornillo en presentaciones de contenido neto de no más de 50 ml, y para aromatizantes que se presenten en contenido neto de no más de 250 ml no incluyendo aquellos que se apliquen por pulverización.<br> <br> ARTICULO 17. &#8212; Los productos importados a granel deberán ingresar al país debidamente identificados, quedando garantizada la trazabilidad de los productos.<br> <br> ARTICULO 18. &#8212; Solamente será permitida la comercialización de los productos incluidos en la categoría de jabones, de aquellos que presenten alcalinidad libre máxima, expresada como Na2O, de 1% p/p y los productos que conteniendo amoníaco no superen el 1% p/p de NH3 libre.<br> <br> En los productos enzimáticos cuyo activo principal sean los catalizadores biológicos, la actividad enzimática debe ser comprobable.<br> <br> El contenido neto máximo permitido para productos de Venta Libre será de 5 L/Kg.<br> <br> Los productos destinados exclusivamente para la industria alimenticia deberán incluir como parte de la denominación declarada a los fines del rotulado según Anexo I ítem 4.2, la leyenda &#8220;para ser usado en la Industria Alimenticia&#8221;.<br> <br> Los solventes orgánicos que sean componentes de productos domisanitarios de Riesgo I de venta libre en una proporción mayor al 10% no deberán contener más de 25% de aromáticos totales y no más de 100 ppm de benceno.<br> <br> ARTICULO 19. &#8212; Establécese respecto de la declaración de composición cuali-cuantitativa porcentual completa de los productos, que no será aceptada declaración por rangos.<br> <br> ARTICULO 20. &#8212; Quedan exceptuados de declarar composición aquellos productos formulados como sólidos (por ejemplo: jabones en pan, aromatizantes sólidos, entre otros).<br> <br> Todas las materias primas deberán estar identificadas por Número CAS, Nombre químico y genérico, en el caso de los colorantes por Número CAS o Color Index.<br> <br> Si la materia prima es una mezcla, deberá declararse el número CAS de cada uno de sus componentes.<br> <br> No son permitidas en las formulaciones sustancias que sean comprobadamente carcinogénicas, mutagénicas y teratogénicas para el hombre según la Agencia Internacional de Investigación sobre el Cáncer (IARC/OMS) o las sustancias prohibidas por la Directiva CEE 67/548 y sus actualizaciones, siendo toleradas sólo como impurezas aquellas sustancias aceptadas como tales por dicha directiva y sus actualizaciones.<br> <br> Queda restringido a productos de uso profesional/ industrial la utilización de HF, HNO3, H2SO4 y las sales que los liberen en las condiciones de uso del producto.<br> <br> ARTICULO 21. &#8212; El rotulado de los productos alcanzados por la presente disposición no podrá emplear frases que impliquen o sugieran que el producto es seguro tales como: &#8220;confiable&#8221;, &#8220;seguro&#8221;, &#8220;no tóxico para humanos y animales domésticos&#8221;, &#8220;contiene todos ingredientes naturales&#8221;, &#8220;entre los productos menos tóxicos conocidos&#8221;, &#8220;libre de contaminación&#8221;, entre otras ni frases que impliquen o sugieran que el producto puede prevenir o controlar enfermedades u ofrecer protección a la salud tales como: &#8220;previene infecciones&#8221;, &#8220;controla infecciones&#8221;, entre otras; no deberá incluir imágenes en las cuales las personas aplican el producto sin equipo de protección personal, si el mismo está indicado en el texto del rótulo; no podrá incluir imágenes ni símbolos que denoten que el producto es no tóxico y/o seguro.<br> <br> Los rótulos no podrán contener indicaciones terapéuticas, ni denominaciones o indicaciones que induzcan a error, engaño o confusión respecto a su procedencia, origen, composición, finalidad de uso o seguridad.<br> <br> ARTICULO 22. &#8212; El rótulo deberá contener la siguiente información obligatoria:<br> <br> - Nombre comercial/marca del producto.<br> <br> - Denominación del producto<br> <br> - Contenido neto.<br> <br> - Nombre y razón social, domicilio y teléfono de la empresa titular del producto.<br> <br> - Número de habilitación de todos los Establecimientos participantes del proceso de elaboración del producto (RNE), incluyendo fraccionamiento, envasado y depósito.<br> <br> - Número de trámite interno según lo establecido por el artículo 5º de la presente.<br> <br> - País de Origen.<br> <br> - Incompatibilidades con algún material en caso de existir.<br> <br> - Indicar plazo de validez, acompañado de la fecha de fabricación o bien fecha de vencimiento.<br> <br> - Las leyendas: &#8220;Mantenga fuera del alcance de los niños&#8221;. &#8220;Lea atentamente el rótulo antes de usar el producto&#8221;. &#8220;En caso de contacto con ojos, lave inmediatamente con abundante agua&#8221;. &#8220;En caso de contacto con piel lave inmediatamente con abundante agua&#8221;, si corresponde. &#8220;En caso de ingestión no provoque el vómito y consulte inmediatamente al Centro de Intoxicaciones o al Médico llevando el envase o rótulo del producto&#8221;.<br> <br> - Componentes: Componentes activos y aquellos de importancia toxicológica deben ser indicados por su nombre químico genérico, los restantes por su función en la formulación.<br> <br> - Instrucciones de uso: Se harán constar las instrucciones y dosis para un uso adecuado del producto. Deben ser claras y sencillas. Para los destinados a Venta libre en caso de ser necesario utilizar una medida que deberá ser de uso común para el ama de casa o el producto deberá estar acompañado de dosificador.<br> <br> Los productos destinados a Venta profesional deberán incluir obligatoriamente en sus diseños de rótulo las frases &#8220;Restringido a Uso Profesional&#8221; y &#8220;Prohibida su Venta libre&#8221;.<br> <br> Cuando la superficie del envase no permita la indicación de la forma de empleo, precauciones y cuidados especiales, éstos deberán ser indicados en prospectos y/o envases secundarios según corresponda, que acompañen obligatoriamente al producto debiendo en el envase figurar la advertencia. &#8220;ANTES DE USAR LEA LAS INSTRUCCIONES DEL PROSPECTO EXPLICATIVO/ ENVASE SECUNDARIO&#8221;.<br> <br> - Precauciones según el tipo y destino de uso del producto.<br> <br> - Número de lote o partida.<br> <br> - Todas las leyendas y pictogramas de inserción obligatoria deben figurar con caracteres claros, bien visibles, indelebles en las condiciones normales de uso y fácilmente legibles por el consumidor.<br> <br> - La información obligatoria no puede escribirse sobre partes removibles para el uso, tales como cierres, precintos y otras que se inutilicen al abrir el envase.<br> <br> - Instrucciones para almacenaje.<br> <br> - Centro Nacional de Intoxicaciones 0800-333-0160 Obligatorio y otros optativos a criterio de la Empresa.<br> <br> Según el tipo de producto y la finalidad de empleo agregar además:<br> <br> &#8226; Productos a base de tensioactivos sintéticos que contengan enzimas, alcalinizantes o blanqueadores:<br> <br> &#8220;Evite el contacto prolongado con la piel. Después de utilizar este producto, lave y seque las manos&#8221;.<br> <br> &#8226; Productos a base de hidrocarburos:<br> <br> &#8220;Mantenga lejos del fuego y de superficies calientes&#8221;.<br> <br> &#8220;Cuidado! Peligrosa su ingestión&#8221; &#8220;No inhale&#8221;<br> <br> &#8220;Mantenga el recipiente herméticamente cerrado en lugar ventilado&#8221;<br> <br> &#8226; Productos a base de amoníaco:<br> <br> &#8220;Cuidado: irritante para los ojos y piel&#8221;<br> <br> &#8220;No mezclar con productos a base de cloro&#8221;<br> <br> &#8226; Productos en aerosol:<br> <br> &#8220;No perfore el envase vacío&#8221;<br> <br> &#8220;Mantenga lejos del fuego de superficies calientes&#8221;<br> <br> &#8220;No arroje al fuego o incinerador&#8221;<br> <br> &#8220;No exponga a temperatura superior a 50°C&#8221;<br> <br> &#8226; Productos inflamables:<br> <br> &#8220;Cuidado, inflamable! Mantenga lejos del fuego y de superficies calientes&#8221;<br> <br> &#8226; Productos fuertemente alcalinos/ácidos:<br> <br> &#8220;Peligro!! Causa quemaduras graves. Contiene un producto fuertemente alcalino/ácido &#8220;(mencionar el nombre)&#8221;<br> <br> Pictograma de Cáustico/Corrosivo<br> <br> &#8220;Cuidado! Peligrosa su ingestión&#8221;<br> <br> &#8220;Use equipamiento de protección adecuada&#8221;<br> <br> (Citar según el tipo de producto: anteojos protectores, guantes, botas, etc.)<br> <br> &#8220;No aplique sobre superficies calientes&#8221;<br> <br> &#8226; Productos a base de glicoles (etilenglicol, dietilenglicol y butilglicol):<br> <br> &#8220;Cuidado! Peligrosa su ingestión&#8221;<br> <br> &#8220;Evite la inhalación y el contacto con el producto&#8221;<br> <br> No podrán indicar el empleo sobre superficies calientes.<br> <br> El rotulado de los productos debe adecuarse a la normativa vigente y sus actualizaciones, incluyendo a la presente disposición.<br> <br> ARTICULO 23. &#8212; El incumplimiento de la presente disposición hará pasible a quien/es resulte/n responsable/s de las sanciones previstas en la normativa vigente; ello sin perjuicio de otras medidas y/o acciones que pudieran corresponder, a criterio de esta Administración Nacional, con el fin de preservar la salud de la población.<br> <br> ARTICULO 24. &#8212; Déjase sin efecto el apartado del artículo 1° de la Disposición ANMAT Nº 7292/98 que establece la información que los interesados deben presentar bajo declaración jurada para el registro de productos de Riesgo IA.<br> <br> ARTICULO 25. &#8212; Déjase sin efecto el apartado del artículo 1° de la Disposición ANMAT Nº 7292/98 que establece la información que los interesados deben presentar bajo declaración jurada para el registro de productos de Riesgo IB únicamente en relación con tales productos, manteniéndose su vigencia respecto del registro de los productos de riesgo II, cuando corresponda.<br> <br> ARTICULO 26. &#8212; Déjase sin efecto el artículo 3° y el Anexo V de la Disposición ANMAT Nº 7292/98 únicamente respecto de los productos de riesgo I, manteniéndose su vigencia respecto de los productos de riesgo II.<br> <br> ARTICULO 27. &#8212; Derógase el apartado del Anexo X de la Disposición ANMAT Nº 7292/98 titulado &#8220;TEXTO DE ROTULOS PARA PRODUCTOS DE RIESGO IA&#8221; y el apartado del Anexo X de la Disposición ANMAT Nº 7292/98 titulado &#8220;TEXTO DE ROTULOS PARA PRODUCTOS DE RIESGO IB&#8221;.<br> <br> ARTICULO 28. &#8212; La presente disposición entrará en vigencia a los diez (10) días hábiles administrativos contados a partir del día siguiente al de su publicación en el Boletín Oficial.<br> <br> ARTICULO 29. &#8212; Regístrese. Dése a la Dirección Nacional del Registro Oficial para su publicación. Dése al Instituto Nacional de Alimentos y a la Dirección de Planificación y Relaciones Institucionales. Comuníquese a la Asociación Industrial de Artículos para la Limpieza Personal, del Hogar y Afines, a la Cámara Argentina de Aerosoles y demás entidades Profesionales del sector. Cumplido, archívese PERMANENTE. &#8212; Dr. CARLOS CHIALE, Interventor, A.N.M.A.T.<br> <br> <div style='text-align: right;'>ANEXO I<br> </div> <br> <div style='text-align: center;'><img  src='../../../normativa/208871_disp1112-27-2-2013-1_JPG/archivo'></div> <br> <div style='text-align: center;'><img  src='../../../normativa/208871_disp1112-27-2-2013-2_JPG/archivo'></div> <br> <div style='text-align: center;'><img  src='../../../normativa/208871_disp1112-27-2-2013-3_JPG/archivo'></div> <br> <div style='text-align: center;'><img  src='../../../normativa/208871_disp1112-27-2-2013-4_JPG/archivo'></div> <br> <div style='text-align: right;'>ANEXO II<br> </div> <br> DOCUMENTACION<br> <br> - Copia del Certificado de RNE, Disposición y Anexo habilitante de todos los establecimientos participantes en la elaboración del producto.<br> <br> - Formulario de tercerización, conforme Disposición ANMAT Nº 7725/06 y sus modificatorias, entre los establecimientos participantes del proceso de elaboración del producto debidamente firmado por el Director Técnico y apoderado de los establecimientos participantes en la elaboración del producto.<br> <br> - Si el producto es importado, deberá adjuntarse: a) Certificado de Libre Venta en país de origen debidamente consularizado y/o apostillado, legalizado, y en su caso traducido por traductor público matriculado. En el caso de que el país de origen no otorgue el Certificado de Libre Venta, se aceptará la Certificación por la autoridad sanitaria la que deberá ser igualmente consularizada y legalizada y/o apostillada y b) Rótulo de origen, traducido de corresponder.<br> <br> - Hoja de Seguridad y/o declaración del Proveedor de las esencias utilizadas como constancia de cumplimiento de Normas IFRA.<br> <br> - Los agentes tensioactivos aniónicos empleados deben ser biodegradables, debiendo ser demostrada dicha propiedad adjuntando el correspondiente ensayo, según lo establecido por Disposición ANMAT Nº 2316/06 y sus modificatorias.<br> <br> - Diseño definitivo de rótulo.<br> <br> - Método de elaboración.<br> <br> - Métodos de control de calidad del producto terminado.<br> <br> - Alcalinidad libre expresada como Na20, para jabones.<br> <br> - %P/P de amoníaco libre, para productos con contenido de amoníaco superior al 1%P/P.<br> <br> - Para detergentes líquidos destinados al lavado de vajilla manual con pH entre 5,0 y 5,5 y entre 9,5 y 10,0: estudios dermatológicos que garanticen la seguridad de estos productos, en las condiciones de uso propuestas.<br> <br> - Para productos que requieran Tapa de seguridad a prueba de niños, según Disposición ANMAT Nº 2013/10, adjuntar: Ficha técnica del envase, incluyendo: Diámetro interior del cuello, Diámetro exterior máximo de rosca, Diámetro exterior entre fondos de rosca, Altura de rosca, Paso de rosca, Espesor mínimo del envase, Material del envase. Evaluación completa para la tapa de seguridad y Declaración jurada de quiénes son los proveedores de la tapa y del envase.<br> <br> - Para los productos que contengan más de 10% de solventes orgánicos se deberá adjuntar Hoja de Seguridad y certificado de análisis emitidos por proveedor de dicho solvente en el que consten porcentaje de aromáticos totales y benceno específicamente.<br> <br> - Para productos enzimáticos cuyo activo principal sean los catalizadores biológicos: comprobación de actividad enzimática.<br> <br> - Ensayo de estabilidad del producto terminado.<br> <br> <div style='text-align: right;'>ANEXO III<br> </div> <br> <div style='text-align: center;'><img  src='../../../normativa/208871_disp1112-27-2-2013-5_JPG/archivo'></div> <br> <div style='text-align: right;'>e. 27/02/2013 N° 10089/13 v. 27/02/2013<br> </div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-1112-2013-208871" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

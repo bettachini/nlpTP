@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-7720-2006-123884/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-7720-2006-123884/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-7720-2006-123884/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"HDrROLOsIcswi6EjvK2lQ_atMrIom5I49aRIHrmUQjY","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-7720-2006-123884\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-7720-2006-123884 page-normativa-nacional-disposición-7720-2006-123884-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-7720-2006-123884/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-j8J3p4DT0wVGubSAh4mwAIu8MR57JIHTvVv0kNpVIOQ" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-7720-2006-123884">Disposición   7720/2006</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2007-01-08</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ESPECIALIDADES MEDICINALES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 7720/2006</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Establ&eacute;cese que las especialidades medicinales que contengan como principio activo Talidomida ingresar&aacute;n al Programa de Farmacovigilancia Intensiva cuando la misma se indique para cualquier otra enfermedad distinta del Eritema Nodoso Lepromatoso, en los t&eacute;rminos de la Disposici&oacute;n Nº 2552/95.</P> <P ALIGN='JUSTIFY'></P> </B><P ALIGN='JUSTIFY'>Bs. As., 28/12/2006</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO las Disposiciones A.N.M.A.T. Nº 2074/97, Nº 2552/95, Nº 7089/99, el expediente Nº 1-47-12040- 05-1 del registro de la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica, y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por Disposici&oacute;n A.N.M.A.T. Nº 2074/97 se reglament&oacute; un sistema de accesibilidad controlada a especialidades medicinales conteniendo como principio activo TALIDOMIDA, para los casos en que sea utilizada en otras indicaciones no relacionadas con el Eritema Nodoso Lepromatoso, bajo expresa responsabilidad del m&eacute;dico tratante.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que este sistema, luego del tiempo transcurrido, requiere de ciertas modificaciones con el objeto de optimizar el proceso por el cual los pacientes acceden a esta especialidad medicinal, basados en el control del riesgo potencial que implica el uso de TALIDOMIDA, espec&iacute;ficamente por su capacidad teratog&eacute;nica (malformaciones fetales).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por Disposici&oacute;n A.N.M.A.T. Nº 7089/99 se cre&oacute; la Comisi&oacute;n de Farmacovigilancia Intensiva, teniendo a su cargo proponer al Director Nacional la inclusi&oacute;n de principios activos en programas de farmacovigilancia intensiva seg&uacute;n las especificaciones de la Disposici&oacute;n A.N.M.A.T. Nº 2552/95.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el art&iacute;culo 2º de la Disposici&oacute;n A.N.M.A.T. Nº 2552/95 establece que: &quot;El Director Nacional de la A.N.M.A.T. dispondr&aacute; la inclusi&oacute;n de principios activos sujetos a Farmacovigilancia Intensiva cuando re&uacute;nan alguna de las siguientes caracter&iacute;sticas: haber demostrado eficacia en el tratamiento de patolog&iacute;as en las cuales su empleo justifique los riesgos a los que estar&aacute; expuesto el paciente; que puedan causar efectos adversos graves con riesgo por la vida o alto impacto en la calidad de la misma y que dichos efectos adversos se presenten con una mayor prevalencia con respecto de otras alternativas terap&eacute;uticas menos eficaces destinadas al tratamiento de la misma patolog&iacute;a o cuando se introduzca un principio activo que reemplace en su indicaci&oacute;n a otro del mismo grupo que haya sido limitado para esa indicaci&oacute;n debido a sus efectos adversos.&quot;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la TALIDOMIDA es considerada como una de las drogas &uacute;tiles e indispensables para el tratamiento de ciertas enfermedades, pero capaz de inducir efectos adversos de gravedad, lo que hace de fundamental importancia implementar un sistema de control a fin de ser indicada en un marco de mayor seguridad y vigilancia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la TALIDOMIDA es adquirida por el Ministerio de Salud, Programa Nacional de Lepra, para aquellos pacientes que la requieran para el tratamiento de Eritema Nodoso Lepromatoso, en forma gratuita y bajo administraci&oacute;n controlada en los Servicios y/o consultorios para ello habilitados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el 16 de diciembre de 2005, en una reuni&oacute;n mantenida con miembros de la Comisi&oacute;n de Farmacovigilancia Intensiva, profesionales de esta Administraci&oacute;n Nacional especialistas en  la materia, y representantes de los laboratorios que comercializan productos con TALIDOMIDA, se evalu&oacute; el funcionamiento del programa de acceso a la TALIDOMIDA por parte de pacientes no integrados en el Programa Nacional de Lepra del Ministerio de Salud de la Naci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en esa oportunidad, y luego de planteadas las dificultades que genera el actual sistema, se concluy&oacute; en la necesidad de introducir modificaciones al sistema implementado por Disposici&oacute;n A.N.M.A.T Nº 2074/97, comenzando por instaurar un per&iacute;odo de prueba a partir del mes de enero de 2006.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por las caracter&iacute;sticas especiales de la TALIDOMIDA, corresponde dise&ntilde;ar un programa de farmacovigilancia intensiva ad hoc, con participaci&oacute;n de la Autoridad Sanitaria, y las empresas titulares de certificados de venta de especialidades medicinales que contengan TALIDOMIDA como principio activo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el per&iacute;odo de prueba del programa ha demostrado que en t&eacute;rminos generales puede ser llevado a cabo y controlado por el Departamento de Farmacovigilancia de esta Administraci&oacute;n Nacional.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Direcci&oacute;n de Evaluaci&oacute;n de Medicamentos, el Departamento de Farmacovigilancia y la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por el Decreto Nº 1490/92 y el Decreto Nº 197/02.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL INTERVENTOR  DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Las especialidades medicinales que contengan como principio activo TALIDOMIDA ingresar&aacute;n al Programa de Farmacovigilancia Intensiva cuando la misma se indique para cualquier otra enfermedad distinta del Eritema Nodoso Lepromatoso, en los t&eacute;rminos de la Disposici&oacute;n A.N.M.A.T. Nº 2552/95.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 2º </B>— El Programa de Farmacovigilancia Intensiva de TALIDOMIDA incluye la acci&oacute;n coordinada de esta Administraci&oacute;n Nacional, a trav&eacute;s del Departamento de Farmacovigilancia y la de los laboratorios titulares de certificados de especialidades medicinales que contengan TALIDOMIDA para su consumo en nuestro pa&iacute;s.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— Las especialidades medicinales que contengan como principio activo TALIDOMIDA, incluidas en el Programa de Farmacovigilancia Intensiva de TALIDOMIDA, deber&aacute;n tener impreso en el prospecto, folletos e informaci&oacute;n dirigida a los profesionales, mientras est&eacute;n sujetas a esta condici&oacute;n, la siguiente leyenda: MEDICAMENTO SUJETO A FARMACOVIGILANCIA INTENSIVA. ANTE LA APARICION DE EVENTOS NO DESEADOS DESCRIPTOS O NO EN EL PROSPECTO, SOLICITAMOS LO COMUNIQUE AL SISTEMA NACIONAL DE FARMACOVIGILANCIA DE LA A.N.M.A.T. Av. De Mayo 869, piso 11, Capital Federal (CP 1084), Fax: (01) 342-8684; Tel&eacute;fono: (01) 340-0800, interno 1164; email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="eb98858d9d8cab8a85868a9fc58c849dc58a99">[email&#160;protected]</a>&quot; y p&aacute;gina web de A.N.M.A.T. www.anmat.gov.ar&quot;</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 4º </B>— Los pacientes que requieran TALIDOMIDA podr&aacute;n obtenerla en forma individual o a trav&eacute;s de instituciones de salud, de acuerdo al sistema que como Anexo I se establece en la presente Disposici&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 5º </B>— Apru&eacute;base corno Anexo II el Modelo de Declaraci&oacute;n Jurada que deber&aacute; firmar el responsable de la instituci&oacute;n que compra TALIDOMIDA.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 6º </B>— Apru&eacute;base como Anexo III el &quot;Formulario de Consentimiento Informado para el Paciente&quot;.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 7º </B>— Los laboratorios titulares de especialidades medicinales que contengan como principio activo TALIDOMIDA, deber&aacute;n tener un control y seguimiento intensivo tanto de los m&eacute;dicos prescriptores como de los pacientes incluidos en el Programa de Farmacovigilancia Intensiva de TALIDOMIDA. A tales fines podr&aacute;n difundir material informativo dirigido a los profesionales, previamente autorizado por esta Administraci&oacute;n Nacional, a trav&eacute;s de una nota de aceptaci&oacute;n emitida por el Departamento de Farmacovigilancia.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 8º </B>— Los titulares de certificados de especialidades medicinales que contengan TALIDOMIDA corno principio activo estar&aacute;n sujetos a las obligaciones establecidas en los art&iacute;culos 4º, 5º y 7º de la Disposici&oacute;n A.N.M.A.T. Nº 2552/95.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 9º </B>— Ante la falta de cumplimiento del Programa de Farmacovigilancia Intensiva de TALIDOMIDA por parte de los Laboratorios, esta Administraci&oacute;n Nacional podr&aacute; suspender la comercializaci&oacute;n del producto hasta tanto se regularice su adecuaci&oacute;n al Programa, sin perjuicio de otras medidas legales que pudieran corresponder.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 10. </B>— Der&oacute;gase la Disposici&oacute;n A.N.M.AT. Nº 2074/97.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 11. </B>— Reg&iacute;strese. D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n. D&eacute;se a la Direcci&oacute;n de Planificaci&oacute;n y Relaciones Institucionales a sus efectos. Por el Departamento de Mesa de Entradas, comun&iacute;quese Ministerio de Salud –Programa Nacional de Lepra, a las C&aacute;maras de Medicamentos (CAEME, CILFA, COOPERALA, CAPGEN,) a la Confederaci&oacute;n Farmac&eacute;utica Argentina (COFA) a la Confederaci&oacute;n M&eacute;dica Argentina (COMRA) a la Asociaci&oacute;n M&eacute;dica Argentina (AMAIFA), a la Sociedad Argentina de Hematolog&iacute;a, a la Sociedad Argentina de Hematoncolog&iacute;a, a la Sociedad Argentina de Oncolog&iacute;a, a la Sociedad Argentina de Dermatolog&iacute;a. Notif&iacute;quese a los laboratorios titulares de certificados de especialidades medicinales que contengan como principio activo TALIDOMIDA. Cumplido, arch&iacute;vese PERMANENTE. — Manuel R. Limeres.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>PROGRAMA DE FARMACOVIGILANCIA INTENSIVA</P> <P ALIGN='CENTER'>DE TALIDOMIDA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.- Sistema de acceso en forma individual</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.1.-El m&eacute;dico tratante deber&aacute; extender la prescripci&oacute;n de la droga incluyendo:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- nombre y apellido del paciente;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- edad del paciente;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- cantidad de comprimidos de Talidomida y la concentraci&oacute;n que requiera el paciente, no superando los tres meses de tratamiento;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- la indicaci&oacute;n para la cual la prescribe;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>- sello y firma del m&eacute;dico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.2.- El m&eacute;dico deber&aacute; obtener del paciente el Consentimiento Informado (Anexo II), por el cual este &uacute;ltimo manifiesta conocer y aceptar los riesgos de la TALIDOMIDA.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.3.- El m&eacute;dico indicar&aacute; al paciente que se dirija, con la receta, el consentimiento informado firmado y el documento de identidad, a alguno de los laboratorios autorizados, para la adquisici&oacute;n de la especialidad medicinal.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.4.- El Laboratorio recibe la prescripci&oacute;n m&eacute;dica, el consentimiento informado con las correspondientes firmas y fotocopia del documento de identidad. El consentimiento informado debe ser solicitado a los pacientes cr&oacute;nicos con una frecuencia no menor a la anual.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.5.- El Laboratorio expender&aacute; la cantidad de TALIDOMIDA prescripta con la presentaci&oacute;n de la prescripci&oacute;n m&eacute;dica, el documento de identidad del paciente y el consentimiento informado firmado, debiendo archivar la prescripci&oacute;n m&eacute;dica, fotocopia del documento de identidad y el consentimiento informado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.6.- El Laboratorio confeccionar&aacute; una base de datos en la que se incluir&aacute;n los siguientes datos: apellido y nombre del paciente, sexo, documento de identidad, fecha de nacimiento, fecha de expendio, cantidad de comprimidos de TALIDOMIDA, concentraci&oacute;n de TALIDOMIDA, patolog&iacute;a para la cual fue prescripta, apellido y nombre del m&eacute;dico, especialidad, matr&iacute;cula profesional nacional y/o provincial, localidad de procedencia del paciente, pa&iacute;s de procedencia del paciente, instituci&oacute;n hospitalaria (cuando corresponda).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.7.- El Laboratorio, en cumplimiento del programa de Farmacovigilancia Intensiva de la TALIDOMIDA, proporcionar&aacute; a los prescriptores m&eacute;dicos las fichas amarillas de comunicaci&oacute;n de Eventos Adversos del Sistema Nacional de Farmacovigilancia de la A.N.M.A.T., con el objeto de recolectar y enviar a la A.N.M.A.T. cualquier inconveniente o evento presuntamente relacionado con la TALIDOMIDA.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.8.- La informaci&oacute;n descripta en el punto 1.6.- deber&aacute; ser enviada a la A.N.M.A.T. con una frecuencia mensual a la direcci&oacute;n electr&oacute;nica <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ff8b9e9396d2998996bf9e91929e8bd1989089d19e8d">[email&#160;protected]</a>. La documentaci&oacute;n en papel (prescripciones, consentimientos informados, fichas amarillas) deber&aacute; ser entregada peri&oacute;dicamente al Departamento de Farmacovigilancia de la A.N.M.A.T.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2.- Sistema de acceso a trav&eacute;s de instituciones de salud</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Teniendo en cuenta que algunas instituciones p&uacute;blicas o privadas compran y/o licitan la compra de TALIDOMIDA para ser utilizada en pacientes internados o bajo el cuidado m&eacute;dico de las mismas, para otras patolog&iacute;as diferentes a eritema nodoso leproso, los laboratorios que provean esta especialidad medicinal ser&aacute;n responsables de obtener la informaci&oacute;n descripta en el apartado 1.6, por lo que est&aacute;n obligados a solicitar la firma de una declaraci&oacute;n jurada del responsable de la compra, seg&uacute;n el modelo que figura como anexo II, previa a la entrega de la medicaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El laboratorio deber&aacute; presentar la nota firmada por el responsable de la compra e incluir los datos de los pacientes internados o atendidos en tales instituciones en el informe mensual presentado ante el Departamento de Farmacovigilancia de la A.N.M.A.T.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO II</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>MODELO DE DECLARACION JURADA QUE DEBERA FIRMAR EL RESPONSABLE</P> <P ALIGN='CENTER'></P> <P ALIGN='CENTER'>DE LA INSTITUCION QUE COMPRA TALIDOMIDA</P> <P ALIGN='CENTER'></P> <P ALIGN='CENTER'>&quot;DECLARACION JURADA– DISPOSICION A.N.M.A.T. Nº …….&quot;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>FECHA…………….</P> <P ALIGN='JUSTIFY'>INSTITUCION…………..</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Declaro bajo juramento que conozco y acepto los alcances de la Disposici&oacute;n A.N.M.A.T. Nº … en cuanto a la obligatoriedad de mi parte de proporcionar al Laboratorio …………….. los datos de los pacientes que consumen talidomida y los m&eacute;dicos prescriptores de modo que el laboratorio pueda informar mensualmente al Dpto. de Farmacovigilancia de la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a m&eacute;dica, de acuerdo al detalle contenido en el punto 1.6 del anexo I de la mencionada Disposici&oacute;n.</P> <P ALIGN='JUSTIFY'></P><DIR> <DIR> <DIR> <DIR> <DIR> <DIR> <DIR> <DIR>  <P ALIGN='JUSTIFY'>Firma …………………………….</P> <P ALIGN='JUSTIFY'>Aclaraci&oacute;n……………………….</P> <P ALIGN='JUSTIFY'>Cargo ……………………………</P> <P ALIGN='JUSTIFY'></P></DIR> </DIR> </DIR> </DIR> </DIR> </DIR> </DIR> </DIR>  <P ALIGN='RIGHT'>ANEXO III</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>FORMULARIO DE CONSENTIMIENTO INFORMADO PARA EL PACIENTE</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La TALIDOMIDA es un medicamento utilizado para el tratamiento de diversas enfermedades basado en su capacidad inmunomoduladora.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En el a&ntilde;o 1960 fue prohibida la venta de la TALIDOMIDA luego de la confirmaci&oacute;n de malformaciones cong&eacute;nitas para el uso de la misma durante el embarazo. Se calcula que existieron, en todo el mundo, entre 6.000 y 12.000 nacimientos de ni&ntilde;os con una malformaci&oacute;n determinada llamada focomelia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Actualmente la TALIDOMIDA puede ser indicada para el tratamiento de cierto tipo de enfermedades como ser aftas oro-genitales, lupus eritematoso discoide, s&iacute;ndrome de Behcet, prurigo act&iacute;nico que no hayan respondido a los tratamientos habituales espec&iacute;ficos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Si Ud. va a recibir esta medicaci&oacute;n deber&aacute; previamente someterse a un tratamiento anticonceptivo eficaz con el fin de evitar los riesgos de malformaci&oacute;n cong&eacute;nita. Bajo ninguna causa puede aceptar embarazarse durante el tratamiento con TALIDOMIDA.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Se recomienda leer cuidadosamente el prospecto interno del medicamento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Habiendo le&iacute;do lo expuesto anteriormente tomo conocimiento de los riesgos que implica el tratamiento indicado por el profesional m&eacute;dico Dr/a……………………………….</P> <P ALIGN='JUSTIFY'></P> <TABLE CELLSPACING=0 BORDER=0 CELLPADDING=4 WIDTH=598> <TR><TD WIDTH='50%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>…………………………</TD> <TD WIDTH='50%' VALIGN='TOP'> <P ALIGN='JUSTIFY'> ………………………………….</TD> </TR> <TR><TD WIDTH='50%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Firma y aclaraci&oacute;n del paciente. </TD> <TD WIDTH='50%' VALIGN='TOP'> <P ALIGN='JUSTIFY'>Firma, aclaraci&oacute;n y Sello del M&eacute;dico</TD> </TR> </TABLE>  <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Fecha ……………………………</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-7720-2006-123884" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

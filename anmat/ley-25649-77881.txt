@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/ley-25649-77881/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/ley-25649-77881/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/ley-25649-77881/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"1UsyGIXoJE3s2525DH1K53rHh7wttfWeJrPJboPJkRk","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/ley-25649-77881\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-ley-25649-77881 page-normativa-nacional-ley-25649-77881-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/ley-25649-77881/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-p2y0lBJSel9VR6jBCOC7cfLhB5ulWtCPZzkVNLlQFEI" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/ley-25649-77881">Ley   25649/2002</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>HONORABLE CONGRESO DE LA NACION ARGENTINA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2002-09-19</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>ESPECIALIDADES MEDICINALES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ley 25.649</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Promoci&oacute;n de la utilizaci&oacute;n de medicamentos por su nombre gen&eacute;rico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Sancionada: Agosto 28 de 2002.</P> <P ALIGN='JUSTIFY'>Promulgada Parcialmente: Septiembre 18 de 2002.</P> </B><P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>El Senado y C&aacute;mara de Diputados de la Naci&oacute;n Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 1º </B>— La presente ley tiene por objeto la defensa del consumidor de medicamentos y drogas farmac&eacute;uticas y su utilizaci&oacute;n como medio de diagn&oacute;stico en tecnolog&iacute;a biom&eacute;dica y todo otro producto de uso y aplicaci&oacute;n en la medicina humana.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 2º </B>— Toda receta o prescripci&oacute;n m&eacute;dica deber&aacute; efectuarse en forma obligatoria expresando el nombre gen&eacute;rico del medicamento o denominaci&oacute;n com&uacute;n internacional que se indique, seguida de forma farmac&eacute;utica y dosis/unidad, con detalle del grado de concentraci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La receta podr&aacute; indicar adem&aacute;s del nombre gen&eacute;rico el nombre o marca comercial, pero en dicho supuesto el profesional farmac&eacute;utico, a pedido del consumidor, tendr&aacute; la obligaci&oacute;n de sustituir la misma por una especialidad medicinal de menor precio que contenga los mismos principios activos, concentraci&oacute;n, forma farmac&eacute;utica y similar cantidad de unidades.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El farmac&eacute;utico, debidamente autorizado por la autoridad competente, es el &uacute;nico responsable y capacitado para la debida dispensa de especialidades farmac&eacute;uticas, como as&iacute; tambi&eacute;n para su sustituci&oacute;n. En este &uacute;ltimo caso deber&aacute; suscribir la autorizaci&oacute;n de sustituci&oacute;n en la prescripci&oacute;n. </P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>La libertad de prescripci&oacute;n y de dispensa est&aacute; garantizada por la elecci&oacute;n del principio activo y no sobre especialidades de referencia o de marca.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 3º </B>— Toda receta o prescripci&oacute;n m&eacute;dica que no cumpla con lo establecido en el primer p&aacute;rrafo del art&iacute;culo 2º de la presente ley se tendr&aacute; por no prescrita, careciendo de valor alguno para autorizar el expendio del medicamento de que se trate.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 4º </B>— <B>A los fines de la presente ley se entiende por: </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Medicamento: toda preparaci&oacute;n o producto farmac&eacute;utico empleado para la prevenci&oacute;n, diagn&oacute;stico o tratamiento de una enfermedad o estado patol&oacute;gico, o para modificar sistemas fisiol&oacute;gicos en beneficio de la persona a quien se le administra;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Principio activo o monodroga: toda sustancia qu&iacute;mica o mezcla de sustancias relacionadas, de origen natural, biogen&eacute;tico, sint&eacute;tico o semisint&eacute;tico que, poseyendo un efecto farmacol&oacute;gico espec&iacute;fico, se emplea en medicina humana;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) Nombre gen&eacute;rico: denominaci&oacute;n de un principio activo, monodroga, o de una asociaci&oacute;n de principios activos a dosis fijas, adoptada por la autoridad sanitaria, o en su defecto la denominaci&oacute;n com&uacute;n internacional de un principio activo o combinaci&oacute;n de los mismos recomendada por la Organizaci&oacute;n Mundial de la Salud;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) Especialidad medicinal: todo medicamento de composici&oacute;n cualitativa y cuantitativamente definida, declarada y verificable, de forma farmac&eacute;utica estable y de acci&oacute;n terap&eacute;utica comprobable debidamente autorizada por la autoridad sanitaria;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>e) Especialidad medicinal gen&eacute;rica: especialidad medicinal identificada por el nombre gen&eacute;rico que corresponda a su composici&oacute;n; </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>f) Especialidad medicinal de referencia: es aquel medicamento debidamente habilitado como tal por la autoridad sanitaria nacional, cuya eficacia y seguridad terap&eacute;utica ha sido cient&iacute;ficamente comprobada por su uso cl&iacute;nico y comercializado en el pa&iacute;s por un laboratorio innovador. Cuando un producto que re&uacute;na estas caracter&iacute;sticas no se comercialice en el pa&iacute;s, podr&aacute; utilizarse como especialidad medicinal de referencia a fin de comparar la especialidad medicinal gen&eacute;rica, aquella avalada por la Organizaci&oacute;n Mundial de la Salud por haberse comprobado su acci&oacute;n terap&eacute;utica mediante su liderazgo en el mercado farmac&eacute;utico internacional.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 5º </B>— Ser&aacute; obligatorio el uso del nombre gen&eacute;rico: a) En todo envase primario, secundario, r&oacute;tulo, prospecto o cualquier documento utilizado por la industria farmac&eacute;utica para informaci&oacute;n m&eacute;dica o promoci&oacute;n de las especialidades medicinales; b) En todos los textos normativos, inclusive registros y autorizaciones relativas a la elaboraci&oacute;n, fraccionamiento, comercializaci&oacute;n, exportaci&oacute;n e importaci&oacute;n de medicamentos; <B>c) En toda publicidad o propaganda dirigida al p&uacute;blico en general.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 6º </B>— En los r&oacute;tulos y prospectos de los medicamentos registrados ante la autoridad sanitaria, se deber&aacute;n incorporar los nombres gen&eacute;ricos en igual tama&ntilde;o y realce que el nombre comercial. Cuando se trate de medicamentos constituidos por dos o m&aacute;s nombres gen&eacute;ricos, el tama&ntilde;o de la tipograf&iacute;a para cada uno de ellos podr&aacute; ser reducido en forma proporcional. </P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 7º </B>— En el expendio de medicamentos, los establecimientos autorizados deber&aacute;n informar al p&uacute;blico todas las especialidades medicinales que contengan el mismo principio activo o combinaci&oacute;n de ellos que la prescrita en la receta m&eacute;dica que se les exhiba y los distintos precios de esos productos. En caso de incumplimiento ser&aacute;n de aplicaci&oacute;n las sanciones previstas por la ley 24.240, de defensa del consumidor. </P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 8º </B>— El Poder Ejecutivo nacional, a trav&eacute;s del Ministerio de Salud, ser&aacute; el organismo encargado de controlar el cumplimiento de la presente ley, sin perjuicio de lo dispuesto en el art&iacute;culo anterior. En este marco deber&aacute; especialmente dise&ntilde;ar campa&ntilde;as de difusi&oacute;n masiva respecto de los beneficios que reviste el uso de las denominaciones gen&eacute;ricas en las prescripciones m&eacute;dicas</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 9º </B>— <B>La autoridad sanitaria nacional deber&aacute; elaborar, dentro de los 60 d&iacute;as de promulgada la presente ley, un vadem&eacute;cum, el que deber&aacute; ser actualizado en forma peri&oacute;dica, en el que se ordenar&aacute;n las especialidades medicinales gen&eacute;ricas o formas comerciales autorizadas en base a su contenido de principio activo, monodroga o nombre gen&eacute;rico y un listado de combinaciones de monodrogas identificadas por su nombre gen&eacute;rico que hayan sido recomendadas por la Organizaci&oacute;n Mundial de la Salud o autorizadas por la autoridad sanitaria nacional, los cuales deber&aacute;n estar a disposici&oacute;n de los profesionales del arte de curar y del p&uacute;blico en general en todas las farmacias de la Rep&uacute;blica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 10. </B>— <B>El Poder Ejecutivo nacional promover&aacute; en forma conjunta, con las organizaciones m&eacute;dicas, farmac&eacute;uticas y odontol&oacute;gicas y todas aquellas reconocidas en el arte de curar, los mecanismos que aseguren amplia comunicaci&oacute;n, informaci&oacute;n y educaci&oacute;n  sobre los medicamentos gen&eacute;ricos. Asimismo, deber&aacute;n realizar las acciones que sean pertinentes a los efectos de que en todas las universidades del pa&iacute;s y en las &aacute;reas vinculadas a la formaci&oacute;n de conocimiento en ciencias de la salud sea incorporado dentro de las respectivas curr&iacute;cula el estudio de la investigaci&oacute;n y transferencia de conocimientos sobre la tem&aacute;tica abordada en la presente ley.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 11. </B>— El Poder Ejecutivo propender&aacute;, en materia de medicamentos, a una pol&iacute;tica de progresiva sustituci&oacute;n de importaciones. </P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 12. </B>— Inv&iacute;tase a las provincias a adherir a la presente ley. <B>Asimismo el Poder Ejecutivo nacional queda facultado a suscribir convenios con las provincias y con el Gobierno de la Ciudad de Buenos Aires a fin de delegar facultades de fiscalizaci&oacute;n. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 13. </B>— Comun&iacute;quese al Poder Ejecutivo nacional.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS 28 AGO 2002</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>— REGISTRADO BAJO EL Nº 25.649—</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EDUARDO O. CAMA&Ntilde;O. — MARCELO E. LOPEZ ARIAS. — Eduardo D. Rollano. — Juan C. Oyarz&uacute;n.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>NOTA: Los textos en negrita fueron observados. </P></B>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/ley-25649-77881" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,271 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-261-2011-192067/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-261-2011-192067/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-261-2011-192067/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"__U4jozX_RfPC3-J_-ony2sYyBv9dpbOhLLVEsWHKNA","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/resoluci%C3%B3n-261-2011-192067\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-resolución-261-2011-192067 page-normativa-nacional-resolución-261-2011-192067-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/resoluci%C3%B3n-261-2011-192067/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-2PNGUZ95rCKOMCjwiMSI1MTCD9yaIFXTn3dT9q4Mzqw" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/resoluci%C3%B3n-261-2011-192067">Resolución Conjunta 261/2011</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>SECRETARIA DE POLITICAS REGULACION E INSTITUTOS</small></p>
+            <p class="lead m-b-0"><small></small></p>
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>SECRETARIA DE AGRICULTURA, GANADERIA Y PESCA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2011-12-27</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>Secretaría de Políticas, Regulación e Institutos</span><br style='font-weight: bold;'> <span style='font-weight: bold;'>y</span><br style='font-weight: bold;'> <span style='font-weight: bold;'>Secretaría de Agricultura, Ganadería y Pesca</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>CODIGO ALIMENTARIO ARGENTINO</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Resolución Conjunta 261/2011 y 22/2011</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Modificación.</span><br> <br> Bs. As., 19/12/2011<br> <br> VISTO el Expediente Nº 1-0047-2110-4940/09-1 del Registro de la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA, y<br> <br> CONSIDERANDO:<br> <br> Que según consta en el Acta Nº 67 de la Reunión Plenaria de la Comisión Nacional de Alimentos realizada el 29 y 30 de noviembre y el 1 de diciembre de 2005, en relación con los productos que contienen probióticos comercializados en el país, se estimó necesaria la conformación de un grupo de trabajo que evaluara la definición y parámetros de esos productos, coordinado por el Instituto Nacional de Alimentos (INAL).<br> <br> Que dando cumplimiento a ese mandato, el grupo de trabajo creado a tal fin propuso una definición y un protocolo de Evaluación de un Probiótico como ingrediente para Alimentos y un listado de microorganismos probióticos reconocidos.<br> <br> Que según consta en el Acta Nº 83 de la Reunión Plenaria de la Comisión Nacional de Alimentos realizada el 12, 13 y 14 de agosto de 2009 la coordinadora del Grupo expuso el informe final y se acordó remitir la propuesta a los representantes de la Comisión y resolvió profundizar el estudio del tema e incorporarlo en la agenda de la Comisión.<br> <br> Que para la redacción del proyecto se tomó como referencia documentación de la Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO) y bibliografía internacionalmente reconocida.<br> <br> Que de acuerdo con un Informe del Comité Mixto FAO/OMS de Expertos sobre Evaluación de Propiedades Saludables y Nutricionales de los Probióticos en los alimentos, incluida la leche en polvo con bacterias del ácido láctico, los profesionales de la salud están reconociendo cada vez más los efectos beneficiosos de los alimentos con adición de microorganismos vivos (probióticos)<br> <br> sobre la salud y la nutrición humanas.<br> <br> Que estudios científicos recientes sobre las propiedades y funcionalidad de microorganismos vivos en los alimentos sugieren que los probióticos desempeñan un importante papel en las funciones inmunológicas, digestivas y respiratorias.<br> <br> Que paralelamente aumentó considerablemente el número y tipo de alimentos y bebidas con agregado de probióticos disponibles a los consumidores.<br> <br> Que la reglamentación de los probióticos como componente de los alimentos debe ser establecida a nivel nacional.<br> <br> Que la Comisión Nacional de Alimentos en su reunión plenaria, llevada a cabo el 26 y 27 de abril de 2011, recomendó la redacción de la regulación propuesta en los términos del proyecto de acto administrativo que se adjuntó al acta como Anexo II, en el cual se propone la inclusión del Artículo 1389 en el CAA.<br> <br> Que los Servicios Jurídicos Permanentes de los Organismos involucrados han tomado la Intervención de su competencia.<br> <br> Que se actúa en virtud de las facultades conferidas por el Decreto Nº 815/99.<br> <br> Por ello;<br> <br> EL SECRETARIO DE POLITICAS, REGULACION E INSTITUTOS<br> Y<br> EL SECRETARIO DE AGRICULTURA, GANADERIA Y PESCA<br> RESUELVEN:<br> <br> <span style='font-weight: bold;'>Artículo 1º &#8212; </span>Inclúyese en el Código Alimentario Argentino el Artículo 1389, el cual quedará redactado de la siguiente forma: &#8220;Artículo 1389: Con la denominación de Probióticos, se entiende los microorganismos vivos que, administrados en cantidades adecuadas, confieren beneficios para la salud del consumidor.<br> <br> Para que una cepa pueda ser utilizada como ingrediente probiótico para alimentos deberá cumplir con el siguiente protocolo de Evaluación de un Probiótico como ingrediente para Alimentos:<br> <br> I. Requisitos Mínimos<br> <br> 1. Identificación de la cepa (Género/especie/subespecie)<br> <br> Los análisis para la identificación de la cepa deberán ser llevados a cabo por laboratorios reconocidos por la Autoridad Sanitaria o internacionalmente mediante metodología validada.<br> <br> El método recomendado para la identificación de las cepas de probióticos por técnicas moleculares es el de la secuenciación del 16SrDNA obtenido a partir del 16SrRNA, de acuerdo con: &#8220;Sambrook, J. and D. W. Russell. 2001. Molecular Cloning: A Laboratory Manual, Third ed. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY&#8221;.<br> <br> 2. Caracterización &#8220;in Vitro&#8221; e &#8220;in Vivo&#8221;<br> <br> &#8226; Resistencia gástrica: ensayo realizado como indicador de que la cepa podrá atravesar la barrera biológica estomacal, arribando viable al intestino. Deberá observarse supervivencia de la cepa en una solución gástrica simulada, a 37º C y en condiciones estandarizadas (tiempo y pH).<br> <br> &#8226; Resistencia a bilis: ensayo realizado como indicador de resistencia de la cepa a esta barrera biológica del organismo, presente a nivel de duodeno. Deberá presentar capacidad de desarrollo en un medio de cultivo adicionado de bilis bovina al 0,3% (entendida como la concentración fisiológica), a 37º C y en condiciones estandarizadas (medio de cultivo y tiempo).<br> <br> &#8226; Resistencia a lisozima (opcional): ensayo realizado como indicador de que la cepa podrá sortear esta barrera biológica presente en la boca (saliva) e intestino delgado. Deberá presentar capacidad de desarrollo en un medio de cultivo adicionado de lísozima, a 37º C y en condiciones estandarizadas (concentración de lisozima, medio de cultivo y tiempo).<br> <br> 3. Ensayos &#8220;in Vivo&#8221; e &#8220;in Vitro&#8221; que demuestren el(los) efecto(s) probiótico(s) adjudicado(s) debidamente documentados y respaldados en estudios efectuados por organismos nacionales y/o internacionalmente reconocidos.<br> <br> 4. Seguridad<br> <br> La cepa probiótíca no debe ser riesgosa para la salud. La bacteria no deberá presentar o promover la translocación bacteriana (pásaje de bacterias del intestino más allá de los nódulos mesentéricos) en las concentraciones en que se encuentra en el alimento. Puede ser medida sembrando en placas agarizadas muestras de sangre y de homogenizados de tejidos de nódulos linfáticos mesentéricos, bazo e hígado de animales de experimentación.<br> <br> Además se realizarán las pruebas complementarias descriptas en el punto II.<br> <br> II. Pruebas Complementarias para Garantizar la Seguridad de la Cepa<br> <br> &#8226; Resistencia a antibióticos: ensayo realizado como indicador de la presencia de cepas portadoras de genes de resistencia. Visto que la diseminación de antibiótico-resistencia puede reducir las posibilidades terapéuticas en enfermedades infecciosas, se deberá determinar la presencia de resistencia transferible en cepas que serán usadas para consumo humano. Las cepas no deberán ser portadoras de genes de resistencia a antibióticos.<br> <br> &#8226; Actividad hemolítica: ensayo realizado como indicador de la presencia del factor de virulencia responsable de actividad hemolítica. Dicho factor es utilizado principalmente por ciertos microorganismos como fuente de hierro, motivo por el cual causa anemia y edema. Deberá estar ausente en bacterias probióticas.<br> <br> &#8226; Producción de toxinas: las cepas probióticas no deberán producir toxinas. La toxicidad de las cepas hacia la mucosa del tracto gastrointestinal es considerada un importante aspecto de seguridad. La toxicidad aguda se determina comúnmente en ratones, durante el ensayo en el cual se suministra a los animales una determinada dosis de bacterias (equivalente a la dosis que contendrá el alimento) se observan diariamente posibles cambios en la actividad y comportamiento de los mismos. Después del ensayo, los animales son sacrificados para detectar existencia de cambios patológicos visibles en órganos (estómago, porción dista) del ileum, cecum y colon).<br> <br> III. Identificación Comercial de la(s) Cepa(s)<br> <br> El producto se presentará comercialmente en un envase bromatológicamente apto cuyo rótulo indique la identificación precisa de la(s) cepa(s) que lo componga(n) y la concentración de células viables de cada una de ellas (UFC/g) Con la denominación de Alimento con Probióticos, se entiende aquel alimento con una carga de células viables que deberá estar comprendida entre 106 y 109 UFC/g durante su período de duración mínima.<br> <br> El producto se rotulará: &#8220;... con probióticos&#8221; llenando el espacio en blanco con la denominación de venta del alimento correspondiente.<br> <br> Los alimentos elaborados con probióticos serán autorizados, previa evaluación satisfactoria de los ensayos &#8220;in Vivo&#8221; con el alimento tal cual se va a consumir, que demuestren la funcionalidad que se le atribuye a la(s) cepa(s) probiótica(s) que contiene, de una Comisión Evaluadora integrada por profesionales especializados pertenecientes a la Autoridad Sanitaria o a los que ésta designe a ese efecto para cada caso particular.<br> <br> La Comisión Evaluadora determinará si es necesario la repetición de los ensayos &#8220;in Vivo&#8221; para aquellos alimentos en los cuales se demuestre que una modificación en la composición del alimento, sobre el cual se llevaron a cabo los ensayos &#8220;in Vivo&#8221;, no altera el o los efectos probióticos que se intentan demostrar.<br> <br> <span style='font-weight: bold;'>Art. 2º &#8212;</span> La presente Resolución entrará en vigencia a partir del día siguiente al de su publicación en el Boletín Oficial.<br> <br> <span style='font-weight: bold;'>Art. 3º &#8212;</span> Otórgase a las empresas un plazo de (CIENTO OCHENTA) 180 días para la adecuación de los rótulos a partir de la entrada en vigencia de la presente Resolución.<br> <br> <span style='font-weight: bold;'>Art. 4º &#8212;</span> Regístrese, comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial, y archívese. &#8212; Gabriel Yedlin. &#8212; Lorenzo R. Basso.<br>    </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/resolución-261-2011-192067" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

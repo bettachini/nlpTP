@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1907-2006-115465/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1907-2006-115465/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1907-2006-115465/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"osI5YoIRoL8fNKaItlxCfIieceHJTkFvyinri6EkWZM","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-1907-2006-115465\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-1907-2006-115465 page-normativa-nacional-disposición-1907-2006-115465-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-1907-2006-115465/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-J8jTLK6Jjdd9vwP-kuymLz9sj1lfMIbghN1RJAEjdFk" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-1907-2006-115465">Disposición   1907/2006</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2006-04-11</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>MINISTERIO DE SALUD Y AMBIENTE</P> <P ALIGN='JUSTIFY'>SECRETARIA DE POLITICAS, REGULACION Y RELACIONES SANITARIAS</P> <P ALIGN='JUSTIFY'>ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>Disposici&oacute;n Nº 1907/2006</P> </B><P ALIGN='JUSTIFY'>Bs. As., 31/3/2006</P> <P ALIGN='JUSTIFY'>VISTO el Expediente Nº 1-47-12.432-04-4 del Registro de esta Administraci&oacute;n Nacional de Medicamentos Alimentos y Tecnolog&iacute;a M&eacute;dica; y</P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que resulta procedente establecer Procedimientos Operativos Normatizados para llevar a cabo de una forma uniforme la gesti&oacute;n de las tramitaciones de solicitudes de unificaci&oacute;n de Certificados de Autorizaci&oacute;n de especialidades medicinales inscriptas en el Registro de la ANMAT (REM), realizada por el Departamento de Registro.</P> <P ALIGN='JUSTIFY'>Que la Direcci&oacute;n de Planificaci&oacute;n y Relaciones Institucionales, a trav&eacute;s del Departamento de Estudios y Proyectos, ha tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que la Direcci&oacute;n de Coordinaci&oacute;n y Administraci&oacute;n, a trav&eacute;s del Departamento de Registro, ha tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que la Direcci&oacute;n de Asuntos Jur&iacute;dicos ha tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por el Decreto Nº 1490/92, y el Decreto Nº 197/ 02.</P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <P ALIGN='JUSTIFY'>ARTICULO 1º — Apru&eacute;base el Procedimiento Operativo para la gesti&oacute;n de las tramitaciones de solicitudes de unificaci&oacute;n de Certificados de Autorizaci&oacute;n de especialidades medicinales inscriptas en el Registro de la ANMAT (REM), que figura como ANEXO I de la presente Disposici&oacute;n y que forma parte integrante de la misma.</P> <P ALIGN='JUSTIFY'>ARTICULO 2º — Reg&iacute;strese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n. Cumplido arch&iacute;vese PERMANENTE. — Dr. MANUEL R. LIMERES, Interventor, A.N.M.A.T.</P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-1_jpg/archivo'></P> <P ALIGN='JUSTIFY'>1. Objetivos y Alcances:</P> <P ALIGN='JUSTIFY'>• El presente documento establece el procedimiento interno que lleva a cabo el Departamento de Registro en la gesti&oacute;n de las tramitaciones de Solicitudes de UNIFICACION DE CERTIFICADOS DE AUTORIZACION DE ESPECIALIDADES MEDICINALES INSCRIPTAS EN EL REGISTRO DE LA ANMAT (REM), agrupando en un &uacute;nico documento acreditante las autorizaciones conferidas para las distintas formas farmac&eacute;uticas y concentraciones de un mismo producto, contenidas en los diferentes certificados que se unifican.</P> <P ALIGN='JUSTIFY'>2. Seguridad: No aplicable.</P> <P ALIGN='JUSTIFY'>3. Equipos: No aplicable.</P> <P ALIGN='JUSTIFY'>4. Distribuci&oacute;n: No aplicable.</P> <P ALIGN='JUSTIFY'>5. Procedimiento:</P> <P ALIGN='JUSTIFY'>DEPARTAMENTO DE REGISTRO</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-2_jpg/archivo'></P> <P ALIGN='JUSTIFY'>5.1. Recepciona el expediente que contiene la solicitud de Unificaci&oacute;n de Certificados REM, girado por Mesa de Entradas de ANMAT, debiendo:</P> <P ALIGN='JUSTIFY'>• Estar la solicitud adecuada a los requisitos establecidos en las Disposiciones ANMAT Nº 5107/ 95, 138/98, 958/98 y 5684/01.</P> <P ALIGN='JUSTIFY'>• Cumplimentar lo requerido en el Formulario 'UNIFICACION DE CERTIFICADOS REM'.</P> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=633> <TR><TD VALIGN='TOP'> <P ALIGN='JUSTIFY'>El Formulario 'UNIFICACION DE CERTIFICADOS REM' figura como ANEXO III del presente POE.</TD> </TR> </TABLE>  <P ALIGN='JUSTIFY'>5.2. Eval&uacute;a la solicitud recibida en la acci&oacute;n 5.1.:</P> <P ALIGN='JUSTIFY'>• Verifica su adecuaci&oacute;n a la normativa aplicable.</P> <P ALIGN='JUSTIFY'>• Coteja su contenido con el que consta en los Certificados REM que se solicita unificar, y en los correspondientes legajos.</P> <P ALIGN='JUSTIFY'>De la ejecuci&oacute;n de la acci&oacute;n 5.2. pueden resultar tres posibles acciones a ejecutar:</P> <P ALIGN='JUSTIFY'>ACEPTA: 5.2.1.</P> <P ALIGN='JUSTIFY'>SOLICITA INTERVENCION: 5.2.2.</P> <P ALIGN='JUSTIFY'>OBJETA: 5.2.3.</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-3_jpg/archivo'></P> <P ALIGN='JUSTIFY'>5.2.1.: ACEPTA:</P> <P ALIGN='JUSTIFY'>5.2.1.1. Elabora un CUADRO DEMOSTRATIVO DE ENCUADRE DE LA UNIFICACION DE CERTIFICADOS REM solicitada, a lo establecido en las Disposiciones Nros. 5.107/95, 0138/98 y 958/98.</P> <P ALIGN='JUSTIFY'>El modelo de CUADRO DEMOSTRATIVO DE ENCUADRE a utilizar, y referido a: Titular y Vigencia de cada Certificado que se solicita unificar, Principios activos, Condici&oacute;n de venta, y Origen del Producto, figura como ANEXO II del presente POE.</P> <P ALIGN='JUSTIFY'>5.2.1.2. Elabora un EXTRACTO DE ATESTACIONES DE VIGENCIA Y DE MODIFICACIONES, correspondiente a los Certificados REM que se solicita unificar.</P> <P ALIGN='JUSTIFY'>5.2.1.3. Elabora un proyecto de CERTIFICADO DE AUTORIZACION UNIFICADO REM, resultante de la Unificaci&oacute;n de los Certificados REM solicitada.</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-4_jpg/archivo'></P> <P ALIGN='JUSTIFY'>5.2.1.4. Elabora un proyecto de DISPOSICION AUTORIZANTE correspondiente al CERTIFICADO DE AUTORIZACION UNIFICADO REM, confeccionado en la acci&oacute;n 5.2.1.3.</P> <P ALIGN='JUSTIFY'>5.2.1.5. Gira a la COMISION AD HOC PARA LA UNIFICACION DE CERTIFICADOS REM el expediente recepcionado en la acci&oacute;n 5.1. para su evaluaci&oacute;n, al que adjunta:</P> <P ALIGN='JUSTIFY'>• El CUADRO DEMOSTRATIVO DE ENCUADRE, elaborado en la acci&oacute;n 5.2.1.1.</P> <P ALIGN='JUSTIFY'>• El EXTRACTO DE ATESTACIONES DE VIGENCIA Y DE MODIFICACIONES, elaborado en la acci&oacute;n 5.2.1.2.</P> <P ALIGN='JUSTIFY'>El proyecto de CERTIFICADO DE AUTORIZACION UNIFICADO REM, elaborado en la acci&oacute;n 5.2.1.3.</P> <P ALIGN='JUSTIFY'>• El proyecto de DISPOSICION AUTORIZANTE, elaborado en la acci&oacute;n 5.2.1.4.</P> <P ALIGN='JUSTIFY'>5.2.1.5.1. Recibe de la COMISION AD HOC PARA LA UNIFICACION DE CERTIFICADOS REM el expediente girado en la acci&oacute;n 5.2.1.5., el que contiene el resultado de su intervenci&oacute;n.</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-5_jpg/archivo'></P> <P ALIGN='JUSTIFY'>• De no tener objeciones que se&ntilde;alar, dicha COMISION produce un informe de aceptaci&oacute;n, y su Presidente y/o el Coordinador de su operatoria visa/n los proyectos de CERTIFICADO DE AUTORIZACION UNIFICADO REM, y de DISPOSICION AUTORIZANTE.</P> <P ALIGN='JUSTIFY'>• De tener objeciones que se&ntilde;alar, dicha COMISION produce un informe en el que deja constancia del / los motivo/s de objeci&oacute;n.</P> <P ALIGN='JUSTIFY'>5.2.1.6. Eleva a la DIRECCION DE ASUNTOS JURIDICOS el expediente recepcionado en la acci&oacute;n 5.2.1.5.1., para la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>• De no tener objeciones que se&ntilde;alar, la DIRECCION DE ASUNTOS JURIDICOS produce un informe de aceptaci&oacute;n, y visa los proyectos de CERTIFICADO DE AUTORIZACION UNIFICADO REM, y de DISPOSICION AUTORIZANTE, procediendo a elevar los actuados a la DIRECCION NACIONAL DE ANMAT.</P> <P ALIGN='JUSTIFY'>• De tener objeciones que se&ntilde;alar, dicha DIRECCION produce un informe en el que deja constancia del / los motivo/s de objeci&oacute;n, girando los actuados en devoluci&oacute;n al DEPARTAMENTO DE</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-6_jpg/archivo'></P> <P ALIGN='JUSTIFY'>REGISTRO, reinici&aacute;ndose el circuito a partir de la acci&oacute;n a la y siguientes.</P> <P ALIGN='JUSTIFY'>5.2.2. SOLICITA INTERVENCION</P> <P ALIGN='JUSTIFY'>5.2.2.1. Solicita la intervenci&oacute;n de AREAS DE ANMAT, o de la COMISION AD HOC PARA LA UNIFICACION DE CERTIFICADOS REM.</P> <P ALIGN='JUSTIFY'>5.2.2.2. Recibe respuesta sobre la solicitud de intervenci&oacute;n solicitada en la acci&oacute;n 5.2.2.1., reinici&aacute;ndose el circuito a partir de la acci&oacute;n 5.2. y siguientes.</P> <P ALIGN='JUSTIFY'>5.2.3. OBJETA: Solicita al Titular de los Certificados REM que se solicita unificar, a trav&eacute;s de la Mesa de Entradas de ANMAT:</P> <P ALIGN='JUSTIFY'>• Cumplimentar adecuadamente lo requerido en el Formulario 'UNIFICACION DE CERTIFICADOS', y/o</P> <P ALIGN='JUSTIFY'>• El volcado de nueva informaci&oacute;n, y/o</P> <P ALIGN='JUSTIFY'>• El aporte de nueva documentaci&oacute;n.</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-7_jpg/archivo'></P> <P ALIGN='JUSTIFY'>El modelo de solicitud a utilizar, motivada por la acci&oacute;n de 5.2.3., figura como ANEXO I del presente POE.</P> <P ALIGN='JUSTIFY'>Una vez recibido lo solicitado en la acci&oacute;n 5.2.3., se reinicia el circuito a partir de la acci&oacute;n 5.2. y siguientes.</P> <P ALIGN='JUSTIFY'>5.3. Recibe de DESPACHO DE ANMAT el expediente elevado a la DIRECCION DE ASUNTOS JURIDICOS en la acci&oacute;n 5.2.1.6., en el que consta la intervenci&oacute;n de la COMISION AD HOC PARA LA UNIFICACION DE CERTIFICADOS REM, y de la DIRECCION DE ASUNTOS JURIDICOS, y figuran protocolizados por la DIRECCION NACIONAL DE ANMAT:</P> <P ALIGN='JUSTIFY'>• La DISPOSICION AUTORIZANTE DE UNIFICACION.</P> <P ALIGN='JUSTIFY'>• El CERTIFICADO DE AUTORIZACION UNIFICADO REM correspondiente.</P> <P ALIGN='JUSTIFY'>5.3.1. Desglosa del expediente recibido en la acci&oacute;n 5.3:</P> <P ALIGN='JUSTIFY'>• El CERTIFICADO DE AUTORIZACION UNIFICADO REM y su DISPOSICION AUTORIZANTE.</P> <P ALIGN='JUSTIFY'>• El EXTRACTO DE ATESTACIONES DE VIGENCIA Y DE MODIFICACIONES.</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-8_jpg/archivo'></P> <P ALIGN='JUSTIFY'>5.3.2. Incorpora al correspondiente legajo copias autenticadas del CERTIFICADO DE AUTORIZACION UNIFICADO REM, y de su DISPOSICION AUTORIZANTE, y copia del EXTRACTO DE ATESTACIONES DE VIGENCIA Y DE MODIFICACIONES.</P> <P ALIGN='JUSTIFY'>5.4. Solicita a MESA DE ENTRADAS DE ANMAT que notifique al interesado que deber&aacute; presentar los CERTIFICADOS DE AUTORIZACION REM originales, para que contra entrega de los mismos, se har&aacute; entrega de copia en original del CERTIFICADO DE AUTORIZACION UNIFICADOR REM, y de copia autenticada de la DISPOSICION AUTORIZANTE.</P> <P ALIGN='JUSTIFY'>5.5. Entrega al Titular, el que ha sido notificado por MESA DE ENTRADAS DE ANMAT en la acci&oacute;n 5.4., copia en original del CERTIFICADO DE AUTORIZACION UNIFICADO REM, contra la recepci&oacute;n de los CERTIFICADOS DE AUTORIZACION REM originales que se solicit&oacute; unificar.</P> <P ALIGN='JUSTIFY'>5.6. Procede a la cancelaci&oacute;n de los CERTIFICADOS DE AUTORIZACION REM originales que se solicit&oacute; unificar.</P> <P ALIGN='JUSTIFY'>5.7. Env&iacute;a el expediente al ARCHIVO.</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-9_jpg/archivo'></P> <P ALIGN='JUSTIFY'>6. Frecuencia de ejecuci&oacute;n: Cada vez que el Departamento de Registro recepciona un expediente que contiene solicitud/es de UNIFICACION DE CERTIFICADOS DE AUTORIZACION DE ESPECIALIDADES MEDICINALES INSCRIPTAS EN EL REGISTRO DE LA ANMAT (REM), girado por la Mesa de Entradas de ANMAT.</P> <P ALIGN='JUSTIFY'>7. Motivo del cambio: No aplica.</P> <P ALIGN='JUSTIFY'>8. Anexos:</P> <P ALIGN='JUSTIFY'>Anexo I: MODELO DE SOLICITUD a utilizar, motivada por la acci&oacute;n de objeci&oacute;n 5.2.3.</P> <P ALIGN='JUSTIFY'>Anexo II: CUADRO DEMOSTRATIVO DE ENCUADRE.</P> <P ALIGN='JUSTIFY'>Anexo III: Formulario 'UNIFICACION DE CERTIFICADOS REM'.</P> <P ALIGN='JUSTIFY'>9. Referencias:</P> <P ALIGN='JUSTIFY'>• Ley 16.463 y sus Decretos Reglamentarios.</P> <P ALIGN='JUSTIFY'>• Decreto 1490/92.</P> <P ALIGN='JUSTIFY'>• Disposiciones ANMAT Nros. 5107/95, 138/98, 958/98 y 5684/01.</P> <P ALIGN='JUSTIFY'>• Memorandum ANMAT Nº 04/01.</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-10_jpg/archivo'></P> <P ALIGN='CENTER'>ANEXO I</P> <P ALIGN='JUSTIFY'>Expediente Nº: 1-47..................................................</P> <P ALIGN='JUSTIFY'>Ref. Unificaci&oacute;n de Certificados REM</P> <P ALIGN='JUSTIFY'>Producto/s:</P> <P ALIGN='JUSTIFY'>Titular de los Certificados:</P> <P ALIGN='JUSTIFY'>MESA DE ENTRADAS</P> <P ALIGN='JUSTIFY'>Notif&iacute;quese a la firma de la referencia y h&aacute;gasele saber que a los efectos de proseguir con el tratamiento del presente tr&aacute;mite, y con respecto a los puntos siguientes, se solicita:</P> <P ALIGN='JUSTIFY'>1) Informaci&oacute;n volcada: .....................................................................................</P> <P ALIGN='JUSTIFY'>2) Documentaci&oacute;n aportada: .............................................................................</P> <P ALIGN='JUSTIFY'>3) Formulario 'UNIFICACION DE CERTIFICADOS': .......................................</P> <P ALIGN='JUSTIFY'>DEPARTAMENTO DE REGISTRO</P> <P ALIGN='JUSTIFY'>Ciudad de Buenos Aires,</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-11_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-12_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-13_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-14_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-15_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-16_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115465_disp190-11-04-2006-17_jpg/archivo'></P> <P ALIGN='RIGHT'>e. 11/4 Nº 509.792 v. 11/4/2006</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-1907-2006-115465" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

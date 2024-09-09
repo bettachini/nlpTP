@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3554-2002-78127/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3554-2002-78127/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3554-2002-78127/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"9S89oTww4paNJ6G_345gJPOMF5YYKW-8JcydUrz8sZY","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-3554-2002-78127\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-3554-2002-78127 page-normativa-nacional-disposición-3554-2002-78127-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-3554-2002-78127/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-zX0skBDMspsp0HRemKWgiLShEjExUYI0nQiUwquG2gc" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-3554-2002-78127">Disposición   3554/2002</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2002-09-26</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>PRODUCTOS FARMACEUTICOS</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 3554/2002</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Requisitos de registro de productos farmac&eacute;uticos registrados y elaborados en un Estado parte del Mercosur (Estado Parte Productor) similares a productos registrados en el pa&iacute;s (Estado Parte Receptor). Plazo para la finalizaci&oacute;n del tr&aacute;mite. Plazo para iniciar la comercializaci&oacute;n de los productos.</P> </B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Bs. As., 1/8/2002</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO la Ley 16.463, sus decretos reglamentarios, el Tratado de Asunci&oacute;n, suscripto en marzo de 1991, por el que se crea el Mercado Com&uacute;n del Sur, el Protocolo de Ouro Preto y las Resoluciones GMC (Grupo Mercado Com&uacute;n) Nros. 20/93 y 23/95 y,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por Resoluci&oacute;n GMC (Grupo Mercado Com&uacute;n) N° 23/95 se aprob&oacute; el documento &quot;Requisitos para el Registro de Productos Farmac&eacute;uticos registrados y elaborados en un Estado Parte Productor, similares a Productos registrados en el Estado Parte Receptor&quot;. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en el documento mencionado en el Considerando anterior se establecen las definiciones y los requisitos t&eacute;cnicos y administrativos para el registro de productos registrados y elaborados en un Estado Parte Productor, similares a Productos registrados en el Estado Parte Receptor.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, asimismo el documento antedicho establece plazos para la finalizaci&oacute;n del tr&aacute;mite y correspondiente inscripci&oacute;n del producto en el Registro.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, asimismo establece plazos para su publicaci&oacute;n y una vez inscripto para que la empresa solicitante coloque el producto en el mercado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el texto de dicho documento surge de la armonizaci&oacute;n de los requisitos legales y t&eacute;cnicos contemplados en la legislaci&oacute;n vigente en los Estados Parte.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Resoluci&oacute;n GMC N° 20/93 establece la necesidad de que en todos los reglamentos o actos jur&iacute;dicos de los Estados Parte referidos a Normas T&eacute;cnicas, se adopte la aprobada por el Grupo Mercado Com&uacute;n que corresponda a la naturaleza de la misma.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que de acuerdo a lo aludido en el Considerando anterior es necesario implementar la incorporaci&oacute;n de la normativa aprobada por la Resoluci&oacute;n GMC/RES N° 23/95 a la legislaci&oacute;n nacional.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Direcci&oacute;n de Asuntos Jur&iacute;dicos ha tomado la intervenci&oacute;n que le compete. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades otorgadas por el Decreto 1490/92.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL DIRECTOR NACIONAL DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 1° </B>— Disp&oacute;nese que el Registro de Productos Farmac&eacute;uticos registrados y elaborados en un Estado Parte del MERCOSUR (Estado Parte productor) similares a productos registrados en la Rep&uacute;blica Argentina (Estado Parte Receptor) deber&aacute; cumplimentar los requisitos establecidos en el Anexo I de la presente Disposici&oacute;n, que forma parte integrante de la misma.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 2° </B>— Establ&eacute;cese que el plazo para la finalizaci&oacute;n del tr&aacute;mite ser&aacute; de 120 (ciento veinte ) d&iacute;as corridos a partir de la presentaci&oacute;n de toda la informaci&oacute;n establecida en el Anexo I de la presente Disposici&oacute;n. Este plazo ser&aacute; suspendido toda vez que a criterio de funcionarios con jerarqu&iacute;a no menor de Director, el solicitante deba incorporar informaci&oacute;n adicional y hasta tanto la misma se considere debidamente cumplimentada.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En todos los casos, la suspensi&oacute;n del plazo deber&aacute; estar debidamente fundamentada.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 3° </B>— Disp&oacute;nese que de no haberse expedido la Autoridad Sanitaria en el plazo de 120 (ciento veinte) d&iacute;as corridos, el producto deber&aacute; ser autom&aacute;ticamente inscripto en el Registro, por vencimiento de plazos, e incorporado al &quot;Listado Nacional de Medicamentos aprobados para su comercializaci&oacute;n&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En cualquier situaci&oacute;n el tiempo total de tramitaci&oacute;n no exceder&aacute; los 180 (ciento ochenta) d&iacute;as corridos.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 4° </B>— Establ&eacute;cese que a partir de la fecha de inscripci&oacute;n del producto en el Registro la empresa solicitante tendr&aacute; un plazo de hasta un a&ntilde;o para iniciar la comercializaci&oacute;n. Dicho plazo podr&aacute; ser prorrogado por un plazo adicional de seis meses por razones justificadas a criterio de la Autoridad Sanitaria. La solicitud de pr&oacute;rroga generar&aacute; un nuevo pago del arancel de inscripci&oacute;n en el Registro establecido.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 5° </B>— Disp&oacute;nese que una vez vencido el plazo para su comercializaci&oacute;n, si el producto no fue colocado en el mercado, el Registro quedar&aacute; autom&aacute;ticamente cancelado. La empresa titular no podr&aacute; solicitar un nuevo registro del mismo hasta transcurridos dos a&ntilde;os, salvo que el impedimento para la comercializaci&oacute;n no sea de su responsabilidad. </P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 6° </B>— La entrada en vigencia de la presente Disposici&oacute;n se ajustar&aacute; a lo establecido en los Art&iacute;culos 38 y 40 del Protocolo de Ouro Preto. </P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 7° </B>— Reg&iacute;strese; Comun&iacute;quese a quienes corresponda, a CAEMe, CAPEIMVel, CILFA, y COOPERALA. Oportunamente, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n. Cumplido. Arch&iacute;vese. PERMANENTE. — Estela R. Gim&eacute;nez.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>REQUISITOS DE REGISTRO DE PRODUCTOS</P> <P ALIGN='CENTER'>FARMACEUTICOS REGISTRADOS Y ELABORADOS</P> <P ALIGN='CENTER'>EN UN ESTADO PARTE DEL MERCOSUR</P> <P ALIGN='CENTER'>(ESTADO PARTE PRODUCTOR) SIMILARES</P> <P ALIGN='CENTER'>A PRODUCTOS REGISTRADOS EN EL</P> <P ALIGN='CENTER'>PAIS ( ESTADO PARTE RECEPTOR )</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. — REQUISITOS GENERALES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Los productos farmac&eacute;uticos elaborados en un Estado Parte de MERCOSUR similares a productos registrados en el pa&iacute;s (Estado Parte Receptor ) deben ser obligatoriamente registrados en la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica (ANMAT) debiendo cumplir con los requisitos previstos en este Anexo. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Tales requisitos tienen la funci&oacute;n esencial de proveer toda la informaci&oacute;n necesaria para la comprobaci&oacute;n de las exigencias de un producto farmac&eacute;utico que cumpla con los requisitos de similaridad. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Para ello deber&aacute;:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.1. — Demostrar mediante la informaci&oacute;n Cient&iacute;fica requerida la similaridad con el producto registrado en la Argentina. A los efectos de la presente Disposici&oacute;n se adoptan las presentes definiciones:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.1.1. — Producto similar: Producto similar: es aquel que contiene el (los) mismo (s) principio (s) activo (s), la (s) misma (s) concentraci&oacute;n ( es ), la misma (s) forma (s) farmac&eacute;utica (s), la misma v&iacute;a de administraci&oacute;n, la misma indicaci&oacute;n terap&eacute;utica, la misma posolog&iacute;a, y que es equivalente al producto que se asume como de referencia registrado en la Argentina, pudiendo diferir en caracter&iacute;sticas tales como: tama&ntilde;o y forma, excipientes, fecha de vencimiento, caracter&iacute;sticas del embalaje y en ciertas condiciones del rotulado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.1.2. — Equivalencia: Dos productos farmac&eacute;uticos son equivalentes cuando son farmac&eacute;uticamente equivalentes y despu&eacute;s de administrados en la misma dosis molar sus efectos, con respecto a eficacia, seguridad, son esencialmente los mismos. Dicha equivalencia deber&aacute; quedar establecida mediante:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.1.2.1. — DEMOSTRACION DE LA EQUIVALENCIA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>A. — La demostraci&oacute;n de equivalencia en los productos que se presentan en las siguientes formas farmac&eacute;uticas: </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— de aplicaci&oacute;n t&oacute;pica,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— de uso externo,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— soluciones acuosas de administraci&oacute;n oral,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— formas s&oacute;lidas para reconstituir como soluci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— soluci&oacute;n acuosa para uso nasal, &oacute;tico u oft&aacute;lmico</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— soluciones para aplicaci&oacute;n exclusivamente por v&iacute;a endovenosa.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— soluciones acuosas para aplicaci&oacute;n intramuscular</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— drogas de administraci&oacute;n oral que no deban absorberse</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— gases o vapores inhalados. en la (s) misma (s) concentraci&oacute;n (s) que el producto similar se realizar&aacute; seg&uacute;n corresponda a la naturaleza del producto por demostraci&oacute;n de los siguientes Criterios Farmacopeicos:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a. Identificaci&oacute;n cualitativa del (los) principio (s) activo (s).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b. Determinaci&oacute;n cuantitativa del (los) principio (s) activo (s)</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c. Determinaci&oacute;n, conforme el caso, de las caracter&iacute;sticas de la forma farmac&eacute;utica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En estos casos, la presentaci&oacute;n de estos &iacute;tems se considerar&aacute; suficiente demostraci&oacute;n de equivalencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>B. — La demostraci&oacute;n de equivalencia en los productos que se presentan en las siguientes formas farmac&eacute;uticas:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— otras formas farmac&eacute;uticas de administraci&oacute;n oral no comprendidas en el &iacute;tem A y de liberaci&oacute;n controlada, sostenida o programada.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— sistemas terap&eacute;uticos alternativos de las formas farmac&eacute;uticas convencionales que se absorben por piel, mucosas, dep&oacute;sitos intramusculares o subcut&aacute;neos, se realizar&aacute;, seg&uacute;n corresponda a la naturaleza del producto, por demostraci&oacute;n de los siguientes criterios farmacopeicos:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a. — Identificaci&oacute;n cualitativa del (los) principio (s) activo (s).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b. — Determinaci&oacute;n cuantitativa del (los) principio (s) activo (s).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c. — Determinaci&oacute;n, conforme al caso, de las caracter&iacute;sticas de la forma farmac&eacute;utica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d. — Test de disoluci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Adem&aacute;s, seg&uacute;n corresponda a la naturaleza del producto, por demostraci&oacute;n de: </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>C.- Ensayos de equivalencia &quot;in vitro&quot; no correlacionados con ensayos de biodisponibilidad pero descriptos en las farmacopeas acordadas (*) o en literatura cient&iacute;fica con evidencias suficientes de validaci&oacute;n. Cuando fuera aplicable, la presentaci&oacute;n de estos ensayos se considerar&aacute; suficiente demostraci&oacute;n de equivalencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>D. — Ensayos de equivalencia &quot;in vitro&quot; por cualquier m&eacute;todo que est&eacute; correlacionado con estudios en seres humanos. Cuando fuera aplicable, la presentaci&oacute;n de estos ensayos se considera suficiente demostraci&oacute;n de equivalencia. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>E. — Pruebas &quot;in vivo&quot; en animales existiendo o no correlaci&oacute;n con datos en seres humanos cuando se trate de formas farmac&eacute;uticas en los cuales la realizaci&oacute;n de ensayos de equivalencia in vitro o no es posible o de principios activos con cin&eacute;tica dependiente de la dosis en el rango terap&eacute;utico o con &iacute;ndice terap&eacute;utico estrecho (menor de 2). </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>F. — Pruebas &quot;in vivo&quot; en seres humanos, cuando se trate de formas farmac&eacute;uticas en las cuales la realizaci&oacute;n de ensayos de equivalencia in vitro o in vivo en animales no es posible, o de principios activos con cin&eacute;tica dependiente de las dosis en el rango terap&eacute;utico o con indica terap&eacute;utico estrecho (menor de 2 ), o de principios activos para los cuales existan evidencias cl&iacute;nicas de problemas relacionados con la biodisponibilidad o la equivalencia terap&eacute;utica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>(*) Las Farmacopeas acordadas son: la Farmacopea Europea, la Farmacopea de E.E.U.U. y la de los Estados Parte del MERCOSUR, en caso de que las tuvieran, en el orden expresado. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.2. — Fabricarse de acuerdo a las BPF y C.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.3. — Alcanzar los requisitos de calidad y estabilidad preconizados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. — REQUISITOS ESPECIFICOS</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2.1. — El pedido de un RPF estar&aacute; firmado por el Representante Legal y por el Director T&eacute;cnico de la empresa representante en la Argentina de la empresa titular del registro en el Estado Parte Productor y contendr&aacute; toda la informaci&oacute;n indicada en este Anexo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2.2. — A criterio de esta Administraci&oacute;n y por solicitud de autoridad de jerarqu&iacute;a no inferior a Director, en el momento por ella definido, la empresa deber&aacute; presentar muestras del producto y/ o materia(s) prima(s), reactivos patrones y otros elementos mencionados en los m&eacute;todos de control del producto y los empleados en la determinaci&oacute;n de su plazo de vida &uacute;til.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2.3. — La empresa responsable est&aacute; obligada a comunicar a la ANMAT el lanzamiento del producto, en un plazo de hasta 60 d&iacute;as a partir del lanzamiento, especificando el n&uacute;mero de registro concedido, y el territorio (local, geogr&aacute;fico) donde se va a comercializar.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3. — INFORMACIONES ADMINISTRATIVAS. La solicitud de registro de producto deber&aacute; incluir la siguiente informaci&oacute;n administrativa:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.1. — Nombre y direcci&oacute;n de la empresa solicitante localizada en la Argentina.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.2. — Nombre y direcci&oacute;n de la empresa titular del registro en el Estado Parte Productor.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.3. — Copia del documento que acredite la habilitaci&oacute;n de la empresa solicitante localizada en la Argentina.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.4. — Copia del documento que acredite la habilitaci&oacute;n/Autorizaci&oacute;n de Funcionamiento de la empresa productora/elaboradora</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.5. — Demostraci&oacute;n del cumplimiento de las BPF y C: Copia de la Constancia/Certificado de las BPF y C.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.6. Demostraci&oacute;n de la personer&iacute;a del Director T&eacute;cnico y del Representante Legal de la empresa solicitante.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.7. — Declaraci&oacute;n de la capacidad operativa propia para producir el producto en sus instalaciones.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.8. — Copia del contrato de servicios de terceros cuando correspondiese, junto con la copia de Constancia/Certificado de BPF y C. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.9. — Comprobante de pago del arancel.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.10. — Formulario de solicitud de Registro de Producto Farmac&eacute;utico que cuenta con un producto similar en la Argentina (Formulario 1.2.7.), que deber&aacute; estar obligatoriamente suscripto por el Director T&eacute;cnico y por el Representante Legal. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.11. — Autorizaci&oacute;n de registro autorizando el consumo interno en mercado interno del Estado Parte Productor:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.12. — Copia autenticada del documento que acredita la personer&iacute;a del representante legal de la empresa solicitante del registro.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.13. — Informaci&oacute;n sobre la situaci&oacute;n del registro de marca, referente al nombre comercial solicitado en la Argentina.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4. — INFORMACION ClENTIFICA Y TECNICA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1. — Informaci&oacute;n farmac&eacute;utica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.1. — Denominaci&oacute;n comercial propuesta y denominaci&oacute;n(es) gen&eacute;rica(s) de la(s) sustancia(s) activa(s) seg&uacute;n Denominaci&oacute;n Com&uacute;n Internacional (DCI)</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.2. — Clasificaci&oacute;n Farmacol&oacute;gica – Aplicaci&oacute;n Terap&eacute;utica haciendo referencia al C&oacute;digo ATC (Anat&oacute;mical Therapeutic Chemical) o en caso de no estar implantada se aceptar&aacute; la vigente en cada uno de los Estados Parte.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.3. — F&oacute;rmula de composici&oacute;n del producto cuyos principios activos deber&aacute;n denominarse por su nombre gen&eacute;rico y las cantidades expresarse en g., ml., o por unidad de forma farmac&eacute;utica seg&uacute;n corresponda.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.4. — Formas Farmac&eacute;uticas y sus concentraciones.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.5. — Forma de Presentaci&oacute;n y contenido de la(s) unidad(es) de venta, indicando peso, volumen o unidad de forma farmac&eacute;utica y concentraci&oacute;n. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Estos contenidos de la unidad de venta deber&aacute;n guardar relaci&oacute;n con la previsible cantidad de unidades de dosificaci&oacute;n necesarias para el tratamiento promedio.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1 .6. — V&iacute;as de administraci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.7. — Indicaciones terap&eacute;uticas principales y complementarias si las hubiera.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.8. — Contraindicaciones.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.9. — Reacciones adversas, efectos colaterales.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.10. — Precauciones y advertencias.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.11. — Condici&oacute;n de venta. Seg&uacute;n corresponda de acuerdo con el riesgo sanitario involucrado en el uso del producto, conforme a las categor&iacute;as definidas en la Argentina.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.12. — Restricciones de Uso. Uso en campa&ntilde;as de salud p&uacute;blica / uso profesional / entidades especializadas / control especial en funci&oacute;n del riesgo que representa.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.13. — Per&iacute;odo de vida &uacute;til del producto. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.1.14. — Condiciones de conservaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5. — INFORMACION FARMACOLOGICA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.1. — Mecanismo de acci&oacute;n y datos de farmacocin&eacute;tica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.2. — Posolog&iacute;a y Modo de Uso.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.3. — Interacci&oacute;n con medicamentos y alimentos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.4. — Sobredosis (signos, s&iacute;ntomas, conducta y tratamiento).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6. — INFORMACION SOBRE LOS METODOS DE FABRICACION Y CONTROL</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.1. — F&oacute;rmula completa por unidad de forma farmac&eacute;utica, g. o ml., incluyendo la justificaci&oacute;n de empleo en exceso, cuando fuere el caso.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.2. — M&eacute;todo de fabricaci&oacute;n seg&uacute;n normas de buenas pr&aacute;cticas de fabricaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.3. — Controles de proceso (por unidad peso / volumen).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.4. — Especificaci&oacute;n y descripci&oacute;n de m&eacute;todos de control de las materias primas y productos terminados, incluyendo para los ensayos y determinaciones, las t&eacute;cnicas de muestreo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.5. — M&eacute;todos de control de productos semielaborados, materiales de acondicionamiento y embalaje, incluyendo, para los ensayos y determinaciones, las t&eacute;cnicas de muestreo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.6. — Indicaci&oacute;n de la (s) farmacopea (s) donde est&aacute;n citados los componentes de la formula o especificaciones propias de la empresa.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.7. — Estudio de estabilidad realizado para determinar el per&iacute;odo de vida &uacute;til y las condiciones de conservaci&oacute;n en el envase definitivo (descripci&oacute;n del mismo) indicando condiciones experimentales, determinaciones efectuadas y m&eacute;todos utilizados. En el caso de productos de preparaci&oacute;n extempor&aacute;nea se incluir&aacute;n tambi&eacute;n los estudios realizados sobre el preparado reconstituido.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.8. — Condiciones de almacenamiento y transporte. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.9. — Indicaci&oacute;n del c&oacute;digo o convenci&oacute;n utilizado por la empresa para la identificaci&oacute;n de los lotes del producto.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7. — TEXTOS DE PROSPECTOS, ROTULOS Y ESTUCHES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.1. — Requisitos Generales</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.1.1. — Los textos de prospectos, r&oacute;tulos y estuches deber&aacute;n estar escritos en idioma espa&ntilde;ol, pudiendo encontrarse escritos simult&aacute;neamente en espa&ntilde;ol y portugu&eacute;s.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.1.2. — Los textos de prospectos, r&oacute;tulos y estuches deber&aacute;n tener las dimensiones necesarias para una f&aacute;cil lectura visual, observando la tipograf&iacute;a un l&iacute;mite m&iacute;nimo de un (1) mil&iacute;metro de altura.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.2. — Textos de Prospectos</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Los textos de los prospectos deber&aacute;n responder a la legislaci&oacute;n vigente en la Argentina. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.3. — Texto de los R&oacute;tulos</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.3.1. — Texto m&iacute;nimo del envase primario cuando el producto lleva envase secundario:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Nombre del producto, comercial o de marca y gen&eacute;rico/s</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Contenido del o los principios activos por unidad de forma farmac&eacute;utica, por unidad de dosis u otras formas de expresi&oacute;n que correspondan.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— V&iacute;a de administraci&oacute;n excepto para comprimidos, comprimidos recubiertos, grageas y c&aacute;psulas de uso oral, cuando no haya especificaci&oacute;n en contrario.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Contenido del envase primario excepto en blisters y laminados (Tiras), expresado en gr, ml o unidades de forma farmac&eacute;utica seg&uacute;n corresponda.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Nombre de la empresa productora/elaboradora.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Fecha de vencimiento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— N&uacute;mero de lote.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Casos Especiales, inyectables de peque&ntilde;o volumen, (en este caso la autoridad sanitaria podr&aacute; autorizar excepciones en lo referente al tama&ntilde;o de letra exigido en el &iacute;tem: 7.1.2.).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.3.2. — Texto m&iacute;nimo del envase primario cuando el producto no lleva envase secundario:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Nombre del producto, comercial o de marca y gen&eacute;rico/s.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Contenido del o los principios activos por unidad de forma farmac&eacute;utica, por unidad de dosis u otras formas de expresi&oacute;n que correspondan.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— V&iacute;a de administraci&oacute;n excepto para comprimidos, comprimidos recubiertos, grageas y c&aacute;psulas de uso oral, cuando no haya especificaci&oacute;n en contrario.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Contenido del envase primario excepto en blisters y laminados (Tiras), expresado en gr, ml o unidades de forma farmac&eacute;utica seg&uacute;n corresponda. </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Nombre de la empresa productora/elaboradora.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Fecha de vencimiento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— N&uacute;mero de lote.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Casos Especiales, inyectables de peque&ntilde;o vol&uacute;men, (en este caso !a autoridad sanitaria podr&aacute; autorizar excepciones en lo referente al tama&ntilde;o de letra exigido en el &iacute;tem: 7.1.2.-).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Contenido del texto que deber&iacute;a figurar en el prospecto seg&uacute;n la legislaci&oacute;n vigente en la Argentina.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.4. — Texto de Estuches (Envase secundario). </P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.4.1. — Cuando la unidad de venta presenta prospecto, los estuches deber&aacute;n contener la siguiente informaci&oacute;n:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.4.1.1. — Informaci&oacute;n general:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Nombre comercial o de marca.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Nombre gen&eacute;rico/s.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Concentraci&oacute;n o dosis por unidad de forma farmac&eacute;utica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— F&oacute;rmula cualicuantitativa por unidad de forma farmac&eacute;utica, por unidad de dosis u otras formas de expresi&oacute;n que correspondan, incluyendo s&oacute;lo los principios activos, denominados por su nombre gen&eacute;rico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Forma/s farmac&eacute;utica/s, v&iacute;a/s de administraci&oacute;n, modo de empleo y dosis usual.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Nombre y direcci&oacute;n de la empresa productora/ elaboradora.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Pa&iacute;s de origen.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Fecha vencimiento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— N&uacute;mero de lote.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Condiciones de conservaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Informaci&oacute;n sobre el producto: ver prospecto adjunto.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Mantener fuera del alcance de los ni&ntilde;os.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Muestra m&eacute;dica/profesional (cuando corresponda).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Contenido de la unidad de venta, expresado en gr, ml o unidades de forma farmac&eacute;utica seg&uacute;n corresponda</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Para productos de venta libre</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Siga correctamente el modo de usar.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— No desapareciendo los s&iacute;ntomas consulte a su m&eacute;dico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.4.1.2. — Informaci&oacute;n referida al producto en la Argentina.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— N&uacute;mero de Certificado de inscripci&oacute;n en el Registro.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Nombre y direcci&oacute;n de la empresa representante en la Argentina.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Director T&eacute;cnico</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>— Condici&oacute;n de venta Cuando la unidad de venta no presenta prospecto deber&aacute;n contener la informaci&oacute;n del texto que deber&iacute;a figurar en el prospecto seg&uacute;n la legislaci&oacute;n vigente en la Argentina.</P> <P ALIGN='JUSTIFY'></P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-3554-2002-78127" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

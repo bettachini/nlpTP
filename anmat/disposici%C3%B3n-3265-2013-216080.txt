@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3265-2013-216080/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3265-2013-216080/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3265-2013-216080/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"6cPp3M4thbKjBu6XeAsfvUfh_eA8eaxv1e2me4ku-9A","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-3265-2013-216080\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-3265-2013-216080 page-normativa-nacional-disposición-3265-2013-216080-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-3265-2013-216080/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-hzSbJ_dw0LKR7nQovUVetc4aQUOOcokUv1sZUZK8G6I" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-3265-2013-216080">Disposición   3265/2013</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2013-06-07</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>MINISTERIO DE SALUD</span><br style='font-weight: bold;'> <span style='font-weight: bold;'><br> SECRETARIA DE POLITICAS, REGULACION E INSTITUTOS</span><br style='font-weight: bold;'> <span style='font-weight: bold;'><br> ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</span><br style='font-weight: bold;'> <span style='font-weight: bold;'><br> Disposición Nº 3265/2013</span><br> <br> Bs. As., 3/6/2013<br> <br> VISTO el Expediente Nº 1-2002-23847-12-6 del Registro del Ministerio de Salud, el Tratado de Asunción del 26 de marzo de 1991, aprobado por la Ley Nº 23.981 y el Protocolo de Ouro Preto del 17 de diciembre de 1994, aprobado por la Ley Nº 24.560, y la Resolución Mercosur GMC Nº 32/12, y<br> <br> CONSIDERANDO:<br> <br> Que el proceso de Integración del Mercosur es de la mayor importancia estratégica para la REPUBLICA ARGENTINA.<br> <br> Que, conforme a los artículos 2, 9, 15, 20, 38, 40 y 42 del Protocolo de Ouro Preto, las normas Mercosur aprobadas por el Consejo del Mercado Común, el Grupo Mercado Común y la Comisión de Comercio del Mercosur, son obligatorias y deben ser incorporadas, cuando ello sea necesario, al ordenamiento jurídico nacional de los Estados Partes mediante los procedimientos previstos en su legislación.<br> <br> Que conforme a los artículos 3, 14 y 15 de la Decisión 20/02 del Consejo del Mercado Común, las normas Mercosur que no requieran ser incorporadas por vía de aprobación legislativa podrán ser incorporadas por vía administrativa por medios de actos del Poder Ejecutivo.<br> <br> Que el artículo 7 de la citada Decisión establece que las normas Mercosur deberán ser incorporadas a los ordenamientos jurídicos de los estados Partes en su texto integral.<br> <br> Que de acuerdo al informe de fs. 3, las Resoluciones 31/97 y 09/01, derogadas por la Resolución GMC 32/12, han sido incorporadas al Ordenamiento Jurídico Nacional mediante las Disposiciones ANMAT Nº 194/99 y 2333/02 respectivamente, por lo que corresponde derogar las mencionadas Disposiciones.<br> <br> Que la DIRECCION DE ASUNTOS JURIDICOS ha tomado la intervención que le compete.<br> <br> Que la presente se dicta en ejercicio de las atribuciones conferidas por los Decretos Nº 1490/92 y 425/10.<br> <br> Por ello,<br> <br> EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA<br> <br> DISPONE:<br> <br> ARTICULO 1° &#8212; Incorpórase al ordenamiento jurídico nacional la Resolución Mercosur GMC Nº 32/12 &#8220;PROCEDIMIENTOS COMUNES PARA LAS INSPECCIONES A LOS FABRICANTES DE PRODUCTOS MEDICOS Y PRODUCTOS PARA DIAGNOSTICO DE USO IN VITRO EN LOS ESTADOS PARTES (DEROGACION DE LAS RES. GMC Nº 31/97 Y 09/01)&#8221; que se adjunta como anexo y forma parte integrante de la presente disposición.<br> <br> ARTICULO 2° &#8212; En los términos del Protocolo Ouro Preto, la norma que se incorpora por la presente disposición, entrará en vigor simultáneamente en los Estados Partes, 30 días después de la fecha de la comunicación efectuada por la Secretaría del Mercosur, informando que los Estados han incorporado la norma en sus respectivos ordenamientos jurídicos internos.<br> <br> La entrada en vigor de la Resolución Mercosur GMC Nº 32/12 &#8220;PROCEDIMIENTOS COMUNES PARA LAS INSPECCIONES A LOS FABRICANTES DE PRODUCTOS MEDICOS Y PRODUCTOS PARA DIAGNOSTICO DE USO IN VITRO EN LOS ESTADOS PARTES (DEROGACION DE LAS RES. GMC Nº 31/97 Y 09/01)&#8221; será comunicada a través de un aviso en el Boletín Oficial de la Nación (cfr. Artículo 40 inciso III del Protocolo de Ouro Preto).<br> <br> ARTICULO 3° &#8212; Derógase la Disposición ANMAT Nº 194/99.<br> <br> ARTICULO 4° &#8212; Derógase la Disposición ANMAT Nº 2333/02.<br> <br> ARTICULO 5° &#8212; Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. &#8212; Dr. CARLOS A. CHIALE, Interventor, A.N.M.A.T.<br> <br style='font-weight: bold;'> <span style='font-weight: bold;'>MERCOSUR/GMC/RES. Nº 32/12</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <div style='text-align: center;'><span style='font-weight: bold;'>PROCEDIMIENTOS COMUNES PARA LAS INSPECCIONES A LOS FABRICANTES DE PRODUCTOS MEDICOS Y PRODUCTOS PARA DIAGNOSTICO DE USO IN VITRO EN LOS ESTADOS PARTES</span><br style='font-weight: bold;'> <span style='font-weight: bold;'>(DEROGACION DE LAS RES. GMC Nº 31/97 y 09/01)</span><br> </div> <br> <span style='font-weight: bold;'>VISTO:</span> El Tratado de Asunción, el Protocolo de Ouro Preto, el Protocolo de Ushuaia sobre Compromiso Democrático en el MERCOSUR, la República de Bolivia y la República de Chile y las Resoluciones Nº 31/97 y 09/01 del Grupo Mercado Común.<br> <br style='font-weight: bold;'> <span style='font-weight: bold;'>CONSIDERANDO:</span><br> <br> Que se deben actualizar los procedimientos comunes para la realización de inspecciones sanitarias a los fabricantes de Productos Médicos y Productos para Diagnóstico de Uso In Vitro, de acuerdo con la experiencia adquirida en el desarrollo de acciones conjuntas en el ámbito del MERCOSUR.<br> <br> Que la actualización de los requisitos de Buenas Prácticas de Fabricación de Productos Médicos y Productos para Diagnóstico de Uso In Vitro requiere que el sistema de las inspecciones se base en el análisis de riesgos.<br> <br> Que es necesario adoptar criterios comunes para la toma de decisiones de acuerdo a los resultados de la inspección.<br> <br style='font-weight: bold;'> <div style='text-align: center;'><span style='font-weight: bold;'>EL GRUPO MERCADO COMUN</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>RESUELVE:</span><br> </div> <br> Art. 1 - Aprobar los &#8220;Procedimientos comunes para las inspecciones a los fabricantes de Productos Médicos y Productos para Diagnóstico de Uso In Vitro en los Estados Partes&#8221;, que constan como Anexo y forman parte de la presente Resolución.<br> <br> Art. 2 - Los Estados Partes indicarán en el ámbito del SGT Nº 11 los organismos nacionales competentes para la implementación de la presente Resolución.<br> <br> Art. 3 - Derogar las Resoluciones GMC Nº 31/97 y 09/01.<br> <br> Art. 4 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes, antes del 30/IV/13.<br> <br style='font-weight: bold;'> <div style='text-align: right;'><span style='font-weight: bold;'>LXXXIX GMC - Cuiabá, 18/X/12.</span><br> </div> <br> <div style='text-align: center;'>ANEXO<br> <br> PROCEDIMIENTOS COMUNES PARA LAS INSPECCIONES A LOS FABRICANTES DE PRODUCTOS MEDICOS Y PRODUCTOS PARA DIAGNOSTICO DE USO IN VITRO EN LOS ESTADOS PARTES<br> </div> <br> 1. OBJETIVO<br> <br> Establecer procedimientos para la realización de inspecciones en los establecimientos que fabrican productos médicos y productos para diagnóstico de uso in vitro, así como criterios comunes para la toma de decisiones de acuerdo a los resultados de la inspección.<br> <br> 2. AMBITO DE APLICACION<br> <br> Estos procedimientos se aplican a las inspecciones intrazona realizadas por los Estados Partes en establecimientos fabricantes de productos médicos y productos para diagnóstico de uso in vitro, comercializados entre los Estados Partes, en las siguientes situaciones:<br> <br> a) emisión del Certificado de Buenas Prácticas de Fabricación;<br> <br> b) verificación de la rutina del cumplimiento de las Buenas Prácticas de Fabricación;<br> <br> c) verificación del cumplimiento de las adecuaciones requeridas en la inspección previa;<br> <br> d) investigación de los informes de eventos adversos, reclamos y reportes de irregularidades.<br> <br> 3. TOMA DE DECISIONES EN RELACION AL CUMPLIMIENTO DE BUENAS PRACTICAS DE FABRICACION (BPF)<br> <br> El otorgamiento del Certificado de Buenas Prácticas de Fabricación, se fundamentará en los resultados de la evaluación del cumplimiento de los requisitos de BPF, teniendo en cuenta el riesgo de los productos fabricados y respetando el marco normativo armonizado en el MERCOSUR.<br> <br> 4. PROCEDIMIENTOS<br> <br> 4.1 Las inspecciones a los establecimientos fabricantes de productos médicos y productos para diagnóstico de uso in vitro ubicados en los Estados Partes deberán ser realizadas por equipos integrados con inspectores entrenados conforme al programa de capacitación conjunta aprobado.<br> <br> 4.2 En la realización de las inspecciones deberán ser observados los siguientes procedimientos:<br> <br> a) la inspección será realizada por el Estado Parte Sede (EPS), que deberá elaborar el Acta/Informe de Inspección que contenga mínimamente las informaciones definidas en el modelo que consta en el Apéndice de este Anexo;<br> <br> b) el EPS deberá tomar las medidas apropiadas, de conformidad con los resultados de la inspección realizada;<br> <br> c) en el caso que fuese solicitado, el EPS remitirá el Acta/Informe de Inspección para la consideración del Estado Parte Receptor (EPR) solicitante;<br> <br> d) el EPR podrá solicitar informaciones complementarias sobre el Acta/Informe de Inspección al EPS, si lo considera necesario;<br> <br> e) el EPR concederá la Certificación de BPF en base al Acta/Informe de Inspección emitido por el EPS, una vez que todas las informaciones necesarias para la verificación del cumplimiento de BPF sean cumplidas y que la conclusión sea satisfactoria;<br> <br> f) cuando las informaciones presentadas no fuesen suficientes, la situación podrá ser resuelta mediante la inspección conjunta al establecimiento, que deberá ser programada entre los Estados Partes involucrados.<br> <br> 4.3 La autoridad competente del EPS tendrá treinta (30) días corridos para enviar su respuesta, contados a partir de la fecha de la recepción de la solicitud por la autoridad competente del EPR, pudiendo:<br> <br> a) realizar el envío de un Acta/Informe de Inspección o las informaciones complementarias solicitadas;<br> <br> b) informar sobre la necesidad de extensión de plazo para el envío de la documentación solicitada, cuando la empresa esté en el proceso de cumplimiento de las no conformidades observadas durante la inspección realizada por la autoridad competente del EPS;<br> <br> c) informar sobre la imposibilidad de envío de la documentación solicitada, cuando no haya un Acta/Informe de Inspección válido para la empresa fabricante o cuando la empresa no se encuentre en condiciones de exportar productos.<br> <br> 4.4 Para dar cumplimiento a la presente Resolución, serán considerados válidos aquellas Actas/Informes de Inspecciones realizadas por los EPS dentro del período de dieciocho (18) meses anteriores a la fecha de solicitud de la documentación por el EPR.<br> <br> Los dieciocho (18) meses serán contados a partir de la fecha de finalización de la inspección realizada por la autoridad competente del EPS.<br> <br> 4.5 A partir del análisis de los reportes de tecnovigilancia de los Estados Partes, en función del riesgo potencial de daño para la salud pública, se podrán realizar inspecciones conjuntas entre los Estados Partes involucrados.<br> <br> 5. DISPOSICIONES FINALES<br> <br> 5.1 Las autoridades competentes del EPS deberán informar, con la debida fundamentación, cualquier modificación en el estado de la certificación de los establecimientos que exportan a los demás Estados Partes dentro de los treinta (30) días corridos a partir de la fecha en que dicha modificación fuera observada.<br> <br> 5.2 El intercambio de documentos previsto en la presente Resolución deberá ser realizado exclusivamente por los canales oficiales, acordados entre las autoridades competentes, y deberá mantener el carácter confidencial de las informaciones técnicas intercambiadas entre el EPS y el EPR.<br> <br> Solamente serán considerados válidos para el análisis aquellos documentos enviados y recibidos por las autoridades de los Estados Partes involucrados en el proceso de intercambio de informaciones.<br> <br> 5.3 Otras situaciones relacionadas al control y la fiscalización sanitaria no previstas en esta norma deben ser objeto de tratamiento específico, mediante negociaciones entre las autoridades competentes de los Estados Partes involucrados.<br> <br> <div style='text-align: center;'>Apéndice<br> <br> ACTA/INFORME DE INSPECCION<br> </div> <br> EMPRESA SOLICITANTE:<br> <br> DIRECCION:<br> <br> PERIODO DE INSPECCION:<br> <br> <div style='text-align: center;'>(LUGAR), ____ DE _________ DEL 20__<br> </div> <br> 1. IDENTIFICACION DE LA EMPRESA SOLICITANTE<br> <br> 1.1 Nombre:<br> <br> 1.2 Dirección:<br> <br> 1.3 Autorización de Funcionamiento N°:<br> <br> 2. INSPECCION<br> <br> 2.1 Período: __/__/__ al __/__/__<br> <br> 2.2 Objetivo de la inspección: verificación del cumplimiento de las Buenas Prácticas de Fabricación de Productos Médicos y/o Productos para Diagnóstico de Uso In Vitro, conforme a la legislación vigente.<br> <br> 2.3 Tipo de Inspección:<br> (&nbsp; ) Inicial<br> (&nbsp; ) Re-inspección<br> <br> 2.4 Fecha de la última inspección: __/__/__<br> <br> 2.5 Listado de los productos fabricados:<br> <br> <span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: 'Trebuchet MS',sans-serif; font-size: 13px;'><table style='padding-top: 10px; padding-bottom: 10px; text-align: left; margin-left: auto; margin-right: auto; width: 900px; height: 144px;' border='1'><tbody><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>Producto</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>Nombre Técnico</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>Registro (cuando corresponda)</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>Clases de riesgo de acuerdo al registro de productos armonizado en el MERCOSUR</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>1.</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>2.</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>3.</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Etc.</td><td style='vertical-align: top; color: black;'><br>       </td>       <td style='vertical-align: top; color: black;'><br>       </td>       <td style='vertical-align: top; color: black;'><br>       </td> </tr></tbody></table></span></span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  <br> Observaciones:<br> <br> 1. Deberán listarse todos los productos fabricados por la planta inspeccionada, incluyendo los productos en desarrollo y que la empresa tiene la intención de registrar.<br> <br> 2. Si el listado de productos fuera muy amplio, deberá agregarse como anexo.<br> <br> 3. PERSONAS CONTACTADAS EN LA EMPRESA<br> <br> 3.1 Personas contactadas en la empresa durante la inspección:<br> <br> <span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: 'Trebuchet MS',sans-serif; font-size: 13px;'><table style='padding-top: 10px; padding-bottom: 10px; text-align: left; margin-left: auto; margin-right: auto; width: 900px; height: 216px;'><tbody><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Nombre:</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Cargo:</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Teléfono:</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Fax:</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Correo electrónico:</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Nombre:</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Cargo:</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Teléfono:</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Fax:</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Correo electrónico:</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Nombre:</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Cargo:</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Teléfono:</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Fax:</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>Correo electrónico:</td></tr></tbody></table></span></span><br> 4. LISTA DE PROVEEDORES DE SERVICIOS<br> <br> <span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: 'Trebuchet MS',sans-serif;'><table style='padding-top: 10px; padding-bottom: 10px; text-align: left; margin-left: auto; margin-right: auto; width: 900px; height: 96px;' border='1'><tbody><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>Empresa</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>Dirección</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>Etapa de Fabricación/Proceso</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: rgb(102, 102, 102); font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: rgb(102, 102, 102); font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: rgb(102, 102, 102); font-size: 12px; height: 15px; vertical-align: top;'><br> </td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: rgb(102, 102, 102); font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: rgb(102, 102, 102); font-size: 12px; height: 15px; vertical-align: top;'><br> </td><td style='vertical-align: top;'><br>       </td> <br class='Apple-interchange-newline'></tr></tbody></table></span></span><br> <br> Observaciones:<br> <br> 1. Se deberán listar a los proveedores de servicios que pueden influir en la calidad de los productos fabricados.<br> <br> 2. Si la lista de proveedores que se describe es muy extensa, deberá agregarse como anexo.<br> <br> 5. INFORMACIONES GENERALES<br> <br> Describir a la empresa de manera general, el número de empleados, área de edificación, números de edificios, las características del sitio, informaciones legales, grupo empresarial y otros datos que el inspector considere necesarios.<br> <br> 6. REQUISITOS GENERALES DEL SISTEMA DE CALIDAD<br> <br> Describir las evidencias relacionadas con los requisitos de la Responsabilidad Gerencial, Manual de Calidad, Personal, Gestión de Riesgo y Control de Compras.<br> <br> 6.1 Observación(es):<br> <br> 6.2 No Conformidad(es):<br> <br> 7. DOCUMENTOS Y REGISTROS DE CALIDAD<br> <br> Describir procedimientos relacionados con control de documentos y registros.<br> <br> 7.1 Observación(es):<br> 7.2 No Conformidad(es):<br> <br> 8. CONTROL DE DISEÑO Y REGISTRO MAESTRO DE PRODUCTO<br> <br> Describir las evidencias relativas a los requisitos de control de diseño, registro histórico de diseño y registro maestro de producto.<br> <br> 8.1 Observación(es):<br> 8.2 No Conformidad(es):<br> <br> 9. CONTROLES DE PROCESO Y PRODUCCION<br> <br> Describir los aspectos relacionados con las instalaciones de la empresa, controles ambientales, de salud ocupacional, procedimientos y evidencias relacionadas con los controles de las diferentes etapas de la producción, envasado y etiquetado de los productos, liberación de los productos, programas de mantenimiento, inspección y ensayos, calibración, validación y control de cambios.<br> <br> 9.1 Observación(es):<br> 9.2 No Conformidad(es):<br> <br> 10. MANIPULACION, ALMACENAMIENTO, DISTRIBUCION Y TRAZABILIDAD<br> <br> Describir procedimientos, registros y evidencias que se relacionen con los requisitos de manipulación, almacenamiento, identificación, trazabilidad de los componentes y productos terminados, la distribución de los productos terminados, y los procedimientos para los componentes y productos no conformes.<br> <br> 10.1 Observación(es):<br> 10.2 No Conformidad(es):<br> <br> 11. ACCIONES CORRECTIVAS Y PREVENTIVAS<br> <br> Describir los procedimientos y registros de acciones correctivas y preventivas, acciones de campo y retiro de productos, gestión de reclamos y auditorías de calidad.<br> <br> 11.1 Observación(es):<br> 11.2 No Conformidad(es):<br> <br> 12. INSTALACION Y ASISTENCIA TECNICA<br> <br> Describir los procedimientos y registros relacionados a la instalación y la asistencia técnica de los productos.<br> <br> 12.1 Observación(es):<br> 12.2 No Conformidad(es):<br> <br> 13. TECNICAS ESTADISTICAS<br> <br> Describir los procedimientos relacionados con las técnicas estadísticas adoptadas para la evaluación del desempeño del sistema de calidad y capacidad del proceso para atender las especificaciones establecidas, así como para definir los planes de muestreo.<br> <br> 13.1 Observación(es):<br> 13.2 No Conformidad(es):<br> <br> 14. CONSIDERACIONES GENERALES/EVALUACION DEL RIESGO/RECOMENDACIONES<br> <br> Registrar las consideraciones generales y las recomendaciones formuladas a la empresa por el equipo de inspectores. En el caso de una infracción sanitaria, las medidas adoptadas por el equipo de inspectores deben ser registradas y las copias de los documentos pertinentes se deberán adjuntar al Acta/Informe de la Inspección.<br> <br> 15. CONCLUSION<br> <br> (___) SATISFACTORIA<br> <br> (___) CON OBSERVACIONES Y/O NO CONFORMIDADES<br> <br> Plazo de cumplimiento contado a partir de la recepción del Acta/informe:<br> <br> (___) INSATISFACTORIA<br> <br> 16. EQUIPO DE INSPECTORES<br> <br> <span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: 'Trebuchet MS',sans-serif; font-size: 13px;'><table style='padding-top: 10px; padding-bottom: 10px; text-align: left; margin-left: auto; margin-right: auto; width: 900px; height: 96px;' border='1'><tbody><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>NOMBRE DEL INSPECTOR</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>ORGANISMO SANITARIO</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>FIRMA</td></tr><tr>       <td style='vertical-align: top;'><br>       </td>       <td style='vertical-align: top;'><br>       </td>       <td style='vertical-align: top;'><br>       </td>     </tr>     <tr>       <td style='vertical-align: top;'><br>       </td>       <td style='vertical-align: top;'><br>       </td>       <td style='vertical-align: top;'><br>       </td>     </tr> </tbody></table></span></span><br> </div>    <div style='text-align: right;'>e. 07/06/2013 N° 41982/13 v. 07/06/2013<br> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-3265-2013-216080" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

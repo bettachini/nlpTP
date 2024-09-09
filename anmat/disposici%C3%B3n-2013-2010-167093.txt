@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2013-2010-167093/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2013-2010-167093/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2013-2010-167093/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"Tjw7xqtSXMuK5_8oOHMqS3K7JV0QVs8WSGxeVVxAHXc","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-2013-2010-167093\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-2013-2010-167093 page-normativa-nacional-disposición-2013-2010-167093-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-2013-2010-167093/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-HBdxem_tTq--7g6CHbUWFcYSiGzMVsMaGd7Ar-ZEilQ" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-2013-2010-167093">Disposición   2013/2010</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2010-05-07</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>PRODUCTOS DE LIMPIEZA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 2013/2010</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Incorp&oacute;rase, al ordenamiento jur&iacute;dico nacional, la Resoluci&oacute;n Mercosur GMC Nº 47/07 &quot;Reglamento T&eacute;cnico Mercosur para Productos de Limpieza y Afines (derogaci&oacute;n de la Resoluci&oacute;n GMC Nº 10/04)&quot;.</P> <P ALIGN='JUSTIFY'></P> </B><P ALIGN='JUSTIFY'>Bs. As., 29/4/2010</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO el Tratado de Asunci&oacute;n del 26 de marzo de 1991, aprobado por la Ley Nº 23.981 y el Protocolo de Ouro Preto del 17 de diciembre de 1994, aprobado por la Ley Nº 24.560, la Resoluci&oacute;n MERCOSUR GMC Nº 57/07 y el Expediente Nº 1-2002-2396-08-6 del Registro de esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica; y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el proceso de integraci&oacute;n del Mercosur es de la mayor importancia estrat&eacute;gica para la REPUBLICA ARGENTINA.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, conforme a los art&iacute;culos 2, 9, 15, 20, 38, 40 y 42 del Protocolo de Ouro Preto, las normas Mercosur aprobadas por el Consejo del Mercado Com&uacute;n, el Grupo Mercado Com&uacute;n y la Comisi&oacute;n de Comercio del Mercosur, son obligatorias y deben ser incorporadas, cuando ello sea necesario, al ordenamiento jur&iacute;dico nacional de los Estados Parte mediante los procedimientos previstos en su legislaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que conforme a los art&iacute;culos 3, 14 y 15 de la Decisi&oacute;n 20/02 del Consejo del Mercado Com&uacute;n, las normas Mercosur que no requieran ser incorporadas por v&iacute;a de aprobaci&oacute;n legislativa podr&aacute;n ser incorporadas por v&iacute;a administrativa por medio de actos del Poder Ejecutivo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el art&iacute;culo 7 de la citada Decisi&oacute;n establece que las normas Mercosur deber&aacute;n ser incorporadas a los ordenamientos jur&iacute;dicos de los Estados Parte en su texto integral.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la DIRECCION DE ASUNTOS JURIDICOS ha tomado la intervenci&oacute;n que le compete.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la presente se dicta en ejercicio de las atribuciones conferidas por los Decretos Nº 1490/92 y 425/10.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Incorp&oacute;rase como Anexo XI de la Disposici&oacute;n ANMAT Nº 7292/98, la Resoluci&oacute;n Mercosur GMC Nº 47/07 &quot;REGLAMENTO TENICO MERCOSUR PARA PRODUCTOS DE LIMPIEZA Y AFINES (DEROGACION DE LA RESOLUCION GMC Nº 10/04)&quot; que se adjunta como anexo y forma parte integrante de la presente disposici&oacute;n.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 2º </B>— En los t&eacute;rminos del Protocolo de Ouro Preto, la norma que se incorpora por la presente Disposici&oacute;n, entrar&aacute; en vigor simult&aacute;neamente en los Estados Parte, 30 d&iacute;as despu&eacute;s de la fecha de la comunicaci&oacute;n efectuada por la Secretar&iacute;a del Mercosur informando que todos los Estados han incorporado la norma a sus respectivos ordenamientos jur&iacute;dicos internos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La entrada en vigor simult&aacute;nea de la Resoluci&oacute;n Mercosur GMC Nº 47/07 REGLAMENTO TECNICO MERCOSUR PARA PRODUCTOS DE LIMPIEZA Y AFINES (DEROGACION DE LA RES. GMC Nº 10/04) ser&aacute; comunicada a trav&eacute;s de un aviso en el Bolet&iacute;n Oficial de la Naci&oacute;n (cfr. Art&iacute;culo 40 inciso III del Protocolo de Ouro Preto).</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— Der&oacute;gase la Disposici&oacute;n ANMAT Nº 1796/2005.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 4º </B>— Comun&iacute;quese, publ&iacute;quese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial y arch&iacute;vese. — Carlos Chiale.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>MERCOSUR/GMC/RES. Nº 47/07</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>REGLAMENTO TECNICO MERCOSUR PARA PRODUCTOS DE LIMPIEZA Y AFINES</P> <P ALIGN='CENTER'>(DEROGACION DE LA RES. GMC Nº 10/04)</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO: El Tratado de Asunci&oacute;n, el Protocolo de Ouro Preto y las Resoluciones Nº 25/96, 26/96, 27/96, 38/98 y 10/04 del Grupo Mercado Com&uacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La necesidad de adoptar medidas sanitarias para proteger la salud p&uacute;blica contra riesgos asociados con el uso de sustancias cancer&iacute;genas;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en formulaciones de productos domisanitarios no son permitidas sustancias comprobadamente carcinog&eacute;nicas, mutag&eacute;nicas o teratog&eacute;nicas;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La actual clasificaci&oacute;n toxicol&oacute;gica del formaldeh&iacute;do por IARC-International Agency for Research on Cancer como sustancia comprobadamente carcinog&eacute;nica para el ser humano en el Grupo 1;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que es necesario definir, clasificar y establecer criterios t&eacute;cnicos para los productos de Limpieza y Afines;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que es una medida de emergencia para proteger la salud de la poblaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL GRUPO MERCADO COMUN</P> <P ALIGN='JUSTIFY'>RESUELVE:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 1 - Aprobar el &quot;Reglamento T&eacute;cnico MERCOSUR para Productos de Limpieza y Afines&quot;, que figura como Anexo y forma parte de la presente Resoluci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 2 – Los Organismos Nacionales competentes para la implementaci&oacute;n de la presente Resoluci&oacute;n son:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Argentina: Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica (ANMAT)</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Brasil: Ag&ecirc;ncia Nacional de Vigil&acirc;ncia Sanit&aacute;ria (ANVISA) - Minist&eacute;rio da Sa&uacute;de</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Paraguay: Ministerio de Salud P&uacute;blica y Bienestar Social</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Uruguay: Ministerio de Salud P&uacute;blica</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 3 - Der&oacute;gase la Resoluci&oacute;n GMC Nº 10/04.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 4 - La presente Resoluci&oacute;n se aplicar&aacute; en el territorio de los Estados Parte, al comercio entre ellos y a las importaciones extrazona.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 5 - Los Estados Parte deber&aacute;n incorporar la presente Resoluci&oacute;n a sus ordenamientos jur&iacute;dicos internos antes del 1/VII/2008.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>LXX GMC - Montevideo, 11/XII/07</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>ANEXO</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>REGLAMENTO TECNICO MERCOSUR PARA PRODUCTOS DE LIMPIEZA Y AFINES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1. OBJETIVO</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El presente Reglamento T&eacute;cnico tiene por objeto establecer las definiciones, clasificaciones, especificaciones t&eacute;cnicas pertinentes desde el punto de vista sanitario y requisitos de rotulado para productos destinados a la limpieza y conservaci&oacute;n de superficies y objetos inanimados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2. ALCANCE</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Este Reglamento T&eacute;cnico comprende los productos domisanitarios destinados a la limpieza en general y afines, destinados al uso en objetos, tejidos, superficies inanimadas y ambientes, en el hogar, veh&iacute;culos, las industrias, y locales o establecimientos p&uacute;blicos o privados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3. DEFINICIONES/GLOSARIO</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.1. Abrasivo: Son part&iacute;culas peque&ntilde;as que se distinguen por su dureza y contribuyen a la efectividad mec&aacute;nica de los limpiadores.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.2. Aditivo: Componente complementario que confiere propiedades no relacionadas con la acci&oacute;n principal del producto. Los aditivos est&aacute;n presentes generalmente en peque&ntilde;as proporciones (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.3. Agente Tensioactivo: Cualquier sustancia o compuesto que sea capaz de reducir la tensi&oacute;n superficial, al estar disuelto en agua, o que reduce la tensi&oacute;n interfacial por adsorci&oacute;n preferencial de una interfase l&iacute;quido-vapor y otra interfase (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.3.1 Tensioactivo anf&oacute;tero: Es aquel que tiene dos o m&aacute;s grupos funcionales, que dependiendo de las condiciones del medio pueden ser ionizados en soluci&oacute;n acuosa y dan las caracter&iacute;sticas de surfactante ani&oacute;nico o cati&oacute;nico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.3.2 Tensioactivo ani&oacute;nico: Es aquel que en soluci&oacute;n acuosa se ioniza produciendo iones org&aacute;nicos negativos los cuales son los responsables de la actividad superficial.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.3.3 Tensioactivo cati&oacute;nico: Es aquel que en soluci&oacute;n acuosa se ioniza produciendo iones org&aacute;nicos positivos los cuales son los responsables de la actividad superficial.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.3.4 Tensioactivo no i&oacute;nico: Es aquel que no produce iones en soluci&oacute;n acuosa. La solubilidad en agua de estos tensioactivos es debida a la presencia en las mol&eacute;culas de grupos funcionales que tienen una fuerte afinidad por el agua.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.4. Apresto/Engomador: Es un producto destinado a dar ca&iacute;da y acabado a los tejidos y que puede facilitar la acci&oacute;n de planchado. Se incluye en &eacute;stos a los almidones (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.5. Biodegradabilidad: Es la capacidad de biodegradaci&oacute;n de los agentes tensioactivos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.6. Biodegradaci&oacute;n: Es la degradaci&oacute;n molecular del agente tensioactivo, resultante de una acci&oacute;n compleja de los organismos vivos del medio ambiente.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.7. Blanqueador &oacute;ptico: Sustancia qu&iacute;mica que absorbe radiaciones ultravioletas y emite radiaciones en la regi&oacute;n visible del espectro (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.8. Blanqueador/Alvejante: Es un producto destinado a blanquear/alvejar superficies, tejidos, etc., por procesos qu&iacute;micos y/o f&iacute;sicos (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.9. Cera/Lustrador/Pulidor: Producto destinado a limpiar y/o pulir y/o proteger superficies por acci&oacute;n f&iacute;sica y/o qu&iacute;mica (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.10. Coadyuvante/Adyuvante: Componente complementario que mejora las propiedades del producto (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.11. Componentes complementarios de formulaci&oacute;n: Son sustancias utilizadas en la formulaci&oacute;n con la finalidad de auxiliar en la obtenci&oacute;n de las cualidades deseadas en el producto. En este concepto est&aacute;n incluidos entre otros los solventes, diluyentes, estabilizantes, aditivos, coadyuvantes, enzimas, sinergistas y sustancias inertes.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.12. Controladores de Espuma: Son sustancias que modifican la estructura f&iacute;sico-qu&iacute;mica de la espuma.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.13. Desincrustante: Producto destinado a remover incrustaciones por proceso qu&iacute;mico o f&iacute;sico (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.14. Detergente: Es un producto destinado a la limpieza de superficies y tejidos a trav&eacute;s de la disminuci&oacute;n de la tensi&oacute;n superficial (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.15. Embalaje: Envoltorio, recipiente o cualquier forma de acondicionamiento removible o no, destinado a cubrir, empaquetar, envasar, proteger o mantener espec&iacute;ficamente o no, productos de los cuales trate este Reglamento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.16. Facilitador de planchado de ropa: Producto destinado a facilitar la acci&oacute;n de planchar (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.17. Jab&oacute;n: Es un producto para lavado y limpieza dom&eacute;stica formulado a base de sales alcalinas de &aacute;cidos grasos asociados o no a otros tensioactivos (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.18. Limpiador: Es un producto destinado a la limpieza de superficies inanimadas, pudiendo o no contener agentes tensioactivos (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.19. Limpiador abrasivo/Sapon&aacute;ceo: Es un producto destinado a la limpieza, formulado a base de abrasivos asociados o no a jabones y otros tensioactivos (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.20. Materia Activa/Principio Activo: Componente que, en la formulaci&oacute;n, es responsable de por lo menos una determinada acci&oacute;n del producto (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.21. Neutralizador de olores/Eliminador de olores: Producto que en su composici&oacute;n presenta sustancias capaces de neutralizar/eliminar olores desagradables, por procesos f&iacute;sicos, qu&iacute;micos o f&iacute;sico-qu&iacute;micos pudiendo o no dejar efectos residuales y/u odor&iacute;feros.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.22. Odorizante de ambientes/Aromatizante de ambientes/Desodorante de ambientes: Es un producto que tiene en su composici&oacute;n sustancias capaces de enmascarar los olores desagradables (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.23. Porcentaje de biodegradabilidad: Es la cantidad porcentual del agente tensioactivo biodegradado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.24. Producto enzim&aacute;tico: Es aquel que contiene como ingrediente activo catalizadores biol&oacute;gicos que act&uacute;an por degradaci&oacute;n espec&iacute;fica de grasas, prote&iacute;nas y otros, fragmentando los mismos de forma de promover el proceso de limpieza.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.25. Producto para postlavado: Producto con la finalidad de ser utilizado despu&eacute;s del lavado con el objeto de completar la limpieza final.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.26. Producto para Prelavado: Es un producto destinado a ser utilizado antes del lavado con el objeto de facilitar la limpieza final. (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.27. Quitamanchas: Es un producto destinado a la remoci&oacute;n de manchas de superficies inanimadas y tejidos. (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.28. Removedor: Producto con la finalidad de remover ceras y grasas por una acci&oacute;n de solvencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.29. R&oacute;tulo: Identificaci&oacute;n impresa y litografiada, as&iacute; como tambi&eacute;n inscripciones pintadas o grabadas a fuego, presi&oacute;n o calco, aplicadas directamente sobre recipientes, envases y envoltorios.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.30. Suavizante: Es un producto utilizado para tornar m&aacute;s flexibles los productos textiles, y consecuentemente obtener una determinada suavidad. (Res. GMC Nº 26/96).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERACIONES GENERALES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.- Los tipos/categor&iacute;as de productos comprendidos por este Reglamento constan en el ANEXO I.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2.- Los productos objeto de esta reglamentaci&oacute;n pueden presentarse en forma de s&oacute;lidos, en polvo, en escamas, en pasta, en gel, l&iacute;quidos, aerosoles o en cualquier otra forma de presentaci&oacute;n que el desarrollo tecnol&oacute;gico permita.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.- No son permitidas en las formulaciones sustancias que sean comprobadamente carcinog&eacute;nicas, mutag&eacute;nicas y teratog&eacute;nicas para el hombre seg&uacute;n la Agencia Internacional de Investigaci&oacute;n sobre el C&aacute;ncer (IARC/OMS) o las sustancias prohibidas por la directiva CEE 67/548 y sus actualizaciones, siendo toleradas s&oacute;lo como impurezas aquellas sustancias aceptadas como tales por dicha directiva y sus actualizaciones.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.- Queda restringido a productos de uso profesional/ industrial la utilizaci&oacute;n de HF, HNO3, H2SO4 y las sales que los liberen en las condiciones de uso del producto.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.- Los agentes tensioactivos ani&oacute;nicos empleados deben ser biodegradables.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.- Para fines de gerenciamiento de riesgo de los productos comprendidos en este Reglamento deben ser atendidos los siguientes criterios:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.1 Solamente son permitidos para su comercializaci&oacute;n los productos incluidos en la categor&iacute;a de jabones, aquellos que presenten alcalinidad libre m&aacute;xima, expresada como Na2O, de 1% p/p.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.2 Solamente son permitidos para su comercializaci&oacute;n de productos que contengan amon&iacute;aco los que presenten un m&aacute;ximo de NH3 libre, de 1%p/p.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.3 Para los productos incluidos en la categor&iacute;a de detergentes l&iacute;quidos espec&iacute;ficos para lavado de vajilla manual de venta libre el pH debe estar comprendido entre 5,5 y 9,5.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.3.1. Para aquellas formulaciones que presenten valores de pH entre 5,0 a 5,5 y tambi&eacute;n entre 9,5 y 10,0, deben presentar estudios dermatol&oacute;gicos que garanticen la seguridad de estos productos, en las condiciones de uso propuestas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.- Los lavavajillas l&iacute;quidos destinados a uso profesional que sean corrosivos, debe comercializarse:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.1 Coloreados, de manera tal que nunca puedan ser confundidos con el agua, cuando sean preparados no clorados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.2 Sin incorporar componentes que puedan alterar su olor caracter&iacute;stico cuando sean preparados clorados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>8.- Los productos, objeto de este Reglamento una vez acondicionados para su venta, no deben inducir a confusi&oacute;n con productos alimenticios, cosm&eacute;ticos o medicamentos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>9.- Los envases y tapas de los productos comprendidos en este Reglamento deben ser en todas sus partes resistentes a fin de mantener las propiedades del producto e impedir rupturas y p&eacute;rdidas durante el transporte, almacenamiento y manipulaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>10.- Los envases que tengan una forma que pueda atraer o exaltar la curiosidad de los ni&ntilde;os por tener similitud con juguetes que &eacute;stos habitualmente utilizan deben contar con un cierre de seguridad para evitar que puedan acceder al producto, o contener alg&uacute;n componente que impida la ingesti&oacute;n del mismo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>11.- Los productos que por su composici&oacute;n est&eacute;n contemplados en las Directivas 67/548 y 88/379 de la CEE y sus modificatorias y el Code of Federal Regulations de U.S.A. 16 CFR (Volumen 2), 16CFR 1500.129, 16 CFR 1700.14, y sus modificatorias, deben llevar tapa de seguridad a prueba de ni&ntilde;os si est&aacute; indicado en las mismas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>12.- El rotulado debe cumplir con lo indicado en el Anexo II.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>13.- No se permite la introducci&oacute;n de juguetes ni de otros objetos dirigidos a los ni&ntilde;os dentro del envase de los productos objeto de esta reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>14.- No se permite la venta de productos de uso restringido a profesionales en lugares donde el consumidor tenga acceso directo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>15.- Se proh&iacute;ben las asociaciones de desinfestantes con cualquier producto comprendido por este Reglamento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>16.- En los productos enzim&aacute;ticos cuyo activo principal sean los catalizadores biol&oacute;gicos, la actividad enzim&aacute;tica debe ser comprobable.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>17.- Los productos de limpieza general y afines cuando est&eacute;n asociados con productos con acci&oacute;n antimicrobiana, deben obedecer la legislaci&oacute;n espec&iacute;fica, adem&aacute;s de cumplir con este Reglamento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>18.- Las empresas responsables de la comercializaci&oacute;n de productos destinados a ser utilizados por usuarios profesionales o industriales deben tener disponible la hoja de seguridad del producto.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>TIPOS/CATEGORIAS DE PRODUCTOS DE LIMPIEZA Y AFINES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>A. ALVEJANTES/BLANQUEADORES</P> <P ALIGN='JUSTIFY'>B. DETERGENTES/PRODUCTOS PARA EL LAVADO</P> <P ALIGN='JUSTIFY'>C. DESINCRUSTANTES</P> <P ALIGN='JUSTIFY'>D. PRODUCTOS PARA ACABADO DE SUPERFICIES</P> <P ALIGN='JUSTIFY'>E. LIMPIADORES</P> <P ALIGN='JUSTIFY'>F. NEUTRALIZADORES/ELIMINADORES DE OLORES</P> <P ALIGN='JUSTIFY'>G. ODORIZADORES/AROMATIZANTES DE AMBIENTES</P> <P ALIGN='JUSTIFY'>H. PRODUCTOS PARA PRE Y POST LAVADO</P> <P ALIGN='JUSTIFY'>I. REMOVEDORES</P> <P ALIGN='JUSTIFY'>J. JABONES</P> <P ALIGN='JUSTIFY'>K. AUXILIARES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO II</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>ROTULADO PARA PRODUCTOS DE LIMPIEZA Y AFINES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El rotulado debe cumplir los siguie&iacute;ites principios:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Debe contener informaci&oacute;n veraz y suficiente de sus usos y caracter&iacute;sticas esenciales.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Pueden ser utilizadas expresiones que resalten alg&uacute;n beneficio adicional relacionadas con la salud, siempre que sean justificadas t&eacute;cnicamente.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>INFORMACIONES OBLIGATORIAS EN LOS ROTULOS DE PRODUCTOS DESTINADOS A LIMPIEZA GENERAL Y AFINES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.- Nombre comercial del producto.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2.- Finalidad de uso cuando no estuviera contemplada en el nombre comercial del producto.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.- Contenido neto.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.- Identificaci&oacute;n de la empresa titular del producto.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.- Incompatibilidades con alg&uacute;n material en caso de existir.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.- Las leyendas:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.1 &quot;Mantenga fuera del alcance de los ni&ntilde;os&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.2 &quot;Lea atentamente el r&oacute;tulo antes de usar el producto&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.3 &quot;En caso de contacto con ojos, lave inmediatamente con abundante agua&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.4 &quot;En caso de contacto con piel lave inmediatamente con abundante agua&quot;, si corresponde.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.5 &quot;En caso de ingesti&oacute;n no provoque el v&oacute;mito y consulte inmediatamente al Centro de Intoxicaciones o al M&eacute;dico llevando el envase o r&oacute;tulo del producto&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.5.1 Cada Estado Parte utilizar&aacute; la denominaci&oacute;n del Centro de Intoxicaciones, Servicio de Salud u otro propio de su pa&iacute;s.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.- Componentes: Componentes activos y aquellos de importancia toxicol&oacute;gica deben ser indicados por su nombre qu&iacute;mico gen&eacute;rico, los restantes por su funci&oacute;n en la formulaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>8.- Instrucciones de uso: Se har&aacute;n constar las instrucciones y dosis para un uso adecuado del producto.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>9.- Precauciones seg&uacute;n el tipo y destino de uso del producto.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>10.- Nº de lote o partida.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>11.- Para productos de uso profesional se debe incluir la leyenda &quot;Restringido a uso profesional&quot; quedando prohibida toda otra indicaci&oacute;n sobre su uso simult&aacute;neo en el hogar.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>12.- Todas las leyendas y pictogramas de inserci&oacute;n obligatoria deben figurar con caracteres claros, bien visibles, indelebles en las condiciones normales de uso y f&aacute;cilmente legibles por el consumidor.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La informaci&oacute;n obligatoria no puede escribirse sobre partes removibles para el uso, tales como cierres, precintos y otras que se inutilicen al abrir el envase.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Seg&uacute;n el tipo de producto y la finalidad de empleo agregar adem&aacute;s:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>1.- Productos a base de tensioactivos sint&eacute;ticos que contengan enzimas, alcalinizantes o blanqueadores:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>&quot;Evite el contacto prolongado con la piel. Despu&eacute;s de utilizar este producto, lave y seque las manos&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>2.- Productos a base de hidrocarburos:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>&quot;Mantenga lejos del fuego y de superficies calientes&quot;.</P> <P ALIGN='JUSTIFY'>&quot;Cuidado! Peligrosa su ingesti&oacute;n&quot;</P> <P ALIGN='JUSTIFY'>&quot;No inhale&quot;</P> <P ALIGN='JUSTIFY'>&quot;Mantenga el recipiente herm&eacute;ticamente cerrado en lugar ventilado&quot;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>3.- Productos a base de amon&iacute;aco:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>&quot;Cuidado: irritante para los ojos y piel&quot;</P> <P ALIGN='JUSTIFY'>&quot;No mezclar con productos a base de cloro&quot;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>4.- Productos en aerosol:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>&quot;No perfore el envase vac&iacute;o&quot;</P> <P ALIGN='JUSTIFY'>&quot;Mantenga lejos del fuego de superficies calientes&quot;</P> <P ALIGN='JUSTIFY'>&quot;No arroje al fuego o incinerador&quot;</P> <P ALIGN='JUSTIFY'>&quot;No exponga a temperatura superior a 50°C&quot;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>5.- Productos inflamables:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>&quot;Cuidado, inflamable! Mantenga lejos del fuego y de superficies calientes&quot;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>6.- Productos c&aacute;usticos y corrosivos:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>&quot;Peligro!! Causa quemaduras graves. Contiene un producto fuertemente alcalino/&aacute;cido &quot;(mencionar el nombre)&quot;</P> <P ALIGN='JUSTIFY'>Pictograma de C&aacute;ustico/Corrosivo</P> <P ALIGN='JUSTIFY'>&quot;Cuidado! Peligrosa su ingesti&oacute;n&quot;</P> <P ALIGN='JUSTIFY'>&quot;Use equipamiento de protecci&oacute;n adecuada&quot; (citar seg&uacute;n el tipo de producto: anteojos protectores, guantes, botas, etc.)</P> <P ALIGN='JUSTIFY'>&quot;No aplique sobre superficies calientes&quot;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>7.- Productos a base de glicoles (etilenglicol, dietilenglicol y butilglicol):</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>&quot;Cuidado! Peligrosa su ingesti&oacute;n&quot;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>&quot;Evite la inhalaci&oacute;n y el contacto con el producto&quot;</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-2013-2010-167093" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

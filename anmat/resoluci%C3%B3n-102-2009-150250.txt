@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-102-2009-150250/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-102-2009-150250/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-102-2009-150250/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"6BPZrs2qQ81x1rXm4Y2y1ZKCxcmuZCTLFFLnfVrZB3k","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/resoluci%C3%B3n-102-2009-150250\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-resolución-102-2009-150250 page-normativa-nacional-resolución-102-2009-150250-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/resoluci%C3%B3n-102-2009-150250/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-EBfnwocgAYtoi3KiK97S_5PGdAqYvcPGB3isJQuZqHw" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/resoluci%C3%B3n-102-2009-150250">Resolución   102/2009</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>MINISTERIO DE SALUD</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2009-02-10</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>MINISTERIO DE SALUD</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Resoluci&oacute;n 102/2009</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Cr&eacute;ase el Registro de Ensayos Cl&iacute;nicos en Seres Humanos.</P> </B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Bs. As., 2/2/2009</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO el Expediente Nº 2002-19.304/08-8, del registro del MINISTERIO DE SALUD, las Resoluciones Ministeriales Nº 35 del 16 de enero de 2007, Nº 1490 del 9 de noviembre de 2007 y Nº 1678 del 6 de diciembre de 2007, y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que los avances cient&iacute;ficos-tecnol&oacute;gicos producidos en materia de investigaci&oacute;n cl&iacute;nica relacionados con el mejoramiento de la salud humana, tanto en el conjunto de organismos, entidades e instituciones del sector p&uacute;blico nacional y de las organizaciones universitarias, as&iacute; como en el propio &aacute;mbito ministerial, motivaron al MINISTERIO DE SALUD a adoptar disposiciones adecuadas para la protecci&oacute;n de los derechos de las personas que participan en su desarrollo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en tal sentido, teniendo como normas &eacute;ticas que deben regir la investigaci&oacute;n cl&iacute;nica el respeto de los valores &eacute;ticos fundamentales, la dignidad de las personas, el bienestar y la integridad f&iacute;sica, as&iacute; como la utilizaci&oacute;n de procesos de consentimiento informado previo al reclutamiento, la protecci&oacute;n de grupos vulnerables y la no discriminaci&oacute;n de personas en raz&oacute;n de su condici&oacute;n f&iacute;sica, econ&oacute;mica o de salud, se han elaborado las directivas a las que debe ajustarse la actividad de la investigaci&oacute;n cl&iacute;nica, quedando plasmadas en la GUIA DE LA BUENAS PRACTICAS DE INVESTIGACION CLINICA EN SERES HUMANOS, aprobada por la Resoluci&oacute;n Ministerial Nº 1490/07.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que a fin de completar la actualizaci&oacute;n del marco regulatorio vigente en lo que concierne a la actividad de la investigaci&oacute;n cl&iacute;nica en el campo de la salud resulta apropiado adoptar medidas que permitan relevar la informaci&oacute;n relacionada con los ensayos cl&iacute;nicos en forma met&oacute;dica y sistematizada.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la sistematizaci&oacute;n de la informaci&oacute;n sobre los ensayos cl&iacute;nicos constituye una herramienta fundamental que permitir&aacute; conocer aspectos relevantes desde el punto de vista sanitario, as&iacute; como, reducir la duplicaci&oacute;n de esfuerzos y estudios, eliminar la asignaci&oacute;n no equitativa de recursos para la investigaci&oacute;n y disminuir la investigaci&oacute;n que mida desenlaces irrelevantes.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, por otra parte, contar con informaci&oacute;n relacionada con el desarrollo de ensayos cl&iacute;nicos favorece la transparencia en la investigaci&oacute;n y su aporte constituye una condici&oacute;n para evitar que se produzcan sesgos y tergiversaciones en la generaci&oacute;n y transmisi&oacute;n de sus resultados, en el convencimiento de que el registro de todo ensayo cl&iacute;nico en una base de datos que est&eacute; al alcance del p&uacute;blico es una medida que contribuye a contrarrestar estas tendencias.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que las nuevas tecnolog&iacute;as de la comunicaci&oacute;n y la informaci&oacute;n permiten actualmente el acceso libre y p&uacute;blico al conocimiento de los desarrollos de la comunidad, lo que resulta aplicable a la informaci&oacute;n relacionada con los ensayos cl&iacute;nicos en marcha.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en consecuencia resulta apropiado abordar met&oacute;dica y sistem&aacute;ticamente la informaci&oacute;n sobre los proyectos de investigaci&oacute;n en desarrollo y los resultados que arrojan, a efectos de permitir la evaluaci&oacute;n de la validez y seguridad de las intervenciones, as&iacute; como tambi&eacute;n de su calidad y significaci&oacute;n cient&iacute;fica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la ORGANIZACION MUNDIAL DE LA SALUD (OMS) ha desarrollado la Plataforma Internacional de Registro de Ensayos Cl&iacute;nicos (ICTRP) que se gest&oacute; con el aval de la Asamblea Mundial de la Salud, la que tambi&eacute;n ha sido respaldada por una declaraci&oacute;n del Comit&eacute; Internacional de Directores de Revistas M&eacute;dicas (ICMJE) en el 2004 y por el Centro Latinoamericano y del Caribe de Informaci&oacute;n en Ciencias de la Salud OPS/OMS (BIREME), en mayo de 2007, con el objeto de unificar la informaci&oacute;n necesaria para identificar los ensayos cl&iacute;nicos en un registro, con un n&uacute;mero de identificaci&oacute;n &uacute;nico, a efectos de favorecer su publicaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por Resoluci&oacute;n Ministerial Nº 35/07 se encomend&oacute; a la COMISION DE INVESTIGACIONES CLINICAS APLICADAS EN SERES HUMANOS, creada en el &aacute;mbito de la SECRETARIA DE POLITICAS, REGULACION E INSTITUTOS, analizar la creaci&oacute;n de un Registro Nacional de Investigaciones Cl&iacute;nicas, cuyo proyecto ha sido elaborado y puesto a consideraci&oacute;n de las autoridades sanitarias de los &aacute;mbitos provinciales en el marco del CONSEJO FEDERAL DE SALUD (COFESA).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que hasta tanto se formalicen los instrumentos normativos que aprueben la creaci&oacute;n de una Red Federal de Registros de ensayos cl&iacute;nicos resulta apropiado adoptar disposiciones adecuadas que permitan organizar y sistematizar la informaci&oacute;n de protocolos de investigaci&oacute;n correspondiente a los organismos, entidades e instituciones del &aacute;mbito ministerial, as&iacute; como del &aacute;mbito provincial que decida su adhesi&oacute;n, en una recopilaci&oacute;n primaria, a fin de contar con herramientas metodol&oacute;gicas que permitan el acceso a dicha informaci&oacute;n en forma v&aacute;lida, confiable y estandarizada sobre los ensayos cl&iacute;nicos en desarrollo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que resulta ser antecedente normativo de la presente, la Resoluci&oacute;n Ministerial Nº 1678 de fecha 6 de diciembre de 2007 por la cual se aprob&oacute; la creaci&oacute;n de una n&oacute;mina de ensayos cl&iacute;nicos, la cual durante su vigencia ha evidenciado la necesidad de su reformulaci&oacute;n, con el fin de optimizarla.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS ha tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de lo normado por la Ley de Ministerios, T.O. 1992, modificada por la ley 26.338.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>LA MINISTRA DE SALUD</P> <P ALIGN='JUSTIFY'>RESUELVE:</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Cr&eacute;ase el REGISTRO DE ENSAYOS CLINICOS EN SERES HUMANOS, con el objeto de consolidar, organizar y sistematizar la informaci&oacute;n referente a los ensayos cl&iacute;nicos disponible en el &aacute;mbito ministerial, a fin de hacerla accesible a todas las &aacute;reas biom&eacute;dicas, al personal de la salud y al &aacute;mbito cient&iacute;fico en general, a cuyo fin se establece el dise&ntilde;o de los campos de informaci&oacute;n, la descripci&oacute;n de sus contenidos y los criterios de accesibilidad que se detallan en el ANEXO I que forma parte integrante de la presente.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 2º </B>— Establ&eacute;cese que la incorporaci&oacute;n de la informaci&oacute;n referida a ensayos cl&iacute;nicos al Registro a que hace referencia el art&iacute;culo precedente, ser&aacute; de aplicaci&oacute;n obligatoria en los Establecimientos Hospitalarios y Asistenciales e Institutos de Investigaci&oacute;n y Producci&oacute;n dependientes del MINISTERIO DE SALUD, en el SISTEMA NACIONAL DEL SEGURO DE SALUD, en el INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS (INSSJP), en los establecimientos incorporados al Registro Nacional de Hospitales P&uacute;blicos de Gesti&oacute;n Descentralizada y en los establecimientos de salud dependientes de las jurisdicciones provinciales y las entidades del Sector Salud que adhieran a la presente Resoluci&oacute;n, ello sin perjuicio de la incorporaci&oacute;n de los ensayos cl&iacute;nicos cuya inclusi&oacute;n fuera solicitada por los patrocinadores que as&iacute; lo requieran.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— La incorporaci&oacute;n de ensayos cl&iacute;nicos en el Registro que se crea por la presente no implicar&aacute; en ning&uacute;n caso el reconocimiento de derechos de propiedad intelectual, ni la certificaci&oacute;n de la exactitud. El uso, condici&oacute;n o modalidad de cada ensayo incorporado al Registro resulta ser de exclusiva responsabilidad de los patrocinadores.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 4º </B>— Los patrocinadores incorporar&aacute;n en el Registro de ensayos cl&iacute;nicos del MINISTERIO DE SALUD los ensayos cl&iacute;nicos que sean aprobados por los organismos descentralizados del Ministerio a fin de asign&aacute;rseles un n&uacute;mero de identificaci&oacute;n correspondiente a dicho Registro, en un plazo no mayor a 90 d&iacute;as h&aacute;biles a partir de su aprobaci&oacute;n por los organismos competentes.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 5º </B>— Los ensayos cl&iacute;nicos que no se encuentren comprendidos dentro del &aacute;mbito de aplicaci&oacute;n y alcance de las normativas de los organismos descentralizados del MINISTERIO DE SALUD ser&aacute;n incorporados por los patrocinadores o investigadores-patrocinadores a fin de asign&aacute;rseles un n&uacute;mero de identificaci&oacute;n en el Registro de ensayos cl&iacute;nicos del MINISTERIO DE SALUD, en un plazo no mayor a 90 d&iacute;as h&aacute;biles a partir de la aprobaci&oacute;n de los respectivos Comit&eacute;s de Etica.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 6º </B>— Los patrocinadores, que incorporen datos en el Registro de Ensayos Cl&iacute;nicos, deber&aacute;n firmar una declaraci&oacute;n jurada cuyo texto se detalla en el ANEXO II que forma parte integrante de la presente, debiendo acreditar su personer&iacute;a mediante la documentaci&oacute;n respaldatoria correspondiente.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 7º </B>— El incumplimiento por parte de los patrocinadores de las obligaciones que se establecen en relaci&oacute;n al Registro de ensayos cl&iacute;nicos del MINISTERIO DE SALUD dar&aacute; lugar a la aplicaci&oacute;n de las sanciones previstas en la Leyes Nº 16.463, Nº 17.132 y sus respectivas reglamentaciones o las que resulten aplicables seg&uacute;n el caso, previo tr&aacute;mite del sumario administrativo correspondiente, el que ser&aacute; llevado a cabo por el MINISTERIO DE SALUD, como autoridad de aplicaci&oacute;n de la presente, ello sin perjuicio de la intervenci&oacute;n y resoluci&oacute;n que adopte el Comit&eacute; de Etica.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 8º </B>— La SECRETARIA DE POLITICAS, REGULACION E INSTITUTOS ser&aacute; el &oacute;rgano de administraci&oacute;n y coordinaci&oacute;n del REGISTRO DE ENSAYOS CLINICOS EN SERES HUMANOS quedando facultada para dictar en un plazo de CIENTO OCHENTA (180) d&iacute;as las normas complementarias que resulten necesarias para su mejor implementaci&oacute;n, as&iacute; como las correspondientes a su interpretaci&oacute;n y actualizaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 9º </B>— Inv&iacute;tase a las Provincias a adherir a la presente Resoluci&oacute;n a fin de que la informaci&oacute;n sobre ensayos cl&iacute;nicos en seres humanos que se desarrollan en sus jurisdicciones sea incorporada al Registro que se aprueba por el art&iacute;culo primero de la presente.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 10. </B>— Der&oacute;gase la Resoluci&oacute;n Nº 1678/07 del MINISTERIO DE SALUD del 6 de diciembre de 2007.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 11. </B>— Comun&iacute;quese por intermedio de la SECRETARIA DE POLITICAS, REGULACION E INSTITUTOS a la ACADEMIA NACIONAL DE MEDICINA, AFACIMERA, AMA, COMRA y CONFECLISA, a la Direcci&oacute;n Nacional de Registro, Fiscalizaci&oacute;n y Sanidad de Fronteras y a los Colegios M&eacute;dicos, y al Ministerio de Salud del Gobierno de la Ciudad Aut&oacute;noma de Buenos Aires y a los Ministerios de Salud de las Provincias.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 12. </B>— Reg&iacute;strese, comun&iacute;quese, publ&iacute;quese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial y arch&iacute;vese. — Mar&iacute;a G. Oca&ntilde;a.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>CAMPOS DE INFORMACION INCLUIDOS EN EL REGISTRO DE ENSAYOS CLINICOS MINISTERIO DE SALUD</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/150250_res102-10-2-2009-1_jpg/archivo'></P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/150250_res102-10-2-2009-2_jpg/archivo'></P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO II</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>MODELO DE DECLARACION JURADA PARA LA INSCRIPCION DE DATOS EN EL REGISTRO DE ENSAYOS CLINICOS</P> <P ALIGN='CENTER'>a suscribir por el patrocinador del ensayo cl&iacute;nico</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Lugar y Fecha:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Declaro bajo juramento, en mi car&aacute;cter de………………………………… (Representante legal, Presidente, Apoderado, etc.,) —se adjunta documentaci&oacute;n respaldatoria correspondiente—, en los t&eacute;rminos del art&iacute;culo 6º de la Resoluci&oacute;n Ministerial Nº que los datos que consigno en todos los campos del REGISTRO DE ENSAYOS CLINICOS son exactos y se corresponden con los aprobados por la autoridad de aplicaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>T&iacute;tulo del Ensayo Cl&iacute;nico:</P> <P ALIGN='JUSTIFY'>Patrocinador (firma o empresa) o investigador-patrocinador:</P> <P ALIGN='JUSTIFY'>Presidente, Representante Legal, Apoderado de la firma o empresa:</P> <P ALIGN='JUSTIFY'>Firma:</P> <P ALIGN='JUSTIFY'>Aclaraci&oacute;n de la firma:</P> <P ALIGN='JUSTIFY'>Documento de Identidad:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>(Para firmas o empresas) Detallar la documentaci&oacute;n que se adjunta para acreditaci&oacute;n de la personer&iacute;a:</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/resolución-102-2009-150250" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

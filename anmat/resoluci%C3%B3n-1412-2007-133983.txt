@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1412-2007-133983/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1412-2007-133983/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1412-2007-133983/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"BNAeUKVv81XTidEdvR0__qqErGwz9rpQ5VYSOkZ-SXk","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/resoluci%C3%B3n-1412-2007-133983\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-resolución-1412-2007-133983 page-normativa-nacional-resolución-1412-2007-133983-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/resoluci%C3%B3n-1412-2007-133983/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-b2NpzBS25FkAKjGd9p84vB3QC9w2OkmOJ3DOt27orLI" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/resoluci%C3%B3n-1412-2007-133983">Resolución   1412/2007</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>MINISTERIO DE SALUD</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2007-10-30</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>MINISTERIO DE SALUD</P> <P ALIGN='JUSTIFY'>Resoluci&oacute;n 1412/2007</P> <P ALIGN='JUSTIFY'>Cr&eacute;ase la Comisi&oacute;n Nacional Asesora para el Uso Racional de Medicamentos. Objetivos.</P> </B><P ALIGN='JUSTIFY'>Bs. As., 23/10/2007</P> <P ALIGN='JUSTIFY'>VISTO el expediente Nº 2002-12594/07-2 del registro del MINISTERIO DE SALUD, la Ley Nº 16.463 y su Decreto Reglamentario Nº 9763/64, la Ley Nº 25.649 y sus Decretos Reglamentarios, el Decreto Nº 150/62 sobre el Registro, Control y Fiscalizaci&oacute;n de Seguridad y Eficacia de Medicamentos (t.o. por Decreto Nº 177/93) y el Decreto Nº 1490/92 sobre la creaci&oacute;n de la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT), y</P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que con la sanci&oacute;n de la Ley Nº 25.649 el PODER EJECUTIVO NACIONAL, a trav&eacute;s del MINISTERIO DE SALUD ha impulsado firmemente el uso racional y cient&iacute;ficamente fundamentado de los medicamentos por parte de los dispensadores y consumidores mejorando el acceso a los medicamentos esenciales.</P> <P ALIGN='JUSTIFY'>Que la irracionalidad en el uso de los medicamentos sigue siendo un problema urgente y generalizado en el sector sanitario, p&uacute;blico y privado, de los pa&iacute;ses desarrollados y en desarrollo, con graves consecuencias en t&eacute;rminos de resultados inadecuados para los pacientes, reacciones adversas a los medicamentos, aumento de la resistencia a los antibi&oacute;ticos y sobreutilizaci&oacute;n de recursos.</P> <P ALIGN='JUSTIFY'>Que la ORGANIZACION MUNDIAL DE LA SALUD —OMS— ha emitido m&uacute;ltiples resoluciones a trav&eacute;s de la Asamblea Mundial de la Salud por las que insta a los Estados Miembros a la adopci&oacute;n de medidas concretas sobre el uso racional de los medicamentos por parte de los prescriptores, dispensadores y pacientes.</P> <P ALIGN='JUSTIFY'>Que en el marco del PLAN FEDERAL DE SALUD y en consonancia con la petici&oacute;n de la ORGANIZACION MUNDIAL DE LA SALUD —OMS—, se ha implementado la actual Pol&iacute;tica Nacional de Medicamentos y la adhesi&oacute;n a la Alianza Mundial por la seguridad de los pacientes, promoviendo acciones tendientes al recupero, cuidado, promoci&oacute;n y protecci&oacute;n de la salud.</P> <P ALIGN='JUSTIFY'>Que como antecedentes en la materia, esta Cartera de Estado ha llevado adelante acciones ligadas al fomento del uso racional de los medicamentos, la seguridad de los pacientes en cuanto a la mitigaci&oacute;n de eventos adversos, informando a los usuarios de los sistemas de salud sobre cuestiones que hacen el cuidado de la salud de la comunidad en general.</P> <P ALIGN='JUSTIFY'>Que en igual sentido y en recupero del rol de rector&iacute;a del Estado, se han regulado y fiscalizado las actividades de prescripci&oacute;n, promoci&oacute;n y dispensa de medicamentos con la obtenci&oacute;n de mejoras en el cumplimiento del marco normativo espec&iacute;fico.</P> <P ALIGN='JUSTIFY'>Que de conformidad con tales iniciativas resulta necesario formalizar la conformaci&oacute;n de la COMISION NACIONAL ASESORA PARA EL USO RACIONAL DE MEDICAMENTOS.</P> <P ALIGN='JUSTIFY'>Que en virtud de la existencia de distintas &aacute;reas, planes y programas en los cuales el uso racional de los medicamentos resulta contundente y garante del impacto de su gesti&oacute;n, la citada COMISION deber&aacute; estar conformada por representantes de las unidades organizativas de este Ministerio y por otras representaciones del PODER EJECUTIVO NACIONAL que puedan colaborar con esta iniciativa.</P> <P ALIGN='JUSTIFY'>Que, habida cuenta de la necesidad de garantizar el &eacute;xito de las acciones que se emprenden con la presente convocatoria, resulta imperante la participaci&oacute;n de la SUBECRETARIA DE DEFENSA DEL CONSUMIDOR, dependiente del MINISTERIO DE ECONOMIA Y PRODUCCION.</P> <P ALIGN='JUSTIFY'>Que, coincidentemente con las gestiones invocadas por las &aacute;reas espec&iacute;ficas del MINISTERIO DE SALUD, se conoce que existe id&eacute;ntica voluntad por parte de las Facultades, Colegios de Ley, Sociedades y Asociaciones Cient&iacute;ficas, Acad&eacute;micas y de Profesionales vinculadas a la prescripci&oacute;n y dispensa de medicamentos.</P> <P ALIGN='JUSTIFY'>Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS ha tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que la presente medida se dicta en uso de las atribuciones conferidas por la Ley de Ministerios (T.O. 1992), modificada por la Ley Nº 25.233.</P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'>EL MINISTRO DE SALUD</P> <P ALIGN='JUSTIFY'>RESUELVE:</P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Cr&eacute;ase en el &aacute;mbito de la SUBSECRETARIA DE POLITICAS, REGULACION Y FISCALIZACION, la COMISION NACIONAL ASESORA PARA EL USO RACIONAL DE MEDICAMENTOS, la que estar&aacute; Presidida por la Titular de la SUBSECRETARIA DE POLITICAS, REGULACION Y FISCALIZACION y Coordinada operativamente por quien ejerza la titularidad de la DIRECCION DE CALIDAD EN LOS SERVICIOS DE SALUD.</P> <B><P ALIGN='JUSTIFY'>Art. 2º </B>— La COMISION NACIONAL creada por el art&iacute;culo 1º tendr&aacute; entre sus objetivos:</P> <P ALIGN='JUSTIFY'>-Delinear pautas para contribuir al uso racional de medicamentos.</P> <P ALIGN='JUSTIFY'>-Generar herramientas de informaci&oacute;n adecuada para su utilizaci&oacute;n en los medios masivos de comunicaci&oacute;n.</P> <P ALIGN='JUSTIFY'>-Identificar los problemas generales de la prescripci&oacute;n y de calidad en la atenci&oacute;n sanitaria relacionada con ello.</P> <P ALIGN='JUSTIFY'>-Desarrollar estrategias de intervenci&oacute;n para promover el uso racional de medicamentos.</P> <P ALIGN='JUSTIFY'>-Desarrollar indicadores de impacto de la aplicaci&oacute;n de esta pol&iacute;tica en la comunidad.</P> <P ALIGN='JUSTIFY'>-Establecer lineamientos que permitan el an&aacute;lisis de los causales de resistencia a los f&aacute;rmacos.</P> <P ALIGN='JUSTIFY'>-Propiciar el desarrollo de gu&iacute;as de pr&aacute;ctica cl&iacute;nica basadas en la adecuada prescripci&oacute;n y dispensa de medicamentos por parte del equipo de salud.</P> <P ALIGN='JUSTIFY'>-Formular directrices tendientes a recomendar el uso adecuado de f&aacute;rmacos y la sensibilizaci&oacute;n de los usuarios del sistema de salud a trav&eacute;s de los aspectos comunicacionales, de difusi&oacute;n e internalizaci&oacute;n en la tem&aacute;tica.</P> <P ALIGN='JUSTIFY'>-Promover la creaci&oacute;n de Comit&eacute;s Institucionales para el uso racional de medicamentos y seguridad de los pacientes.</P> <P ALIGN='JUSTIFY'>-Proponer acciones directas a la Presidencia para su consideraci&oacute;n y posterior tratamiento entre los decidores pol&iacute;ticos.</P> <P ALIGN='JUSTIFY'>-Promover campa&ntilde;as de educaci&oacute;n y concientizaci&oacute;n sobre el uso racional de medicamentos y su divulgaci&oacute;n.</P> <P ALIGN='JUSTIFY'>-Realizar todas aquellas acciones que solicite la Presidencia.</P> <P ALIGN='JUSTIFY'>-Dictar su reglamento de funcionamiento.</P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— La COMISION NACIONAL ASESORA PARA EL USO RACIONAL DE MEDICAMENTOS estar&aacute; conformada por UN (1) representante Titular y UN (1) Suplente por cada una de las siguientes unidades organizativas del MINISTERIO DE SALUD y organismos descentralizados de su dependencia:</P> <P ALIGN='JUSTIFY'>-DIRECCION DE CALIDAD EN SERVICIOS DE SALUD</P> <P ALIGN='JUSTIFY'>-DIRECCION DE EPIDEMIOLOGIA</P> <P ALIGN='JUSTIFY'>-DIRECCION NACIONAL DE PRESTACIONES MEDICAS</P> <P ALIGN='JUSTIFY'>-PROGRAMAS MEDICOS COMUNITARIOS</P> <P ALIGN='JUSTIFY'>-PROGRAMA REMEDIAR</P> <P ALIGN='JUSTIFY'>-DIRECCION NACIONAL DE POLITICAS DE RECURSOS HUMANOS EN SALUD</P> <P ALIGN='JUSTIFY'>-DIRECCION NACIONAL DE REGULACION Y FISCALIZACION</P> <P ALIGN='JUSTIFY'>-DIRECCION NACIONAL DE SALUD MATERNO INFANTIL</P> <P ALIGN='JUSTIFY'>-DIRECCION DE REGISTRO, FISCALIZACION Y SANIDAD DE FRONTERAS</P> <P ALIGN='JUSTIFY'>-COORDINACION OPERATIVA DEL PLAN NACIONAL DE SANGRE</P> <P ALIGN='JUSTIFY'>-UNIDAD COORDINADORA EJECUTORA DE SALUD MENTAL Y COMPORTAMIENTO SALUDABLE</P> <P ALIGN='JUSTIFY'>-ADMINISTRACION NACIONAL DE LABORATORIOS E INSTITUTOS DE SALUD (ANLIS) 'DR. CARLOS G. MALBRAN'</P> <P ALIGN='JUSTIFY'>-ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT)</P> <P ALIGN='JUSTIFY'>-COORDINACION DE PRENSA Y COMUNICACION</P> <B><P ALIGN='JUSTIFY'>Art. 4º </B>— Inv&iacute;tase a formar parte de la COMISION NACIONAL ASESORA PARA EL USO RACIONAL DE MEDICAMENTOS a UN (1) representante Titular y UN (1) Suplente por cada uno de los siguientes Organismos e Instituciones:</P> <P ALIGN='JUSTIFY'>-MINISTERIO DEL INTERIOR</P> <P ALIGN='JUSTIFY'>-MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA</P> <P ALIGN='JUSTIFY'>-MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS</P> <P ALIGN='JUSTIFY'>-SECRETARIA DE LUCHA CONTRA LA DROGADICCION Y EL NARCOTRAFICO (SEDRONAR).</P> <P ALIGN='JUSTIFY'>-SUBSECRETARIA DE DEFENSA DEL CONSUMIDOR</P> <P ALIGN='JUSTIFY'>-ACADEMIA NACIONAL DE MEDICINA</P> <P ALIGN='JUSTIFY'>-ASOCIACION DE FACULTADES ARGENTINAS DE CIENCIAS MEDICAS DE LA REPUBLICA ARGENTINA (A.FA.CI.ME.R.A)</P> <P ALIGN='JUSTIFY'>-ASOCIACION DE FACULTADES DE ODONTOLOGIA DE LA REPUBLICA ARGENTINA (A.F.O.R.A)</P> <P ALIGN='JUSTIFY'>-ENTE COORDINADOR DE UNIDADES ACADEMICAS DE FARMACIA Y BIOQUIMICA (E.C.U.A.F.Y.B)</P> <P ALIGN='JUSTIFY'>-ASOCIACION ARGENTINA DE PSIQUIATRAS (A.A.P.)</P> <P ALIGN='JUSTIFY'>-ASOCIACION DE PSIQUIATRIAS ARGENTINOS (A.Ps.A)</P> <P ALIGN='JUSTIFY'>-SOCIEDAD ARGENTINA DE INFECTOLOGIA </P> <P ALIGN='JUSTIFY'>-CONFEDERACION MEDICA DE LA REPUBLICA ARGENTINA (CO.M.R.A)</P> <P ALIGN='JUSTIFY'>-CONFEDERACION FARMACEUTICA DE LA REPUBLICA ARGENTINA (COFA)</P> <P ALIGN='JUSTIFY'>-CONSEJO FEDERAL DE ENTIDADES MEDICAS COLEGIADAS (CON.F.E.ME.CO)</P> <B><P ALIGN='JUSTIFY'>Art. 5º </B>— La Presidencia estar&aacute; facultada a invitar a participar de la misma a otras entidades representativas de la tem&aacute;tica a desarrollar, representantes jurisdiccionales designados por los Ministros que integran el COFESA y/o Instituciones Acad&eacute;micas, as&iacute; como otras entidades p&uacute;blicas o privadas que considere con la adecuada solvencia para el logro del fin prefijado.</P> <B><P ALIGN='JUSTIFY'>Art. 6º </B>— Los miembros de la COMISION NACIONAL ASESORA PARA EL USO RACIONAL DE MEDICAMENTOS, no percibir&aacute;n remuneraci&oacute;n por el ejercicio de sus funciones. En el caso de tratarse de funcionarios del MINISTERIO DE SALUD, los mismos actuar&aacute;n sin prejuicio de las tareas propias de sus respectivos cargos y su designaci&oacute;n no implicar&aacute; el desempe&ntilde;o de funciones superiores ni importar&aacute; erogaci&oacute;n fiscal alguna.</P> <B><P ALIGN='JUSTIFY'>Art. 7º </B>— Reg&iacute;strese, comun&iacute;quese, publ&iacute;quese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial y arch&iacute;vese. — Gin&eacute;s M. Gonz&aacute;lez Garc&iacute;a.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/resolución-1412-2007-133983" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-8504-2021-356781/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-8504-2021-356781/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-8504-2021-356781/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"UcVo-3Dsfox81THyrghV-gEm1ghOmhWj2TFVc86kXZs","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-8504-2021-356781\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-8504-2021-356781 page-normativa-nacional-disposición-8504-2021-356781-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-8504-2021-356781/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-o19LlL3whIoNqAJwPv5YL8csWmST3M0r4VVj6lQxuOw" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-8504-2021-356781">Disposición   8504/2021</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2021-11-16</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 8504/2021</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>DI-2021-8504-APN-ANMAT#MS</span><br> <br> Ciudad de Buenos Aires, 12/11/2021<br> <br> VISTO la Ley 16.463, los Decretos Nros. 9763 del 2 de diciembre de 1964 y sus modificatorios, 1490 del 20 de agosto de 1992 y 341 del 24 de febrero de 1992, la Decisión Administrativa N° 761 del 6 de septiembre de 2019, la Resolución del (ex) MINISTERIO DE SALUD Y ACCIÓN SOCIAL N° 155 del 13 de marzo de 1998 y sus normas complementarias, las Disposiciones ANMAT Nros. 345 del 19 de enero de 2006, 374 del 23 de enero de 2006, 4980 del 5 de septiembre de 2005y sus modificatorias y 2196 del 12 de marzo de 2019 y el Ex-2021-109442331-APN-ANMAT#MS; y<br> <br> CONSIDERANDO:<br> <br> Que de conformidad con Ley N° 16.463, su Decreto reglamentario N° 9763/64 y sus modificatorios y el Decreto N° 1490/92 esta ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT) tiene competencia, entre otras materias, en todo lo referido a la autorización, control y fiscalización de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico y todo otro producto de uso y aplicación en la medicina humana y de los productos de higiene, tocador y cosmética humana y de las drogas y materias primas que los componen y de las personas humanas o jurídicas que intervengan en dichas actividades.<br> <br> Que asimismo conforme al Decreto Nº 1490/92, la ANMAT tiene competencia en el contralor de las actividades, procesos y tecnologías que se realicen en función del aprovisionamiento, producción, elaboración, fraccionamiento, importación y/o exportación, depósito y comercialización de los productos, substancias, elementos y materiales consumidos o utilizados en la medicina y cosmética humanas y en la realización de acciones de prevención y protección de la salud de la población, que se encuadren en las materias sometidas a su competencia y es el órgano de aplicación de las normas legales que rigen las materias sujetas a su competencia. (Arts. 3º y 4°).<br> <br> Que la Resolución del (ex) MINISTERIO DE SALUD Y ACCIÓN SOCIAL N° 155/98 reguló las actividades referidas a la importación, exportación, elaboración, envasado y depósito de los Productos Cosméticos, para la Higiene Personal y Perfumes y las personas humanas o jurídicas que intervengan en dichas actividades.<br> <br> Que de conformidad con la mencionada norma las actividades referidas sólo pueden ser realizadas con productos registrados ante la ANMAT elaborados o importados por establecimientos habilitados por este organismo que cuenten con la dirección técnica de un profesional universitario debidamente matriculado ante el (ex) Ministerio de Salud y Acción Social y de acuerdo con las normas de su competencia.<br> <br> Que asimismo la Resolución del (ex) M.S. y A.S. N° 155/98 establece que esta Administración Nacional deberá determinar las limitaciones que corresponden al uso de ciertas materias primas que pueden utilizarse en Productos Cosméticos, para la Higiene Personal y Perfumes.<br> <br> Que el artículo 8° de la aludida resolución faculta a esta Administración Nacional a dictar todas las normas complementarias, aclaratorias y/o reglamentarias correspondientes.<br> <br> Que de acuerdo con lo expresado en el IF-2021-109471263-APN-ANMAT#MS, el cannabis y sustancias relacionadas con el cannabis se han incluido durante muchos años en las listas de la Convención Única sobre Estupefacientes de 1961 enmendada por el Protocolo de 1972.<br> <br> Que actualmente, el cannabis y la resina de cannabis se encuentran incluidos solamente en la Lista I de la referida Convención debido a que, luego de una revisión crítica efectuada por el Comité de Expertos en Farmacodependencia de la Organización Mundial de la Salud (OMS), la Comisión de Estupefacientes (CND) de Naciones Unidas aprobara la propuesta de la OMS de retirar el cannabis y la resina de cannabis de la Lista IV de la mencionada Convención; reconociendo, en consecuencia, a dichas sustancias su potencial ventaja terapéutica.<br> <br> Que además, los extractos y tinturas de cannabis son sustancias incluidas en la Lista I de Estupefacientes, tanto en la Convención Única sobre Estupefacientes de 1961 y enmendada por el Protocolo de 1972, como en el orden nacional.<br> <br> Que el Cannabidiol (CBD) es uno de los principales cannabinoides extraídos de la planta de cannabis y no figura incluido en las listas de las Convenciones internacionales de control de drogas de las Naciones Unidas de 1961, 1971 y 1988.<br> <br> Que el CBD de origen natural, que generalmente posee trazas de delta-9 tetrahidrocannabinol (en adelante THC), no produce efectos psicoactivos y no está asociado a un potencial de abuso y dependencia, mientras que los tetrahidrocannabinoles (sus isómeros y variantes estereoquímicas) poseen tales efectos con un potencial significativo de abuso y dependencia.<br> <br> Que en igual sentido y conforme a las observaciones efectuadas por la OMS los cannabinoides sintéticos tienen efectos más similares a las anfetaminas.<br> <br> Que tal como se señaló en el referido informe existen reportadas funciones cosméticas para el ingrediente Cannabidiol (CBD) de origen natural.<br> <br> Que de acuerdo al marco regulatorio internacional (Canadá, la Unión Europea, Uruguay, entre otros países) las autoridades sanitarias competentes autorizan la comercialización de productos cosméticos a base del cannabinoide de origen natural denominado Cannabidiol (CBD) que contenga trazas de THC.<br> <br> Que en ese contexto, resulta necesario definir los requisitos técnicos específicos para la inscripción de Productos Cosméticos, para la Higiene Personal y Perfumes que contengan CBD puro de origen natural o CBD presente en extractos y aceites naturales de ciertas partes de la planta de Cannabis sativa L., con no más del 0,2% P/P de THC teniendo en cuenta el potencial para convertir el ácido delta-9-tetrahidrocannabinólico (en adelante ATHC) en THC, conforme a lineamientos internacionales tales como el establecido en el artículo 32.6 del Reglamento (UE) No 1307/2013 del Parlamento Europeo y del Consejo de 17 de diciembre de 2013.<br> <br> Que de acuerdo con la Decisión Administrativa N° 761/19 la Dirección de Evaluación y Gestión de Monitoreo de Productos para la Salud tiene entre sus acciones intervenir en el control, la fiscalización y la vigilancia de la calidad de productos vinculados a la salud humana, entre ellos, los productos cosméticos, para la higiene personal y perfumes, por lo que corresponderá su intervención en la inscripción de los productos regulados por la presente y en la fiscalización y control de las actividades de elaboración, envasado, acondicionado, importación, exportación y depósito vinculados con dichos productos.<br> <br> Que por su parte, las solicitudes de importación de matria prima del componente CBD con trazas inferiores al 0,2% P/P de THC para uso en productos cosméticos, para la higiene personal y perfumes, se realizarán con la intervención del área de comercio exterior del Instituto Nacional de Medicamentos (INAME).<br> <br> Que la Dirección de Evaluación y Gestión de Monitoreo de Productos para la Salud, la Dirección del Instituto Nacional de Medicamentos, la Dirección de Relaciones Institucionales y la Dirección de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que se actúa en virtud de las facultades conferidas por el Decreto N° 1490/92 y sus modificatorios y por la Resolución del ex MS y AS N° 155/98.<br> <br> Por ello;<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1°.- Los productos que encuadren en la definición de Productos Cosméticos, para la Higiene Personal y Perfumes según la Resolución del (ex) Ministerio de Salud y Acción Social N° 155/98y que contengan al cannabinoide denominado Cannabidiol (CBD) puro de origen natural o CBD presente en extractos y aceites naturales de ciertas partes de la planta de Cannabis sativa L. con no más del 0,2% P/P de THC, podrán inscribirse como Productos Cosméticos, para la Higiene Personal y Perfumes bajo la clasificación Grado 2 de acuerdo con lo establecido en la Disposición ANMAT N° 345/06.<br> <br> ARTÍCULO 2°.- Los productos alcanzados por el artículo 1° de la presente disposición podrán contener como ingrediente al Cannabidiol (CBD) puro exclusivamente de origen natural, sus isómeros, ácidos, sales y sales de isómeros, o CBD presente en extractos y aceites naturales de ciertas partes de la planta de Cannabis sativa L., siempre que el contenido de THC no sea mayor al 0,2 % P/P, teniendo en cuenta el potencial para convertir el ATHC en THC.<br> <br> ARTÍCULO 3°.- Las actividades de elaboración, envasado, acondicionado, importación, exportación y depósito de los Productos Cosméticos, para la Higiene Personal y Perfumes regulados por la presente disposición y las personas humanas o jurídicas que intervengan en dichas actividades estarán sujetas a la fiscalización y control de la Dirección de Evaluación y Gestión de Monitoreo de Productos para la Salud de esta Administración Nacional.<br> <br> ARTICULO 4º.- La inscripción de los productos alcanzados por la presente norma se realizará de acuerdo con los procedimientos establecidos para la inscripción y modificación de inscripción de Productos Cosméticos, para la Higiene Personal y Perfumes de Grado 2 conforme a la Resolución del (ex) M.S. y A.S. N° 155/98 y sus normas modificatorias y complementarias.<br> <br> ARTICULO 5º.- Para la inscripción de los productos alcanzados por la presente disposición, además de lo requerido para los Productos Cosméticos, para la Higiene Personal y Perfumes Grado 2 según la Resolución del (ex) M.S. y A.S. N° 155/98 y sus normas modificatorias y complementarias, se deberá presentar la siguiente documentación referida a los ingredientes permitidos con CBD de origen natural con no más del 0,2 % P/P de THC:<br> <br> a. Habilitación del proveedor de la materia prima emitida por autoridad competente del país de origen para la producción y/o comercialización de ingredientes derivados del cannabis.<br> <br> b. Certificado de análisis del proveedor de los ingredientes antes señalados que incluya la determinación de THC. La determinación de THC debe tener en cuenta el potencial para convertir el ATHC en THC.<br> <br> c. Métodos de control de calidad validados.<br> <br> d. Certificado local de análisis de la materia prima emitido por el fabricante del producto terminado que incluya la determinación de THC. La determinación de THC debe tener en cuenta el potencial para convertir el ATHC en THC. En caso de tercerización de la determinación de THC en materia prima, el certificado de análisis deberá ser emitido por laboratorio de organismos o entidades oficiales.<br> <br> e. Nota en carácter de Declaración Jurada sobre la irrecuperabilidad de las trazas de THC del producto final.<br> <br> f. Declaración de cumplimiento con la &#8220;Evaluación de Seguridad&#8221; establecida por la Disposición ANMAT Nº 2196/2019.<br> <br> La documentación deberá estar firmada por el Director Técnico y el Representante legal de la empresa titular.<br> <br> La documentación emitida por autoridad extranjera deberá presentarse legalizada con Apostilla de La Haya o legalización consular y, en su caso, traducida por traductor público matriculado, con la legalización del Colegio profesional correspondiente.<br> <br> ARTÍCULO 6°.- El rotulado de los productos sujetos a la presente disposición se regirá por la Disposición ANMAT N°374/06 y sus modificatorias y no podrá hacer mención al porcentaje del ingrediente CBD que compone la formulación, ni a propiedades terapéuticas atribuibles al producto.<br> <br> El rotulado deberá contener además las siguientes advertencias: &#8220;No ingerir, sólo para uso tópico&#8221;, &#8220;Producto cosmético, no apto para uso medicinal&#8221;, &#8220;Uso exclusivo en adultos&#8221;, &#8220;No se recomienda su utilización durante el embarazo o la lactancia&#8221;, &#8220;No aplicar sobre heridas o donde la piel no esté íntegra&#8221;.<br> <br> ARTÍCULO 7°.- El ingrediente CBD con los criterios de pureza indicados en los artículos 1º y 2° de la presente solamente podrá formar parte de la formulación de productos que no entren en contacto con mucosas, quedando prohibido su uso en parches y en productos donde, por su forma cosmética, exista riesgo de inhalación durante su manipulación y uso.<br> <br> ARTICULO 8º.-Los productos con CBD alcanzados por la presente disposición no podrán proclamar o hacer alusión a ninguna finalidad que se encuadre por fuera de las establecidas en el artículo 2º de la Resolución del (ex) M.S. y A.S. Nº 155/98, tales como acción analgésica, antiinflamatoria, acciones a nivel muscular o articular o cualquier otra propiedad terapéutica.<br> <br> ARTÍCULO 9º.- Cualquier cambio referido al proveedor, origen o calidad de los ingredientes señalados en los artículos 1° y 2° de la presente norma, implicará una modificación de la inscripción del producto, debiéndose efectuar el trámite correspondiente a la referida modificación mediante la presentación de la documentación pertinente.<br> <br> ARTICULO 10º.-Las solicitudes de autorización de importación de productos terminados y gráneles, al igual que las solicitudes de certificados de libre venta y testimonios de exportación de productos terminados con el componente indicado en los artículos 1° y 2° de la presente norma se realizarán con la intervención de la Dirección de Evaluación y Gestión de Monitoreo de Productos para la Salud de esta Administración Nacional.<br> <br> Las solicitudes de importación de materia prima del componente indicado en los artículos previamente citados, se realizarán con la intervención del área de comercio exterior del Instituto Nacional de Medicamentos (INAME).<br> <br> ARTICULO 11º.- La ANMAT, a través de la Dirección de Evaluación y Gestión de Monitoreo de Productos para la Salud, evaluará el cumplimiento de los requisitos enunciados en la normativa aplicable, pudiendo requerir fundadamente la presentación de documentación y ensayos complementarios o adicionales; o bien la repetición de los ensayos y controles ya efectuados a fin de acreditar la seguridad y/o eficacia del producto declarado, todo ello de conformidad con la normativa aplicable.<br> <br> ARTÍCULO 12°.- Toda publicidad de los Productos Cosméticos, para la Higiene Personal y Perfumes regulados por la presente disposición deberá adecuarse estrictamente a lo establecido en la inscripción del producto en los términos de la Resolución (ex) MS y AS) Nº 155/98 y se regirá por lo dispuesto en los Anexos I y V de la Disposición ANMAT N° 4980/2005.<br> <br> Asimismo, la publicidad deberá incluir la leyenda &#8220;Producto cosmético que contiene cannabinoide CBD. No apto para el uso medicinal ni para su ingesta&#8221; y no deberá dirigirse y/o protagonizarse por menores de edad, embarazadas y/o personas en periodo de lactancia.<br> <br> ARTÍCULO 13º.- Los montos de los aranceles que devengarán las tramitaciones relacionadas con los productos regidos por la presente medida que se realicen ante esta ANMAT se ajustarán a la Disposición ANMAT N° 593/2021 o la que oportunamente la complemente o reemplace.<br> <br> ARTÍCULO 14º.- El incumplimiento de la presente disposición hará pasible a los infractores de la aplicación de las sanciones previstas en la Ley N° 16.463 y el Decreto N° 341/92; ello sin perjuicio de otras medidas y/o acciones que pudieran corresponder a criterio de esta Administración Nacional con el fin de preservar la salud de la población.<br> <br> ARTÍCULO 15°.- La presente disposición entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial.<br> <br> ARTICULO 16º.-Dése a la Dirección Nacional del Registro Oficial para su publicación. Comuníquese a la AFIP-ADUANA, CAPA, a la Asociación Argentina de Químicos Cosméticos y demás cámaras y asociaciones relacionadas. Dése copia a la Dirección de Evaluación y Gestión de Monitoreo de Productos para la Salud, a la Dirección del Instituto Nacional de Medicamentos, a la Dirección de Gestión de Información Técnica, a la Dirección General de Administración y a la Dirección de Relaciones Institucionales. Cumplido, archívese.<br> <br> Manuel Limeres<br> <br> <div style='text-align: right;'>e. 16/11/2021 N° 87641/21 v. 16/11/2021</div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-8504-2021-356781" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

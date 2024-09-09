@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/ley-26905-223771/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/ley-26905-223771/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/ley-26905-223771/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"u2HtDt7v_QPFGX33XwCzao3vrYTJ3AbVegTmTtgo2bU","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/ley-26905-223771\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-ley-26905-223771 page-normativa-nacional-ley-26905-223771-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/ley-26905-223771/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-wLlhhlAcME3OL0v2XjtnN5ve3euRkZBftRPAcs9wAhY" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/ley-26905-223771">Ley   26905/2013</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>HONORABLE CONGRESO DE LA NACION ARGENTINA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2013-12-16</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>ALIMENTOS</span><br style='font-weight: bold;'> <span style='font-weight: bold;'><br> Ley 26.905</span><br style='font-weight: bold;'> <span style='font-weight: bold;'><br> Consumo de sodio. Valores Máximos.</span><br style='font-weight: bold;'> <span style='font-weight: bold;'><br> Sancionada: Noviembre 13 de 2013</span><br style='font-weight: bold;'> <span style='font-weight: bold;'><br> Promulgada de Hecho: Diciembre 6 de 2013</span><br> <br> <div style='text-align: center;'>El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de<br> <br> Ley:<br> </div> <br> <span style='font-weight: bold;'>ARTICULO 1° &#8212;</span> El objeto de la presente ley es promover la reducción del consumo de sodio en la población.<br> <br> <span style='font-weight: bold;'>ARTICULO 2° &#8212;</span> La autoridad de aplicación de la presente ley es el Ministerio de Salud.<br> <br> <span style='font-weight: bold;'>ARTICULO 3° &#8212; </span>Apruébese el Anexo I que, como parte integrante de la presente ley, fija los valores máximos de sodio que deberán alcanzar los grupos alimentarios a partir del plazo de doce (12) meses a contar desde su entrada en vigencia.<br> La autoridad de aplicación puede fijar periódicamente la progresiva disminución de esos valores máximos establecidos en el Anexo I a partir del plazo de veinticuatro (24) meses a contar desde la entrada en vigencia de la presente ley.<br> <br> <span style='font-weight: bold;'>ARTICULO 4° &#8212;</span> Las pequeñas y medianas empresas productoras de alimentos, definidas conforme la ley 24.467 y sus normas modificatorias y complementarias, deberán alcanzar los valores máximos de los grupos alimentarios del Anexo I a partir del plazo de dieciocho (18) meses a contar desde su entrada en vigencia.<br> <br> La autoridad de aplicación puede fijar periódicamente la progresiva disminución de esos valores máximos establecidos en el Anexo I a partir del plazo de treinta (30) meses a contar desde la entrada en vigencia de la presente ley.<br> <br> <span style='font-weight: bold;'>ARTICULO 5° &#8212;</span> La autoridad de aplicación tiene las siguientes funciones:<br> <br> a) Determinar los lineamientos de la política sanitaria para la promoción de hábitos saludables y prioritariamente reducir el consumo de sodio en la población;<br> <br> b) Establecer, fijar y controlar las pautas de reducción de contenido de sodio en los alimentos conforme lo determina la presente ley;<br> <br> c) Fijar los valores máximos y su progresiva disminución para los grupos y productos alimentarios no previstos en el Anexo I;<br> <br> d) Fijar en los envases en los que se comercializa el sodio los mensajes sanitarios que adviertan sobre los riesgos que implica su excesivo consumo;<br> <br> e) Determinar en la publicidad de los productos con contenido de sodio los mensajes sanitarios sobre los riesgos que implica su consumo excesivo;<br> <br> f) Determinar en acuerdo con las autoridades jurisdiccionales el mensaje sanitario que deben acompañar los menús de los establecimientos gastronómicos, respecto de los riesgos del consumo excesivo de sal;<br> <br> g) Establecer en acuerdo con las autoridades jurisdiccionales los menús alternativos de comidas sin sal agregada, las limitaciones a la oferta espontánea de saleros, la disponibilidad de sal en sobres y de sal con bajo contenido de sodio, que deben ofrecer los establecimientos gastronómicos;<br> <br> h) Establecer para los casos de comercialización de sodio en sobres que los mismos no deben exceder de quinientos miligramos (500 mg.);<br> <br> i) Promover la aplicación progresiva de la presente ley en los plazos que se determinan, con la industria de la alimentación y los comerciantes minoristas que empleen sodio en la elaboración de alimentos;<br> <br> j) Promover con organismos públicos y organizaciones privadas programas de investigación y estadísticas sobre la incidencia del consumo de sodio en la alimentación de la población;<br> <br> k) Desarrollar campañas de difusión y concientización que adviertan sobre los riesgos del consumo excesivo de sal y promuevan el consumo de alimentos con bajo contenido de sodio.<br> <br> <span style='font-weight: bold;'>ARTICULO 6° &#8212;</span> Los productores e importadores de productos alimenticios deben acreditar para su comercialización y publicidad en el país las condiciones establecidas conforme lo determina la presente ley.<br> <br> <span style='font-weight: bold;'>ARTICULO 7° &#8212;</span> La autoridad de aplicación debe adecuar las disposiciones del Código Alimentario Argentino a lo establecido por la presente ley en los plazos fijados en el artículo 3°.<br> <br style='font-weight: bold;'> <span style='font-weight: bold;'>ARTICULO 8° &#8212;</span> Serán consideradas infracciones a la presente ley las siguientes conductas:<br> <br> a) Comercializar productos alimenticios que no cumplan con los niveles máximos de sodio establecidos;<br> <br> b) Comercializar sodio en sobres que superen los máximos establecidos;<br> <br> c) Omitir la inserción de los mensajes sanitarios que fije la autoridad de aplicación en los envases de comercialización de sodio, en la publicidad de productos con sodio y en los menús de los establecimientos gastronómicos;<br> <br> d) Carecer los establecimientos gastronómicos de menús alternativos sin sal, de sobres con la dosificación máxima establecida o de sal con bajo contenido de sodio, así como contravenir la limitación de oferta espontánea de saleros establecida;<br> <br> e) El ocultamiento o la negación de la información que requiera la autoridad de aplicación en su función de control;<br> <br> f) Las acciones u omisiones a cualquiera de las obligaciones establecidas, cometidas en infracción a la presente ley y sus reglamentaciones que no estén mencionadas en los incisos anteriores.<br> <br> <span style='font-weight: bold;'>ARTICULO 9° &#8212;</span> Las infracciones a la presente ley, serán sancionadas con:<br> <br> a) Apercibimiento;<br> <br> b) Publicación de la resolución que dispone la sanción en un medio de difusión masivo, conforme lo determine la reglamentación;<br> <br> c) Multa que debe ser actualizada por el Poder Ejecutivo nacional en forma anual conforme al índice de precios oficial del Instituto Nacional de Estadística y Censos &#8212;INDEC&#8212;, desde pesos mil ($ 1.000) a pesos un millón ($ 1.000.000), susceptible de ser aumentada hasta el décuplo en caso de reincidencia;<br> <br> d) Decomiso de los productos alimenticios y de los sobres de sal que no cumplan con los niveles máximos establecidos;<br> <br> e) Suspensión de la publicidad hasta su adecuación con lo previsto en la presente ley;<br> <br> f) Suspensión del establecimiento por el término de hasta un (1) año; y<br> <br> g) Clausura del establecimiento de uno (1) a cinco (5) años.<br> <br> Estas sanciones serán reguladas en forma gradual teniendo en cuenta las circunstancias del caso, la naturaleza y gravedad de la infracción, los antecedentes del infractor y el perjuicio causado, sin perjuicio de otras responsabilidades civiles y penales, a que hubiere lugar. El producido de las multas se destinará, en acuerdo con las autoridades jurisdiccionales y en el marco de COFESA, para la realización de campañas de difusión y concientización previstas en el inciso k) del artículo 5°.<br> <br> <span style='font-weight: bold;'>ARTICULO 10. &#8212;</span> La autoridad de aplicación de la presente ley debe establecer el procedimiento administrativo a aplicar en su jurisdicción para la investigación de presuntas infracciones, asegurando el derecho de defensa del presunto infractor y demás garantías constitucionales. Queda facultada a promover la coordinación de esta función con los organismos públicos nacionales intervinientes en el ámbito de sus áreas comprendidas por esta ley y con las jurisdicciones que hayan adherido. Asimismo, puede delegar en las jurisdicciones que hayan adherido la sustanciación de los procedimientos a que den lugar las infracciones previstas y otorgarles su representación en la tramitación de los recursos judiciales que se interpongan contra las sanciones que aplique. Agotada la vía administrativa procederá el recurso en sede judicial directamente ante la Cámara Federal de Apelaciones con competencia en materia contencioso-administrativa con jurisdicción en el lugar del hecho. Los recursos que se interpongan contra la aplicación de las sanciones previstas tendrán efecto devolutivo. Por razones fundadas, tendientes a evitar un gravamen irreparable al interesado o en resguardo de terceros, el recurso podrá concederse con efecto suspensivo.<br> <br> <span style='font-weight: bold;'>ARTICULO 11. &#8212;</span> Invítase a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir en lo pertinente a su jurisdicción a la presente ley.<br> <br> <span style='font-weight: bold;'>ARTICULO 12. &#8212;</span> Comuníquese al Poder Ejecutivo nacional.<br> <br> DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS TRECE DIAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL TRECE.<br> <br> <div style='text-align: center;'>&#8212; REGISTRADA BAJO EL Nº 26.905 &#8212;<br> </div> <br> JULIAN A. DOMINGUEZ. &#8212; BEATRIZ ROJKES DE ALPEROVICH. &#8212; Juan H. Estrada. &#8212; Gervasio Bozzano.<br> <br> <div style='text-align: right;'>ANEXO I<br> </div> <span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,sans-serif; font-size: 13px;'><br> <table style='padding-top: 10px; padding-bottom: 10px; text-align: left; margin-left: auto; margin-right: auto; width: 973px; height: 498px;' border='1'><tbody><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>GRUPO DE ALIMENTOS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>PRODUCTOS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>MAXIMOS DE VALORES DE SODIO PERMITIDOS 100 GRAMOS DEL PRODUCTO</td></tr><tr><td colspan='1' rowspan='5' style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>PRODUCTOS CARNICOS Y SUS DERIVADOS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>GRUPO DE CHACINADOS COCIDOS, EMBUTIDOS Y NO EMBUTIDOS. SALAZONES COCIDAS: INCLUYE SALCHICHAS, SALCHICHON, MORTADELA, JAMON COCIDO, FIAMBRES COCIDOS Y MORCILLA.</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>1196 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>GRUPO CHACINADOS SECOS: SALAMES, SALAMIN, LONGANIZA Y SOPRESATA.</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>1900 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>GRUPO EMBUTIDOS FRESCOS: CHORIZOS.</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>950 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>GRUPO CHACINADOS FRESCOS: HAMBURGUESAS.</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>850 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>GRUPO EMPANADOS DE POLLO: NUGGETS, BOCADITOS, PATYNITOS, SUPREMAS, PATITAS, MEDALLON, CHICKENITOS Y FORMITAS.</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>736 mg.</td></tr><tr><td colspan='1' rowspan='9' style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>FARINACEOS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>CRACKERS CON SALVADO</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>941 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>CRACKERS SIN SALVADO</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>941 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>SNACKS GALLETAS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>1460 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>SNACKS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>950 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>GALLETAS DULCES SECAS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>512 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>GALLETAS DULCES RELLENAS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>429 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>PANIFICADOS CON SALVADO</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>530 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>PANIFICADOS SIN SALVADO</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>501 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>PANIFICADOS CONGELADOS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>527 mg.</td></tr><tr><td colspan='1' rowspan='4' style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>SOPAS, ADEREZOS Y CONSERVAS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>CALDOS EN PASTA (CUBOS/TABLETAS) Y GRANULADOS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>430 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>SOPAS CLARAS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>346 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>SOPAS CREMAS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>306 mg.</td></tr><tr><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top;'>SOPAS INSTANTANEAS</td><td style='border-bottom: 1px solid rgb(102, 102, 102); color: black; font-size: 12px; height: 15px; vertical-align: top; text-align: center;'>352 mg.</td></tr></tbody></table></span></span> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/ley-26905-223771" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

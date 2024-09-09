@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.104',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5218-1997-46178/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5218-1997-46178/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5218-1997-46178/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"BoTUvV5sKMFN8qsksYOwFSF_CJbBJrGGhZGLO7z0nNU","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-5218-1997-46178\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-5218-1997-46178 page-normativa-nacional-disposición-5218-1997-46178-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-5218-1997-46178/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-jLsxh6q8_zDlE-TpoYa9umLkNmpCc8-D2Ql6btCJz-c" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-5218-1997-46178">Disposición   5218/1997</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>1997-10-03</strong></time>
+
+          <hr>
+
+          <article>
+            <P> <B>MINISTERIO DE SALUD Y ACCION SOCIAL</B> <P> <B>SECRETARIA POLITICA Y REGULACION DE SALUD</B> <P> <B>ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</B> <P> <B>Disposici&oacute;n N&#186; 5218/97</B> <P> <B>Bs. As., 19/9/97</B> <P> <B>B.O. 3/10/97</B> <P> VISTO, el Tratado de Asunci&oacute;n por el cual se crea el Mercado Com&uacute;n del Sur (MERCOSUR), el Protocolo de Ouro Preto y las Resoluciones GMC Nros. 20/93 y 22/96 y el expediente N&#186; 1-47-6061-97-6 del Registro de esta Administraci&oacute;n Nacional y: <P> CONSIDERANDO: <P> Que, en el marco de las armonizaciones llevadas a cabo en el &aacute;mbito del MERCOSUR por el Grupo Productos para la Salud, Subgrupo Reglamentos T&eacute;cnicos (SGT3) se consensu&oacute; el documento tecnico denominado: &quot;Sistema de Evaluaci&oacute;n de Procedimientos para la Inspecci&oacute;n de Industrias Farmoqu&iacute;micas&quot;. <P> Que dicho documento fue aprobado por el Grupo Mercado Com&uacute;n mediante la Resoluci&oacute;n GMC N&#186; 22/96. <P> Que se hace necesario incorporar dicho documento al cuerpo normativo vigente. <P> Que la Direcci&oacute;n de Asuntos Jur&iacute;dicos ha tomado la intervenci&oacute;n de su competencia. <P> Que se act&uacute;a en virtud de las facultades conferidas por el Decreto 1490/92. <P> Por ello, <P> EL DIRECTOR NACIONAL DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS ALIMENTOS Y TECNOLOGIA MEDICA <P> DISPONE: <P> <B>ARTICULO 1&#186;-</B>Las inspecciones a la industria farmoqu&iacute;mica se llevar&aacute;n a cabo de acuerdo con lo establecido en el documento t&eacute;cnico denominado: &quot;Sistema de Evaluaci&oacute;n de Procedimientos para la Inspecci&oacute;n de Industrias Farmoqu&iacute;micas&quot; que como Anexo I forma parte integrante de la presente Disposici&oacute;n. <P> <B>ARTICULO 2&#186;-</B>La entrada en vigencia de la presente Disposici&oacute;n se ajustar&aacute; a lo establecido en los Art&iacute;culos 38 y 40 del Protocolo de Ouro Preto. <P> <B>ARTICULO 3&#186;-</B>Reg&iacute;strese; Comun&iacute;quese a quienes corresponda; Comun&iacute;quese a las C&aacute;maras; D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n. Cumplido, Arch&iacute;vese PERMANENTE.- Dr. PABLO M. BAZERQUE, Director Nacional Adm. Nac. de Medicamentos Alimentos y Tec. M&eacute;dica. <P> ANEXO I <P> SISTEMA DE EVALUACION DE PROCEDIMIENTOS PARA LA INSPECCION DE INDUSTRIAS FARMOQUIMICAS <P> SISTEMA DE CALIFICACION DE LA GUIA DE INSPECCIONES DE LA INDUSTRIA FARMOQUIMICA <P> I. INTRODUCCION <P> El sistema de evaluaci&oacute;n de los resultados obtenidos despu&eacute;s de la inspecci&oacute;n a una industria farmoqu&iacute;mica, debe estar basado en la verificaci&oacute;n del cumplimiento o no de las Buenas Practicas de Fabricaci&oacute;n y Control. <P> Una inspecci&oacute;n/auditor&iacute;a debe ser realizada por profesionales debidamente calificados y con experiencia en las actividades y procesos de una industria farmoqu&iacute;micas. <P> En todos los casos, los inspectores deben ser acompa&ntilde;ados por profesionales designados por la empresa. <P> 2. CLASIFICACION DE LOS ITEMS <P> Los items de la Gu&iacute;a de Inspecciones deben ser clasificados como: ESENCIAL, NECESARIO. RECOMENDABLE e INFORMATIVO. <P> Las definiciones y los s&iacute;mbolos correspondientes a las mismas son: <P> ESENCIAL-E <P> Se considera como item ESENCIAL a aquel que formando parte de las recomendaciones de Buenas Pr&aacute;cticas de Fabricaci&oacute;n y Control, puede influir en grado critico en la calidad y/o seguridad de los productos o trabajadores, y tambi&eacute;n aquel que atiende a las exigencias jur&iacute;dico- administrativas. <P> NECESARIO-N <P> Considerase como NECESARIO, a aquel item de la Gu&iacute;a cuyo no cumplimiento puede afectar en grado significativo la calidad del producto y/o la seguridad de los trabajadores. <P> RECOMENDABLE-R <P> Consid&eacute;rase como item RECOMENDABLE, a aquel cuyo no cumplimiento puede afectar en grado no significativo la cualidad del producto y/o seguridad de los trabajadores. <P> INFORMATIVO-I <P> Consid&eacute;rase como item informativo a aquel que expresa una informaci&oacute;n descriptiva y/o complementaria <P> 3. CRITERIOS DE EVALUACION <PRE WIDTH=132> ITEM                                 EVALUACION                                                                                                         ESENCIAL                             Para obtener su aprobaci&oacute;n debe ser                                        cumplido de manera absoluta e                                              incuestionable. Se eval&uacute;a por SI o                                         NO.                                                                                                                NECESARIO                            Deber&aacute; ser explicitado seg&uacute;n su                                            grado de cumplimiento.                                                                                             RECOMENDABLE                         Deber&aacute; ser explicitado seg&uacute;n su                                            grado de cumplimiento.                                                                                             INFORMATIVO                          Ser&aacute; evaluado por SI o NO, conforme                                        al caso, y los conceptos ser&aacute;n                                             registrados en forma descriptiva.       </PRE>  <P> 4. SANCIONES PREVISTAS <P> Las sanciones previstas para el caso de no cumplimiento de los item calificados. seran: <PRE WIDTH=132> ITEM                                 SANCION                                                                                                            ESENCIAL                             Las empresas nuevas, no recibir&aacute;n                                          autorizaci&oacute;n de funcionamiento. En                                         el caso de empresas ya autorizadas,                                        la suspensi&oacute;n de las actividades                                           del sector o de la empresa,                                                conforme el caso.                                                                                                  NECESARIO                            Las empresas nuevas, no recibir&aacute;n                                          autorizaci&oacute;n de funcionamiento. En                                         el caso de empresas ya autorizadas,                                        la suspensi&oacute;n total o parcial de                                           las actividades, conforme al caso,                                         estableci&eacute;ndose el plazo para el                                           cumplimiento de las exigencias.                                                                                    RECOMENDABLE                         No implica la suspensi&oacute;n de                                                actividades, siendo establecidos                                           plazos para cumplir las exigencias                                         de cada caso particular. A criterio                                        de la Autoridad Sanitaria, podr&aacute;n                                          ser aplicadas otras medidas             </PRE>  <P> LA EMPRESA DEBERA PRESENTAR LOS DOCUMENTOS PROBATORIOS QUE SEAN SOLICITADOS <PRE WIDTH=132>                    1. INFORMACIONES GENERALES                                                                                                             1.1.    E          Raz&oacute;n Social de la Empresa.                               1.2     E          Domicilio legal                                           1.3     E          Domicilio Comercial                                       1.4.    E          Nombre del Procurador legal o equivalente.                1.5.1.  E          Nombre del Responsable T&eacute;cnica                            1.5.1.  E          Prueba de su inscripci&oacute;n en organismo competente.         1.6.    E          Autorizaci&oacute;n de funcionamiento                                               Municipal                                                                    Estadual                                                                     Federal                                                                      Otras                                                     1.7.    I          Motivo de la Inspecci&oacute;n                                   1.8.    I          Nombre/s del/los contacto/s                                                                                   cargo                   1.9                Productos Farmoqu&iacute;micos fabricados por la empresa:         </PRE>  <P>  <PRE WIDTH=132>         NOMBRE GENERICO     CAS (*)                     USO                                                                Humano          Veterinario         </PRE>  <P>  <PRE WIDTH=132>                ----------------------------------------------------------                 ----------------------------------------------------------                 ----------------------------------------------------------                 ----------------------------------------------------------                 ----------------------------------------------------------                 ----------------------------------------------------------                 ----------------------------------------------------                            (*) De no existir n&uacute;mero CAS, hacer referencia a                      Farmacopea u otra bibliograf&iacute;a adecuada                       </PRE>  <P>  <PRE WIDTH=132> 1.10    I       &#191; La empresa mantiene contratos con terceros?                1.10.1. I       &#191;Para qu&eacute; actividades?                                       1.10.2. I       &#191;Con qu&eacute; empresas son mantenidos contratos?                                  PERSONAL                                                     2.1.    I       &#191;Cu&aacute;l es el n&uacute;mero de funcionarios pertenecientes a la                      Empresa?                                                     2.1.1.  I       Administrativos.                                             2.1.2.  I       Profesionales.                                               2.1.3.  I       T&eacute;cnicos.                                                    2.1.4.  I       Operarios                                                    2.1.5.  I       Otros.                                                       2.2.    R       &#191;Existe Organigrama de la Empresa?                           2.3.    R       &#191;Existen descripciones de cargos y funciones?                2.4.    R       &#191;Las responsabilidades para cada actividad est&aacute;n                            claramente definidas?                                        2.5.    I       &#191;El responsable t&eacute;cnico se encuentra presente?               2.6     I       Responsable de la Producci&oacute;n:                                                Nombre                                                                                             CR                                                    Profesi&oacute;n                                                                    Cargo                                                        2.7.    I       Responsable del Control de Calidad                                           Nombre                                                                       Profesi&oacute;n                                                                                           CR                                                   Cargo                                                        2.8.    R       &#191;Existe programa de entrenamiento inicial para los                          funcionarios?                                                2.9.    I       &#191;Existen registros de evaluaciones de los resultados del                    entrenamiento?                                               2.10.   N       &#191;La admisi&oacute;n de funcionarios es precedida de ex&aacute;menes                       m&eacute;dicos?                                                     2.10.1. R       &#191;Existen registros?                                          2.11    R       &#191;Existe plan de atenci&oacute;n m&eacute;dica permanente y de                             emergencia para los funcionarios?                             </PRE>  <P> e. 3/10 N&#186; 201.066 v. 3/10/97          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-5218-1997-46178" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/decreto-4589-1971-145674/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/decreto-4589-1971-145674/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/decreto-4589-1971-145674/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"YqcSeXCg_2K91SaYVmQ6R1iOfEjgbP1d2pB2C1N69uk","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/decreto-4589-1971-145674\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-decreto-4589-1971-145674 page-normativa-nacional-decreto-4589-1971-145674-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/decreto-4589-1971-145674/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-8-YTiohA7NvM1JV_OZuKXbnVCh1P11GHr3ZMZfQa8so" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/decreto-4589-1971-145674">Decreto   4589/1971</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>PODER EJECUTIVO NACIONAL (P.E.N.)</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>1971-10-28</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>DROGAS</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>DECRETO Nº 4.589</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Normas para la fabricaci&oacute;n, comercializaci&oacute;n, circulaci&oacute;n y uso.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Su reglamentaci&oacute;n.</P> </B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Bs. As., 11/10/71</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO la Ley 19.303, que establece normas para la fabricaci&oacute;n, comercializaci&oacute;n, circulaci&oacute;n y uso de drogas, preparados y especialidades farmac&eacute;uticas considerados sicotr&oacute;picos; y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el Ministerio de Bienestar Social ha proyectado la correspondiente reglamentaci&oacute;n,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL PRESIDENTE DE LA NACION ARGENTINA</P> <P ALIGN='JUSTIFY'>DECRETA:</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º</B> – Apru&eacute;base el cuerpo de disposiciones que constituye la reglamentaci&oacute;n de la Ley 19.303 y que como anexo forma parte integrante del presente decreto.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 2º</B> – Fac&uacute;ltase al Ministerio de Bienestar Social para que a trav&eacute;s de sus organismos espec&iacute;ficos dicte las normas complementarias, aclaratorias o interpretativas que requiera la aplicaci&oacute;n de la reglamentaci&oacute;n que se aprueba por el presente decreto.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 3º</B> – Comun&iacute;quese, publ&iacute;quese; d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial y arch&iacute;vese.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='CENTER'>LANUSSE</P> <P ALIGN='CENTER'>Francisco G. Manrique</P> </B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 1º - Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 2º - Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 3º - La autoridad sanitaria nacional determinar&aacute; en cada caso las condiciones bajo las cuales autorizar&aacute; la importaci&oacute;n, exportaci&oacute;n, fabricaci&oacute;n, fraccionamiento, circulaci&oacute;n, expendio y uso de los sicotr&oacute;picos incluidos en la Lista I, destinados a los fines previstos en el art&iacute;culo 3º de la Ley Nº 19.303.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Las personas autorizadas de conformidad al p&aacute;rrafo anterior, deber&aacute;n llevar un registro sobre la adquisici&oacute;n de los sicotr&oacute;picos y de los detalles de su uso, sin perjuicio de otras constancias que se exijan al acordarse la autorizaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Estos registros foliados y rubricados por la autoridad sanitaria nacional, deber&aacute;n conservarse, como m&iacute;nimo, dentro de dos (2) a&ntilde;os despu&eacute;s del &uacute;ltimo asiento y su destrucci&oacute;n se har&aacute; con intervenci&oacute;n de la autoridad sanitaria nacional.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 4º - Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 5º - A los efectos de lo determinado en el art&iacute;culo 5º de la Ley n&uacute;mero 19.303, las personas que importen, exporten o reexporten los psicotr&oacute;picos incluidos en las listas II y III, deber&aacute;n presentar una solicitud de habilitaci&oacute;n ante la autoridad sanitaria nacional, en la que conste:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Datos de identificaci&oacute;n y domicilio legal del solicitante;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Datos de identificaci&oacute;n, t&iacute;tulo y domicilio del director t&eacute;cnico responsable;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) Certificado expedido por la autoridad competente de hallarse inscripto como importador o exportador;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) Ubicaci&oacute;n de la planta o dep&oacute;sito.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 6º - El certificado oficial de importaci&oacute;n deber&aacute; contener:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Datos de identificaci&oacute;n y domicilio del importador.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Constancia de la habilitaci&oacute;n como importador, de conformidad a lo dispuesto en el art&iacute;culo 5º de la Ley Nº 19.303.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) Designaci&oacute;n gen&eacute;rica y f&oacute;rmula qu&iacute;mica para la identificaci&oacute;n del sicotr&oacute;pico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) Nombre y domicilio del exportador y pa&iacute;s de origen.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>e) Cantidad que se importe y tipo de envase.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 7º - El certificado oficial de exportaci&oacute;n o reexportaci&oacute;n deber&aacute; contener:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Datos de identificaci&oacute;n y domicilio del exportador;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Constancia de la habilitaci&oacute;n como exportador, de conformidad a lo dispuesto en el art&iacute;culo 5º de la Ley Nº 19.303;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) Designaci&oacute;n gen&eacute;rica y f&oacute;rmula qu&iacute;mica para la identificaci&oacute;n del sicotr&oacute;pico;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) Nombre y domicilio del importador y pa&iacute;s de destino;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>e) Cantidad que se exporte y tipo de envase.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 8º - A los efectos de lo determinado en el art&iacute;culo 8º de la Ley n&uacute;mero 19.303, se observar&aacute;n las siguientes disposiciones:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>I — El certificado oficial de sicotr&oacute;picos en tr&aacute;nsito deber&aacute; contener:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Nombre y domicilio del exportador y pa&iacute;s de origen;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Nombre y domicilio del importador y pa&iacute;s de destino;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) N&uacute;mero de los respectivos permisos de exportaci&oacute;n e importaci&oacute;n;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) Designaci&oacute;n gen&eacute;rica y nombre qu&iacute;mico del sicotr&oacute;pico en tr&aacute;nsito;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>e) Cantidad;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>f) Embalaje detallado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>II — Para el cambio de destino de los sicotr&oacute;picos en tr&aacute;nsito, la autoridad sanitaria nacional exigir&aacute; la presentaci&oacute;n del permiso de importaci&oacute;n del nuevo pa&iacute;s de destino y la solicitud de cambio del primitivo importador, extendiendo otro certificado de tr&aacute;nsito. El cambio de destino ser&aacute; comunicado al pa&iacute;s exportador con remisi&oacute;n del nuevo certificado de tr&aacute;nsito.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 9º - Los establecimientos determinados en el art&iacute;culo 9º de la Ley Nº 19.303, deber&aacute;n llevar un registro especial, foliado y rubricado por la autoridad sanitaria nacional, en el que conste:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Fecha, nombre, domicilio del proveedor;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Designaci&oacute;n gen&eacute;rica y f&oacute;rmula qu&iacute;mica del sicotr&oacute;pico;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) Clase y cantidad de materias primas ingresadas;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) N&uacute;mero de factura o remito;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>e) Fecha, clase y cantidad de sicotr&oacute;picos elaborados;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>f) Fecha, nombre y domicilio del adquirente;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>g) Clase y cantidad de sicotr&oacute;picos expedidos;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>h) N&uacute;mero de factura o remito.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 10.- Los establecimientos a que se refiere el art&iacute;culo 10 de la Ley Nº 19.303, deber&aacute;n exigir, por cada operaci&oacute;n de venta que realicen, la certificaci&oacute;n de la habilitaci&oacute;n del adquirente.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 11.- Los formularios a que se refiere el art&iacute;culo 11 de la Ley n&uacute;mero 19.303, deber&aacute;n contener:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Fecha, nombre y domicilio del enajenante y adquirente;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Designaci&oacute;n gen&eacute;rica y nombre qu&iacute;mico del sicotr&oacute;pico;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) Lista en la cual se halla incluido;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) Forma farmac&eacute;utica;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>e) Cantidad y tipo de envase;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>f) N&uacute;mero de factura o remito.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 12. - Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 13. - Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 14. - Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 15. - Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 16. - Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 17. - Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 18.- Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 19.- Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 20.- Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 21.- Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 22.- Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 23.- Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 24.- Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 25.- De las infracciones a las disposiciones de la Ley Nº 19.303 y a las de la presente reglamentaci&oacute;n, la autoridad sanitaria nacional, cuando le competa, dar&aacute; vista de las actuaciones al imputado por el t&eacute;rmino de cinco (5) d&iacute;as h&aacute;biles, a los fines de su defensa y ofrecimiento de pruebas, acompa&ntilde;ando la documental. Sustanciada la prueba, se dictar&aacute; resoluci&oacute;n en el plazo de diez (10) d&iacute;as h&aacute;biles.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Los plazos a que se refiere este art&iacute;culo son perentorios y prorrogables s&oacute;lo por razones de distancia, comput&aacute;ndose &eacute;sta en la proporci&oacute;n de un d&iacute;a por cada cien (100) kil&oacute;metros o fracci&oacute;n excedente superior a cincuenta (50) kil&oacute;metros.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 26.- El recurso de apelaci&oacute;n previsto en el art&iacute;culo 26 de la Ley n&uacute;mero 19.303; contra las decisiones administrativas de la autoridad sanitaria nacional, deber&aacute; interponerse ante el Ministerio de Bienestar Social de la Naci&oacute;n para ante los Jueces de Primera Instancia en lo Federal y Contencioso Administrativo en la Capital Federal y Juzgados Federales en jurisdicci&oacute;n provincial.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 27.- Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 28.- Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 29.- A los efectos determinados en el art&iacute;culo 29 de la Ley n&uacute;mero 19.303, los funcionarios t&eacute;cnicos de la autoridad sanitaria nacional podr&aacute;n practicar inspecciones a los establecimientos, habilitados o no, donde se produzcan, elaboren, fraccionen, depositen o expendan sicotr&oacute;picos, debiendo proceder de la siguiente forma:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Para desarrollar su cometido los funcionarios tendr&aacute;n acceso a todas las dependencias del establecimiento, cualquiera sea su car&aacute;cter, incluyendo las oficinas comerciales, aun cuando unas y otras radiquen en lugares diferentes. Esta facultad se ejercer&aacute; en horas h&aacute;biles de trabajo;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Se cerciorar&aacute;n si el establecimiento visitado funciona correctamente y cuenta con los elementos necesarios para elaborar los productos a que est&eacute; autorizado, seg&uacute;n las condiciones establecidas al resolver su habilitaci&oacute;n. De igual manera, est&aacute;n facultados para examinar toda clase de documentaci&oacute;n relacionada con la actividad espec&iacute;fica del establecimiento;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) Terminada la inspecci&oacute;n se levantar&aacute; un acta por triplicado, con indicaci&oacute;n del lugar, fecha y hora y se consignar&aacute; todo lo observado, pudiendo el propietario del establecimiento, su representante debidamente acreditado o la persona que se encontrase a cargo del mismo, hacer constar en ella las alegaciones que crea convenientes. Igualmente podr&aacute;n ser consignados los testimonios de otras personas, as&iacute; como copia o testimonio de cualquier documento o parte de ellos. El acta deber&aacute; ser firmada por todos los intervinientes y para el caso de que la persona que asisti&oacute; al procedimiento se negara a firmar, el funcionario recurrir&aacute; a personas que atestig&uuml;en la lectura de la misma y la negativa a firmarla, y en caso de imposibilidad de este procedimiento, dejar&aacute; constancia en el acta, de su lectura, de la negativa y de la imposibilidad de hallar testigos. Una copia del acta quedar&aacute; en poder del inspeccionado; el original y una copia se elevar&aacute;n en el plazo de cuarenta y ocho (48) horas para la iniciaci&oacute;n del sumario, si correspondiere;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) Cuando se juzgue necesario, se proceder&aacute; a la extracci&oacute;n de muestras de materia prima y de psicotr&oacute;picos en fase de elaboraci&oacute;n o terminados, en n&uacute;mero de tres, representativas del lote. Las muestras ser&aacute;n precintadas por medio de sellos o lacres que eviten cambios o sustituciones.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>De estas tres muestras, una considerada original, se emplear&aacute; para el an&aacute;lisis en primera instancia; la segunda, considerada duplicado, se reservar&aacute; por la autoridad sanitaria nacional para una eventual pericia de control y la tercera, triplicado, quedar&aacute; en poder del interesado para que se analice juntamente con el duplicado en la pericia de control o para contraverificaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En el acta que se levante con los recaudos del inciso c), se individualizar&aacute; el o los productos muestreados, con detalle de su rotulaci&oacute;n, etiqueta y atestaciones adheridas al envase, contenido de la unidad, partida y serie de fabricaci&oacute;n y fecha de envasamiento y/o vencimiento, en su caso, condiciones en que estaba conservado, naturaleza de la mercader&iacute;a y denominaci&oacute;n exacta del material en cuesti&oacute;n, para establecer la autenticidad de las muestras. Dentro de los tres (3) d&iacute;as h&aacute;biles de realizado el an&aacute;lisis, el establecimiento, instituto o servicio oficial que lo hubiere realizado, por carta certificada con aviso de retorno, notificar&aacute; su resultado a la firma propietaria del o de los productos, con remisi&oacute;n de copia del o de los pertinentes protocolos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El original y copia de &eacute;stos se agregar&aacute;n al expediente respectivo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El interesado dentro del plazo de tres (3) d&iacute;as h&aacute;biles de notificado podr&aacute; solicitar pericia de control, la que se llevar&aacute; a cabo dentro de los diez (10) d&iacute;as h&aacute;biles con la presencia del o de los t&eacute;cnicos que designe, quienes suscribir&aacute;n el protocolo con el t&eacute;cnico oficial a cargo de la pericia. El resultado de la pericia de control se agregar&aacute; al expediente, el que ser&aacute; elevado dentro del plazo de cuarenta y ocho (48) horas, para la iniciaci&oacute;n del sumario de pr&aacute;ctica, si correspondiere. El resultado del an&aacute;lisis se tendr&aacute; por v&aacute;lido y se considerar&aacute; como plena prueba de la responsabilidad del imputado si en el plazo establecido no se solicitare pericia de control o habi&eacute;ndola solicitado no compareciera a &eacute;sta;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>e) Los funcionarios que durante la inspecci&oacute;n comprueben la existencia de productos sin autorizaci&oacute;n de venta o presuntivamente falsificados, adulterados o alterados, proceder&aacute;n directamente a su intervenci&oacute;n como medida precautoria para suspender su circulaci&oacute;n y extraer&aacute;n muestras de los sicotr&oacute;picos intervenidos conforme a lo dispuesto en el inciso d).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 30.- Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 31.- Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 32.- Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 33.- Sin reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art&iacute;culo 34.- Sin reglamentaci&oacute;n.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/decreto-4589-1971-145674" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

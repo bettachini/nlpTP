@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1645-2008-148528/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1645-2008-148528/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1645-2008-148528/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"bADnBbWVACdJ0pgZv91RRt5MBONLI28PqCa3HBF1Yjs","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/resoluci%C3%B3n-1645-2008-148528\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-resolución-1645-2008-148528 page-normativa-nacional-resolución-1645-2008-148528-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/resoluci%C3%B3n-1645-2008-148528/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-tmBx7iHl43Coi5zGUnNNFjPYhJcT44Wp7eazS_H4H6o" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/resoluci%C3%B3n-1645-2008-148528">Resolución   1645/2008</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>MINISTERIO DE SALUD</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2008-12-18</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Ministerio de Salud</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ESPECIALIDADES MEDICINALES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Resoluci&oacute;n 1645/2008</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Proh&iacute;bese la elaboraci&oacute;n, comercializaci&oacute;n y uso de efedrina como monodroga. Excepci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> </B><P ALIGN='JUSTIFY'>Bs. As., 12/12/2008</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO la Resoluci&oacute;n Conjunta del MINISTERIO DE SALUD Nº 932, del MINISTERIO DE JUSTICIA, SEGURIDAD Y DERECHOS HUMANOS Nº 2529, y de la SECRETARIA DE PROGRAMACION PARA LA PREVENCION DE LA DROGADICCION Y LA LUCHA CONTRA EL NARCOTRAFICO Nº 851, del 5 de septiembre de 2008 y la Disposici&oacute;n de la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (A.N.M.A.T.) Nº 4712 del 15 de agosto de 2008, y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que frente a la situaci&oacute;n de riesgo en nuestro pa&iacute;s debida a la utilizaci&oacute;n ilegal de las sustancias efedrina y pseudoefedrina, se torn&oacute; necesario adoptar medidas urgentes con el fin de proteger la salud de la poblaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en tal sentido por la citada Resoluci&oacute;n Conjunta se proh&iacute;be la importaci&oacute;n, ya sea como materia prima y/o productos semielaborados, de efedrina, sus sales, is&oacute;meros &oacute;pticos y sales de sus is&oacute;meros &oacute;pticos, y de pseudoefedrina, sus sales, is&oacute;meros &oacute;pticos y sales de sus is&oacute;meros &oacute;pticos, a las droguer&iacute;as y/o personas f&iacute;sicas y/o jur&iacute;dicas que no resulten titulares de registro de especialidades medicinales de conformidad con las normativas vigentes.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que asimismo establece que los laboratorios titulares de especialidades medicinales que contengan en su composici&oacute;n tales sustancias ser&aacute;n los &uacute;nicos autorizados a solicitar la correspondiente autorizaci&oacute;n previa de importaci&oacute;n, ya sea como materia prima o como producto semielaborado, ante el DEPARTAMENTO DE PSICOTROPICOS Y ESTUPEFACIENTES del INSTITUTO NACIONAL DE MEDICAMENTOS dependiente de la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (A.N.M.A.T.), y el correspondiente certificado de importaci&oacute;n por ante la SECRETARIA DE PROGRAMACION PARA LA PREVENCION DE LA DROGADICCION Y LA LUCHA CONTRA EL NARCOTRAFICO.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por su parte el art&iacute;culo 8º de la mencionada Resoluci&oacute;n Conjunta dispone que los firmantes del citado acto administrativo dictar&aacute;n, en el &aacute;mbito de sus respectivas competencias y en el car&aacute;cter de autoridades de aplicaci&oacute;n, las normas reglamentarias, aclaratorias e interpretativas que estimen corresponder.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (A.N.M.A.T.), mediante Disposici&oacute;n Nº 4712/08 perfeccion&oacute; los mecanismos para la importaci&oacute;n de las mencionadas sustancias a fin de hacer m&aacute;s eficientes y eficaces las acciones de prevenci&oacute;n y protecci&oacute;n de la salud de la poblaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en uso de las atribuciones conferidas al MINISTERIO DE SALUD por el inciso 16, del art&iacute;culo 23 ter de la Ley de Ministerios (T.O. 1992), modificada por la Ley 26.338, que lo autoriza a intervenir en la fiscalizaci&oacute;n de todo lo atinente a la elaboraci&oacute;n, distribuci&oacute;n y comercializaci&oacute;n de los productos medicinales, entre otros, ha encomendado a la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (A.N.M.A.T.), el estudio y an&aacute;lisis de la situaci&oacute;n de las aludidas drogas, tanto como monodrogas como asociadas, en cuanto a su vigencia terap&eacute;utica, caracter&iacute;sticas de su comercializaci&oacute;n, en lo que se refiere a su condici&oacute;n de venta, viabilidad de su sustituci&oacute;n por otros ingredientes farmac&eacute;uticos activos, asociaciones aceptables, formas farmac&eacute;uticas, advertencias en los prospectos y toda otra especificaci&oacute;n relacionada con el uso racional de las especialidades medicinales que contengan en su composici&oacute;n efedrina y/o pseudoefedrina.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que a tal efecto la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (A.N.M.A.T.) conform&oacute; una Comisi&oacute;n Asesora de an&aacute;lisis de la situaci&oacute;n de registro, producci&oacute;n y venta en el pa&iacute;s de especialidades medicinales conteniendo efedrina y pseudoefedrina, la cual estableci&oacute; un plan de trabajo que permitiera contar con la informaci&oacute;n requerida en cuanto a la verdadera necesidad de la existencia de medicamentos en el mercado ya sea con efedrina o pseudoefedrina como monodroga o en asociaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en tal sentido el objetivo de este plan fue fijar una posici&oacute;n que contribuya al buen uso de estos principios activos y restringir y contribuir al control de cualquier uso ilegal de estos principios activos conocidos como precursores de metanfetaminas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por ello se consider&oacute; relevante la consulta con diferentes sociedades cient&iacute;ficas a los fines de valorar las necesidades de uso de dichos principios activos, as&iacute; como su ecuaci&oacute;n riesgo-beneficio, habiendo participado la SOCIEDAD DE ANESTESIOLOGIA, la SOCIEDAD ARGENTINA DE PEDIATRIA, la FEDERACION ARGENTINA DE SOCIEDADES DE OTORRINO- LARINGOLOGIA y la SOCIEDAD OFTALMOLOGICA.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que las recomendaciones emanadas de la Comisi&oacute;n Asesora dan cuenta que respecto de las especialidades medicinales que contienen efedrina como monodroga se considera necesaria s&oacute;lo en la forma farmac&eacute;utica inyectable para ser administrada por v&iacute;a endovenosa, intramuscular o subcut&aacute;nea para el tratamiento de la hipotensi&oacute;n aguda durante la anestesia epidural en ces&aacute;reas, siendo restringida la condici&oacute;n de venta a &quot;Uso exclusivo profesional y Hospitalario&quot;, en presentaciones como frasco-ampolla (vial) monodosis.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que con relaci&oacute;n al uso de la efedrina asociada, teniendo en cuenta la v&iacute;a de aplicaci&oacute;n, se considera de utilidad la de uso oft&aacute;lmico en la forma farmac&eacute;utica de colirios y exclusivamente bajo receta, recomendando la suspensi&oacute;n con retiro del mercado en TREINTA (30) d&iacute;as o cambio de f&oacute;rmula para las especialidades medicinales a la fecha usadas por v&iacute;a nasal o en forma sist&eacute;mica por v&iacute;a oral.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en lo que respecta a las especialidades medicinales que contienen pseudoefedrina como monodroga se concluye que debe retirarse del mercado para todas las formas farmac&eacute;uticas y concentraciones a la fecha autorizadas, dada la existencia de otros descongestivos sist&eacute;micos y recomendando la suspensi&oacute;n con retiro del mercado en TREINTA (30) d&iacute;as o cambio de f&oacute;rmula para las especialidades medicinales que la contengan.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en lo atinente a las especialidades medicinales que contienen pseudoefredina en asociaci&oacute;n fija con analg&eacute;sicos, antihistam&iacute;nicos, antiinflamatorios, entre otros, se ve la conveniencia de que s&oacute;lo se expendan bajo la condici&oacute;n de venta bajo receta y en presentaciones que respeten la posolog&iacute;a y por tanto el uso racional del medicamento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que teniendo en cuenta las conclusiones arribadas por el organismo t&eacute;cnico con competencia espec&iacute;fica en la materia, resulta imperioso regular las condiciones de uso y comercializaci&oacute;n de las especialidades medicinales que contengan en su composici&oacute;n efedrina como monodroga y asociada y pseudoefedrina como monodroga y asociada, en los t&eacute;rminos recomendados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS ha tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en uso de las facultades conferidas por la Ley de Ministerios (T.O. 1992), modificada por la Ley 26.338.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>LA MINISTRA DE SALUD</P> <P ALIGN='JUSTIFY'>RESUELVE:</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Proh&iacute;bese la elaboraci&oacute;n, comercializaci&oacute;n y uso de efedrina como monodroga, con excepci&oacute;n de la forma farmac&eacute;utica inyectable para ser administrada por v&iacute;a endovenosa, intramuscular o subcut&aacute;nea con una presentaci&oacute;n de frasco ampolla (vial) monodosis con indicaci&oacute;n para el tratamiento de la hipotensi&oacute;n aguda durante la anestesia epidural en ces&aacute;reas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La condici&oacute;n de venta de la especialidad medicinal autorizada en el p&aacute;rrafo anterior se restringir&aacute; a &quot;Uso Exclusivo Profesional y Hospitalario&quot;.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Los laboratorios titulares de la especialidad medicinal que contenga en su composici&oacute;n efedrina en la modalidad autorizada en el presente art&iacute;culo s&oacute;lo podr&aacute;n comercializarlas a establecimientos asistenciales p&uacute;blicos y/o privados para los fines indicados.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 2º </B>— Proh&iacute;bese la elaboraci&oacute;n, comercializaci&oacute;n y uso de efedrina asociada a otros principios activos, para las v&iacute;as de administraci&oacute;n nasal y oral de uso sist&eacute;mico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ord&eacute;nase a los laboratorios titulares de las especialidades medicinales que contengan en su composici&oacute;n efedrina asociada con otros principios activos para las referidas v&iacute;as de administraci&oacute;n, el retiro del mercado de las mismas, dentro del plazo de NOVENTA (90) d&iacute;as corridos contados a partir de la entrada en vigencia de la presente resoluci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— Establ&eacute;cese que las especialidades medicinales que contengan efedrina asociada a otros principios activos s&oacute;lo ser&aacute;n autorizadas para la v&iacute;a de aplicaci&oacute;n oft&aacute;lmica, y tendr&aacute;n condici&oacute;n de venta bajo receta.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 4º </B>— Autor&iacute;zase a los laboratorios titulares de las especialidades medicinales que contengan efedrina asociada a otros principios activos para el destino indicado en el art&iacute;culo 2º de la presente resoluci&oacute;n, a reemplazar dicha sustancia a trav&eacute;s de una solicitud de cambio de f&oacute;rmula farmac&eacute;utica, acreditando la existencia de un producto similar, y acompa&ntilde;ando la correspondiente evidencia de comercializaci&oacute;n y consumo, de conformidad a las prescripciones del Decreto Nº 150/92 (T.O. 1993) y normas complementarias.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>A dichos fines, ot&oacute;rgase un plazo de TREINTA (30) d&iacute;as corridos contados a partir de la entrada en vigencia de la presente resoluci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En caso de no optar por dicha alternativa dentro del plazo aludido, o no siendo posible dar cumplimiento a los requisitos exigidos por la normativa vigente en la materia, si as&iacute; lo determina la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (A.N.M.A.T.), los certificados de las especialidades medicinales que contengan efedrina asociada a otros principios activos para el destino indicado en el art&iacute;culo 2º de la presente resoluci&oacute;n, quedar&aacute;n cancelados de pleno derecho.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 5º </B>— Proh&iacute;bese la elaboraci&oacute;n, comercializaci&oacute;n y uso de la pseudoefedrina como monodroga, en cualquier concentraci&oacute;n y forma farmac&eacute;utica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ord&eacute;nase a los laboratorios titulares de especialidades medicinales que contengan pseudoefedrina como monodroga a efectuar el retiro del mercado de las mismas, dentro de los NOVENTA (90) d&iacute;as contados a partir de la entrada en vigencia de la presente resoluci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 6º </B>— Las especialidades medicinales que contengan pseudoefedrina en asociaci&oacute;n fija con otras drogas, tales como antihistam&iacute;nicos, analg&eacute;sicos, antiinflamatorios, expectorantes, antitusivos, entre otras, tendr&aacute;n condici&oacute;n de venta bajo receta.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (A.N.M.A.T.) establecer&aacute; las dem&aacute;s condiciones de autorizaci&oacute;n de estas especialidades medicinales en el &aacute;mbito de su competencia espec&iacute;fica.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 7º </B>— La ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (A.N.M.A.T.) ser&aacute; la autoridad de aplicaci&oacute;n de la presente resoluci&oacute;n y dictar&aacute; las normas reglamentarias, aclaratorias e interpretativas que estime pertinentes para su debida implementaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 8º </B>— Establ&eacute;cese que atento a la condici&oacute;n de venta bajo receta asignada por la presente resoluci&oacute;n a la pseudoefedrina como monodroga o asociada, los laboratorios titulares de las especialidades medicinales que la contengan en su composici&oacute;n, no podr&aacute;n efectuar publicidad al p&uacute;blico de conformidad a lo establecido en el art&iacute;culo 19 inciso d) de la Ley 16.463, y normas complementarias.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 9º </B>— El incumplimiento de la presente resoluci&oacute;n har&aacute; pasible a los infractores de las sanciones previstas en la Ley 16.463, actualizadas por el Decreto Nº 341/92, y normas reglamentarias.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 10. </B>— La presente resoluci&oacute;n entrar&aacute; en vigencia a partir del d&iacute;a siguiente al de su publicaci&oacute;n en el Bolet&iacute;n Oficial.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 11. </B>— Comun&iacute;quese, publ&iacute;quese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial y arch&iacute;vese. — Mar&iacute;a G. Oca&ntilde;a.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/resolución-1645-2008-148528" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

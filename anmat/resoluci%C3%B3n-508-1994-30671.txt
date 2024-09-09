@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-508-1994-30671/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-508-1994-30671/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-508-1994-30671/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"P7Q0tPvJNYJ7EIer7E4XuONXlxLhIuikPzd3vYeI7zQ","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/resoluci%C3%B3n-508-1994-30671\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-resolución-508-1994-30671 page-normativa-nacional-resolución-508-1994-30671-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/resoluci%C3%B3n-508-1994-30671/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-RP146r1oDsBcWoHGmeaIPhIxj8NY12kaD351gKS64e8" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/resoluci%C3%B3n-508-1994-30671">Resolución   508/1994</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>MINISTERIO DE SALUD Y ACCION SOCIAL</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>1994-07-26</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>MINISTERIO DE SALUD Y ACCION SOCIAL</P> <P ALIGN='JUSTIFY'>Resoluci&oacute;n Nº 508/94</P> </B><P ALIGN='JUSTIFY'>Bs. As., 13/7/94</P> <P ALIGN='JUSTIFY'>VISTO los requerimientos establecidos en la Ley Nº 16.463 en cuanto a los productos de uso y aplicaci&oacute;n en medicina humana, y</P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que es necesario dictar normas reglamentarias que garanticen la calidad del alcohol et&iacute;lico que se expende para uso en medicina humana.</P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades otorgadas por la Ley Nº 16.463 y su Reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'>Que la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica y la Direcci&oacute;n General de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n que les compete.</P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'>EL MINISTRO DE SALUD Y ACCION SOCIAL</P> <P ALIGN='JUSTIFY'>RESUELVE:</P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º</B> — Quedan sometidos a la presente Resoluci&oacute;n: El fraccionamiento, envase y dep&oacute;sito para la comercializaci&oacute;n y el expendio al p&uacute;blico del alcohol et&iacute;lico (etanol) que se destine al uso en cosm&eacute;tica y medicina humana y las personas visibles o jur&iacute;dicas que intervengan en dichas actividades.</P> <B><P ALIGN='JUSTIFY'>Art. 2º</B> — Las actividades mencionadas en el Art&iacute;culo 1º s&oacute;lo podr&aacute;n realizarse previa autorizaci&oacute;n de la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica (ANMAT) en establecimientos habilitados al efecto por la misma de acuerdo con las normas que se establecen atendiendo a razonables garant&iacute;as t&eacute;cnicas, en salvaguarda de la salud de las personas.</P> <B><P ALIGN='JUSTIFY'>Art. 3º</B> — El alcohol et&iacute;lico para uso cosm&eacute;tico y medicinal que se fraccione, y envase con destino al expendio al p&uacute;blico debe responder a las especificaciones establecidas por la Farmacopea Argentina en vigencia y a las que en su complemento establezca la autoridad de aplicaci&oacute;n.</P> <B><P ALIGN='JUSTIFY'>Art. 4º</B> — Autor&iacute;zase la rectificaci&oacute;n de las partidas rechazadas por no cumplimentar las especificaciones de la Farmacopea Argentina VI Ed. para ajustar las mismas definiendo como procedimiento de rectificaci&oacute;n aquel tendiente a la obtenci&oacute;n de un producto de m&aacute;xima pureza de acuerdo a especificaciones.</P> <B><P ALIGN='JUSTIFY'>Art. 5º</B> — 1º) El alcohol et&iacute;lico para uso medicinal s&oacute;lo podr&aacute; expenderse al p&uacute;blico en envases herm&eacute;ticamente cerrados de material qu&iacute;micamente inerte, tapa inviolable y uniformemente rotulados.</P> <P ALIGN='JUSTIFY'>2) El fraccionamiento, envasado y dep&oacute;sito s&oacute;lo podr&aacute; ser realizado por establecimientos expresamente autorizadas al efecto por la Administraci&oacute;n Nacional de Medicamentos Alimentos y Tecnolog&iacute;a M&eacute;dica (ANMAT) y funcionar&aacute;n bajo la direcci&oacute;n t&eacute;cnica de un profesional universitario farmac&eacute;utico, bioqu&iacute;mico, licenciado o Doctor en qu&iacute;mica o ingeniero qu&iacute;mico.</P> <P ALIGN='JUSTIFY'>3) Los locales habilitados ser&aacute;n destinados exclusivamente al fraccionamiento, envasado y dep&oacute;sito del alcohol et&iacute;lico destinado a uso humano y contar&aacute;n con las instalaciones y equipos necesarios.</P> <P ALIGN='JUSTIFY'>4) A los fines de la habilitaci&oacute;n correspondiente el/los solicitante/s deber&aacute;n iniciar el tr&aacute;mite presentando:</P> <P ALIGN='JUSTIFY'>a) Debidamente cumplimentado el formulario que se adjunta como Anexo I de la presente Resoluci&oacute;n;</P> <P ALIGN='JUSTIFY'>b) Dos planos en escala 100:1 de la distribuci&oacute;n de &aacute;reas y sus medidas. Los locales en condiciones estructurales adecuadas que conforman la planta deben comprender: Area de fraccionamiento y envase, &aacute;rea de rectificaci&oacute;n, &aacute;rea de lavado de frascos, &aacute;rea de dep&oacute;sito de envases y material de embalaje, &aacute;rea de dep&oacute;sito de productos a granel, &aacute;rea de dep&oacute;sito de producto terminado y laboratorio de control de calidad.</P> <P ALIGN='JUSTIFY'>Este &uacute;ltimo debe contar con los materiales, equipos, reactivos y elementos necesarios para garantizar la calidad del producto.</P> <P ALIGN='JUSTIFY'>c) Fotocopia del Certificado de inscripci&oacute;n que autoriza a fraccionar y envasar alcohol et&iacute;lico puro (uso medicinal) extendido por la Direcci&oacute;n General Impositiva.</P> <P ALIGN='JUSTIFY'>d) Fotocopia autenticada del Contrato Social donde figure la actividad a desarrollar.</P> <P ALIGN='JUSTIFY'>e) Fotocopia de comprobante de inscripci&oacute;n en CLAVE UNICA DE IDENTIFICACION TRIBUTARIA (C.U.I.T.).</P> <P ALIGN='JUSTIFY'>f) Comprobante de Inscripci&oacute;n en Ingresos Brutos.</P> <P ALIGN='JUSTIFY'>g) Comprobante de inscripci&oacute;n al IMPUESTO DE VALOR AGREGADO (IVA).</P> <P ALIGN='JUSTIFY'>h) Fotocopia autenticada de la Habilitaci&oacute;n Municipal.</P> <P ALIGN='JUSTIFY'>i) Todas las fotocopias y las firmas de los interesados deber&aacute;n estar autenticadas por escribano p&uacute;blico.</P> <P ALIGN='JUSTIFY'>j) La habilitaci&oacute;n se otorgar&aacute; previa inspecci&oacute;n del establecimiento.</P> <B><P ALIGN='JUSTIFY'>Art. 6º</B> — El director t&eacute;cnico ser&aacute; personalmente responsable de la pureza y legitimidad del alcohol et&iacute;lico que fraccione y de la calidad del producto envasado para su expendio.</P> <P ALIGN='JUSTIFY'>El titular de la habilitaci&oacute;n o el representante legal en su caso, ser&aacute; solidariamente responsable.</P> <P ALIGN='JUSTIFY'>El director t&eacute;cnico est&aacute; obligado a realizar el control de calidad del alcohol et&iacute;lico; llevar&aacute; un 'Libro de Ingresos Rubricado' donde anotar&aacute; las cantidades de alcohol ingresadas a la planta, el n&uacute;mero de protocolo de control de calidad que corresponde al lote analizado, y su aceptaci&oacute;n o rechazo. Deber&aacute; llevar un libro de 'Control de Calidad Rubricado' donde registrar&aacute;n los an&aacute;lisis efectuados y sus resultados y todo otro dato que sirva para identificar al lote.</P> <B><P ALIGN='JUSTIFY'>Art. 7º</B> — Los fraccionadores podr&aacute;n recibir el alcohol et&iacute;lico a granel siempre que cuenten con las instalaciones aprobadas y los tanques est&eacute;n perfectamente identificados.</P> <P ALIGN='JUSTIFY'>Tanto en los tanques como en los tambores donde se encuentra el alcohol destinado al fraccionamiento deber&aacute;n colocarse r&oacute;tulos que indiquen n&uacute;mero de protocolo, de an&aacute;lisis y 'Apto para fraccionar' o 'Rechazado'.</P> <P ALIGN='JUSTIFY'>Queda expresamente prohibido proceder a fraccionar el alcohol sin el resultado previo del an&aacute;lisis de control de calidad y el 'Apto' correspondiente.</P> <B><P ALIGN='JUSTIFY'>Art. 8º</B> — Est&aacute; absolutamente prohibido y dar&aacute; lugar a la clausura del establecimiento y al decomiso de la mercader&iacute;a, la presencia de otros alcoholes en cualquiera de las &aacute;reas de la planta.</P> <B><P ALIGN='JUSTIFY'>Art. 9º</B> — En los r&oacute;tulos de los envases destinados al expendio al p&uacute;blico deber&aacute; consignarse, adem&aacute;s de las exigencias establecidas por otras reparticiones con incumbencia en el tema, lo siguiente:</P> <P ALIGN='JUSTIFY'>a) ALCOHOL ETILICO F.A.</P> <P ALIGN='JUSTIFY'>b) Contenido neto.</P> <P ALIGN='JUSTIFY'>c) Graduaci&oacute;n.</P> <P ALIGN='JUSTIFY'>d) Nombre o Raz&oacute;n social del Fraccionador y n&uacute;mero de registro otorgado por ANMAT.</P> <P ALIGN='JUSTIFY'>e) Establecimiento Habilitado. Disposici&oacute;n Nº</P> <P ALIGN='JUSTIFY'>f) Domicilio.</P> <P ALIGN='JUSTIFY'>g) Nombre y Apellido del Director T&eacute;cnico.</P> <P ALIGN='JUSTIFY'>h) N&uacute;mero de lote.</P> <P ALIGN='JUSTIFY'>El r&oacute;tulo podr&aacute; estar adherido o impreso en el envase. Deber&aacute; ser claramente legible, inalterable e indeleble.</P> <B><P ALIGN='JUSTIFY'>Art. 10.</B> — Se proh&iacute;be la venta al p&uacute;blico de alcohol et&iacute;lico suelto o a granel y/o fraccionado directamente en los locales de expendio.</P> <P ALIGN='JUSTIFY'>Se proh&iacute;be el fraccionamiento de alcohol et&iacute;lico en lugares no habilitados expresamente al efecto por la ANMAT.</P> <P ALIGN='JUSTIFY'>Las farmacias con laboratorio habilitado podr&aacute;n vender al p&uacute;blico alcohol et&iacute;lico fraccionado en el laboratorio de la farmacia, debidamente rotulado, bajo la responsabilidad del director t&eacute;cnico, de acuerdo a las normas en vigencia para productos medicinales.</P> <B><P ALIGN='JUSTIFY'>Art. 11.</B> — Las Empresas que fraccionen, destilen y/o envasen alcohol para uso medicinal y cosm&eacute;tico deber&aacute;n solicitar ante la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica la correspondiente habilitaci&oacute;n dentro de los 30 d&iacute;as a partir de la publicaci&oacute;n de la presente.</P> <B><P ALIGN='JUSTIFY'>Art. 12.</B> — Las infracciones a las normas de la presente ser&aacute;n sancionadas de acuerdo a lo establecido en la Ley Nº 16.463, decretos reglamentarios y sus modificaciones.</P> <B><P ALIGN='JUSTIFY'>Art. 13.</B> — Establ&eacute;cese que esta Norma Reglamentaria estar&aacute; en plena vigencia a los noventa (90) d&iacute;as de su publicaci&oacute;n en el Bolet&iacute;n Oficial, pudi&eacute;ndose proponer modificaciones a la misma durante los primeros treinta (30) d&iacute;as de ese per&iacute;odo.</P> <B><P ALIGN='JUSTIFY'>Art. 14.</B> — Reg&iacute;strese, comun&iacute;quese a quienes corresponda. Publ&iacute;quese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial, cumplido, arch&iacute;vese PERMANENTE. — Dr. ALBERTO J. MAZZA.</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/30671_res508-26-07-1994-1_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/30671_res508-26-07-1994-2_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/30671_res508-26-07-1994-3_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/30671_res508-26-07-1994-4_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/30671_res508-26-07-1994-5_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/30671_res508-26-07-1994-6_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/30671_res508-26-07-1994-7_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/30671_res508-26-07-1994-8_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/30671_res508-26-07-1994-9_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/30671_res508-26-07-1994-10_jpg/archivo'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/30671_res508-26-07-1994-11_jpg/archivo'></P> <P ALIGN='RIGHT'>e. 26/7 Nº 2436 v. 26/7/94</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/resolución-508-1994-30671" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

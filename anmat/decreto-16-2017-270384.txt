@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/decreto-16-2017-270384/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/decreto-16-2017-270384/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/decreto-16-2017-270384/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"p48XqjZvX4JgxKFIIJuxFUJX95yXAC7ZJmlgJ7eoo60","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/decreto-16-2017-270384\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-decreto-16-2017-270384 page-normativa-nacional-decreto-16-2017-270384-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/decreto-16-2017-270384/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-hh2mUXjQ5icA2oiZzkpDYlWCnBruSapCNqBF2j6ZKaU" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/decreto-16-2017-270384">Decreto Reglamentario 16/2017</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>PODER EJECUTIVO NACIONAL (P.E.N.)</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2017-01-05</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>ALIMENTOS</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Decreto 16/2017</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Apruébase la reglamentación de la Ley N° 26.905.</span><br> <br> Buenos Aires, 04/01/2017<br> <br> VISTO el Expediente N° 12002-28571/14-5 del registro del MINISTERIO DE SALUD y la Ley N° 26.905, y<br> <br> CONSIDERANDO:<br> <br> Que la Estrategia Mundial sobre Régimen Alimentario, Actividad Física y Salud (OMS, 2004), reconoció la alta carga que impone la creciente prevalencia de las Enfermedades No Trasmisibles (ENT) en muchos sistemas de salud e hizo hincapié en la elevada prevalencia de enfermedades cardiovasculares y de sus factores de riesgo, en particular, la hipertensión.<br> <br> Que la Declaración Política sobre la Prevención y el Control de las ENT (ONU, 2011) estableció que es esencial aunar los esfuerzos con el objetivo de reducir los factores de riegos de las enfermedades referidas.<br> <br> Que, en particular, las ENT tienen CUATRO (4) principales factores de riesgo: la alimentación inadecuada, la inactividad física, el consumo de tabaco y el consumo nocivo de alcohol.<br> <br> Que, en lo concerniente a la alimentación inadecuada, resulta prioritario reducir el consumo de sodio, sea el incorporado en la elaboración de alimentos procesados como el adicionado al momento de la cocción y/o de forma previa a la ingesta de los mismos.<br> <br> Que la ingesta de sodio se encuentra asociada con diversas ENT, como ser la hipertensión arterial, las enfermedades cardiovasculares, las cerebrovasculares y renales entre otras, las cuales constituyen la principal causa de morbimortalidad en el mundo.<br> <br> Que el MINISTERIO DE SALUD por medio de la Resolución N° 1083/09 aprobó la &#8220;Estrategia Nacional para la Prevención y el Control de Enfermedades No Transmisibles&#8221; y el &#8220;Plan Nacional Argentina Saludable&#8221; con el objetivo de reducir los principales factores de riesgos de la ENT.<br> <br> Que en ese sentido, en lo que refiere a la reducción del consumo de sodio, en el año 2009 se impulsó la incitativa &#8220;Menos Sal, Más Vida&#8221;, la cual propicia la reducción del consumo de sal por parte de la población argentina.<br> <br> Que, en consecuencia, en el año 2011, se consolidó la iniciativa citada a través del acuerdo de reducciones de sodio en determinados grupos de alimentos procesados y envasados por medio de la suscripción de Convenios Marcos de Reducción Voluntaria y Progresiva del Contenido de Sodio de los Alimentos Procesados celebrados entre el MINISTERIO DE SALUD, el entonces MINISTERIO DE AGRICULTURA, GANADERÍA Y PESCA y las principales Cámaras e Industrias de Alimentos de nuestro país.<br> <br> Que en el año 2013 se sancionó la Ley N° 26.905 que promueve la reducción del consumo de sodio de la población, en la cual se establecen diferentes líneas de acción con el fin de fortalecer las políticas públicas sanitarias.<br> <br> Que, por la importancia que reviste el tema a tratar es necesario contar con un espacio de trabajo que brinde asesoramiento para la promoción de la reducción del consumo de sodio en la población, que debe integrarse con representantes de la DIRECCIÓN DE PROMOCIÓN DE LA SALUD Y CONTROL DE ENFERMEDADES NO TRASMISIBLES; del INSTITUTO NACIONAL DE ALIMENTOS de la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA todos del MINISTERIO DE SALUD; del MINISTERIO DE AGROINDUSTRIA; del SERVICIO NACIONAL DE SANIDAD Y CALIDAD AGROALIMENTARIA de dicha Jurisdicción; y del sector privado, Universidades y Centros de Investigación, organismos no gubernamentales y/o especialistas que el MINISTERIO DE SALUD considere necesario convocar.<br> <br> Que de conformidad con las previsiones constitucionales y la normativa vigente en la materia, el control de los alimentos en la REPÚBLICA ARGENTINA se funda en la articulación entre los organismos sanitarios del nivel nacional, de la CIUDAD AUTÓNOMA DE BUENOS AIRES, provincial y, por su intermedio, municipal.<br> <br> Que la Ley N° 18.284 y sus modificatorios declara vigente en todo el territorio de la República, con la denominación de CÓDIGO ALIMENTARIO ARGENTINO (CAA) las disposiciones higiénico-sanitarias, bromatológicas y de identificación comercial del Reglamento Alimentario aprobado por Decreto N° 141/53, con sus normas modificatorias y complementarias.<br> <br> Que, asimismo, el Decreto N° 815/99 señala que el CÓDIGO ALIMENTARIO ARGENTINO (CAA) es la norma fundamental del Sistema Nacional de Control de Alimentos, y se incorporará al mismo toda la normativa vigente que haga a la elaboración, transformación, transporte, distribución y comercialización de todos los alimentos para el consumo humano.<br> <br> Que dicho Decreto crea la Comisión Nacional del Alimentos encomendándole velar que los organismos integrantes del Sistema Nacional de Control de Alimentos hagan cumplir el CÓDIGO ALIMENTARIO ARGENTINO (CAA) en todo el territorio de la Nación Argentina.<br> <br> Que mediante la Resolución N° 241/11 de la SECRETARIA DE POLÍTICAS, REGULACIÓN E INSTITUTOS del MINISTERIO DE SALUD se creó el Programa Federal de Control de los Alimentos, cuyos objetivos son priorizar la prevención, reforzar las actividades de vigilancia, auditoria y las acciones regulatorias y mejorar la respuesta ante incidentes alimentarios.<br> <br> Que en este sentido resulta oportuno y conveniente propiciar la armonización de las normativas alimentarias para el cumplimiento de la Ley.<br> <br> Que la DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS del MINISTERIO DE SALUD ha tomado la intervención de su competencia.<br> <br> Que la presente medida se dicta en virtud de las atribuciones conferidas por el artículo 99, incisos 1 y 2 de la CONSTITUCIÓN NACIONAL.<br> <br> Por ello,<br> <br> EL PRESIDENTE DE LA NACIÓN ARGENTINA<br> <br> DECRETA:<br> <br> ARTÍCULO 1° &#8212; Apruébase la reglamentación de la Ley N° 26.905 de promoción de la reducción del consumo de sodio en la población que, como ANEXO I (IF-2016-05284916-APN-MS), forma parte integrante del presente Decreto.<br> <br> ARTÍCULO 2° &#8212; Facúltase al MINISTERIO DE SALUD a dictar las disposiciones complementarias que considere necesarias para garantizar el pleno funcionamiento de lo previsto por la Ley que se reglamenta.<br> <br> ARTÍCULO 3° &#8212; Créase, en el ámbito del MINISTERIO DE SALUD, la &#8220;COMISION NACIONAL ASESORA PARA LA PROMOCIÓN DE LA REDUCCION DEL CONSUMO DE SODIO&#8221; con el objeto de asesorar en lo relativo a la promoción de la reducción del consumo de sodio en la población argentina. Dicha Comisión estará integrada por UN (1) representante de la Dirección de Promoción de la Salud y Control de Enfermedades No Transmisibles; UN (1) representante del Instituto Nacional de Alimentos de la ADMINISTRACIÓN NACIONAL MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA ambos del MINISTERIO DE SALUD; UN (1) representante del MINISTERIO DE AGROINDUSTRIA; UN (1) representante del SERVICIO NACIONAL DE SANIDAD Y CALIDAD AGROALIMENTARIA de dicha Jurisdicción; y representantes del sector privado, Universidades y Centros de Investigación, Organismos no Gubernamentales y/o especialistas que el MINISTERIO DE SALUD considere necesario convocar. Una vez constituida la Comisión, ésta elaborará su reglamento de organización y funcionamiento.<br> <br> ARTÍCULO 4° &#8212; El presente decreto entrará en vigencia a partir de la fecha de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 5° &#8212; Comuníquese, publíquese, dése a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese. &#8212; MACRI. &#8212; Marcos Peña. &#8212; Jorge D. Lemus.<br> <br> <div style='text-align: center;'>ANEXO I<br> </div> <br> ARTÍCULO 1°.- A los efectos de esta Ley entiéndese el término sodio al elemento químico cuyo número atómico es ONCE (11). Asimismo, a los efectos de los incisos d), e) y h) del artículo 5°, de la Ley que por el presente se reglamenta, entiéndase sodio como sal o cloruro de sodio de acuerdo a lo establecido por el CODIGO ALIMENTARIO ARGENTINO, Ley N° 18.284.<br> <br> ARTICULO 2°.- Sin reglamentar.<br> <br> ARTICULO 3°.- Sin reglamentar.<br> <br> ARTICULO 4°.- Sin reglamentar.<br> <br> ARTICULO 5°.-<br> <br> a) El MINISTERIO DE SALUD coordinará, a través del CONSEJO FEDERAL DE SALUD, las estrategias de promoción de los hábitos saludables para la reducción del consumo de sodio con las autoridades sanitarias jurisdiccionales.<br> <br> b) El MINISTERIO DE SALUD a través de la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA y del INSTITUTO NACIONAL DE ALIMENTOS, propiciará por medio del &#8220;Programa Federal de Control de Alimentos&#8221; el monitoreo periódico del contenido de sodio en los alimentos conforme lo determina la Ley que se reglamenta.<br> <br> c) La &#8220;COMISION NACIONAL ASESORA PARA LA PROMOCIÓN DE LA REDUCCION DEL CONSUMO DE SODIO&#8221; propondrá los valores máximos de sodio y su progresiva disminución para los productos no incluidos en el Anexo I de la Ley que se reglamenta, los que serán fijados por la Autoridad de Aplicación.<br> <br> d) La &#8220;COMISION NACIONAL ASESORA PARA LA PROMOCIÓN DE LA REDUCCION DEL CONSUMO DE SODIO&#8221; propondrá los mensajes sanitarios que deberán figurar en el rótulo de los envases en los que se comercializa la sal (cloruro de sodio) cuando corresponda, los que serán fijados por Resolución del Ministerio de Salud.<br> <br> e) La &#8220;COMISION NACIONAL ASESORA PARA LA PROMOCIÓN DE LA REDUCCIÓN DEL CONSUMO DE SODIO&#8221; propondrá los mensajes sanitarios en la publicidad de los productos con contenido de sodio cuando corresponda, los que deberán ser autorizados por el Ministerio de Salud.<br> <br> f) Sin reglamentar.<br> <br> g) Sin reglamentar.<br> <br> h) Sin reglamentar.<br> <br> i) Sin reglamentar.<br> <br> j) Sin reglamentar.<br> <br> k) Sin reglamentar.<br> <br> ARTÍCULO 6°- Sin reglamentar.<br> <br> ARTICULO 7°.- El MINISTERIO DE SALUD a través de la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA por medio del INSTITUTO NACIONAL DE ALIMENTOS propiciará a la COMISION NACIONAL DE ALIMENTOS las adecuaciones del CÓDIGO ALIMENTARIO ARGENTINO y la armonización de las normativas alimentarias necesarias para el cumplimiento de lo prescripto en la Ley que se reglamenta y lo establecido en esta reglamentación.<br> <br> ARTICULO 8°.- Sin reglamentar.<br> <br> a) Sin reglamentar.<br> <br> b) Sin reglamentar.<br> <br> c) Sin reglamentar.<br> <br> d) Sin reglamentar.<br> <br> e) Sin reglamentar.<br> <br> f) Sin reglamentar.<br> <br> ARTICULO 9°.- Sin reglamentar.<br> <br> ARTICULO 10.- Sin reglamentar.<br> <br> ARTICULO 11.- Sin reglamentar.<br> <br> <div style='text-align: right;'>IF-2016-05284916-APN-MS<br>  </div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/decreto-16-2017-270384" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

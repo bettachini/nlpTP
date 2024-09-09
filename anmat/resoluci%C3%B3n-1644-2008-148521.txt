@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1644-2008-148521/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1644-2008-148521/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1644-2008-148521/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"mk6SAhkqxhbgCq1YP1A0lxy35YJrAB9pgdpsDBLDtZ8","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/resoluci%C3%B3n-1644-2008-148521\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-resolución-1644-2008-148521 page-normativa-nacional-resolución-1644-2008-148521-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/resoluci%C3%B3n-1644-2008-148521/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-OUXEDeqGP_O9m_cztB_5KTRoi30BZ5sPO1K0azGyjkc" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/resoluci%C3%B3n-1644-2008-148521">Resolución   1644/2008</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>MINISTERIO DE SALUD</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2008-12-18</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>MINISTERIO DE SALUD</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Resoluci&oacute;n 1644/2008</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Cr&eacute;ase el Registro Nacional de Droguer&iacute;as Habilitadas. Condiciones de registraci&oacute;n.</P> </B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Bs. As., 12/12/2008</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO el Expediente Nº 2002-16.213/08-1 del registro del MINISTERIO DE SALUD, la Ley Nº 17.565, sus modificatorias, ampliatorias y complementarias, su Decreto Reglamentario Nº 7123/68 y modificatorios y la Resoluci&oacute;n del ex MINISTERIO DE SALUD Y AMBIENTE Nº 17 de fecha 17 de enero de 2006, y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Ley Nº 17.565 establece el r&eacute;gimen legal del ejercicio de la actividad farmac&eacute;utica, y de la habilitaci&oacute;n de las farmacias, droguer&iacute;as y herborister&iacute;as.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, entre las condiciones que establece para la instalaci&oacute;n de una Droguer&iacute;a impone la necesidad de la previa habilitaci&oacute;n por parte de la Autoridad Sanitaria, debiendo para ello acreditar los requisitos que establezca la reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, en su Decreto Reglamentario impone las condiciones para el permiso de funcionamiento de las mismas, estableciendo las pautas para el fraccionamiento de drogas, distribuci&oacute;n y comercio de productos medicinales al por mayor, preparaci&oacute;n de material as&eacute;ptico y preparaciones oficiales.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, adem&aacute;s establece los l&iacute;mites de la responsabilidad del Director T&eacute;cnico y del propietario de la droguer&iacute;a, pudiendo ser &eacute;ste una persona f&iacute;sica o jur&iacute;dica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, en raz&oacute;n del dictado de la Resoluci&oacute;n del entonces MINISTERIO DE SALUD Y AMBIENTE Nº 17/06, se ha propiciado el mejoramiento de la calidad, eficiencia y eficacia de la actividad, tendiendo a establecer los par&aacute;metros de la trazabilidad de los productos y medicamentos objeto del comercio jurisdiccional e interjurisdiccional.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, en id&eacute;ntico sentido, y debido a la necesidad de imponer orden en la registraci&oacute;n de los comercios habilitados en el rubro &quot;Droguer&iacute;as&quot;, corresponde establecer nuevos, modernos, &aacute;giles y transparentes par&aacute;metros de inscripci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que tales par&aacute;metros deber&aacute;n atender las habilitaciones sanitarias existentes, propendiendo a establecer mecanismos habituales de actualizaci&oacute;n, registraci&oacute;n y divulgaci&oacute;n de los datos de las Droguer&iacute;as y sus locales, oficinas y dep&oacute;sitos, as&iacute; como la inscripci&oacute;n de sus responsables tanto desde el punto de vista t&eacute;cnico, como del comercial y patrimonial.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, habida cuenta de los hechos que resultan de p&uacute;blico conocimiento en los que se hallaban involucrados los responsables de algunos comercios vinculados a la actividad farmac&eacute;utica, mayoristas y minoristas, los que sumados a la escasa fiscalizaci&oacute;n existente en la actividad, vieron favorecidas sus pr&aacute;cticas inescrupulosos, espurias, ilegales e ileg&iacute;timas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, para evitar tales pr&aacute;cticas reprochables, debe tenderse a la generaci&oacute;n de modelos de aplicaci&oacute;n permanente del poder de polic&iacute;a en la materia, que resulte pasible de an&aacute;lisis, fiscalizaci&oacute;n, control y divulgaci&oacute;n p&uacute;blica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que debido a la din&aacute;mica propia del giro comercial de las empresas del sector, resulta inminente la necesidad de validar anualmente las certificaciones, licencias y habilitaciones de funcionamiento de las droguer&iacute;as.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, en virtud de la necesidad de establecer un nuevo modelo de habilitaci&oacute;n e inscripci&oacute;n de las droguer&iacute;as habilitadas que garantice las m&aacute;ximas medidas de seguridad, invulnerabilidad e inalterabilidad, se ha dispuesto un nuevo modelo de Certificado de Habilitaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, a los fines de imponer transparencia en las gestiones a cargo de la DIRECCION NACIONAL DE REGISTRO, FISCALIZACION Y SANIDAD DE FRONTERAS, deber&aacute; propenderse al establecimiento de un registro, a modo de padr&oacute;n, que incluya todos los datos identificatorios de las droguer&iacute;as y de los responsables de la actividad.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, habida cuenta de la necesidad de establecer un acceso p&uacute;blico y gratuito al registro mencionado, sin desmedro de lo establecido por la Ley Nº 25.326 de Protecci&oacute;n de Datos Personales, y su Decreto Reglamentario Nº 1558/01, corresponde determinar los datos que ser&aacute;n pasibles de visualizaci&oacute;n y aquellos que ser&aacute;n considerados de car&aacute;cter reservado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, debido a la territorialidad de la norma que se impulsa, corresponde su aplicaci&oacute;n en el &aacute;mbito de la CIUDAD AUTONOMA DE BUENOS AIRES, debiendo someterse indefectiblemente a ella todas las Droguer&iacute;as que comercialicen productos en la misma.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que a los fines de articular los Registros Federales de Establecimientos Sanitarios, se propiciar&aacute; que las distintas Jurisdicciones establezcan mecanismos similares para la registraci&oacute;n de las Droguer&iacute;as con el fin de consolidar la articulaci&oacute;n de la Red de Fiscalizadores Sanitarios de la REPUBLICA ARGENTINA.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que a todos los fines deber&aacute; entenderse que todas las acciones incoadas en este sentido son parte del proceso de mejora continua, establecidos con el af&aacute;n de alcanzar la m&aacute;xima calidad en los procesos, con la mayor celeridad y garantizando los principios de accesibilidad, equidad y transparencia en las gestiones que hacen al poder de polic&iacute;a que esta Cartera tiene sobre el particular.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS ha tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>LA MINISTRA DE SALUD</P> <P ALIGN='JUSTIFY'>RESUELVE:</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Cr&eacute;ase el Registro Nacional de Droguer&iacute;as Habilitadas, en el &aacute;mbito de la DIRECCION NACIONAL DE REGISTRO, FISCALIZACION Y SANIDAD DE FRONTERAS, dependiente de la SUBSECRETARIA DE POLITICAS, REGULACION Y FISCALIZACION de esta Cartera de Estado.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 2º </B>— El registro que se crea por el ARTICULO 1º ser&aacute; de car&aacute;cter obligatorio para todas las Personas F&iacute;sicas y Jur&iacute;dicas, organizadas en forma de Empresas, cualquiera sea su modalidad, que realicen su actividad comercial en el &aacute;mbito de la CIUDAD AUTONOMA DE BUENOS AIRES.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— Las empresas a que refiere el art&iacute;culo anterior quedar&aacute;n sometidas a la fiscalizaci&oacute;n de esta Cartera de Estado, a trav&eacute;s del Cuerpo de Inspectores de la DIRECCION NACIONAL DE REGISTRO, FISCALIZACION Y SANIDAD DE FRONTERAS, dependiente de la SUBSECRETARIA DE POLITICAS, REGULACION Y FISCALIZACION.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 4º </B>— Establ&eacute;cense, de manera obligatoria, a partir de la fecha de publicaci&oacute;n de la presente, las condiciones de registraci&oacute;n de las empresas dedicadas al fraccionamiento de drogas, distribuci&oacute;n y comercio de productos medicinales al por mayor, preparaci&oacute;n de material as&eacute;ptico y preparaciones oficiales, as&iacute; como a la comercializaci&oacute;n de productos y especialidades farmacol&oacute;gicas, las que deber&aacute;n indefectiblemente adecuarse a las condiciones que se establecen en la presente medida como ANEXO I.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 5º </B>— La registraci&oacute;n mencionada en el art&iacute;culo anterior tendr&aacute; car&aacute;cter de inscripci&oacute;n habilitante obligatoria sin la cual la droguer&iacute;a no podr&aacute; continuar operando en el mercado.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 6º </B>— Toda inscripci&oacute;n habilitante caducar&aacute; autom&aacute;ticamente en el plazo de UN (1) a&ntilde;o calendario desde su otorgamiento, debiendo tramitarse su reinscripci&oacute;n con un m&iacute;nimo de TREINTA (30) d&iacute;as h&aacute;biles anteriores al de su efectivo vencimiento. Iguales plazos ser&aacute;n de aplicaci&oacute;n en las reinscripciones. El certificado de Inscripci&oacute;n deber&aacute; adecuarse al modelo que como Anexo II se aprueba por la presente.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 7º </B>— Las personas f&iacute;sicas o jur&iacute;dicas que se encuentren a la fecha habilitadas como Droguer&iacute;as conforme a las normas vigentes, tendr&aacute;n un plazo m&aacute;ximo de SESENTA (60) d&iacute;as para proceder a su pertinente reinscripci&oacute;n, debiendo, de as&iacute; corresponder, adecuar y ajustar su estructura y funcionamiento integral de conformidad a la regulaci&oacute;n espec&iacute;fica vigente en la materia.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 8º </B>— Cumplido el plazo establecido en el Art&iacute;culo 4º de la presente, las Empresas que realicen la actividad prevista en el Art&iacute;culo 34 de la Ley Nº 17.565 o la que en el futuro la reemplace, que no hayan dado inicio a la tramitaci&oacute;n para su efectiva registraci&oacute;n no podr&aacute;n, bajo ning&uacute;n concepto, continuar operando en plaza hasta la regularizaci&oacute;n de la misma. La inobservancia de lo preceptuado en el presente art&iacute;culo las har&aacute; pasibles de la aplicaci&oacute;n de las sanciones por faltas sanitarias emergentes de la normativa legal vigente, sin perjuicio de las acciones penales y civiles que pudieren corresponderles por considerarlas incursas en los delitos previstos en el T&iacute;tulo VII del Libro Segundo del C&oacute;digo Penal, realiz&aacute;ndose en este caso las pertinentes denuncias ante la autoridad judicial competente.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 9º </B>— Queda prohibida, de conformidad a lo prescripto por la Ley Nº 17.565 y su Decreto Reglamentario, la entrega a domicilio y cualquier tipo de entrega directa o indirecta al p&uacute;blico de medicamentos o a establecimientos no habilitados para tal fin, incluy&eacute;ndose en esta prohibici&oacute;n la venta por v&iacute;a postal, electr&oacute;nica, telef&oacute;nica, por Internet o cualquier modalidad que pueda ser considerada como ajena a la habilitaci&oacute;n que se otorga a cada una de las Personas F&iacute;sicas o Jur&iacute;dicas para su inscripci&oacute;n y registraci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 10. </B>— Establ&eacute;cense las siguientes exigencias m&iacute;nimas para el funcionamiento de las empresas destinadas a droguer&iacute;a, que realicen comercializaci&oacute;n a locales u oficinas de farmacia y servicios de farmacia en instituciones sanitarias p&uacute;blicas y/o privadas, sean &eacute;stos de la misma jurisdicci&oacute;n o que requieran la especial habilitaci&oacute;n para el tr&aacute;nsito interjurisdiccional por parte de la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT):</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Disponer de locales, y equipos dotados de medios personales, materiales y t&eacute;cnicos para garantizar la correcta conservaci&oacute;n y distribuci&oacute;n de los medicamentos, con plena garant&iacute;a para la salud p&uacute;blica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Observar las condiciones generales o particulares de conservaci&oacute;n de los medicamentos y especialmente el mantenimiento de la cadena de fr&iacute;o en toda la red de distribuci&oacute;n mediante la utilizaci&oacute;n de procedimientos normatizados.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) Mantener una existencia m&iacute;nima de medicamentos con el fin de garantizar la adecuada continuidad del abastecimiento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) Asegurar los plazos de entrega, con una frecuencia m&iacute;nima de reparto, ofreciendo el debido asesoramiento t&eacute;cnico farmac&eacute;utico y los medios de apoyo necesario para avalar la continuidad de los servicios ofrecidos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>e) Colaborar en el efectivo retiro de cualquier producto del mercado ordenado por las autoridades sanitarias competentes.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>f) Dar cumplimiento a las normas de buenas pr&aacute;cticas de distribuci&oacute;n, dispuestas por la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT), y a colaborar con las autoridades sanitarias jurisdiccionales a fin de asegurar la calidad de las prestaciones farmac&eacute;uticas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>g) A cumplir con todas las obligaciones que hayan sido impuestas por disposici&oacute;n legal o reglamentaria emanada de las autoridades competentes.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 11. </B>— A partir del 1 de enero de 2009 el MINISTERIO DE SALUD ofrecer&aacute;, en forma gratuita y de acceso p&uacute;blico a trav&eacute;s de su p&aacute;gina web, el Registro de Droguer&iacute;as Habilitadas en &aacute;mbito de la CIUDAD AUTONOMA DE BUENOS AIRES. En el citado Registro deber&aacute;n constar los datos que permitan la individualizaci&oacute;n indubitable de las droguer&iacute;as habilitadas, haciendo constar todo dato referido a su actividad, alcance de las condiciones de su habilitaci&oacute;n, y todo otro dato sobre la empresa que resulte pasible de divulgaci&oacute;n. Adem&aacute;s deber&aacute; contener las condiciones de mantenimiento y actualizaci&oacute;n de la registraci&oacute;n y la eventual existencia de sanciones de naturaleza sanitaria. Los datos susceptibles de visualizaci&oacute;n para los ciudadanos en general ser&aacute;n aquellos que se aprueban en el Anexo I de la presente.</P> <B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Art. 12. </B>— La falta de renovaci&oacute;n de la inscripci&oacute;n y el consecuente vencimiento de la autorizaci&oacute;n habilitante, dar&aacute; lugar a la suspensi&oacute;n del registro. Tal suspensi&oacute;n operar&aacute; de pleno derecho, en forma autom&aacute;tica y tendr&aacute; duraci&oacute;n mientras la empresa no cumpla con el tr&aacute;mite de renovaci&oacute;n respectivo, registr&aacute;ndose tal evento en el &quot;Registro Nacional de Droguer&iacute;as Habilitadas&quot; que se establece por el Art&iacute;culo 1º de la presente.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 13. </B>— Decl&aacute;rase la gratuidad de los tr&aacute;mites tendientes a la implementaci&oacute;n del Registro Nacional de Droguer&iacute;as Habilitadas, debiendo ser considerados tr&aacute;mites de implementaci&oacute;n aquellos que resultando obligatorios no alteran los datos volcados en las habilitaciones en vigencia al momento de la registraci&oacute;n que se establece como obligatoria a trav&eacute;s de la presente.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 14. </B>— Los tr&aacute;mites que importen la actualizaci&oacute;n, modificaci&oacute;n, cambios en o de la raz&oacute;n social, incorporaci&oacute;n de nuevos miembros en la conformaci&oacute;n societaria, inscripci&oacute;n o modificaci&oacute;n del capital social, modificaci&oacute;n, cambio o sustituci&oacute;n del tipo societario, cambios de domicilio real o legal, reemplazos, cambio o sustituciones en la Direcci&oacute;n T&eacute;cnica, suspensi&oacute;n temporaria de actividades pedido de/l los titular/es de la empresa y/o por razones de orden particular, entre otros, ser&aacute;n considerados pasibles de arancelamiento, debiendo abonarse los conceptos pertinentes en forma previa al inicio de la tramitaci&oacute;n en la TESORERIA GENERAL de este Ministerio.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 15. </B>— Queda expresamente prohibida la coexistencia o funcionamiento dentro del per&iacute;metro de la propiedad habilitada de toda otra actividad distinta a la que se autoriza, cualquiera fuera de su naturaleza.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 16</B>. — Instr&uacute;yese a la DIRECCION DE INFORMATICA, dependiente de la SUBSECRETARIA DE COORDINACION para la implementaci&oacute;n de un sistema inform&aacute;tico que permita dar cumplimiento a la presente medida, propiciando en un futuro mediato la ampliaci&oacute;n del registro para la formalizaci&oacute;n definitiva de un Registro Federal de Droguer&iacute;as Habilitadas que incluya la totalidad de los establecimientos dedicados a esa actividad.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 17. </B>— Der&oacute;gase el art&iacute;culo 1º de la Resoluci&oacute;n del ex MINISTERIO DE SALUD Y AMBIENTE Nº 17 de fecha 17 de enero de 2006.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 18. </B>— Reg&iacute;strese, comun&iacute;quese, publ&iacute;quese y d&eacute;se a la Direcci&oacute;n Nacional de Registro Oficial y arch&iacute;vese. — Mar&iacute;a G. Oca&ntilde;a.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>NUEVAS CONDICIONES DE REGISTRACION PARA LAS PERSONAS FISICAS O JURIDICAS DEDICADAS A LA ACTIVIDAD DE DROGUERIA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 1º — A partir del d&iacute;a de la fecha de publicaci&oacute;n de la presente comenzar&aacute;n a regir las nuevas condiciones para la registraci&oacute;n para las empresas dedicadas al fraccionamiento de drogas, distribuci&oacute;n y comercio de productos medicinales al por mayor, preparaci&oacute;n de material as&eacute;ptico y preparaciones oficiales, as&iacute; como a la comercializaci&oacute;n de productos y especialidades farmacol&oacute;gicas, las que deber&aacute;n cumplir &iacute;ntegramente con los preceptos de la presente, con la normativa vigente en materia sanitaria, de seguridad, higiene y riesgo de trabajo, adem&aacute;s de la regulaci&oacute;n espec&iacute;fica en materia de manejo, utilizaci&oacute;n, dispensa, traslado y disposici&oacute;n de los productos previstos para su utilizaci&oacute;n a esos efectos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 2º — Este procedimiento ser&aacute; de aplicaci&oacute;n en forma obligatoria para todas aquellas personas f&iacute;sicas y jur&iacute;dicas conformadas como Empresa dedicada profesional y comercialmente a la actividad de &quot;Droguer&iacute;a&quot;, que realice su actividad en el &aacute;mbito de la CIUDAD DE BUENOS AIRES.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 3º — Toda Empresa que resulte pasible de registraci&oacute;n deber&aacute;, indefectiblemente, estar habilitada en forma previa y definitiva por el GOBIERNO DE LA CIUDAD DE BUENOS AIRES, a trav&eacute;s del organismo pertinente, debiendo a estos fines contar con todos los medios de seguridad t&eacute;cnicos y edilicios dispuestos por la normativa expresa de esa Jurisdicci&oacute;n. A ese respecto deber&aacute; contar, de as&iacute; corresponder, con tal habilitaci&oacute;n para cada uno de los locales en que realice su actividad, sin importar su efectiva utilizaci&oacute;n, debi&eacute;ndose considerar incluidos a los locales y/o oficinas administrativas, comerciales y dep&oacute;sitos que sean utilizados para el desarrollo de la actividad.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 4º — Cumplidas las exigencias establecidas en el Art&iacute;culo 3º del presente ANEXO, las empresas deber&aacute;n cumplimentar su presentaci&oacute;n con los siguientes requisitos:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Nota de presentaci&oacute;n, a modo de Declaraci&oacute;n Jurada, con firmas certificadas subscriptas en forma conjunta por el Farmac&eacute;utico Director T&eacute;cnico y las personas f&iacute;sicas propietarias del Establecimiento o el representante legal de la persona jur&iacute;dica propietaria, en la que deber&aacute; consignarse:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>I) Nombre y domicilio real y legal de la Droguer&iacute;a.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>II) Nombres, apellido, n&uacute;mero de matr&iacute;cula, CUIL/CUIT, del Farmac&eacute;utico que se desempe&ntilde;a como Director T&eacute;cnico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>III) Nombres, apellido, n&uacute;mero y tipo de documento de cada una de las personas f&iacute;sicas propietarias del Establecimiento comercializador de productos m&eacute;dicos o del representante legal de la persona jur&iacute;dica propietaria.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Certificado de libre regencia del Director T&eacute;cnico, expedido por el MINISTERIO DE SALUD de la PROVINCIA DE BUENOS AIRES.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) Copia autenticada del Estatuto y/o contrato social inscripto ante la autoridad de aplicaci&oacute;n, cuando el titular del establecimiento sea una persona jur&iacute;dica. Cuando se trate de una persona jur&iacute;dica cuya composici&oacute;n societaria hubiera sido modificada, o bien hubiera existido cambios en la composici&oacute;n, ampliaci&oacute;n y/o modificaci&oacute;n del capital social, dando lugar a modificaciones del estatuto o contrato social originario, deber&aacute; acompa&ntilde;ar todas sus modificaciones y la constancia de su registraci&oacute;n por ante la INSPECCION GENERAL DE JUSTICIA (IGJ), de forma tal que resulte fiable individualizar a los titulares de la raz&oacute;n social inscripta como Droguer&iacute;a. El estatuto o contrato social deber&aacute; considerar en su objeto social la actividad de Droguer&iacute;a, debiendo tal requisito estar expresamente establecido.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) Certificado de habilitaci&oacute;n edilicia y comercial del establecimiento otorgado por el Gobierno de la Ciudad de Buenos Aires.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>e) Copia autenticada del instrumento legal que acredite la tenencia del establecimiento que se habilitar&aacute; a nombre de la empresa, o el que demuestre en forma fehaciente el alquiler.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>f) Constancia de inscripci&oacute;n de la persona f&iacute;sica o jur&iacute;dica ante la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS (AFIP).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>g) UN (1) plano original en papel de calco del local y DOS (2) copias heliogr&aacute;ficas, escala 1/100, con indicaci&oacute;n de la distribuci&oacute;n de &aacute;reas, el destino designado a cada una de ellas y sus medidas lineales y de superficie.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 5º — En caso de contar con habilitaci&oacute;n previa en plena vigencia deber&aacute; consignar el n&uacute;mero de disposici&oacute;n por la cual fuera otorgada, acompa&ntilde;ando copia simple de ese Acto Administrativo para su agregaci&oacute;n al expediente, pudiendo en ese caso, y de no haber operado cambios en la estructura edilicia, desglosar las actuaciones por la que tramitara el primero, a los fines evitar dispendios administrativos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 6º — En caso de solicitarse la habilitaci&oacute;n de una empresa en que su local de funcionamiento se encuentre establecido en alguna/s unidad/es funcional/es de un edificio sometido al r&eacute;gimen legal de propiedad horizontal, deber&aacute; acompa&ntilde;ar el contrato de co-propiedad debidamente inscripto y la autorizaci&oacute;n de uso de la/s unidad/es funcional/es pasibles de habilitaci&oacute;n, realizada por los integrantes del consorcio de propietarios y/o su representante legal y copia certificada del acta consorcial donde se tratar&aacute; el establecimiento de una Droguer&iacute;a en el edificio, ello de conformidad a lo establecido en la legislaci&oacute;n vigente en la materia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 7º — Sin perjuicio de los establecido en el Art&iacute;culo 5º, inciso e), cuando se trate de una Droguer&iacute;a cuyas instalaciones fueran propiedad de terceros deber&aacute;n presentar el contrato de alquiler, de cesi&oacute;n o de pr&eacute;stamo de uso o utilizaci&oacute;n, de conformidad a la normativa vigente en la materia, sin perjuicio de que el mentado contrato indique expresamente el objeto del mismo, registrando la actividad para la que fuera arrendado, cedido o prestado, debiendo ser coincidente con lo que se declare a los fines de la habilitaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 8º — Sin perjuicio de lo previsto por la Ley Nº 17.565, sus modificatoria y complementarias y su Decreto Reglamentario, la Direcci&oacute;n T&eacute;cnica de la Droguer&iacute;a podr&aacute; ser realizada sin perjuicio de otras actividades de id&eacute;ntica o similar naturaleza, no requiri&eacute;ndose exclusividad en el servicio, siempre que el giro comercial de la empresa as&iacute; lo permita. A tales fines deber&aacute; tenerse en cuenta la compatibilidad horaria y funcional que demanda la actividad, consider&aacute;ndose un m&aacute;ximo de DOS (2) Direcciones T&eacute;cnicas por cada profesional habilitante, no pudiendo estas incluir aquellas que produzcan el bloqueo de t&iacute;tulo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 9º — Toda Droguer&iacute;a inscripta de conformidad a la presente, podr&aacute; contar con veh&iacute;culo/s destinado/s al transporte de los productos de su actividad, debiendo en tal caso estar inscripto en el REGISTRO NACIONAL DE LA PROPIEDAD DEL AUTOMOTOR a nombre exclusivo de la Empresa habilitada, debi&eacute;ndose ajustar a la normativa vigente en materia de Transporte de Cargas, debiendo atenerse indefectiblemente a las siguientes caracter&iacute;sticas:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Ser del tipo furg&oacute;n o utilitario cerrado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Ajustarse a lo indicado en la normativa espec&iacute;fica referida a sustancias peligrosas de la clase que correspondiere, incluyendo una inscripci&oacute;n exterior que advierta sobre el transporte de sustancias y/o productos que pudieran resultar peligrosos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Estar dotado de un botiqu&iacute;n completo para primeros auxilios e intoxicaciones, con claras y precisas instrucciones sobre uso y aplicaciones en caso de emergencia; de acuerdo a lo que indique la reglamentaci&oacute;n correspondiente. Consignar&aacute; adem&aacute;s la direcci&oacute;n de los principales centros toxicol&oacute;gicos del &aacute;rea de actuaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 10º — Todo medio publicitario, aviso, folleto, remito, factura o medio impreso de cualquier tipo que utilizare la Empresa en su relaci&oacute;n con terceros debe incluir en forma obligatoria el n&uacute;mero de registro de Autorizaci&oacute;n Habilitante impreso claramente, debiendo indicar su vigencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO II</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ministerio de Salud</P> <P ALIGN='JUSTIFY'>PRESIDENCIA DE LA NACION</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>CERTIFICADO DE INSCRIPCION</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Certificamos que la Droguer&iacute;a…………………...……………………………………………….....….. Sita en la calle……………………………………………………Nº…..…Localidad………….................... Propiedad e………………………………………………………………………………………….......……, Se encuentra registrada en esta Direcci&oacute;n con la habilitaci&oacute;n Nº ………………………………….....…, extendi&eacute;ndose el presente certificado por Disposici&oacute;n Nº ……………………………………………....., dictada el…………………de……………………….de…………………. v&aacute;lida hasta el …………..de……..de……………………</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>EXPEDIENTE Nº ……………………………….</P>  <P ALIGN='CENTER'>Buenos Aires,………………de……………………..de 20……….</P>  <P ALIGN='CENTER'>Firma y sello aclaratorio……………………………………………</P> <P ALIGN='JUSTIFY'>———</P> <P ALIGN='JUSTIFY'>NOTA: Este certificado deber&aacute; fijarse en un lugar bien visible del local de Administraci&oacute;n.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/resolución-1644-2008-148521" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

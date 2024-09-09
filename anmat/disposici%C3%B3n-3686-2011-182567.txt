@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3686-2011-182567/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3686-2011-182567/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3686-2011-182567/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"1rh1HEDNmEL8fF7bF1fiX4YBEvEi-nhXnQfnGyrB4Kw","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-3686-2011-182567\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-3686-2011-182567 page-normativa-nacional-disposición-3686-2011-182567-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-3686-2011-182567/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-pDHQHFqOBsPGLP0iaOhafkXASGQ66F9YojgqJOx7x-w" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-3686-2011-182567">Disposición   3686/2011</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2011-05-27</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'>PRODUCTOS MEDICINALES</P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 3686/2011</P> <P ALIGN='JUSTIFY'>Establ&eacute;cense los Requisitos m&iacute;nimos para solicitar la condici&oacute;n de venta libre de una especialidad medicinal.</P> </B><P ALIGN='JUSTIFY'>Bs. As., 24/5/2011</P> <P ALIGN='JUSTIFY'>VISTO la Ley Nº 16.463 de Medicamentos, los Decretos 9763/63 y 150/92, sus modificatorios y complementarios y las Resoluciones Conjuntas (ex Ministerio de Salud y Acci&oacute;n Social y ex Ministerio de Econom&iacute;a y Obras y Servicios P&uacute;blicos) Nos. 748/92 y 988/92 y el Expediente Nº 1-0047-024.464-10-5 del Registro de esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica; y,</P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que en la I Conferencia Panamericana para la Armonizaci&oacute;n de la Reglamentaci&oacute;n Farmac&eacute;utica (Red PARF - 1997) se reconoci&oacute; la necesidad de contar con criterios unifi- cados para el cambio en la clasificaci&oacute;n de medicamentos de condici&oacute;n de venta bajo prescripci&oacute;n m&eacute;dica a venta libre.</P> <P ALIGN='JUSTIFY'>Que en la IV Conferencia Panamericana para la Armonizaci&oacute;n de la Reglamentaci&oacute;n Farmac&eacute;utica (Red PARF - Marzo 2005) se elabor&oacute; el documento: 'Definici&oacute;n y criterios para clasificar medicamentos de venta libre'.</P> <P ALIGN='JUSTIFY'>Que asimismo la Organizaci&oacute;n Mundial de la Salud ha publicado el documento denominado 'Guidelines for the Regulatory Assessment of Medicinal Products for Use in Self-Medication' (G&eacute;nova 2000).</P> <P ALIGN='JUSTIFY'>Que la Comunidad Europea ha establecido mediante el documento 'A Guideline on changing the classification for the supply of a Medicinal Product for human use', la cual incluye las normas gubernamentales de los productos medicinales en dicha Comunidad (January 2006).</P> <P ALIGN='JUSTIFY'>Que en el &aacute;mbito de esta Administraci&oacute;n Nacional se cre&oacute; por Disposici&oacute;n ANMAT Nº 5576/09 el Comit&eacute; T&eacute;cnico Consultor de Sustancias Qu&iacute;micas y Medicamentos, el cual design&oacute; un Subcomit&eacute; de Condici&oacute;n de Venta, integrado por representantes de distintas &aacute;reas de este Organismo.</P> <P ALIGN='JUSTIFY'>Que el objetivo, entre otros, del referido Subcomit&eacute;, consiste en elaborar criterios que permitan la evaluaci&oacute;n uniforme de las especialidades medicinales a las que se les otorgue la condici&oacute;n de Venta Libre.</P> <P ALIGN='JUSTIFY'>Que sobre la base de los antecedentes internacionales mencionados, el aludido Subcomit&eacute; de Condici&oacute;n de Venta, elabor&oacute; los requisitos que deben reunir las especialidades medicinales para solicitar la condici&oacute;n de venta libre.</P> <P ALIGN='JUSTIFY'>Que los referidos requisitos servir&aacute;n de instrumento para la determinaci&oacute;n de la condici&oacute;n de venta libre de una especialidad medicinal, con el fin de brindar medicamentos con alto margen de seguridad y contribuir a su uso responsable por parte de la poblaci&oacute;n.</P> <P ALIGN='JUSTIFY'>Que la Direcci&oacute;n de Evaluaci&oacute;n de Medicamentos y la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por los Decretos Nº 1490/92 y Nº 425/10.</P> <P ALIGN='JUSTIFY'>Por ello:</P> <P ALIGN='JUSTIFY'>EL INTERVENTOR NACIONAL DE LA ADMINISTRACION NACIONAL</P> <P ALIGN='JUSTIFY'>DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º —</B> Establ&eacute;cense los 'Requisitos m&iacute;nimos para solicitar la condici&oacute;n de venta libre de una especialidad medicinal' los que, como Anexo I forman parte integrante de la presente disposici&oacute;n.</P> <B><P ALIGN='JUSTIFY'>Art. 2º —</B> Establ&eacute;cese que, sin perjuicio de los requisitos m&iacute;nimos fijados en el art&iacute;culo 1º de la presente disposici&oacute;n, esta Administraci&oacute;n Nacional, si as&iacute; lo estimare conveniente, podr&aacute; solicitar toda informaci&oacute;n adicional necesaria para asignar la condici&oacute;n de venta libre a una especialidad medicinal.</P> <B><P ALIGN='JUSTIFY'>Art. 3º —</B> A partir de la entrada en vigencia de la presente disposici&oacute;n, las solicitudes de registro de especialidades medicinales de venta libre y/o cambio de condici&oacute;n de venta bajo receta a venta libre deber&aacute;n ajustarse a los requisitos aprobados en el art&iacute;culo 1º.</P> <B><P ALIGN='JUSTIFY'>Art. 4º —</B> A los efectos de la mejor aplicaci&oacute;n de la presente, apru&eacute;base el glosario que, como Anexo II, forma parte integrante de la presente</P> <P ALIGN='JUSTIFY'>disposici&oacute;n.</P> <B><P ALIGN='JUSTIFY'>Art. 5º —</B> La presente disposici&oacute;n entrar&aacute; en vigencia a partir del d&iacute;a siguiente al de su publicaci&oacute;n en el Bolet&iacute;n Oficial.</P> <B><P ALIGN='JUSTIFY'>Art. 6º —</B> An&oacute;tese; Comun&iacute;quese a CAEMe, CAPEMVeL, CILFA, COOPERALA y CAPGEN. D&eacute;se al Departamento de Relaciones Institucionales a sus efectos. D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial, para su publicaci&oacute;n. Cumplido arch&iacute;vese, PERMANENTE. — Carlos Chiale.</P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='CENTER'>REQUISITOS MINIMOS PARA SOLICITAR LA CONDICION DE VENTA LIBRE DE UNA ESPECIALIDAD MEDICINAL</P> <P ALIGN='JUSTIFY'>1.1 Que la especialidad medicinal haya demostrado eficacia y seguridad a trav&eacute;s del tiempo, para ser usadas en el alivio de s&iacute;ntomas o signos f&aacute;cilmente reconocibles por el usuario.</P> <P ALIGN='JUSTIFY'>1.2 Que posea amplio margen terap&eacute;utico de manera tal que la administraci&oacute;n voluntaria o involuntaria, de una dosis mayor a la recomendada o para un uso no aprobado, o la utilizaci&oacute;n por m&aacute;s tiempo, no represente un da&ntilde;o grave para la salud de la poblaci&oacute;n; ni que su utilizaci&oacute;n acorde con los usos aprobados enmascaren enfermedades serias, ni retrasen el diagn&oacute;stico y tratamiento de una condici&oacute;n subyacente.</P> <P ALIGN='JUSTIFY'>1.3 Que no genere tolerancia o dependencia y que no sea susceptible de abuso.</P> <P ALIGN='JUSTIFY'>1.4 Que la v&iacute;a de administraci&oacute;n sea oral o t&oacute;pica exclusivamente.</P> <P ALIGN='JUSTIFY'>1.5 Que la duraci&oacute;n de tratamiento est&eacute; acotado a la indicaci&oacute;n propuesta (posolog&iacute;a).</P> <P ALIGN='JUSTIFY'>1.6 Que las unidades de venta o presentaciones que se soliciten para dichas especialidades medicinales, se ajusten al tiempo de tratamiento aprobado en su respectivo prospecto.</P> <P ALIGN='JUSTIFY'>1.7 Que la especialidad medicinal haya sido comercializada bajo la condici&oacute;n de venta bajo receta en el pa&iacute;s, al menos durante los &uacute;ltimos 5 a&ntilde;os, sin haber presentado reportes de eventos adversos graves, a trav&eacute;s del sistema de farmacovigilancia, que afectaren el balance riesgo beneficio.</P> <P ALIGN='JUSTIFY'>1.8 Que la especialidad medicinal posea bajo riesgo de causar reacciones adversas serias del tipo A y muy bajo riesgo de causar reacciones adversas serias del tipo B en la poblaci&oacute;n general.</P> <P ALIGN='JUSTIFY'>1.9 Que no posea propiedades genot&oacute;xicas, carcinog&eacute;nicas o de toxicidad reproductiva relevante.</P> <P ALIGN='JUSTIFY'>1.10 Que no presente interacciones con especialidades medicinales com&uacute;nmente utilizadas que puedan modificar el efecto terap&eacute;utico de las mismas o generar reacciones adversas serias.</P> <P ALIGN='RIGHT'>ANEXO II</P> <P ALIGN='CENTER'>GLOSARIO</P> <P ALIGN='JUSTIFY'>Especialidad medicinal de venta libre (Decreto 9763/64 reglamentario de la Ley 16.463, art. 35)</P> <P ALIGN='JUSTIFY'>'Aquellos medicamentos destinados a aliviar dolencias que no exigen en la pr&aacute;ctica una intervenci&oacute;n m&eacute;dica y que, adem&aacute;s, su uso, en la forma, condiciones y dosis previstas, no entra&ntilde;an, por su amplio margen de seguridad, peligros para el consumidor'.</P> <P ALIGN='JUSTIFY'>Eficacia:</P> <P ALIGN='JUSTIFY'>Aptitud de un medicamento para producir los efectos propuestos. La eficacia del medicamento se determina por m&eacute;todos cient&iacute;ficos y, a partir de la fase II de los estudios cl&iacute;nicos, requiere comparar los tratamientos que emplea el medicamento problema con un grupo control (grupo que no recibe tratamiento o recibe un placebo).</P> <P ALIGN='JUSTIFY'>Seguridad:</P> <P ALIGN='JUSTIFY'>Caracter&iacute;stica de un medicamento que puede usarse con una probabilidad muy peque&ntilde;a de causar efectos t&oacute;xicos injustificables. La seguridad de un medicamento es por lo tanto una caracter&iacute;stica relativa y en farmacolog&iacute;a cl&iacute;nica su medici&oacute;n es problem&aacute;tica debido a la falta de definiciones operativas y por razones &eacute;ticas y legales. Sin embargo, mediciones tales como el intervalo de concentraciones terap&eacute;uticas permiten, en ciertos casos, la comparaci&oacute;n de la seguridad relacionada con el uso de determinados medicamentos.</P> <P ALIGN='JUSTIFY'>Margen terap&eacute;utico:</P> <P ALIGN='JUSTIFY'>Relaci&oacute;n entre la dosis de un medicamento que produce un efecto terap&eacute;utico y la que produce un efecto t&oacute;xico. Debido a la falta de precisi&oacute;n en la definici&oacute;n de lo que constituyen los efectos terap&eacute;uticos y t&oacute;xicos, es preferible usar otros &iacute;ndices, incluyendo el intervalo de concentraciones terap&eacute;uticas, el factor determinado de seguridad, el &iacute;ndice terap&eacute;utico, etc.</P> <P ALIGN='JUSTIFY'>Reacciones adversas dosis dependiente:</P> <P ALIGN='JUSTIFY'>Reacci&oacute;n adversa al medicamento cuya magnitud est&aacute; relacionada con el tama&ntilde;o de la dosis y que puede representar una extensi&oacute;n del efecto farmacol&oacute;gico en el individuo o una toxicidad inesperada causada por el medicamento o por sus metabolitos (tipo A).</P> <P ALIGN='JUSTIFY'>Reacci&oacute;n adversa dosis independiente:</P> <P ALIGN='JUSTIFY'>Reacci&oacute;n adversa cuya magnitud no guarda relaci&oacute;n con la dosis del medicamento que se administra. Se ha dicho que las respuestas dosis independientes incluyen reacciones causadas por variantes farmacogen&eacute;ticas, pero esta afirmaci&oacute;n es incorrecta y obedece a razones hist&oacute;ricas. A&uacute;n cuando es cierto que dentro de una poblaci&oacute;n existen individuos que muestran respuestas terap&eacute;uticas o t&oacute;xicas cuya magnitud difiere del resto por razones gen&eacute;ticas u otras, estos efectos son siempre, a nivel individual, dependientes de la dosis.</P> <P ALIGN='JUSTIFY'>En consecuencia, solamente se debe considerar como dosis independientes aquellas reacciones que involucran al sistema inmunitario, es decir, las reacciones al&eacute;rgicas (tipo B).</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-3686-2011-182567" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

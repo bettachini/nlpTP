@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-7809-2022-372252/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-7809-2022-372252/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-7809-2022-372252/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"2wzydhm-AZ6WNgLPYx6knjBAufWYBqYoHnB1m-Bi7Hs","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-7809-2022-372252\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-7809-2022-372252 page-normativa-nacional-disposición-7809-2022-372252-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-7809-2022-372252/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-eXg1H0mDSfGA1XeW9bYses7JZAP36OGwUjEQN3EOkB0" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-7809-2022-372252">Disposición   7809/2022</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2022-09-29</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'> <div style='text-align: center;'><br style='font-weight: bold;'> <div style='text-align: justify;'><span style='font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 7809/2022</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>DI-2022-7809-APN-ANMAT#MS</span><br style='font-weight: bold;'> <br> Ciudad de Buenos Aires, 27/09/2022<br> <br> VISTO el Expediente Nº EX-2022-37793937-APN-DD#MS, el Tratado de Asunción del 26 de marzo de 1991, aprobado por la Ley Nº 23.981, el Protocolo de Ouro Preto del 17 de diciembre de 1994, aprobado por la Ley Nº 24.560, la Resolución GMC N° 48/21 &#8220;Reglamento Técnico MERCOSUR sobre rotulado para productos de higiene personal, cosméticos y perfumes (Derogación de las Resoluciones GMC N° 36/99 y 36/04&#8221; y las Disposiciones ANMAT Nros. 3473 del 10 de junio de 2005 y 374 del 23 de enero de 2006 ; y<br> <br> CONSIDERANDO:<br> <br> Que el proceso de integración del MERCOSUR es de la mayor importancia estratégica para la REPÚBLICA ARGENTINA.<br> <br> Que conforme a los artículos 2, 9, 15, 20, 38, 40 y 42 del Protocolo de Ouro Preto, las normas MERCOSUR aprobadas por el Consejo del Mercado Común, el Grupo Mercado Común y la Comisión de Comercio del MERCOSUR, son obligatorias y deben ser incorporadas, cuando ello sea necesario, al ordenamiento jurídico nacional de los Estados Partes mediante los procedimientos previstos en su legislación.<br> <br> Que conforme a los artículos 3, 14 y 15 de la Decisión 20/02 del Consejo del Mercado Común, las normas MERCOSUR que no requieran ser incorporadas por vía de aprobación legislativa podrán ser incorporadas por vía administrativa por medio de actos del Poder Ejecutivo.<br> <br> Que el artículo 7 de la citada Decisión establece que las normas MERCOSUR deberán ser incorporadas a los ordenamientos jurídicos de los Estados Partes en su texto integral.<br> <br> Que se dictó la Resolución GMC N° 48/21 &#8220;Reglamento Técnico MERCOSUR sobre rotulado para productos de higiene personal, cosméticos y perfumes (Derogación de las Resoluciones GMC N° 36/99 y 36/04&#8221;.<br> <br> Que la referida resolución fue incorporada por la Disposición ANMAT N° 3473/05, complementada por la Disposición ANMAT N° 374/06, por lo que corresponde proceder a su derogación.<br> <br> Que la Dirección de Evaluación y Gestión de Monitoreo de Productos para la Salud, la Dirección de Relaciones Institucionales y la Dirección de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que se actúa en ejercicio de las facultades conferidas por el Decreto Nº 1490/92 y sus modificatorios.<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1º.- Incorpórase al ordenamiento jurídico nacional la Resolución GMC Nº 48/21 &#8220;Reglamento Técnico MERCOSUR sobre rotulado para productos de higiene personal, cosméticos y perfumes (Derogación de las Resoluciones GMC N° 36/99 y 36/04&#8221;), que consta en el documento IF-2022-37841058-APN-DNRIN#MS y como Anexo forma parte de integrante de la presente disposición.<br> <br> ARTÍCULO 2º.- En los términos del Protocolo Ouro Preto, la norma que se incorpora por la presente disposición, entrará en vigor simultáneamente en los Estados Partes, 30 días después de la fecha de la comunicación efectuada por la Secretaría del Mercosur informando que todos los Estados han incorporado la norma a sus respectivos ordenamientos jurídicos internos.<br> <br> La entrada en vigor simultánea de la Resolución GMC N° 48/21 &#8220;Reglamento Técnico MERCOSUR sobre rotulado para productos de higiene personal, cosméticos y perfumes (Derogación de las Resoluciones GMC N° 36/99 y 36/04&#8221;) será comunicada a través de un aviso en el Boletín Oficial de la Nación (cfr. Artículo 40 inciso III del Protocolo de Ouro Preto).<br> <br> ARTÍCULO 3º.- Deróganse las Disposiciones ANMAT Nros. 3473/05 y ANMAT N° 374/06.<br> <br> ARTÍCULO 4º.- Comuníquese al Programa de Relaciones Internacionales de la Dirección de Relaciones Institucionales y a las cámaras sectoriales pertinentes, publíquese, dese a la Dirección Nacional del Registro Oficial. Dese al Programa de Relaciones Internacionales.<br> <br> Manuel Limeres<br> <br> NOTA: El/los Anexo/s que integra/n este(a) Disposición se publican en la edición web del BORA -www.boletinoficial.gob.ar-<br> <br> <div style='text-align: right;'>e. 29/09/2022 N° 78031/22 v. 29/09/2022<br> </div> <br> <span style='font-style: italic;'>(<span style='font-weight: bold;'>Nota Infoleg:</span> Los anexos referenciados en la presente norma han sido extraídos de la edición web de Boletín Oficial)</span><br> </div>  <br> <img  src='../../../normativa/372252_res7809-01_jpg/archivo'><br> </div> <br> <span style='font-weight: bold;'>MERCOSUR/GMC/RES N° 48/21</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <div style='text-align: center;'><span style='font-weight: bold;'>REGLAMENTO TÉCNICO MERCOSUR SOBRE ROTULADO PARA PRODUCTOS DE HIGIENE PERSONAL, COSMÉTICOS Y PERFUMES (DEROGACIÓN DE LAS RESOLUCIONES GMC N° 36/99 Y 36/04)</span><br> </div> <br> <span style='font-weight: bold;'>VISTO</span>: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 110/94, 126/94, 41/96, 38/98, 36/99, 36/04 y 45/17 del Grupo Mercado Común.<br> <br> <span style='font-weight: bold;'>CONSIDERANDO</span>:<br> <br> Que los productos de higiene personal, cosméticos y perfumes deben ser seguros en las condiciones normales y previsibles de uso.<br> <br> Que el rotulado es una herramienta que posibilita disminuir los riesgos derivados del mal uso de los productos, en tanto que permite brindar al consumidor información correcta, clara, precisa y suficiente sobre las características del producto, su seguridad, modo de uso y eficacia.<br> <br> Que es necesario asegurar la uniformidad de rotulado de productos comercializados en los Estados Partes del MERCOSUR y actualizar los requisitos de rotulado en función de la experiencia obtenida en el marco de la vigilancia sanitaria.<br> <br> <div style='text-align: center;'><span style='font-weight: bold;'>EL GRUPO MERCADO COMÚN </span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>RESUELVE:</span><br> </div> <br> Art 1 - Aprobar el 'Reglamento Técnico MERCOSUR sobre rotulado para productos de higiene personal, cosméticos y perfumes', que consta como Anexo y forma parte de la presente Resolución.<br> <br> Art. 2 - Establecer un plazo de treinta y seis (36) meses para la adecuación de los ductos que ya estén regularizados/inscriptos, contado a partir de la fecha de incorporación de la presente Resolución al ordenamiento jurídico de los Estados Partes.<br> <br> Art. 3 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo N° 11 'Salud' (SGT N° 11), los organismos nacionales competentes para la implementación de la presente Resolución.<br> <br> Art. 4 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.<br> <br> Art. 5 - Derogar las Resoluciones GMC N° 36/99 y 36/04.<br> <br> Art. 6 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 29/VIII/2022.<br> <br style='font-weight: bold;'> <div style='text-align: right;'><span style='font-weight: bold;'>GMC (Dec. CMC N° 20/02, Art. 6) - Montevideo, 02/III/22.</span><br style='font-weight: bold;'> </div> <br> <div style='text-align: center;'><span style='font-weight: bold;'>ANEXO</span><br style='font-weight: bold;'> </div> <br style='font-weight: bold;'> <div style='text-align: center;'><span style='font-weight: bold;'>REGLAMENTO TÉCNICO MERCOSUR SOBRE ROTULADO PARA PRODUCTOS DE HIGIENE PERSONAL, COSMÉTICOS Y PERFUMES</span><br style='font-weight: bold;'> </div> <br style='font-weight: bold;'> <span style='font-weight: bold;'>1) OBJETIVO:</span><br style='font-weight: bold;'> <br> Establecer la información indispensable que debe encontrarse en los rótulos de los productos de higiene personal, cosméticos y perfumes, en cuanto a su utilización, así como toda indicación necesaria referente al producto.<br> <br> <span style='font-weight: bold;'>2) DEFINICIONES:</span><br> <br> 1. Envase Primario: envoltura o recipiente que se encuentra en contacto directo con los productos.<br> <br> 2. Envase Secundario: envase destinado a contener el envase primario o los envases primarios.<br> <br> 3. Rótulo o Rotulado: identificación impresa o litografiada, así como las palabras pintadas o grabadas, calcomanía a presión u otras técnicas aplicadas directamente sobre recipientes, envases, cubiertas, envolturas, o cualquier otro protector de envases.<br> <br> 4. Folleto de Instrucciones: texto impreso que acompaña al producto, conteniendo información complementaria.<br> <br> 5. Nombre: designación del producto para distinguirlo de otros, aunque sean de la misma empresa o fabricante, especie, calidad o naturaleza.<br> <br> 6. Grupo/Tipo: incluye el tipo de formulación cosmética (por ejemplo, champú, jabón, lápiz labial, crema) y la finalidad del producto, en el caso de que no esté implícita en el tipo de formulación.<br> <br> 7. Marca: elemento que identifica a uno o varios productos de una misma empresa o fabricante y que los distingue de productos de otras empresas o fabricantes, según la legislación de propiedad industrial.<br> <br> 8. País de Origen: país de producción o industrialización del producto.<br> <br> 9. Lote o Partida: cantidad de un producto producido en un ciclo de producción, debidamente identificado, cuya principal característica es la homogeneidad.<br> <br> 10. Plazo de Validez/Vida útil: tiempo en que el producto mantiene sus propiedades, siempre que se conserve en el envase original y sin averías, en condiciones adecuadas de almacenamiento y utilización.<br> <br> 11. Titular de inscripción/regularización del producto: responsable de la ¡nscripción/regularización de conformidad con lo definido en el ordenamiento jurídico nacional de cada Estado Parte y que posee la responsabilidad sobre el producto frente a la autoridad sanitaria competente.<br> <br> 12. Datos del titular del registro/regularización del producto: corresponde al número de identificación otorgado por la autoridad sanitaria y/o al número de registro nacional del titular, cuando corresponda, de acuerdo con el procedimiento establecido por la autoridad sanitaria de cada Estado Parte, y al nombre (denominación social) del titular.<br> <br> 13. Elaborador/Fabncante: empresa que posee las instalaciones necesarias para la elaboración/fabricación de productos de higiene personal, cosméticos y perfumes, y que se encuentra habilitada ante la autoridad sanitaria competente.<br> <br> 14. Importador: empresa que es responsable de la importación de productos de higiene personal, cosméticos y perfumes, y que se encuentra habilitada ante la autoridad sanitaria competente.<br> <br> 15. Datos de inscripción/regularización del producto: corresponde al número de autorización de comercialización del producto; o al número de identificación de la empresa otorgado por la autoridad sanitaria junto con el número de resolución, de acuerdo con e¡ procedimiento establecido por la autoridad sanitaria de cada Estado Parte.<br> <br> 16. Ingredientes/Composición: descripción cualitativa de los componentes de la fórmula a través de su designación genérica utilizando la codificación de sustancias estaolecida por la Nomenclatura Internacional de Ingredientes Cosméticos (INCI).<br> <br> 17. Advertencias y Restricciones de Uso: advertencias y restricciones establecidas en los listados de sustancias aprobados por Reglamentos Técnicos MERCOSUR cuando exijan la obligatoriedad de informar la presencia de las mismas en el rótulo y aquellas establecidas para el rotulado específico de algunos productos, sin perjuicio de otras determinadas por el fabricante, inclusive las condiciones adecuadas para el almacenamiento, cuando sea necesario.<br> <br> 18. Modo de uso: conjunto de instrucciones para la correcta aplicación del producto.<br> <br> 19. Probador/Tester: producto de demostración regularizado que se exhibe en el punto de venta, cerca del respectivo producto de venta, con el único propósito de experimentación de su uso por parte del consumidor.<br> <br style='font-weight: bold;'> <span style='font-weight: bold;'>3) ATRIBUTOS DEL PRODUCTO</span><br> <br> 3.1 El rotulado de los productos de higiene personal, Cosméticos y perfumes debe ser claro, veraz y suficiente para evitar un uso inadecuado o que no corresponda a las finalidades de uso establecidas para esta categoría de productos.<br> <br> 3.2 El rotulado de productos de higiene personal, cosméticos y perfumes no debe contener nombres comerciales, marcas, imágenes, enlaces electrónicos o frases que:<br> <br> a) induzcan a error, engaño o confusión en cuanto a sus propiedades, procedencia/naturaleza, origen, composición, finalidad de uso admisible o seguridad.<br> <br> b) representen alegaciones terapéuticas atribuidas al uso del producto o de sus ingredientes como, por ejemplo, prevención o tratamiento de hematomas, heridas, grietas, dolores, inflamaciones, calambres, varices, pediculosis, incluida la acción de eliminación, reducción, muerte o caída de piojos y liendres o protección completa contra ellos.<br> <br> c) se refieran a la acción de eliminación, reducción, muerte o volteo de insectos o protección completa contra ellos.<br> <br> d) mencionen la propiedad desinfectante o que aludan a la eliminación completa de microrganismos.<br> <br> e) declaren propiedades antimicrobianas, a excepción de aquellos que, presentando sustancias con acción antimicrobiana que los diferencien de productos convencionales (no antimicrobianos), se indiquen sólo para las finalidades establecidas en la Resolución GMC N° 110/94 y para su aplicación en manos, cavidad oral, áreas axilares y pédicas, o declaren una finalidad exclusiva de higiene y/o desodorización (por ejemplo, jabones, toallas humedecidas, desodorantes), o se indiquen para piel con tendencia acneica. Esta prohibición incluye los productos de uso íntimo y capilares, excepto los anticaspa. (*)<br> <br> (*) cuando sea aplicable, conforme lo establecido por la autoridad sanitaria de cada Estado Parte.<br> <br style='font-weight: bold;'> <span style='font-weight: bold;'>4) ROTULADO OBLIGATORIO GENERAL</span><br> <br> 4.1 Datos mínimos obligatorios que deben figurar en el rotulado de los productos de higiene personal, cosméticos y perfumes, incluyendo probadores/testers:<br> <br> <div style='text-align: center;'><img  src='../../../normativa/372252_res7809-02_jpg/archivo'></div> &nbsp;<br> 4.2 OBSERVACIONES:<br> <br> 4.2.1 Cuando no existe envase secundario toda la información requerida debe figurar en el envase primario.<br> <br> 4.2.2 Cuando el envase primario sea pequeño o no permita incluir el modo de uso y las advertencias y/o restricciones de uso, estas pueden figurar en un folleto o material adjunto o en la cara interna del envase secundario. Deberá estar indicado en el(los) envase(s) 'Ver folleto/material adjunto/cara interna del envase secundario' precedido de la descripción de la información que consta en el folleto, material adjunto o parte interior del envase secundario.<br> <br> Si el producto contiene empaques primario y secundario, y el empaque primario es pequeño o no permite la inclusión de advertencias y/o restricciones de uso, se permitirá sustituir esta información por la descripción 'Advertencias y/o restricciones de uso: ver empaque externo'.<br> <br> 4.2.3 Un envoltorio o estuche transparente adicional será considerado exento de las obligaciones establecidas en el numeral 4 'ROTULADO OBLIGATORIO GENERAL', siempre y cuando permita una correcta visualización del rotulado obligatorio dispuesto en el envase primario o secundario del producto, y no agregue o altere información técnica sobre los requisitos establecidos en el presente Reglamento.<br> <br> 4.2.4 Si el producto tiene envase primario y secundario y el envase primario no acompaña al producto durante su uso, como ocurre con los jabones sólidos, toda la información obligatoria debe figurar en el envase secundario y el envase primario no requerirá información.<br> <br> 4.2.5 La información obligatoria colocada en el rotulado debe ser legible y en el idioma del Estado Parte en el que se comercializa el producto, con excepción del código de identificación de ingredientes cosméticos (INCI), nombre y marcas.<br> <br> 4.2.6 Para los productos importados cuyos rótulos originales no contengan la información requerida por el país receptor, se aceptará la adecuación a través de una etiqueta u otro medio que contenga la información faltante. Esa información no podrá ser presentada en formato digital.<br> <br> Esta información se puede colocar tanto en origen como en destino. En este último caso, la adecuación debe realizarse antes de su comercialización.<br> <br> Los productos importados no pueden proclamar acción terapéutica ni contener frases prohibidas o no comprobadas independientemente del idioma en el que esté redactado el rótulo. De ser necesario, el rótulo debe cubrirse total o parcialmente con un rótulo adicional antes de su comercialización.<br> <br> 4.2.7 En el caso de un kit de productos, el plazo de validez que se consignará en el envase secundario deberá ser el del producto con menor vida útil remanente.<br> <br> 4.2.8 El rotulado de probadores o testers expuestos únicamente en su envase primario debe presentar al menos la información obligatoria para el envase primario (numerales 1, 2, 4 y 11), la fecha de vencimiento (numeral 5) y la frase 'Venta Prohibida'.<br> <br> <span style='font-weight: bold;'>5) ROTULADO ESPECÍFICO PARA PRODUCTOS DE HIGIENE PERSONAL, COSMÉTICOS Y PERFUMES</span><br> <br> 5.1 Los siguientes productos de higiene personal, cosméticos y perfumes deben contener en su rotulado las advertencias y/o restricciones de uso que se indican a continuación, o bien utilizar una redacción que asegure !a misma interpretación:<br> <br> <span style='font-weight: bold;'>a) Aerosoles:</span><br> <br> - Inflamable. No pulverizar cerca de la llama.<br> <br> - No perforar ni incinerar.<br> <br> - No exponer al sol ni a temperaturas superiores a 50° C.<br> <br> - Proteger los ojos durante la aplicación.<br> <br> - Mantener fuera del alcance de los niños.<br> <br> - Evitar la inhalación directa de este producto. <br> <br>  -Indicar una distancia mínima de aplicación.<br> <br><span style='font-weight: bold;'>b) Neutralizantes, productos para ondular y alisar los cabellos:</span><br> <br> - No aplicar si el cuero cabelludo estuviera irritado o lesionado.<br> <br> - Mantener fuera del alcance de los niños.<br> <br> - Esta preparación solo debe utilizarse para el fin para el que fue diseñada, siendo PELIGROSO su uso para cualquier otro fin o área de aplicación.<br> <br> <span style='font-weight: bold;'>c) Agentes aclarantes del cabello y tinturas capilares:</span><br> <br> - CUIDADO. Puede causar irritación de la piel o reacción alérgica. Antes de usar, hacer prueba de toque (describir).<br> <br> - No usar en pestañas.<br> <br> - No aplicar si el cuero cabelludo estuviera irritado o lesionado.<br> <br> - En caso de contacto con los ojos, lavar con agua en abundancia.<br> <br> - Mantener fuera del alcance de los niños.<br> <br> <span style='font-weight: bold;'>d) Agentes blanqueadores de pelos/vellos corporales:</span><br> <br> - No aplicar si la piel está irritada o lesionada.<br> <br> - Respetar el tiempo de contacto del producto con la piel. Luego, lavar la zona con abundante agua.<br> <br> - No aplicar el producto y exponerse al sol simultáneamente.<br> <br> - En caso de irritación de la piel lavar con abundante agua y evitar la exposición al sol.<br> <br> - No usar en pestañas y vello pubiano.<br> <br> <span style='font-weight: bold;'>e) Tintura para pelos/vellos corporales:</span><br style='font-weight: bold;'> <br> - CUIDADO. Puede causar irritación de la piel o reacción alérgica. Antes de usar, hacer prueba de toque (describir).<br> <br> - No aplicar si la piel está irritada o lesionada.<br> <br> - En caso de contacto con los ojos, lavar con agua en abundancia.<br> <br> - Respetar el tiempo de contacto del producto con la piel. Luego, lavar la zona con abundante agua.<br> <br> - Mantener fuera del alcance de los niños.<br> <br> - En caso de irritación de la piel lavar con abundante agua y evitar la exposición al sol.<br> <br> - No usar en pestañas ni pelos pubianos.<br> <br> <span style='font-weight: bold;'>f) Depilatorios y epilatorios:</span><br> <br> - No aplicar en áreas irritadas o lesionadas.<br> <br> - No dejar aplicado un tiempo superior al indicado en las instrucciones de uso.<br> <br> - No usar para afeitar la barba (excepto para ceras depilatorias)<br> <br> - En caso de contacto con los ojos, lavar con agua en abundancia (excepto para ceras depilatorias).<br> <br> - Mantener fuera del alcance de los niños.<br> <br> <span style='font-weight: bold;'>g) Dentífricos y enjuagues bucales con flúor:</span><br> <br> - Indicar nombre del compuesto de flúor utilizado y su concentración en ppm (partes por millón).<br> <br> - Indicar el modo de uso, cuando sea necesario.<br> <br> - No usar en menores de 6 años (solamente para enjuagues bucales).<br> <br> <span style='font-weight: bold;'>h) Productos antitranspirantes:</span><br> <br> - Usar sólo en las áreas indicadas.<br> <br> - No aplicar sobre piel irritada o lesionada.<br> <br> - En caso de irritación y/o prurito en el área de aplicación, suspender su uso inmediatamente.<br> <br> <span style='font-weight: bold;'>i) Tónicos/Lociones capilares</span><br style='font-weight: bold;'> <br> - En caso de irritación del cuero cabelludo, suspender su uso.<br> <br style='font-weight: bold;'> <span style='font-weight: bold;'>j) Activadores/aceSeradores del bronceado</span><br style='font-weight: bold;'> <br> - Este producto no es un protector solar.<br> <br> <span style='font-weight: bold;'>k) Autobronceantes/SimuSadores de bronceado</span><br style='font-weight: bold;'> <br> - Atención: no protege contra la acción solar.<br> <br> <span style='font-weight: bold;'>I) Productos para el cuidado bucal adecuados para dientes sensibles</span><br> <br> - Ante la persistencia de sensibilidad dental por más de 4 semanas, suspender el uso del producto y consultar a su odontólogo.<br> <br> - Evitar la ingestión del producto, <br> <br> <span style='font-weight: bold;'>m) Productos para la higiene íntima</span><br> <br> - Aplicar sólo en los órganos genitales externos.<br> <br> - El uso excesivo del producto puede ser una fuente de irritación genital, <br> <br> <span style='font-weight: bold;'>n) Productos hipoalergénicos</span><br style='font-weight: bold;'> <br> - Este producto ha sido formulado de manera que minimice la posible aparición de alergia.<br> <div style='text-align: right;'><br> IF-2022-37841058-APN-DNRIN#MS<br> </div> <br> <div style='text-align: center;'><img  src='../../../normativa/372252_res7809-03_jpg/archivo'></div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-7809-2022-372252" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

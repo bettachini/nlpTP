@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-145-2003-83651/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-145-2003-83651/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-145-2003-83651/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"NJDJzMil9VFt2xMcC-xYCH0AGcbm9Dks2-RCXU9F5VM","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/resoluci%C3%B3n-145-2003-83651\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-resolución-145-2003-83651 page-normativa-nacional-resolución-145-2003-83651-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/resoluci%C3%B3n-145-2003-83651/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-Q0_ZjFtlHsO3mHovOLXQSRUzWzvsXykch5Ucde1_864" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/resoluci%C3%B3n-145-2003-83651">Resolución   145/2003</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>MINISTERIO DE SALUD</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2003-03-28</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Ministerio de Salud </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>SALUD PUBLICA </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Resoluci&oacute;n 145/2003 </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Apru&eacute;base el Reglamento T&eacute;cnico Mercosur para Transporte de Sustancias Infecciosas y Muestras para Diagn&oacute;stico, incorpor&aacute;ndolo a la normativa jur&iacute;dica nacional vigente.</P><P ALIGN='JUSTIFY'></P></B><P ALIGN='JUSTIFY'>Bs. As., 25/3/2003 </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>VISTO el Expediente N° 2002-12923/00-9 del registro del MINISTERIO DE SALUD, el Tratado de Asunci&oacute;n, el Protocolo de Ouro Preto y la Resoluci&oacute;n Grupo Mercado Com&uacute;n del MERCOSUR N° 25/00, y </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>CONSIDERANDO: </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Que por dicha Resoluci&oacute;n se resolvi&oacute; aprobar el documento &quot;Reglamento T&eacute;cnico Mercosur para Transporte en el Mercosur de Sustancias Infecciosas y Muestras para Diagn&oacute;stico&quot;.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Que de los coonsiderandos de la referida Resoluci&oacute;n surge que es necesario contar con una normativa armonizada en el &aacute;mbito del MERCOSUR para el transporte seguro de sustancias infecciosas y de muestras para diagn&oacute;stico.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Que la Resoluci&oacute;n fue previamente discutida y armonizada con la participaci&oacute;n de representantes de la REPUBLICA ARGENTINA, y fue recomendada al Grupo Mercado Com&uacute;n por la Comisi&oacute;n de Vigilancia Epidemiol&oacute;gica y Control Sanitario de Puertos, Aeropuertos, Terminales y Pasos Fronterizos y la Comisi&oacute;n de Coordinadores Nacionales del SGT N° 11-Salud del MERCOSUR.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Que en virtud del art&iacute;culo 38 del Protocolo de Ouro Preto, signado por nuestro pa&iacute;s, nace el compromiso de adoptar las medidas necesarias para asegurar el cumplimiento de las normas emanadas de los &oacute;rganos del MERCOSUR y, en consecuencia, deben incorporarse las Resoluciones GMC/MERCOSUR a la normativa jur&iacute;dica nacional.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS ha tomado la intervenci&oacute;n de su competencia.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Por ello, </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>EL MINISTRO DE SALUD </P><P ALIGN='JUSTIFY'>RESUELVE: </P><P ALIGN='JUSTIFY'></P><B><P ALIGN='JUSTIFY'>Art&iacute;culo 1° </B>— Apru&eacute;base el documento &quot;Reglamento T&eacute;cnico Mercosur para Transporte en el Mercosur de Sustancias Infecciosas y Muestras para Diagn&oacute;stico&quot; que forma parte integrante de la presente como Anexo I, en el cual se transcribe literalmente la versi&oacute;n en castellano de la Resoluci&oacute;n GMC N° 25/00, quedando incorporado a la normativa jur&iacute;dica nacional vigente.</P><P ALIGN='JUSTIFY'></P><B><P ALIGN='JUSTIFY'>Art. 2° </B>— Reg&iacute;strese, comun&iacute;quese, publ&iacute;quese, d&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial y arch&iacute;vese. — Gin&eacute;s M. Gonz&aacute;lez Garc&iacute;a.</P><P ALIGN='JUSTIFY'></P><P ALIGN='CENTER'>REGLAMENTO TECNICO MERCOSUR PARA TRANSPORTE EN EL MERCOSUR DE SUSTANCIAS INFECCIOSAS Y MUESTRAS PARA DIAGNOSTICO</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>1. Definiciones: </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>- Sustancias infecciosas </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Una sustancia infecciosa es definida como una sustancia que contiene un microorganismo viable, tal como bacteria, virus, rickettsia, par&aacute;sito, hongo o microorganismo recombinante, h&iacute;brido o mutante que se sabe o se cree en forma razonable que causa enfermedad en humanos o animales. (Esta definici&oacute;n est&aacute; tomada de las Recomendaciones de NU vigentes sobre el Transporte de Art&iacute;culos Peligrosos. Los &quot;priones&quot; no se incluyen en esta definici&oacute;n, a pesar de ser considerados agentes infecciosos). Seg&uacute;n documento WHO/EMC/97.3.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>- Muestras diagn&oacute;sticas </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Una muestra diagn&oacute;stica es definida como cualquier material humano o animal incluyendo, pero no limitado a excretas, secreciones, sangre o sus componentes, tejidos y fluidos org&aacute;nicos, colectados con el prop&oacute;sito de hacer un diagn&oacute;stico. Se excluyen los animales vivos infectados.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2. Responsabilidades: </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>El transporte de sustancias infecciosas y muestras biol&oacute;gicas para an&aacute;lisis en laboratorios habilitados por los Ministerios de Salud de los Estados Partes del MERCOSUR, establece responsabilidades para el remitente, el destinatario (laboratorio que recibe) y la empresa de transporte.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.1. Del remitente </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.1.1. Con antelaci&oacute;n, contactar con el destinatario de las muestras (el laboratorio importador) para tomar los recaudos necesarios incluy&eacute;ndose si fuera el caso, la obtenci&oacute;n de licencia de importaci&oacute;n o documento equivalente con autorizaci&oacute;n previa.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>- El env&iacute;o ser&aacute; transportado por el medio m&aacute;s adecuado y la ruta m&aacute;s directa.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>- Se procurar&aacute; que su llegada sea en un d&iacute;a h&aacute;bil de la semana, evit&aacute;ndose los fines de semana y feriados en el pa&iacute;s de destino.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.1.2. Preparar la documentaci&oacute;n necesaria, incluyendo las autorizaciones y los documentos para despacho aduanero y sanitario necesarios para el env&iacute;o de la muestra.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.1.3. Notificar con antelaci&oacute;n al destinatario de los tr&aacute;mites realizados y la forma de env&iacute;o (transporte) para garantizar la recepci&oacute;n del material enviado.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.1.4. Embalar e identificar la sustancia infecciosa o muestra biol&oacute;gica para an&aacute;lisis laboratorial siguiendo las normas de bioseguridad establecidas en las &quot;Recomendaciones del Comit&eacute; de Expertos de las Naciones Unidas para el Transporte de Art&iacute;culos Peligrosos&quot;.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.2. Del destinatario </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.2.1. Obtener las autorizaciones necesarias de las autoridades nacionales para el ingreso a los Estados Parte de sustancias infecciosas y/o muestras biol&oacute;gicas.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.2.2. Proveer al remitente de los permisos, documentos de autorizaci&oacute;n y otros documentos que sean requeridos por las autoridades nacionales del pa&iacute;s receptor, y hacer constar el n&uacute;mero de esa autorizaci&oacute;n (de esos documentos) en todos los documentos originales de embarque.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.2.3. Hacer los arreglos necesarios para recibir el material enviado del exterior en la forma m&aacute;s eficiente y oportuna en el momento de su arribo.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.2.4. Notificar inmediatamente al remitente la llegada del material enviado.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>El material no deber&aacute; ser despachado antes de que: </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>- Los arreglos previos entre el remitente, la empresa transportadora y el destinatario sean concretados.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>- El destinatario haya confirmado con las autoridades nacionales que el material puede ser importado legalmente.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>- El destinatario haya confirmado que no existir&aacute; atraso en el env&iacute;o del material.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3. Del transportador </P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3.1. Proveer al remitente de los documentos de despacho, env&iacute;o e instrucciones para su llenado.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3.2. Informar al remitente sobre el embalaje apropiado.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3.3. Asesorar al remitente sobre la ruta m&aacute;s r&aacute;pida para el env&iacute;o del material.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3.4. Guardar y archivar la documentaci&oacute;n para env&iacute;o y transporte, como m&iacute;nimo durante cinco a&ntilde;os.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3.5. Verificar las condiciones en que el material debe ser mantenido durante el transporte.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3.6. Realizar el seguimiento del material transportado y notificar al remitente de atrasos esperados o inesperados que ocurran durante el transporte.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3.7. No transportar el material infeccioso o muestras biol&oacute;gicas para an&aacute;lisis de laboratorio en el mismo compartimento en que son transportados los pasajeros.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3.8. Mantener el material a la temperatura externa recomendada desde que se recibe del remitente hasta la entrega al destinatario en el pa&iacute;s de destino.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3.9. Entrar en contacto con el remitente, el destinatario, y con las autoridades sanitarias en caso de accidente o derrame de la sustancia infecciosa o muestra biol&oacute;gica.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3.10. Comunicar al remitente del material enviado del exterior dentro de las 8 horas de su arribo.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3.11. El Transportador deber&aacute; tener licencia de funcionamiento o Registro en el Ministerio de Salud, u organismo designado por &eacute;ste, conforme a la legislaci&oacute;n vigente.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3.12. Transportar exclusivamente con respaldo de la Gu&iacute;a A&eacute;rea (MAWB-Master Airbill), emitido por la compa&ntilde;&iacute;a a&eacute;rea transportadora, o con respaldo de documento de conocimiento de carga del Transporte Fluvial, Mar&iacute;timo, Ferroviario o Terrestre Internacional, independientemente de si es infeccioso o no.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2.3.13. Promover el desembarque y el almacenamiento inmediatos y completos de la carga en el pa&iacute;s receptor, no excediendo las dos horas de llegada del veh&iacute;culo transportador.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>3. Embalaje y etiquetado</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Se efectuar&aacute; de acuerdo a lo prescripto en:</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>3.1. &quot;Gu&iacute;a para Transporte Seguro de Substancias Infecciosas y Espec&iacute;menes Diagn&oacute;sticos de la OMS&quot; (WHO/EMC/97.3), Ginebra, Suiza, 1997.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>3.2. &quot;DANGEROUS GOODS REGULATIONS&quot;</P><P ALIGN='JUSTIFY'>40th Edition - 1 January 1999.</P><P ALIGN='JUSTIFY'>International Air Transport Association (I.A.T.A.).</P><P ALIGN='JUSTIFY'>Section 5 - Packing - Instruction N° 602 y N° 650.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>NOTAS: 1) Cuando el transporte ocurre entre los Estados Partes, los r&oacute;tulos, formularios y embalajes deber&aacute;n ser escritos en el idioma correspondiente al pa&iacute;s remitente.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>2) Cuando el transporte ocurre para pa&iacute;ses extrazona el idioma ser&aacute; el ingl&eacute;s.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>3) Se adoptar&aacute;n las revisiones futuras de las normativas y recomendaciones referidas en 3.1. y 3.2.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>4. Refrigeraci&oacute;n</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Se efectuar&aacute; de acuerdo a lo prescripto en:</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>4.1. &quot;Gu&iacute;a para Transporte Seguro de Sustancias Infecciosas y Espec&iacute;menes Diagn&oacute;sticos de la OMS&quot; (WHO/EMC/97.3), Ginebra, Suiza, 1997.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>4.2. &quot;DANGEROUS GOODS REGULATIONS&quot;</P><P ALIGN='JUSTIFY'>40th Edition - 1 January 1999.</P><P ALIGN='JUSTIFY'>International Air Transport Association (I.A.T.A.)</P><P ALIGN='JUSTIFY'>Section 3 Classification</P><P ALIGN='JUSTIFY'>3.6.2 - Division 62. Infectious Substancese</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>NOTA: Se adoptar&aacute;n las revisiones futuras de las normativas y recomendaciones referidas en 4.1 y 4.2.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>5. Formularios y documentos para el env&iacute;o</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>El env&iacute;o de sustancias infecciosas y/o muestras bil&oacute;gicas para an&aacute;lisis laboratorial entre servicios de salud, investigadores y profesionales de la salud de la redes de laboratorios de an&aacute;lisis acreditados en los Estados Parte del MERCOSUR, deber&aacute; ser acompa&ntilde;ado por los formularios y documentos abajo mencionados.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>5.1. Formulario de identificaci&oacute;n del material enviado (en p&aacute;gina anexa).</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>5.2. Documentos que deben acompa&ntilde;ar el env&iacute;o.</P><P ALIGN='JUSTIFY'>Los documentos requeridos para el env&iacute;o podr&aacute;n ser obtenidos en las compa&ntilde;&iacute;as transportadoras que deben colocar en el paquete:</P><P ALIGN='JUSTIFY'>- Una declaraci&oacute;n de art&iacute;culos peligrosos.</P><P ALIGN='JUSTIFY'>- Una lista de env&iacute;o/proforma que incluya la localizaci&oacute;n del receptor, el n&uacute;mero de paquetes, detalle de contenido, peso, valor (Observaci&oacute;n: indicar que es &quot;sin valor comercial&quot;, cuando el valor de los mismos, sea despreciable).</P><P ALIGN='JUSTIFY'>- La gu&iacute;a a&eacute;rea si el env&iacute;o se hace por v&iacute;a a&eacute;rea.</P><P ALIGN='JUSTIFY'>- El permiso de importaci&oacute;n/exportaci&oacute;n y/o la declaraci&oacute;n si esto fuera requerido por los Estados Parte.</P><P ALIGN='JUSTIFY'>- Si el paquete externo del env&iacute;o contiene recipientes que excedan la cantidad de 50 ml, deben colocarse por lo menos dos &quot;etiquetas de orientaci&oacute;n&quot; (flechas) en lados opuestos del paquete, indicando la orientaci&oacute;n correcta del mismo.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>6. Tr&aacute;mites Aduaneros y de Vigilancia Sanitaria.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Para la exportaci&oacute;n e importaci&oacute;n de sustancias infecciosas y muestras biol&oacute;gicas para an&aacute;lisis y diagn&oacute;stico laboratorial determinados procedimientos aduaneros y de vigilancia sanitaria deber&aacute;n ser cumplidos por el remitente y el destinatario del material enviado.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>6.1. Remitente:</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>- Registrar en el &oacute;rgano de Aduana o similar del Estado Parte, una D.S.E. (Declaraci&oacute;n Simplificada de Exportaci&oacute;n) o similar.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>- Solicitar a la Autoridad Sanitaria competente del Estado Parte la inspecci&oacute;n y liberaci&oacute;n de la exportaci&oacute;n.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>6.2. Destinatario:</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Registrar en el &oacute;rgano de Aduana o similar del Estado Parte, una D.S.I. (Declaraci&oacute;n Simplificada de Importaci&oacute;n) o similar.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>- Solicitar a la Autoridad Sanitaria competente del Estado Parte la inspecci&oacute;n y liberaci&oacute;n de la importaci&oacute;n.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>Se adjuntan los Anexos 1 y 2.</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>ANEXO I</P><P ALIGN='JUSTIFY'></P><P ALIGN='CENTER'><IMG  src='../../../normativa/83651_res145-28-3-2003-1_jpg/archivo'></P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>ANEXO II</P><P ALIGN='JUSTIFY'></P><P ALIGN='CENTER'><IMG  src='../../../normativa/83651_res145-28-3-2003-2_jpg/archivo'></P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>DECLARACION DEL REMITENTE DE ARTICULOS PELIGROSOS</P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>&nbsp;</P><P ALIGN='CENTER'><IMG  src='../../../normativa/83651_res145-28-3-2003-3_jpg/archivo'></P><P ALIGN='JUSTIFY'></P><P ALIGN='JUSTIFY'>&nbsp;</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/resolución-145-2003-83651" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

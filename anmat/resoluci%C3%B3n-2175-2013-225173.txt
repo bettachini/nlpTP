@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-2175-2013-225173/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-2175-2013-225173/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-2175-2013-225173/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"z0b6m4HtujeVlhW2ybwPvT47Bsj2X-sVehZS_c6SzF0","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/resoluci%C3%B3n-2175-2013-225173\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-resolución-2175-2013-225173 page-normativa-nacional-resolución-2175-2013-225173-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/resoluci%C3%B3n-2175-2013-225173/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-tsvaMLrXpLI3ms_lJWAXReC5fy9ceU11030hsQuupsk" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/resoluci%C3%B3n-2175-2013-225173">Resolución   2175/2013</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>MINISTERIO DE SALUD</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2014-01-16</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>MINISTERIO DE SALUD</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Resolución Nº 2175/2013</span><br style='font-weight: bold;'> <br> Bs. As., 30/12/2013<br> <br> VISTO las Leyes Nº 16.463 y Nº 17.132, los Decretos Nros. 9763/64, 6216/67, 2505/85 y 1490/92, sus modificatorios y complementarios, la Resolución (MSAL) Nº 435/2011, y las Disposiciones ANMAT Nros. 2124/2011, 3683/2011, 1831/2012, 247/2013, 727/2013 y 3266/13, el expediente Nº 1-47-9641/13-1 del registro de la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA, y<br> <br> CONSIDERANDO:<br> <br> Que la Ley Nº 16.463 regula la producción, elaboración, fraccionamiento, comercialización, importación, exportación y depósito, en jurisdicción nacional o con destino al comercio interprovincial, de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico y todo otro producto de uso y aplicación en medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades.<br> <br> Que el Decreto Nº 9763/64 reglamentario de la Ley Nº 16.463, establece en su artículo 1º que: &#8220;el ejercicio del poder de policía sanitaria referido a las actividades indicadas en el artículo 1º de la Ley Nº 16.463 y a las personas de existencia visible o ideal que intervengan en las mismas, se hará efectivo por el Ministerio de Asistencia Social y Salud Pública, por los medios que esta reglamentación indica: a) en la Capital Federal, territorios nacionales y lugares sujetos a la jurisdicción del Gobierno Nacional; b) en lo pertinente al tráfico o comercio entre una provincia con otra o con cualesquiera de los lugares mencionados en el inciso a); c) en lo relativo a las operaciones de importación y exportación con el extranjero; d) en todos los casos en que los gobiernos de provincia soliciten su acción dentro de los límites de sus respectivas jurisdicciones&#8221;.<br> <br> Que el artículo 2º del aludido Decreto establece que &#8220;Los gobernadores de provincia, como agentes naturales del gobierno nacional, deberán cooperar dentro de los límites de sus respectivos territorios a los propósitos de la Ley Nº 16.463. Sin perjuicio de ello, el Ministerio de Asistencia Social y Salud Pública podrá: a) valerse de sus propios organismos y personal, revistiéndose de toda autoridad necesaria para la realización de sus fines, cuando las circunstancias lo requieran; b) propiciar y/o adoptar, en su caso, la debida coordinación con los gobiernos provinciales para la consecución de los fines tenidos en vista por la ley y para la aplicación de sus normas; c) promover, con la colaboración de las asociaciones científicas y profesionales del arte de curar, la difusión de normas tendientes a evitar el uso indebido de medicamentos&#8221;.<br> <br> Que el Decreto Nº 1490/92 declaró de interés nacional las acciones dirigidas a la prevención, resguardo y atención de la salud de la población que se desarrollen a través del control y fiscalización de la calidad y sanidad de los productos, substancias, elementos y materiales que se consumen o utilizan en la medicina, alimentación y cosmética humana, y del contralor de las actividades, procesos y tecnologías que mediaren o estuvieren comprendidos en dichas materias.<br> <br> Que en tal sentido el Decreto Nº 1490/92 crea la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT), otorgándole competencia en todo lo referido al control y fiscalización sobre la calidad y sanidad de los productos, substancias, elementos y materiales consumidos o utilizados en la medicina, alimentación y cosmética humanas, como así también sobre el contralor de las actividades, procesos y tecnologías que se realicen en función del aprovisionamiento, producción, elaboración, fraccionamiento, importación y/o exportación, depósito y comercialización de dichos productos (cfr. art. 3º).<br> <br> Que por el precitado Decreto se dispuso también que la ANMAT sea el órgano de aplicación de las normas legales que rigen las materias sujetas a su competencia, las que en el futuro se sancionen y las que en uso de sus atribuciones dicten el MINISTERIO DE SALUD Y ACCION SOCIAL (actual MINISTERIO DE SALUD) y la SECRETARIA DE SALUD (actual Secretaría de Políticas, Regulación e Institutos), en referencia al ámbito de acción de la Administración (cfr. art. 4º).<br> <br> Que el comercio ilegítimo de productos médicos, al igual que el de medicamentos, constituye un problema grave de salud pública, que afecta tanto a los habitantes de países en desarrollo como desarrollados y comprende a los siguientes productos médicos: a) falsificados, b) adulterados, c) robados, d) los que fueran objeto de operaciones de contrabando, e) no registrados ante la autoridad sanitaria y f) vencidos.<br> <br> Que resulta imprescindible adoptar una actitud proactiva a los efectos de contrarrestar el impacto negativo que dicho comercio representa para la salud de los pacientes y sus sistemas sanitarios.<br> <br> Que en nuestro país dichas acciones comenzaron a desarrollarse por la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT) a partir de la creación del Programa Nacional de Control de Mercado de Medicamentos y Productos Médicos (Disposición ANMAT Nº 2124/11).<br> <br> Que mediante Disposición (ANMAT) Nº 3266/13 se incorporó al ordenamiento jurídico nacional el &#8220;Reglamento Técnico MERCOSUR de Buenas Prácticas de Fabricación de Productos Médicos y Productos para Diagnóstico de Uso In Vitro&#8221; aprobado por Resolución MERCOSUR/GMC. Nº 20/11.<br> <br> Que de conformidad con lo establecido en los puntos 6.4.1 y 6.4.2 (Identificación y trazabilidad) del citado Reglamento Técnico cada fabricante deberá, &#8220;&#8230;establecer y mantener procedimientos para la identificación de componentes, materiales de fabricación, productos semi-elaborados y productos terminados durante todas las fases de almacenamiento, producción, distribución e instalación, para evitar confusión y para asegurar la correcta atención de los pedidos&#8221; e &#8220;&#8230;identificar cada unidad, lote o partida de productos con un número de serie o lote. Esa identificación deberá registrarse en el registro histórico del producto&#8221;.<br> <br> Que en el mismo sentido, el punto 6.3 (Distribución) la normativa dispone que: &#8220;Cada fabricante deberá mantener registros de distribución que incluyan o que hagan referencia al: 6.3.1.1. Nombre y dirección del destinatario; 6.3.1.2. Identificación y cantidad de productos enviados, con fecha de envío; 6.3.1.4. Cualquier control numérico utilizado para su trazabilidad&#8221;.<br> <br> Que se ha evidenciado la imperiosa necesidad de articular acciones conjuntas entre las distintas instancias jurisdiccionales que tienen a su cargo el registro, la fiscalización y la vigilancia de los productos destinados a la medicina humana, de manera de generar estándares similares en todo el país.<br> <br> Que la Organización Mundial de la Salud (OMS) ha recomendado que cada país cuente con una autoridad regulatoria que ejerza la rectoría para llevar adelante las actividades de fiscalización y control de productos, bajo un marco normativo adecuado que contemple todo el ciclo del producto desde su desarrollo, autorización, producción y seguimiento post comercialización.<br> <br> Que en el marco del PLAN ESTRATEGICO DE FORTALECIMIENTO DE LAS CAPACIDADES DE REGULACION, FISCALIZACION Y VIGILANCIA A NIVEL NACIONAL Y PROVINCIAL, la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT) suscribió en el año 2010 Actas Acuerdos con todas las jurisdicciones provinciales y del Gobierno de la Ciudad Autónoma de Buenos Aires, a los fines, entre otros, de tender a la armonización de los instrumentos de los sistemas de fiscalización de las distintas jurisdicciones.<br> <br> Que en este contexto se torna imprescindible generar pautas y articular entendimientos que prevengan desvíos y por ende eventuales riesgos por incumplimientos de las normativas vigentes.<br> <br> Que en consecuencia deviene procedente adoptar medidas que propendan al cumplimiento regular de las tareas de fiscalización y al mismo tiempo permitan continuar y profundizar la prevención y combate a este flagelo a fin de reducir la existencia de productos médicos ilegítimos en el mercado.<br> <br> Que en el mismo sentido y con un marco similar, para el caso de medicamentos, este Ministerio dictó la Resolución Nº 435/11, por la cual se establece que &#8220;las personas físicas o jurídicas que intervengan en la cadena de comercialización, distribución y dispensación de especialidades medicinales, incluidas en el Registro de Especialidades Medicinales (REM) de la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT), deberán implementar un sistema de trazabilidad que permita asegurar el control y seguimiento de las mismas, desde la producción o importación del producto hasta su adquisición por parte del usuario o paciente&#8221;.<br> <br> Que dicho sistema consiste en la identificación individual y unívoca de cada unidad de las especialidades medicinales a ser comercializadas (artículo 2º).<br> <br> Que a su vez en el artículo 3º de dicha Resolución se dispuso que la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT) será la autoridad de aplicación de la misma, quedando expresamente facultada para dictar las normas necesarias para la debida implementación del sistema de trazabilidad, debiendo definir, entre otros aspectos, los lineamientos técnicos generales, características y modalidades del código unívoco, del sistema de trazabilidad y de la base de datos, y un cronograma de aplicación gradual del aludido sistema, en función del grado de criticidad y distintas categorías de medicamentos, procurando que las medidas a implementar no perjudiquen su acceso por parte de la población.<br> <br> Que las primeras etapas de implementación del Sistema Nacional de Trazabilidad de Medicamentos establecido por la Resolución (MSAL) Nº 435/2011, que comenzaron el día 15 de diciembre de 2011, han evidenciado resultados más que satisfactorios.<br> <br> Que resulta conveniente, por tanto, profundizar los instrumentos y procedimientos que permitan a este Ministerio y a la ANMAT realizar un seguimiento confiable de los productos médicos que llegan al usuario o paciente, propiciando la implementación de sistemas similares a los aplicados para el control y seguimiento de especialidades medicinales, contando asimismo para ello con la participación activa de todas las jurisdicciones.<br> <br> Que en el mismo sentido, corresponde también considerar un esquema gradual de implementación de la trazabilidad de los productos médicos, teniendo en cuenta la disponibilidad de medios y sistemas tecnológicos, manteniendo las condiciones de accesibilidad a los mismos por parte de la población.<br> <br> Que la Disposición (ANMAT) Nº 727/2013 regula el registro de productos médicos y establece sus diferentes condiciones de venta, disponiéndose en el artículo 10 que: &#8220;La condición de &#8216;Venta bajo receta&#8217; corresponde a aquellos productos médicos que, debido a su riesgo intrínseco, o en razón de su modo de uso, o a las medidas colaterales necesarias para su uso, no resultan seguros si no son utilizados bajo supervisión de un profesional de la salud. Estos productos sólo podrán ser vendidos a profesionales e instituciones sanitarias, o bajo prescripción o por cuenta y orden de los mismos. La condición de &#8216;Venta exclusiva a profesionales e instituciones sanitarias&#8217; corresponde a aquellos productos médicos que, debido a su riesgo intrínseco, o en razón de su modo de uso, o a las medidas colaterales necesarias para su uso, no resultan seguros si no son utilizados por un profesional habilitado para utilizar dicho producto de acuerdo con sus incumbencias profesionales (productos de uso profesional exclusivo). Estos productos sólo podrán ser vendidos a profesionales&#8221;.<br> <br> Que los productos médicos de mayor riesgo (Clases III y IV) requieren de la intervención de un profesional médico y su adquisición, en la gran mayoría de los casos, se realiza a través de establecimientos asistenciales (sanatorios, clínicas, hospitales o similares).<br> <br> Que en tal sentido, la Ley Nº 17.132, que regula el ejercicio profesional de la medicina, odontología y actividades de colaboración, establece en su artículo 34 que toda persona que quiera instalar un establecimiento para la profilaxis, recuperación, diagnóstico y/o tratamiento de las enfermedades humanas, deberá previamente encontrarse habilitada por la autoridad sanitaria competente.<br> <br> Que por consiguiente, resulta indispensable que profesionales médicos y establecimientos sanitarios deban cumplimentar con las exigencias que requiera la implementación de un Sistema de Trazabilidad de productos médicos.<br> <br> Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS y la ANMAT han tomado la intervención de su competencia.<br> <br> Que se actúa en virtud de las facultades conferidas por la Ley de Ministerios (t.o. Decreto Nº 438/92) y sus modificatorias, y el artículo 2º del Decreto Nº 2505/1985.<br> <br> Por ello,<br> <br> EL MINISTRO DE SALUD<br> <br> RESUELVE:<br> <br> ARTICULO 1º &#8212; Establécese que las personas físicas o jurídicas que intervengan en la cadena de comercialización, distribución y dispensa o aplicación profesional de productos médicos registrados ante la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT), deberán implementar un sistema de trazabilidad que permita asegurar el control y seguimiento de los mismos, desde la producción o importación del producto hasta su aplicación al usuario o paciente.<br> <br> ARTICULO 2º &#8212; El sistema de trazabilidad establecido en el artículo 1º consistirá en la identificación individual y unívoca de cada unidad de producto médico liberado al mercado, que permita efectuar el seguimiento de cada unidad a través de la cadena de distribución.<br> <br> Esta información será incorporada a una base de datos central del sistema de trazabilidad de Productos Médicos administrada por la ANMAT, en la que deberán quedar asentados los datos identificatorios de la unidad y los pasos de su distribución que determine la autoridad de aplicación.<br> <br> Las normas complementarias, que se dicten en su consecuencia, podrán disponer que los usuarios y pacientes puedan verificar la información de la distribución de las unidades que les fueran expendidas o los datos básicos de la misma que se estimen procedentes.<br> <br> ARTICULO 3º &#8212; La ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT) será la autoridad de aplicación de la presente resolución, quedando expresamente facultada para dictar las normas necesarias para la debida implementación del sistema de trazabilidad de Productos Médicos establecido por la presente, como así también todas aquellas normas aclaratorias e interpretativas que estime oportunas para el mejor desenvolvimiento del aludido sistema.<br> <br> La ANMAT definirá, entre otros aspectos, los lineamientos técnicos generales, características y modalidades del código unívoco, del sistema de trazabilidad y de la base de datos a que se refieren los artículos anteriores, y un cronograma de aplicación gradual del aludido sistema, en función del grado de criticidad y distintas categorías de productos médicos, al igual que el tipo de agentes de la cadena alcanzados, procurando que las medidas a implementar no perjudiquen el acceso a los mismos por parte de la población. Respecto exclusivamente de los aspectos técnicos, la autoridad de aplicación podrá requerir la colaboración y/o participación y/o celebrar acuerdos con entidades públicas o privadas de reconocida idoneidad.<br> <br> ARTICULO 4º &#8212; Toda documentación comercial que emitan los titulares de productos médicos, sean fabricantes locales o importadores, en sus operaciones de provisión, sea a título oneroso o gratuito, alcanzados por el sistema de trazabilidad de Productos Médicos establecido, deberá incluir el número de lote de los mismos.<br> <br> La autoridad de aplicación podrá establecer requisitos adicionales a los exigidos en el párrafo anterior, e incluso extenderlos a otros agentes de la cadena, a fin de vincular de manera más precisa las unidades distribuidas con la documentación respectiva.<br> <br> ARTICULO 5º &#8212; La ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT) tendrá a su cargo la fiscalización de las actividades alcanzadas por el presente sistema de trazabilidad, a cuyos efectos los inspectores o funcionarios debidamente facultados de la ANMAT tendrán las atribuciones previstas en la Ley Nº 16.463, su Decreto reglamentario Nº 9763/64, el Decreto 341/92, el Decreto Nº 1490/92, y sus normas modificatorias y/o complementarias, sin perjuicio, cuando corresponda, de convocar a las instancias jurisdiccionales pertinentes.<br> <br> ARTICULO 6° &#8212; En los casos en que la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT), en ejercicio de las actividades mencionadas en el artículo 5° de la presente Resolución, detecte el incumplimiento del sistema de trazabilidad por parte de personas físicas o jurídicas no habilitadas por la ANMAT y cuya actividad no recaiga bajo las competencias de la misma, las actuaciones que se labren serán giradas a la jurisdicción en la que tenga su sede el establecimiento en cuestión a los fines de que adopte las medidas que estime pertinentes en ejercicio del poder de policía sanitario que le es propio.<br> <br> ARTICULO 7º &#8212; El incumplimiento de la presente resolución y las normas que se dicten en su consecuencia hará pasible a los infractores de las sanciones previstas en las Leyes 16.463 y 17.132, según corresponda, en el Decreto 341/92 y las normas dictadas en su consecuencia o las que en el futuro las modifiquen o sustituyan. En el caso de que se detecten incumplimientos a la presente resolución por parte de personas físicas o jurídicas no habilitadas por la ANMAT, dará lugar a la comunicación de la infracción a la autoridad jurisdiccional competente, a los fines de que adopte los procedimientos y/o sanciones previstas en las normas jurisdiccionales correspondientes.<br> <br> ARTICULO 8º &#8212; Para el caso de productos médicos de &#8220;Venta exclusiva a profesionales e instituciones sanitarias&#8221;, los profesionales médicos y los establecimientos asistenciales deberán dar cabal cumplimiento a las exigencias que establezca la reglamentación, siendo ambos responsables en caso de incumplimiento.<br> <br> ARTICULO 9° &#8212; Invítase a los Gobiernos de las Provincias y al Gobierno de la Ciudad Autónoma de Buenos Aires, en el marco de las Actas Acuerdos oportunamente celebradas con la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT), a adherir al régimen de la presente resolución para su aplicación a la comercialización, distribución y dispensa de productos médicos que se efectúe en jurisdicción de sus respectivos territorios.<br> <br> ARTICULO 10. &#8212; La presente resolución entrará en vigencia a partir del día siguiente al de su publicación en el Boletín Oficial.<br> <br> ARTICULO 11. &#8212; Regístrese, comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial para su publicación. Oportunamente, archívese. &#8212; Dr. JUAN L. MANZUR, Ministro de Salud.<br> <br> <div style='text-align: right;'>e. 16/01/2013 N° 2041/14 v. 16/01/2013<br> </div>  </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/resolución-2175-2013-225173" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

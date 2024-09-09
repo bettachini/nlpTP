@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1719-2011-180143/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1719-2011-180143/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-1719-2011-180143/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"mnIcBF56NML0ArZupfvR85CLI0FiUSq4ptMvmtPSaBQ","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-1719-2011-180143\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-1719-2011-180143 page-normativa-nacional-disposición-1719-2011-180143-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-1719-2011-180143/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-hkBGPCSTOchBrrMgYvsG8qtTjWpz4ClpBbEjMKnqXgo" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-1719-2011-180143">Disposición   1719/2011</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2011-03-15</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 1719/2011</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Cr&eacute;ase el Programa para el Apoyo a la Innovaci&oacute;n en Medicamentos y Productos para la Salud.</P> <P ALIGN='JUSTIFY'></P> </B><P ALIGN='JUSTIFY'>Bs. As., 9/3/2011</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO la Ley Nº 16.643, sus Decretos Reglamentarios Nros. 9763/64, 150/92 (T.O. Dec. 177/93) y el Expediente Nº 1-47-2560-11-1 del Registro de la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica; y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que los nuevos avances en el &aacute;rea de las ciencias y la tecnolog&iacute;a y el consiguiente desarrollo de nuevos tipos de Medicamentos y Productos para la salud se han constituido en un gran desaf&iacute;o para las autoridades sanitarias.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la investigaci&oacute;n en el &aacute;rea farmac&eacute;utica constituye una rama importante de la ciencia a trav&eacute;s del descubrimiento de nuevas entidades moleculares y el desarrollo de nuevas v&iacute;as de administraci&oacute;n, que permiten acceder a productos m&aacute;s eficaces y con menores efectos secundarios para diagnosticar, prevenir, curar o mejorar la calidad de vida de los enfermos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que las nuevas generaciones de medicamentos y productos para la salud requieren abordajes espec&iacute;ficos para su evaluaci&oacute;n y nuevas estrategias para su control.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que los medicamentos considerados de alta tecnolog&iacute;a, entre ellos las denominadas ‘terapias avanzadas’ que incluyen terapia g&eacute;nica, terapia celular som&aacute;tica e ingenier&iacute;a de tejidos, por sus caracter&iacute;sticas requieren de una regulaci&oacute;n propia, consistiendo otro gran reto para la Autoridades Regulatorias de Medicamentos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en ese sentido, conjuntamente con la revisi&oacute;n y actualizaci&oacute;n de los est&aacute;ndares, normas y regulaciones vigentes, resulta necesario por parte de las Autoridades Regulatorias de productos para la salud, implementar mecanismos y disponer de herramientas que permitan hacer frente a esos avances y permitir el acceso temprano de terapias y productos innovadores.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el desarrollo de un nuevo proceso y/o producto para la salud involucra un an&aacute;lisis extenso y complejo que requiere no s&oacute;lo del conocimiento cient&iacute;fico sino tambi&eacute;n de los aspectos regulatorios vigentes a los cuales se encuentra sometido.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Organizaci&oacute;n Mundial de la Salud ha instado a sus Estados Miembros a formular y ejecutar pol&iacute;ticas farmac&eacute;uticas coherentes, integradas dentro de la pol&iacute;tica sanitaria nacional, y vinculadas con otras pol&iacute;ticas relacionadas, con inclusi&oacute;n de la ciencia, la tecnolog&iacute;a y el desarrollo industrial.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en ese sentido esta A.N.M.A.T se ha fijado metas y objetivos a corto, mediano y largo plazo a fin de reorganizarse y enfocar sus procesos para enfrentar las problem&aacute;ticas que puedan devenir, utilizar en forma m&aacute;s efectiva las herramientas que surjan a partir de las ciencias y las nuevas tecnolog&iacute;as, en particular las t&eacute;cnicas gen&eacute;ticas y moleculares y los avances en la bioinform&aacute;tica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que como parte del proceso de mejora de los procesos de evaluaci&oacute;n para un acceso temprano y seguro a los nuevos productos y tecnolog&iacute;as, esta A.N.M.AT. ha implementado por un lado, medidas tendientes al fortalecimiento de las capacidades de sus evaluadores y la revisi&oacute;n y actualizaci&oacute;n de su marco normativo, y por otro ha establecido a trav&eacute;s del Observatorio A.N.M.A.T (creado por Disposici&oacute;n 907/11), espacios de intercambio de informaci&oacute;n y participaci&oacute;n entre este organismo y entidades acad&eacute;micas, cient&iacute;ficas, asociaciones de profesionales y consumidores para identificar en forma proactiva los aspectos legales, cient&iacute;ficos y regulatorios adecuados aplicables a las terapias y tecnolog&iacute;as emergentes.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en forma complementaria esta Administraci&oacute;n ha considerado oportuno generar dentro de su estructura, una plataforma de apoyo a empresas, investigadores, y otros actores que realicen actividades de investigaci&oacute;n, desarrollo e innovaci&oacute;n relacionadas con procesos o productos de competencia de esta A.N.M.A.T., a fin de brindar orientaci&oacute;n sobre el marco regulatorio en el que deber&aacute;n desenvolverse y apoyo log&iacute;stico espec&iacute;fico par aquellos desarrollos de inter&eacute;s para la salud p&uacute;blica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Direcci&oacute;n de Asuntos Jur&iacute;dicos ha tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por el art&iacute;culo 8º inciso h) del Decreto 1490/92 y por el Decreto 425/10.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º — </B>Cr&eacute;ase dentro del &aacute;mbito de esta Administraci&oacute;n Nacional Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica, el PROGRAMA PARA EL APOYO A LA INNOVACION EN MEDICAMENTOS Y PRODUCTOS PARA LA SALUD, cuyo objetivo principal ser&aacute; el de disponer de una plataforma espec&iacute;fica para la asistencia de proyectos de investigaci&oacute;n y desarrollo relacionados con procesos y productos que revistan car&aacute;cter de innovadores y resulten de inter&eacute;s para la salud p&uacute;blica. Los objetivos espec&iacute;ficos y alcances del Programa se describen en el Anexo I que forma parte integrante de la presente Disposici&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 2º —</B> A los fines de su implementaci&oacute;n, el Programa contar&aacute; entre otros, con un equipo de trabajo transversal y multidisciplinario cuya funci&oacute;n ser&aacute; la de tomar contacto con los proyectos de desarrollo de productos/procesos innovadores, analizar la documentaci&oacute;n presentada, evaluar la pertinencia de la solicitud formulada en funci&oacute;n de identificar el car&aacute;cter innovador del proyecto, de su impacto en la salud p&uacute;blica, y de la naturaleza de la problem&aacute;tica planteada para su puesta en el mercado.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 3º — </B>El equipo de trabajo para el Apoyo a la Innovaci&oacute;n se encontrar&aacute; integrado por profesionales pertenecientes a esta A.N.M.A.T. designados en funci&oacute;n de ser considerados referentes en las diferentes tem&aacute;ticas que el Equipo deba abordar. La composici&oacute;n del equipo de trabajo, sus funciones espec&iacute;ficas y responsabilidades se encuentran descriptas en el referido Anexo I.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 4º — </B>Cuando lo considere necesario, con la finalidad de complementar la evaluaci&oacute;n de las solicitudes de asistencia presentadas, esta A.N.M.A.T. podr&aacute; solicitar la participaci&oacute;n de especialistas externos al organismo, con experiencia acreditada en los productos o procesos involucrados en esas solicitudes.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 5º — </B>La convocatoria a los especialistas externos ser&aacute; realizada siguiendo los procedimientos de selecci&oacute;n establecido por la A.N.M.A.T. La participaci&oacute;n de los expertos externos revestir&aacute; car&aacute;cter ad-honorem, no vinculante y limitado al tema espec&iacute;fico y puntual para el cual fue convocado. En todos los casos, dada la naturaleza de la informaci&oacute;n que esta A.N.M.A.T. tiene bajo su responsabilidad, se solicitar&aacute; al profesional declarar la inexistencia de conflictos de inter&eacute;s en relaci&oacute;n al tema de la convocatoria, conjuntamente con una declaraci&oacute;n de confidencialidad de conformidad con la normativa vigente.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 6º — </B>Las solicitudes de asistencia para Apoyo a la Innovaci&oacute;n podr&aacute;n ser presentadas por entidades acad&eacute;micas, grupos de investigaci&oacute;n, responsables de planes de desarrollo de procesos y/o productos para la salud considerados innovadores, laboratorios farmac&eacute;uticos, start-up y/o empresas incubadas.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 7º — </B>Las solicitudes de asistencia para Apoyo a la Innovaci&oacute;n deber&aacute;n encontrarse encuadradas dentro del &aacute;mbito de acci&oacute;n del Programa, es decir, la presentaci&oacute;n de proyectos relacionados con procesos o productos para la salud (medicamentos, productos m&eacute;dicos, productos para diagn&oacute;stico de uso in vitro, productos combinados) que representen una innovaci&oacute;n y resulten de inter&eacute;s para la salud p&uacute;blica, tales como procesos y productos vinculados con terapias y tecnolog&iacute;as emergentes: terapias g&eacute;nicas, celular, ingenier&iacute;a de tejidos, nanomedicina; productos &quot;borderline&quot;, sistemas de liberaci&oacute;n de medicamentos; nuevas estrategias de desarrollo; nuevos sistemas diagn&oacute;sticos y de monitoreo con base en t&eacute;cnicas moleculares, nuevos dise&ntilde;os de estudios en humanos y m&eacute;todos estad&iacute;sticos, ensayos pre-cl&iacute;nicos innovadores que permitan optimizar el desarrollo de nuevos productos para la evaluaci&oacute;n temprana de su terap&eacute;utico y de su perfil de seguridad (modelizaci&oacute;n y simulaci&oacute;n, validaci&oacute;n de biomarcadores).</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 8º —</B> Quedan excluidos de los alcances del Programa de Apoyo a la Innovaci&oacute;n los productos cosm&eacute;ticos, alimentos, domisanitarios u otros no contemplados en el Anexo II que forma parte integrante de la presente Disposici&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 9º — </B>La solicitud de asistencia para Apoyo a la Innovaci&oacute;n deber&aacute; ser efectivizada presentando el Formulario para la Solicitud de Asistencia a Proyectos Innovadores - FORM A.I 101. Que consta como Anexo II de la presente Disposici&oacute;n, junto con la documentaci&oacute;n e informaci&oacute;n que el solicitante considere relevante para sustentar la petici&oacute;n de asistencia.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 10. — </B>Una vez ingresados a esta A.N.M.A.T., el formulario y la documentaci&oacute;n ser&aacute;n remitidos al Coordinador del Equipo de trabajo para Apoyo a la Innovaci&oacute;n, para luego ser sometido a evaluaci&oacute;n por parte del equipo.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 11. — </B>Como resultado de la evaluaci&oacute;n de las solicitudes de asistencia podr&aacute; concluirse que a) El producto, proceso y la problem&aacute;tica planteada no corresponda al &aacute;rea de competencia de la ANMAT; por lo tanto la misma ser&aacute; considerada no pertinente, comunicando en forma escrita al solicitante la conclusi&oacute;n de rechazo fundamentada, b) La problem&aacute;tica no corresponde ser atendida por el Equipo de trabajo para Apoyo a la Innovaci&oacute;n, pero s&iacute; se encuentra dentro de la competencia de la A.N.M.A.T., en este caso la solicitud ser&aacute; considerada no pertinente, comunicando al solicitante la conclusi&oacute;n de rechazo fundamentada y derivando al mismo al proceso por el cual debe ser encaminada la problem&aacute;tica planteada. C) La problem&aacute;tica, el proceso y el producto corresponde ser atendido por el Equipo de trabajo para Apoyo a la Innovaci&oacute;n. En este caso y en funci&oacute;n del grado de avance del proyecto podr&aacute;n ser consideradas diferentes alternativas. Si el proyecto no ha sido a&uacute;n iniciado, se convocar&aacute; al solicitante y al responsable del mismo para efectuar la presentaci&oacute;n del de desarrollo, se discutir&aacute; la problem&aacute;tica planteada en la solicitud de asistencia de forma tal de identificar los aspectos cient&iacute;ficos y t&eacute;cnicos a considerar y brindar orientaci&oacute;n sobre el marco regulatorio en el que deber&aacute;n desenvolverse. Si el proyecto se encuentra en curso, el solicitante ser&aacute; convocado a una reuni&oacute;n para el tratamiento puntual de la problem&aacute;tica planteada y de considerarse el proyecto de alto impacto e inter&eacute;s para la salud p&uacute;blica podr&aacute; efectuarse un acompa&ntilde;amiento a lo largo de su desarrollo. En todos los casos que la solicitud de asistencia haya sido considerada pertinente el solicitante y el responsable del proyecto ser&aacute;n convocados a mantener una reuni&oacute;n con el Equipo de trabajo a fin de considerar los obst&aacute;culos t&eacute;cnicos o reglamentarios para la puesta en marcha del proyecto innovador en pos del inter&eacute;s de la salud p&uacute;blica.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 12. — </B>Como resultado de las evaluaciones, el equipo de trabajo podr&aacute; identificar problem&aacute;ticas que requieran un abordaje especial por parte de la A.N.M.A.T y la necesidad de actualizar la reglamentaci&oacute;n vigente o elaborar Gu&iacute;as complementarias a las existentes para disponer del marco regulatorio adecuado que las contemple.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 13. — </B>La informaci&oacute;n y documentaci&oacute;n presentada por el solicitante tendr&aacute; car&aacute;cter de declaraci&oacute;n jurada. La misma ser&aacute; mantenida y tratada por esta A.N.M.A.T manteniendo su confidencialidad de conformidad con la normativa vigente. Los informes emitidos por el Equipo de trabajo para Apoyo a la Innovaci&oacute;n no ser&aacute;n vinculantes con los posteriores procesos de habilitaci&oacute;n de establecimientos, autorizaci&oacute;n de estudios y registro de productos.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 14. — </B>Reg&iacute;strese, comun&iacute;quese a quienes corresponda. D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n; cumplido, arch&iacute;vese. — Carlos A. Chiale.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='JUSTIFY'></P> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=576> <TR><TD VALIGN='TOP'> <P ALIGN='JUSTIFY'>PROGRAMA PARA EL APOYO A LA INNOVACION</TD> </TR> </TABLE>  <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>OBJETIVOS GENERALES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Disponer de una plataforma espec&iacute;fica para la asistencia de proyectos de investigaci&oacute;n y desarrollo relacionados con procesos y productos que revistan car&aacute;cter de innovadores y resulten de inter&eacute;s para la salud p&uacute;blica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>OBJETIVOS ESPECIFICOS</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Establecer mecanismos y herramientas para que los diferentes actores del campo de las ciencias y tecnolog&iacute;a dispongan de espacios de intercambio con esta A.N.M.A.T para realizar consultas relacionadas con aspectos t&eacute;cnicos, cient&iacute;ficos y reglamentarios a tener en cuenta en el desarrollo de proyectos considerados innovadores.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Identificar tempranamente la necesidad de establecer nuevas reglamentaciones y/o actualizar y/o complementar las vigentes en funci&oacute;n de los nuevos desarrollos en el campo de los productos para la salud y la introducci&oacute;n de nuevas tecnolog&iacute;as para la obtenci&oacute;n o aplicaci&oacute;n de los mismos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Identificar y realizar el seguimiento de los progresos en el campo de la ciencia y la tecnolog&iacute;a que puedan significar implicancias regulatorias.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Fortalecer las capacidades de los evaluadores de manera tal que esta A.N.M.AT. pueda afrontar los nuevos desaf&iacute;os originados a partir de las terapias y tecnolog&iacute;as emergentes, favoreciendo el acceso temprano de la poblaci&oacute;n a productos y tecnolog&iacute;as innovadoras, de calidad, seguridad y eficacia demostradas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ALCANCES DEL PROGRAMA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El Programa se encuentra destinado al acompa&ntilde;amiento de terapias y tecnolog&iacute;as emergentes y productos considerados &quot;borderline&quot; para los cuales deban ser analizados los marcos regulatorios aplicables as&iacute; como los aspectos cient&iacute;ficos y t&eacute;cnicos a tener en cuenta durante su desarrollo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En este sentido:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Las terapias emergentes comprenden: productos para terapia g&eacute;nica, terapia celular, productos obtenidos a partir de ingenier&iacute;a de tejidos, terapias individualizadas, nanomedicina, nuevas rutas de administraci&oacute;n y sistemas de liberaci&oacute;n de medicamentos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Los procesos o tecnolog&iacute;as emergentes comprenden: nuevas estrategias de desarrollo de productos, utilizaci&oacute;n de la gen&oacute;mica y la prote&oacute;mica, utilizaci&oacute;n de la farmacogen&oacute;mica para la definici&oacute;n de poblaciones blanco, nuevos procesos de fabricaci&oacute;n y utilizaci&oacute;n de ingredientes farmac&eacute;uticos activos a partir de fuentes no convencionales (utilizaci&oacute;n de plantas o animales transg&eacute;nicos).</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) Productos considerados &quot;borderline&quot; tales como productos combinados (medicamento y producto m&eacute;dico donde deba analizarse la finalidad de Focal cada uno de ellos en la aplicaci&oacute;n del producto), suplementos nutricionales que limitan con la definici&oacute;n de medicamentos, entre otros.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>DESTINATARIOS DEL PROGRAMA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El Programa tiene como destinatarios a unidades acad&eacute;micas, grupos de investigaci&oacute;n, responsables de proyectos de investigaci&oacute;n, start-up, empresas incubadas, laboratorios farmac&eacute;uticos e industria de productos m&eacute;dicos y productos para diagn&oacute;stico de uso in Vitro que realicen actividades de investigaci&oacute;n, desarrollo e innovaci&oacute;n en los procesos y productos para la salud descriptos en el &iacute;tem anterior.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>INSTRUMENTOS Y HERRAMIENTAS PARA EL DESARROLLO DEL PROGRAMA</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Para el desarrollo del Programa esta A.N.M.A.T podr&aacute; recurrir a instrumentos y herramientas ya establecidos, tales como el Observatorio A.N.M.A.T., Foros de discusi&oacute;n, Comit&eacute; Asesor Cient&iacute;ficot&eacute;cnico, Grupos de trabajo, sistema de entrevistas, entre otros y/o al Equipo para la Asistencia a la Innovaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <TABLE BORDER CELLSPACING=1 CELLPADDING=4 WIDTH=576> <TR><TD VALIGN='TOP'> <P ALIGN='JUSTIFY'>EQUIPO PARA ASISTENCIA A LA INNOVACION</TD> </TR> </TABLE>  <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>COMPOSICION</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Equipo de trabajo transversal y multidisciplinario, integrado por profesionales de esta A.N.M.A.T. designados en funci&oacute;n de ser considerados referentes en las diferentes tem&aacute;ticas que el Equipo deba abordar.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El equipo estar&aacute; conformado de la siguiente manera: FUNCION PRINCIPAL</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/180143_disp1719-15-3-2011-1_jpg/archivo'></P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>FUNCION PRINCIPAL</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La funci&oacute;n principal del Equipo de trabajo ser&aacute; la de tomar contacto con los proyectos de desarrollo de productos/procesos innovadores, analizar la documentaci&oacute;n presentada, evaluar la pertinencia de la solicitud formulada en funci&oacute;n de identificar el car&aacute;cter innovador del proyecto, de su impacto en la salud p&uacute;blica, y de la naturaleza de la problem&aacute;tica planteada para su puesta en el mercado.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>FUNCIONES ESPECIFICAS</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Mantener los registros de las actividades desarrolladas por el equipo, en particular aquellas relacionadas con la evaluaci&oacute;n de solicitudes de asistencias presentadas y su seguimiento;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Establecer un mecanismo que permita obtener informaci&oacute;n sobre el resultado del proceso de asistencia;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Identificar problem&aacute;ticas comunes expuestas en diferentes solicitudes de asistencia o relevadas durante las actividades desarrolladas por el equipo, que deban ser abordadas en forma conjunta y desde otras perspectivas por parte de A.N.M.A.T. (necesidad de establecer marcos normativos espec&iacute;ficos, establecimiento de gu&iacute;as para mejor interpretaci&oacute;n de las normas vigentes, necesidad de desarrollar nuevas capacidades, entre otros);</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Emitir informes peri&oacute;dicos a la Direcci&oacute;n Nacional sobre las actividades del Equipo;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Cuando una solicitud de asistencia haya sido clasificada como no pertinente por estar fuera de los alcances del Equipo de trabajo, pero por la naturaleza del producto o tecnolog&iacute;a corresponda la intervenci&oacute;n de A.N.M.AT., derivar al solicitante a las &aacute;reas/sectores en donde deba ser encaminada la consulta;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Emitir documentos de opini&oacute;n a requerimiento de la Direcci&oacute;n Nacional.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>RESPONSABILIDADES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ser&aacute; responsabilidad del Coordinador del Equipo de Trabajo para Apoyo a la Innovaci&oacute;n:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Establecer y elevar a la Direcci&oacute;n Nacional un reglamento de trabajo para el equipo, en el que se incluyan las frecuencias de las sesiones de evaluaci&oacute;n, la sistem&aacute;tica para el an&aacute;lisis de las solicitudes, los procedimientos para la convocatoria a las reuniones con los solicitantes y responsables de proyectos, los procedimientos para intercambio de documentaci&oacute;n y la confecci&oacute;n de informes finales para ser entregados al solicitante en caso de rechazo de solicitudes;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Establecer un programa de trabajo;</P> <P ALIGN='JUSTIFY'>• Convocar las sesiones plenarias;</P> <P ALIGN='JUSTIFY'>• Convocar las sesiones espec&iacute;ficas seg&uacute;n t&oacute;picos a tratar;</P> <P ALIGN='JUSTIFY'>• Convocar las reuniones con los solicitantes de asistencia;</P> <P ALIGN='JUSTIFY'>• Sugerir a la Direcci&oacute;n Nacional la designaci&oacute;n de especialistas externos para ser convocados en temas espec&iacute;ficos que requieran de opiniones complementarias;</P> <P ALIGN='JUSTIFY'>• Convocar a los especialistas externos designados a las sesiones de trabajo;</P> <P ALIGN='JUSTIFY'>• Velar por la transparencia e imparcialidad de las decisiones a las que arribe el Equipo de trabajo;</P> <P ALIGN='JUSTIFY'>• Convocar a otros profesionales pertenecientes a la estructura de la A.N.M.A.T para participar de sesiones especificas para el tratamiento de t&oacute;picos puntuales relacionados con las solicitudes de asistencia presentadas;</P> <P ALIGN='JUSTIFY'>• Elevar los procedimientos operativos e instructivos de trabajo necesarios para la operatoria del Equipo de trabajo, para su consideraci&oacute;n por la Direcci&oacute;n Nacional;</P> <P ALIGN='JUSTIFY'>• Elevar informes peri&oacute;dicos de las actividades del Equipo;</P> <P ALIGN='JUSTIFY'>• Designar un responsable para el mantenimiento de los registros de las solicitudes de asistencias presentadas y para la gesti&oacute;n de la informaci&oacute;n y documentaci&oacute;n colectada;</P> <P ALIGN='JUSTIFY'>• Mantener la confidencialidad de la informaci&oacute;n y documentaci&oacute;n que sea puesta en su disposici&oacute;n en oportunidad de evaluar una solicitud de asistencia.</P> <P ALIGN='JUSTIFY'>Ser&aacute; responsabilidad de los integrantes del Equipo de Trabajo</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>• Contribuir al cumplimiento del programa de trabajo establecido por el Coordinador del Equipo;</P> <P ALIGN='JUSTIFY'>• Participar de las sesiones plenarias y de las espec&iacute;ficas convocadas por el Coordinador del Equipo;</P> <P ALIGN='JUSTIFY'>• Participar de las reuniones con los solicitantes y responsables de proyectos convocadas por el Coordinador del Equipo;</P> <P ALIGN='JUSTIFY'>• Evaluar y analizar las solicitudes de asistencia presentadas, emitiendo opiniones fundadas en principios cient&iacute;fico-t&eacute;cnicos, teniendo en cuenta el marco regulatorio vigente;</P> <P ALIGN='JUSTIFY'>• Colaborar en la redacci&oacute;n de procedimientos operativos necesarios para la operatoria y el buen funcionamiento del Equipo de trabajo;</P> <P ALIGN='JUSTIFY'>• Mantener la confidencialidad de la informaci&oacute;n y documentaci&oacute;n que sea puesta en su disposici&oacute;n en oportunidad de evaluar una solicitud de asistencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO II</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>FORMULARIO PARA LA PRESENTACION DE SOLICITUD DE ASISTENCIA A PROYECTOS INNOVADORES (FORM A.I 101)</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/180143_disp1719-15-3-2011-2_jpg/archivo'></P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'><IMG  src='../../../normativa/180143_disp1719-15-3-2011-3_jpg/archivo'></P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-1719-2011-180143" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

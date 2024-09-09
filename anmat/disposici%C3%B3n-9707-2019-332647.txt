@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.104',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-9707-2019-332647/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-9707-2019-332647/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-9707-2019-332647/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"-G-T_3ZDHbMHhrNDk4g9mLwS92NSIs3P-X0J88JR-UA","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-9707-2019-332647\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-9707-2019-332647 page-normativa-nacional-disposición-9707-2019-332647-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-9707-2019-332647/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-foyTnS0YML4-2_iWE2WLXPfSSKnxPpvBrmpHfMQvcuo" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-9707-2019-332647">Disposición   9707/2019</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2019-12-03</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> Disposición 9707/2019<br> <br> DI-2019-9707-APN-ANMAT#MSYDS<br> </span><br> <div style='text-align: justify;'>Ciudad de Buenos Aires, 29/11/2019<br> <br> VISTO la Ley Nº 16.463, el Decreto Nº 150 del 20 de enero de 1992 y sus modificatorios y normas complementarias, el Decreto Nº 1490 del 20 de agosto de 1992 y modificatorios, los Decretos N° 815/82, N° 434 del 1 de marzo de 2016, N° 1063 del 4 de octubre de 2016 y N° 891 del 1 de noviembre de 2017, las Disposiciones ANMAT Nº 5743 del 13 de noviembre de 2009 y modificatorias, Nº 3602 del 13 de abril de 2018, N° 3827 del 19 de abril de 2018 y demás modificatorias, N° 3289 del 9 de abril de 2019, N° 4620 del 3 de junio de 2019, N° 4621 del 3 de junio de 2019 y N° 5068 del 21 de junio de 2019 y el EX-2019-97479717-APN-ANMAT#MSYDS del registro de esta Administración Nacional, y<br> <br> CONSIDERANDO:<br> <br> Que por Decreto Nº 1490/92 se creó la Administración Nacional de Medicamentos, Alimentos, y Tecnología Médica (ANMAT), como organismo descentralizado con competencias para el control y fiscalización de la calidad y sanidad de los productos, substancias, elementos y materiales que se consumen o utilizan en la medicina, alimentación y cosmética humanas, y de contralor de las actividades, procesos y tecnologías que mediaren o estuvieren comprendidos en dichas materias.<br> <br> Que entre los objetivos principales de la ANMAT se encuentran la autorización, el registro, la fiscalización, el control y la vigilancia de medicamentos, alimentos y material de tecnología médica, siendo su finalidad garantizar a la población la eficacia, seguridad y calidad de los productos que consume.<br> <br> Que para el cumplimiento de dichos objetivos, esta Administración Nacional ha adoptado un modelo fiscalizador de gestión.<br> <br> Que la ANMAT tiene la atribución de autorizar, certificar, inscribir y registrar medicamentos, en cumplimiento de las disposiciones pertinentes, que, luego de su inscripción, se incorporan al Registro de Especialidades Medicinales (REM).<br> <br> Que en este contexto, se estimó procedente, para aquellas especialidades medicinales que se registren en el marco de lo establecido en la Ley Nº 16.463 y el Decreto Nº 150/92 y normas complementarias, realizar una verificación técnica consistente en la constatación de los métodos de control, elaboración, ensayos de estabilidad y capacidad operativa.<br> <br> Que en función de ello se estableció que la evaluación de la información relacionada con los métodos de control, elaboración, ensayos farmacotécnicos, estudios de estabilidad, capacidad operativa y de control incluida en las solicitudes de inscripción en el registro de especialidades medicinales, se realizará mediante la verificación técnica de dicha información, en forma previa a la comercialización.<br> <br> Que luego de la inscripción de la especialidad medicinal en el REM, y de acuerdo con lo prescripto por la Disposición ANMAT N° 5743/09, debe iniciarse el trámite de primer lote a fin de solicitar la autorización de comercialización y una verificación técnica consistente en la constatación de los métodos de control, elaboración, ensayos de estabilidad y capacidad operativa.<br> <br> Que conforme a la citada disposición, se establece que a los efectos de la realización de la verificación técnica previa a la comercialización, el titular del registro debe comunicar fehacientemente a esta Administración Nacional la fecha de inicio de la elaboración o control de calidad del primer lote importado a comercializar.<br> <br> Que en ese sentido, el artículo 2º del Decreto N° 815/1982, establece que los medicamentos que se autoricen, deberán elaborarse y lanzarse a la venta, en sus distintas formas farmacéuticas, envases y contenidos autorizados, dentro de los ciento ochenta (180) días de la fecha en que se expida el certificado respectivo.<br> <br> Que por su parte, el Decreto N° 434/16 aprobó el Plan de Modernización del Estado que contempló la reingeniería de procesos administrativos y de control con el objetivo de dotarlos de mayor eficiencia para la consecución de los objetivos de los organismos de la Administración Pública Nacional.<br> <br> Que asimismo, en el marco Decreto Nº 1063/16 se aprobó la implementación de la Plataforma de Trámites a Distancia (TAD) del Sistema de Gestión Documental Electrónica (GDE), como medio de interacción del ciudadano con la administración, a través de la recepción y remisión por medios electrónicos de presentaciones, solicitudes, escritos, notificaciones y comunicaciones, entre otros.<br> <br> Que por su parte, se dictó el Decreto N° 891/17 por el que se aprobaron las Buenas Prácticas en Materia de Simplificación aplicables para el funcionamiento del Sector Público Nacional y el dictado de la normativa y sus regulaciones con miras a elaborar una estrategia sistémica e integral cuya premisa básica sea la mejora regulatoria que lleve a un Estado eficiente, predecible y capaz de responder a las necesidades ciudadanas.<br> <br> Que con la finalidad de optimizar los recursos del Estado en beneficio de la comunidad, la ANMAT ha emprendido la revisión y actualización de su normativa a los efectos de armonizar, de manera gradual, los plazos entre la inscripción en el REM, la verificación técnica previa a la comercialización y el lanzamiento a la venta de los medicamentos autorizados.<br> <br> Que en virtud de ello, se dictaron, entre otras, las Disposiciones ANMAT N° 3289/19 sobre Autorización de Estudios de Bioequivalencia &#8220;in vivo&#8221;, N° 4620/19 sobre solicitud de Registro de Especialidades Medicinales encuadrada en los términos del artículo 3° del Decreto 150/92, N° 4621/19 sobre solicitud de Registro de Especialidades Medicinales encuadrada en los términos del artículo 4° del Decreto 150/92 y N° 5068/19 sobre Solicitud de Bioexención.<br> <br> Que en este contexto, y sobre la base de la experiencia adquirida, con el fin de avanzar en el proceso de gestión estatal que persigue como objetivo el cumplimiento de los principios de eficiencia, transparencia y predictibilidad y adaptarlo a los estándares de las nuevas herramientas tecnológicas, resulta conveniente actualizar y adecuar el trámite de la autorización de comercialización de los productos liberados al mercado nacional.<br> <br> Que el Instituto Nacional de Medicamentos (INAME) y la Dirección de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que se actúa en ejercicio de las facultades conferidas por el Decreto Nº 1490/92 y modificatorios.<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MÉDICA<br> <br> DISPONE:<br> <br> ARTICULO 1º &#8212; La evaluación de la información relacionada con los métodos de control, elaboración, ensayos farmacotécnicos, estudios de estabilidad, capacidad operativa para elaborar y/o de control incluida en las solicitudes de inscripción en el registro de especialidades medicinales, se realizará mediante la verificación técnica de dicha información, debiendo cumplimentarse los requisitos establecidos en las Disposiciones ANMAT Nº 3602/18 y 3827/18 y demás modificatorias, o las que en el futuro las reemplacen y las especificaciones de calidad establecidas en la Farmacopea Argentina, Farmacopea Brasileña y/u otra Farmacopea Internacionalmente reconocida.<br> <br> ARTÍCULO 2°.- Lo dispuesto en la presente norma se aplicará a los nuevos productos sintéticos y/o semisintéticos, en todas sus formas farmacéuticas y concentraciones, inscriptos en el Registro de Especialidades Medicinales (REM) a partir de su entrada en vigencia.<br> <br> ARTÍCULO 3°.- La Dirección de Evaluación y Registro de Medicamentos (DERM) del INAME deberá establecer, previo a la inscripción en el REM, qué concentraciones y formas farmacéuticas de un producto nuevo no requieren la autorización efectiva de comercialización, notificando al interesado y al Servicio de Autorización de Comercialización de Medicamentos el que tendrá un plazo de 5 (cinco) días hábiles administrativos para ratificar o rectificar tal decisión.<br> <br> En caso de rectificación, el Servicio de Autorización de Comercialización de Medicamentos notificará al interesado que deberá proceder a realizar el trámite regular de autorización efectiva de comercialización.<br> <br> ARTÍCULO 4°.- La presente norma no resultará de aplicación para los trámites de transferencias.<br> <br> Aquellos trámites iniciados sólo por motivo de una transferencia con anterioridad a la entrada en vigencia de la presente disposición deben darse por finalizados cualquiera sea el estado en que se encuentren.<br> <br> ARTICULO 5º.- El trámite de solicitud de autorización efectiva de comercialización se realizará mediante la PLATAFORMA DE TRÁMITES A DISTANCIA (TAD) aprobada por el Decreto N° 1063/16 y reglamentado por la Resolución 90-E/17 del ex MINISTERIO DE MODERNIZACIÓN DE LA NACIÓN y las normas que en el futuro las modifiquen, complementen o sustituyan, o en su defecto el soporte o procedimiento que el sistema permita.<br> <br> Toda la documentación que se acompañe en el trámite tendrá carácter de Declaración Jurada y deberá ser firmada digitalmente por el Director Técnico y/o Co-Director Técnico, por el Representante Legal y/o Apoderado de la firma solicitante, quienes, en tal carácter, serán responsables de la veracidad de la información ingresada.<br> <br> ARTICULO 6º.- Al momento de iniciar el trámite de solicitud de autorización efectiva de comercialización no deberá quedar pendiente ningún trámite relativo al producto en cuestión. En caso contrario, no se podrá dar inicio al trámite de autorización efectiva de comercialización.<br> <br> ARTÍCULO 7°.- Durante el trámite no podrán introducirse modificaciones respecto de la información y documentación exigidas por la normativa vigente, salvo las que fueran necesarias en función de los requerimientos que pudiera efectuar esta Administración Nacional.<br> <br> ARTÍCULO 8°.- El interesado deberá presentar al inicio del trámite de autorización efectiva de comercialización, un plan de validación que incluya, para el producto en cuestión, la totalidad del proceso productivo y la metodología de limpieza de áreas y equipos. Asimismo, deberá haber completado la validación de la metodología analítica.<br> <br> Los tres primeros lotes de comercialización deberán incluirse en el programa de seguimiento de estabilidad natural de productos en el mercado.<br> <br> Esta Administración Nacional realizará la evaluación de la información en un plazo de cuarenta y cinco (45) días hábiles administrativos.<br> <br> En caso de existir observaciones, por única vez, se notificará al interesado que cuenta con un plazo de 10 (DIEZ) días corridos para subsanarlas. En este supuesto, se suspenderá el plazo previsto en el párrafo anterior.<br> <br> Si el interesado diera una respuesta insuficiente o no diera respuesta a lo solicitado, se procederá al dictado del acto denegatorio pertinente.<br> <br> El interesado podrá solicitar por única vez una prórroga. Si a criterio de esta Administración Nacional la solicitud estuviera debidamente justificada, podrá otorgarla por un plazo no mayor a treinta (30) días corridos.<br> <br> ARTÍCULO 9º.- A los efectos de la realización de la verificación técnica previa a la comercialización, el titular del registro deberá comunicar fehacientemente a esta Administración Nacional la fecha de inicio de la elaboración, o control de calidad del primer lote importado, a comercializar con una antelación mínima de quince (15) días corridos.<br> <br> El interesado deberá completar la planilla del ANEXO I (IF-2019-97480742-APN-ANMAT#MSYDS) que forma parte integrante de la presente disposición, el cronograma de elaboración y/o control donde se incluya la fecha de control del producto en su envase primario y acompañar la demás documentación señalada en dicho Anexo.<br> <br> El titular del registro deberá presentar asimismo, la documentación de elaboración y control, según corresponda a un producto de elaboración local o importado, a los efectos de que se efectúe su verificación.<br> <br> ARTÍCULO 10.- Una vez efectuada la verificación, esta Administración Nacional contará con plazo de cuarenta y cinco (45) días hábiles administrativos para autorizar o denegar la comercialización del producto.<br> <br> En caso de que advierta que los procesos observados y/o la documentación presentada no resultan técnicamente aceptables o insuficientes o bien que se requiere información adicional para su evaluación definitiva, se notificará al interesado que cuenta con un plazo de 10 (DIEZ) días corridos para su subsanación. En este supuesto, se suspenderá el plazo previsto en el párrafo anterior.<br> <br> Si el interesado diera una respuesta insuficiente o no diera respuesta a lo solicitado, se procederá al dictado del acto denegatorio pertinente.<br> <br> ARTÍCULO 11.- Cuando por razones sanitarias fundadas, tales como no interrupción de tratamientos terapéuticos iniciados o situaciones de emergencia, resulte imperativa una autorización expeditiva, esta Administración Nacional podrá expedirse en un plazo inferior a los cuarenta y cinco (45) días hábiles previstos en el artículo 10 de la presente disposición.<br> <br> ARTICULO 12.- Cumplido lo previsto en los artículos 8, 9 y 10, la Dirección del INAME contará con un plazo de 5 (CINCO) días hábiles administrativos para realizar la evaluación final y proponer el proyecto de disposición que autorice o deniegue la solicitud de autorización efectiva de comercialización.<br> <br> ARTÍCULO 13.- En caso de denegatoria, cumplido lo dispuesto en el artículo anterior, la Dirección del INAME remitirá el expediente a la Dirección de Asuntos Jurídicos que contará con un plazo de 10 (DIEZ) días hábiles administrativos para expedirse.<br> <br> ARTÍCULO 14.- Cumplido lo dispuesto en el artículo anterior, se dará intervención a la Coordinación de Verificación de Actos Dispositivos que contará con un plazo de 5 (CINCO) días hábiles administrativos para la revisión del proyecto de acto administrativo.<br> <br> En esta instancia el proyecto podrá ser subsanado suspendiéndose los plazos previstos en el párrafo anterior. Subsanada la observación, contará con un plazo de 5 (CINCO) días hábiles administrativos para elevar el proyecto a la Administración Nacional que en caso de considerarlo pertinente procederá a la firma del acto administrativo correspondiente en un plazo no mayor a 5 (CINCO) días hábiles administrativos.<br> <br> ARTÍCULO 15.- El lote no podrá ser liberado al mercado hasta tanto el titular cuente con la Disposición de Autorización Efectiva de Comercialización emitida por esta Administración Nacional.<br> <br> ARTÍCULO 16.- En caso de no obtener la Disposición de Autorización Efectiva de Comercialización y la consecuente liberación del lote al mercado, el titular del registro deberá iniciar nuevamente el trámite de solicitud de autorización efectiva de comercialización para comercializar el producto en cuestión.<br> <br> Previo a ello, el interesado deberá requerir una inspección al solo efecto de verificar que se hayan subsanado las deficiencias que dieran lugar a la denegatoria.<br> <br> En ningún caso se dará curso nuevamente al trámite de autorización efectiva de comercialización y la consecuente liberación del primer lote del producto hasta tanto se efectúe la inspección mencionada en el párrafo anterior con resultado favorable.<br> <br> ARTÍCULO 17.- En aquellos supuestos en que no se diera cumplimiento a lo dispuesto en la presente disposición se dará de baja automáticamente el Certificado del producto.<br> <br> En caso de varias formas farmacéuticas y concentraciones, se procederá a dar de baja la forma farmacéutica y/o concentración registrada para la que no se haya dado cumplimiento a la presente norma.<br> <br> ARTÍCULO 18.- Si el interesado liberara el producto sin la correspondiente Disposición de Autorización Efectiva de Comercialización, éste será considerado ilegítimo, haciendo pasible al titular del certificado y al director técnico de las sanciones establecidas por la Ley Nº 16.463 y el Decreto Nº 341/92, sin perjuicio de las demás acciones que pudieran corresponder.<br> <br> ARTÍCULO 19.- A los efectos de obtener la autorización efectiva de comercialización del primer lote de una especialidad medicinal, el interesado deberá abonar el arancel correspondiente previsto en la normativa vigente en materia de aranceles.<br> <br> ARTÍCULO 20.- Los trámites en curso iniciados de acuerdo con lo prescripto en la Disposición ANMAT N° 5743/09 y modificatorias, en los cuales deban resolverse cuestiones que no sean propias al trámite de autorización efectiva de comercialización, deberán ser remitidos a la Dirección de Gestión de Información Técnica que contará con un plazo de 30 (treinta) días hábiles administrativos para determinar si corresponde:<br> <br> 1. la continuación del trámite de autorización efectiva de comercialización;<br> <br> 2. la inscripción automática al Vademécum;<br> <br> 3. remitir al área técnica pertinente a los fines de resolver previamente cuestiones de su competencia para luego continuar con el trámite de autorización efectiva de comercialización.<br> <br> ARTÍCULO 21.- Derógase la Disposición ANMAT N° 5743/09.<br> <br> ARTÍCULO 22.- La presente disposición entrará en vigencia al día siguiente al de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 23.- Regístrese. Dése a la Dirección Nacional del Registro Oficial para su publicación. Dése a la Coordinación de Gestión de Optimización y Modernización de Procesos, a la Dirección de Gestión de Información Técnica, al Instituto Nacional de Medicamentos, a la Dirección de Asuntos Jurídicos y a la Dirección de Relaciones Institucionales. Comuníquese a las Cámaras de la industria farmacéutica CILFA, CAEME, COOPERALA, CAPGEN y CAPEMVEL y SAFyBI. Cumplido, archívese. Carlos Alberto Chiale<br> <br> NOTA: El/los Anexo/s que integra/n este(a) Disposición se publican en la edición web del BORA -www.boletinoficial.gob.ar-<br> <br> <div style='text-align: right;'>e. 03/12/2019 N° 93053/19 v. 03/12/2019<span style='font-weight: bold;'></span><br> <br> <div style='text-align: left;'><span style='font-style: italic;'>(<span style='font-weight: bold;'>Nota Infoleg:</span> Los anexos referenciados en la presente norma han sido extraídos de la edición web de Boletín Oficial. Los mismos pueden consultarse en el siguiente link: <a  target='_blank' href='../../../normativa/332647_disp9707_pdf/archivo'>Anexos</a>)</span><br> </div> </div> </div> <span style='font-weight: bold;'></span></div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-9707-2019-332647" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

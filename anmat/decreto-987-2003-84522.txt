@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/decreto-987-2003-84522/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/decreto-987-2003-84522/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/decreto-987-2003-84522/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"Nxt8qWZJjSssrW8q2Ji6-2Bs98g99wjch5Mavdp4LUM","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/decreto-987-2003-84522\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-decreto-987-2003-84522 page-normativa-nacional-decreto-987-2003-84522-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/decreto-987-2003-84522/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-2_KkJq7nXKjJ30Sh5r_XFWRb_TAC2-uPNBGz18IX4c8" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/decreto-987-2003-84522">Decreto   987/2003</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>PODER EJECUTIVO NACIONAL (P.E.N.)</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2003-04-29</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>ESPECIALIDADES MEDICINALES</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Decreto 987/2003</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Apru&eacute;base la Reglamentaci&oacute;n de la Ley de Promoci&oacute;n de la Utilizaci&oacute;n de Medicamentos por su Nombre Gen&eacute;rico, N° 25.649.</P> </B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Bs. As., 28/4/2003</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>VISTO la Ley N° 25.649 sobre Promoci&oacute;n de la Utilizaci&oacute;n de Medicamentos por su Nombre Gen&eacute;rico, y</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que mediante la Ley citada en el VISTO se establece que toda receta o prescripci&oacute;n m&eacute;dica debe efectuarse expresando el nombre-gen&eacute;rico del medicamento o denominaci&oacute;n com&uacute;n internacional, seguida de la forma farmac&eacute;utica y dosis/unidad, con detalle del grado de concentraci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por la mencionada Ley se persigue la defensa del consumidor de medicamentos y drogas farmac&eacute;uticas, resultando concordante con los principios rectores de la Ley N° 24.240.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la Ley N° 25.649 establece normas sobre el ejercicio de la medicina y odontolog&iacute;a, regulados por la Ley N° 17.132; as&iacute; como tambi&eacute;n de la actividad de los profesionales farmac&eacute;uticos regidos por la Ley N° 17.565, constituyendo por ende, una Ley modificatoria de sus similares que regulan tales actividades.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el Estado debe favorecer el acceso a los medicamentos y, en ese orden, con la Ley que se reglamenta se pretende avanzar en la defensa de los derechos del consumidor, ya que permite a la poblaci&oacute;n optar libremente por las distintas especialidades medicinales existentes en el mercado, en las condiciones establecidas por la referida norma.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que el derecho a la libre prescripci&oacute;n por parte del profesional m&eacute;dico y odont&oacute;logo tiene que compatibilizarse con el derecho a la libre elecci&oacute;n y a la debida informaci&oacute;n que debe brindarse al adquirente de los medicamentos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la libertad de elecci&oacute;n del consumidor, en las condiciones establecidas en la Ley, resulta un importante instrumento tendiente a prevenir la formaci&oacute;n de monopolios o conductas especulativas que distorsionen el mercado de medicamentos y dificulten su acceso a la par de tutelar los derechos de los consumidores.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, por otra parte, como antecedentes, ya el PODER EJECUTIVO NACIONAL dict&oacute; el Decreto N° 150/92 y, a su turno, el 10 de abril de 1992, los entonces MINISTERIOS DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS y SA LUD Y ACCION SOCIAL emitieron la Resoluci&oacute;n Conjunta N° 470 y 268, respectivamente.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que luego, en el marco de la Emergencia Sanitaria Nacional, declarada por el Decreto N° 486 del 12 de marzo de 2002, el MINISTERIO DE SALUD dict&oacute; la Resoluci&oacute;n Ministerial N° 326 del 3 de junio de 2002, que fija el uso obligatorio del nombre gen&eacute;rico en la prescripci&oacute;n de medicamentos y la facultad del profesional farmac&eacute;utico de reemplazarlos por otros, cumpliendo determinados requisitos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que los prop&oacute;sitos y fines previstos en la Ley N° 25.649, que guardan coherencia con los antecedentes referidos, cuentan con la firme adhesi&oacute;n de amplios sectores cient&iacute;ficos, t&eacute;cnicos, universitarios y gremiales.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la pr&aacute;ctica de prescribir los medicamentos por su nombre gen&eacute;rico revalorizar&aacute; el papel del m&eacute;dico y la utilidad de sus estudios farmacol&oacute;gicos y jerarquizar&aacute; al mismo tiempo, la figura del farmac&eacute;utico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, en ese sentido, la Ley que se reglamenta refuerza el rol del farmac&eacute;utico en cuanto a la debida dispensa de las recetas, incluyendo dicha pr&aacute;ctica el deber de asesoramiento e informaci&oacute;n por parte del profesional al p&uacute;blico, como una tarea de gran relevancia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, en el supuesto de un medicamento prescripto por nombre gen&eacute;rico, ese deber de informaci&oacute;n no se limita a aportar los datos relevantes sobre el f&aacute;rmaco sino que requiere que sean brindados con la m&aacute;xima amplitud.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en los supuestos en que los f&aacute;rmacos adem&aacute;s de prescribirse por nombre gen&eacute;rico se prescriban tambi&eacute;n por el nombre de marca, la informaci&oacute;n sobre todas las especialidades medicinales con el mismo nombre gen&eacute;rico y dem&aacute;s condiciones que fija la ley, ser&aacute; aportada a pedido del adquirente y que por ello, para que opere su reemplazo con los alcances que fija la Ley N° 25.649, es necesario consignar la firma del adquirente para que d&eacute; su conformidad con el reemplazo efectuado y con la informaci&oacute;n recibida.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, sin perjuicio del principio de la prescripci&oacute;n por nombre gen&eacute;rico, para los supuestos en que el profesional m&eacute;dico u odont&oacute;logo considere indispensable consignar en la receta a continuaci&oacute;n del nombre gen&eacute;rico el nombre o marca comercial con la debida justificaci&oacute;n, y en los cuales el adquirente solicite otro medicamento con el mismo nombre gen&eacute;rico y de menor precio, la decisi&oacute;n de aquel profesional y su justificaci&oacute;n deben ser puestas por el farmac&eacute;utico, a consideraci&oacute;n del adquirente y sometida a su decisi&oacute;n a fin de compatibilizar los derechos y deberes de los profesionales que participan en la debida prescripci&oacute;n y dispensa con los de los consumidores.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT), dependiente del MINISTERIO DE SALUD, es un organismo especializado cuya trayectoria es reconocida internacionalmente.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, a trav&eacute;s de la mencionada ADMINISTRACION, se aprueban, controlan y fiscalizan los medicamentos que se comercializan y fabrican en los establecimientos autorizados por ella y, por ende, es el organismo competente para determinar cuales medicamentos no son reemplazables, por sus caracter&iacute;sticas de biodisponibilidad o estrecho rango terap&eacute;utico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que las normas que se aprueban tienen como principal objetivo la defensa del adquirente y por esa raz&oacute;n, en los supuestos en que no se haya consignado en la receta la cantidad de unidades a expender, corresponde prever la posibilidad de dispensar al consumidor un envase con la menor cantidad de unidades y, de ese modo, evitar que se vea privado de acceder al medicamento, pudiendo as&iacute;, subsanar la omisi&oacute;n cometida por el profesional m&eacute;dico u odont&oacute;logo a favor del adquirente, debiendo dejar el farmac&eacute;utico constancia de tal omisi&oacute;n en el libro que a tal efecto debe llevar.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, para documentar el correcto cumplimiento de la Ley que se reglamenta el farmac&eacute;utico debe registrar en un libro especial rubricado y sellado por la Autoridad Sanitaria competente los datos de la receta, con detalle de fechas de prescripci&oacute;n y de presentaci&oacute;n en la farmacia, identificaci&oacute;n del profesional prescribiente, y del medicamento prescripto y dispensado, as&iacute; como los motivos del reemplazo, con precisi&oacute;n de si hubo justificaci&oacute;n del profesional m&eacute;dico u odont&oacute;logo, para prescribir por marca.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que asimismo, deber&aacute;n identificarse en el registro aludido las recetas que conforme a la Ley N° 25.649, deban considerarse como no prescriptas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que en cuanto a los datos del medicamento dispensado, deber&aacute; precisarse sin excepci&oacute;n su nombre de marca o del laboratorio autorizado por la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT) y n&uacute;mero de lote, con detalle de los dem&aacute;s requisitos que impone la Ley.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, a los efectos de cumplir las previsiones que consagra la norma que se reglamenta, en cuanto al aspecto sancionatorio que le compete al MINISTERIO DE SALUD, resulta fundamental definir claramente el marco legal aplicable en lo atinente a las infracciones que se pudieran verificar.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, en este sentido, cabe se&ntilde;alar que el deber de informaci&oacute;n previsto en la Ley N° 25.649 es parte integrante del acto profesional y por ello, corresponde que las infracciones que se establecen en la Ley N° 24.240, sean aplicadas por la autoridad competente que regula el ejercicio profesional de las actividades en cuesti&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que por la Resoluci&oacute;n del ex-MINISTERIO DE SALUD Y ACCION SOCIAL N° 750 del 3 de mayo de 1985, se aprob&oacute; el Formulario Terap&eacute;utico Nacional, que, con su posterior actualizaci&oacute;n constituye una herramienta fundamental para garantizar el cumplimiento de la Ley de Promoci&oacute;n de la Utilizaci&oacute;n de Medicamentos por su Nombre Gen&eacute;rico, atento que sobre la base del mismo es posible propender a acciones concretas tendientes a su uso racional, al par de garantizar el acceso de la poblaci&oacute;n a medicamentos eficaces, seguros y necesarios.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que, si bien el Programa M&eacute;dico Obligatorio de Emergencia, aprobado por la Resoluci&oacute;n del MINISTERIO DE SALUD N° 201 del 9 de abril de 2002 ya contiene un Cap&iacute;tulo referido a especialidades medicinales por principio activo y precios de referencia, resulta imperioso que se elabore sobre la base del nuevo Formulario Terap&eacute;utico Nacional aprobado por el MINISTERIO DE SALUD, conforme a los criterios que &eacute;ste determine.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la utilizaci&oacute;n del mencionado Formulario Terap&eacute;utico Nacional debe ser obligatoria para los profesionales m&eacute;dicos, odont&oacute;logos y farmac&eacute;uticos, dependientes o contratados por los establecimientos p&uacute;blicos asistenciales sujetos a jurisdicci&oacute;n nacional, as&iacute; como para los profesionales propios o contratados obligados por las Leyes Nros. 23.660, 23.661, 24.754, 19.032 y sus modificatorias.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la verificaci&oacute;n del cumplimiento de la citada normativa se encuentra a cargo del MINISTERIO DE SALUD.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS del MINISTERIO DE SALUD ha tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Que la presente medida se dicta de conformidad con las facultades emergentes del art&iacute;culo 99, inciso 2 de la Constituci&oacute;n Nacional.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>EL PRESIDENTE DE LA NACION ARGENTINA</P> <P ALIGN='JUSTIFY'>DECRETA:</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1° </B>— Apru&eacute;base la Reglamentaci&oacute;n de la Ley de Promoci&oacute;n de la Utilizaci&oacute;n de Medicamentos por su Nombre Gen&eacute;rico, N° 25.649 que, como Anexo I, forma parte integrante del presente Decreto.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 2° </B>— La Reglamentaci&oacute;n que se aprueba por el art&iacute;culo precedente entrar&aacute; en vigencia a partir de su publicaci&oacute;n en el Bolet&iacute;n Oficial.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 3° </B>— Fac&uacute;ltase al MINISTERIO DE SALUD para dictar las normas complementarias interpretativas y aclaratorias que fuere menester para la aplicaci&oacute;n de la Reglamentaci&oacute;n que se aprueba por el presente Decreto.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>Art. 4° </B>— Comun&iacute;quese, publ&iacute;quese, d&eacute;se a la Direcci&oacute;n Nacional de Registro Oficial y arch&iacute;vese. — DUHALDE. — Alfredo N. Atanasof. — Gin&eacute;s M. Gonz&aacute;lez Garc&iacute;a.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>REGLAMENTACION DE LA LEY DE PROMOCION DE LA UTILIZACION DE MEDICAMENTOS POR SU NOMBRE GENERICO.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 1° — Sin reglamentar.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 2° — Toda receta y/o prescripci&oacute;n m&eacute;dica u odontol&oacute;gica debe efectuarse expresando el nombre gen&eacute;rico o Denominaci&oacute;n Com&uacute;n Internacional del principio activo o combinaci&oacute;n de ellos, seguido de la forma farmac&eacute;utica, cantidad de unidades por envase y concentraci&oacute;n. Los m&eacute;dicos y odont&oacute;logos, est&aacute;n obligados a respetar el principio de la prescripci&oacute;n por nombre gen&eacute;rico, quedando facultados para expresar en la receta el nombre comercial o de marca del medicamento, a continuaci&oacute;n del nombre gen&eacute;rico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El profesional farmac&eacute;utico, para una debida dispensa de los medicamentos, debe asesorar y facilitar al adquirente la informaci&oacute;n que le requiera sobre todas las especialidades medicinales que contengan el mismo principio activo o combinaci&oacute;n de ellos y sus distintos precios.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En los casos en que la receta consigne exclusivamente el nombre gen&eacute;rico de los medicamentos, o en los que se consigue el nombre gen&eacute;rico seguido del de la marca, y no se justifique la selecci&oacute;n de esa marca, el farmac&eacute;utico debe dispensar, a pedido del consumidor, el medicamento con el mismo principio activo, o combinaci&oacute;n de ellos, la misma cantidad de unidades por envase, igual concentraci&oacute;n y menor precio que el prescripto. Asimismo, el farmac&eacute;utico est&aacute; obligado a consignar en la receta, de su pu&ntilde;o y letra, la conformidad del adquirente con relaci&oacute;n a la informaci&oacute;n recibida y al medicamento dispensado, individualizando el mismo por su nombre gen&eacute;rico y de marca comercial o del laboratorio autorizado por la ADMINISTRACION NACIONAL DE ALIMENTOS, MEDICAMENTOS Y TECNOLOGIA MEDICA (ANMAT), seg&uacute;n el caso, seguido de la fecha, firma y sello donde conste su nombre, apellido y matr&iacute;cula profesional.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Los medicamentos que el farmac&eacute;utico ofrezca a los adquirentes, en cumplimiento del art&iacute;culo que se reglamenta, deber&aacute;n ser especialidades medicinales inscriptas en el Registro de Especialidades Medicinales de la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT) elaboradas o importadas por establecimientos autorizados por dicho organismo de control y fiscalizaci&oacute;n y que tengan el mismo nombre gen&eacute;rico que el prescripto y re&uacute;nan las dem&aacute;s condiciones exigidas en la Ley y por esta reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Para los casos de asociaciones medicamentosas que contengan tres o m&aacute;s principios activos el MINISTERIO DE SALUD podr&aacute; establecer las condiciones de prescripci&oacute;n, para facilitar el reemplazo por otro medicamento con los mismos principios activos en igual concentraci&oacute;n y forma farmac&eacute;utica.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En el supuesto en que el m&eacute;dico u odont&oacute;logo considere indispensable prescribir por marca, por raz&oacute;n fundada, podr&aacute; realizarlo, debiendo consignar primero el nombre gen&eacute;rico del medicamento y agregar, de su pu&ntilde;o y letra, a continuaci&oacute;n de la firma correspondiente a la prescripci&oacute;n por la marca, la justificaci&oacute;n que avale tal decisi&oacute;n bajo el t&iacute;tulo &quot;justificaci&oacute;n de la prescripci&oacute;n por marca&quot;, firmando nuevamente y aclarando con el correspondiente sello.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En estos casos, si el adquirente solicita otro medicamento de menor precio y con el mismo nombre gen&eacute;rico, el farmac&eacute;utico debe hacerle conocer que el m&eacute;dico u odont&oacute;logo justifica la prescripci&oacute;n por marca, a efectos de que exprese su conformidad con dicha prescripci&oacute;n. De la decisi&oacute;n del adquirente el farmac&eacute;utico deber&aacute; dejar constancia en la receta, junto con las otras anotaciones descriptas en los p&aacute;rrafos precedentes, con la firma del interesado y su firma y sello aclaratorio.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El farmac&eacute;utico no podr&aacute; reemplazar las especialidades medicinales que, por sus caracter&iacute;sticas de biodisponibilidad y/o estrecho rango terap&eacute;utico, la ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA (ANMAT) haya desaconsejado reemplazar.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>A tales efectos, la citada ADMINISTRACION, comunicar&aacute; peri&oacute;dicamente, al MINISTERIO DE SALUD, los principios activos y formas farmac&eacute;uticas que re&uacute;nan las caracter&iacute;sticas se&ntilde;aladas en el p&aacute;rrafo anterior.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Si en la receta el m&eacute;dico u odont&oacute;logo hubiera omitido la indicaci&oacute;n de la cantidad de unidades por envase, el farmac&eacute;utico podr&aacute; entregar el medicamento que re&uacute;na las dem&aacute;s condiciones que exige la Ley y que contenga la menor cantidad de unidades.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 3° — Las recetas que, extiendan los m&eacute;dicos u odont&oacute;logos, prescriptas s&oacute;lo por marca o las que consignen el nombre gen&eacute;rico pero omitan la forma farmac&eacute;utica y/o concentraci&oacute;n, se tendr&aacute;n por no prescriptas, no siendo v&aacute;lidas para el expendio del medicamento de que se trate.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>A efectos de documentar el correcto cumplimento de la Ley que se reglamenta en todos los casos, y cualquiera fuera la modalidad de prescripci&oacute;n, los farmac&eacute;uticos deber&aacute;n registrar en un libro especial rubricado y foliado por la Autoridad Sanitaria competente los datos que correspondan al profesional prescribiente, fechas de prescripci&oacute;n y de presentaci&oacute;n en la farmacia y dem&aacute;s datos del medicamento prescripto y dispensado, as&iacute; como el n&uacute;mero de lote. Tambi&eacute;n corresponder&aacute; agregar el nombre de marca y si no contara con &eacute;l, el nombre del laboratorio elaborador o importador autorizado por la ADMINISTRACION NACIONAL DE ALIMENTOS, MEDICAMENTOS Y TECNOLOGIA MEDICA (ANMAT) a continuaci&oacute;n del nombre gen&eacute;rico del medicamento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Corresponder&aacute; dejar asentados en el libro especial los casos en los cuales la receta se tenga por no prescripta, as&iacute; como los supuestos en los cuales en la receta no se hubiera indicado la cantidad de unidades por envase a dispensar.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El libro deber&aacute; mantenerse actualizado y a disposici&oacute;n de las autoridades sanitarias competentes.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 4° — SIN REGLAMENTAR.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 5° — SIN REGLAMENTAR.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 6° — El cumplimiento de las disposiciones del art&iacute;culo que se reglamenta no impide que el nombre gen&eacute;rico pueda tener un mayor tama&ntilde;o o un realce m&aacute;s destacado que el nombre comercial.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 7° — Los establecimientos autorizados para el expendio de medicamentos, deben brindar al p&uacute;blico, sin excepci&oacute;n, s&oacute;lo a trav&eacute;s de profesionales farmac&eacute;uticos habilitados y en forma completa la informaci&oacute;n que se les requiera sobre todas las especialidades medicinales que contengan el mismo principio activo o combinaci&oacute;n de ellos, que el prescripto en la receta que se les exhiba, y los distintos precios de esos productos, as&iacute; como efectuar las aclaraciones que correspondan.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Se considera que tal deber de informaci&oacute;n es amplio e integral en los casos en que la dispensa del farmac&eacute;utico no conlleva una posibilidad de reemplazo, atento que el medicamento se prescribe s&oacute;lo por el nombre gen&eacute;rico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Para los casos en que adem&aacute;s de por nombre gen&eacute;rico se prescriba por marca, la informaci&oacute;n que debe suministrar el farmac&eacute;utico ser&aacute; obligatoriamente brindada a pedido del adquirente o consumidor, como condici&oacute;n para efectuar el reemplazo, si tambi&eacute;n &eacute;ste fuera requerido por el destinatario del servicio.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Se entiende que forma parte del deber de informaci&oacute;n la obligaci&oacute;n del farmac&eacute;utico de exhibir una identificaci&oacute;n personal en su vestimenta en la que conste su fotocarnet, nombre, apellido, t&iacute;tulo y matr&iacute;cula profesional, con caracteres no, menores de TRES MILIMETROS (3 mm) de alto y que permitan su f&aacute;cil lectura.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Cuando se prescriba por nombre gen&eacute;rico o sea necesario reemplazar un medicamento prescripto por marca por otro con el mismo nombre gen&eacute;rico, y dem&aacute;s condiciones exigidas por la Ley, el farmac&eacute;utico debe verificar que el adquirente haya comprendido los alcances de la informaci&oacute;n recibida, previo a que &eacute;ste firme la receta. Asimismo, debe satisfacer en ambos casos, la totalidad de las consultas que le realicen relacionadas con las caracter&iacute;sticas del producto, forma adecuada de administraci&oacute;n, efectos esperados o adversos, precio y toda otra informaci&oacute;n que garantice el cumplimiento de la prescripci&oacute;n y una debida dispensa.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Ante la falta de informaci&oacute;n sobre los medicamentos y sus precios por principio activo o combinaci&oacute;n de ellos los farmac&eacute;uticos ser&aacute;n pasibles de las sanciones de la Ley N° 24.240.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Los adquirentes de los bienes, frente al incumplimiento por parte de los profesionales alcanzados por la presente normativa, podr&aacute;n realizar la denuncia correspondiente ante la Autoridad Sanitaria Nacional.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En ning&uacute;n caso el farmac&eacute;utico podr&aacute; delegar en dependientes no matriculados las obligaciones contempladas en la Ley y su reglamento.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 8° — El MINISTERIO DE SALUD como autoridad de aplicaci&oacute;n de la Ley que se reglamenta, queda facultado para efectuar modificaciones al Programa M&eacute;dico Obligatorio en su parte pertinente, a efectos de basarse en el nuevo &quot;Formulario Terap&eacute;utico Nacional&quot; en el que, por principio activo o combinaci&oacute;n de ellos, se deber&aacute;n ordenar las especialidades medicinales que el mismo indique siguiendo criterios cient&iacute;ficos, terap&eacute;uticos o farmacoecon&oacute;micos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Establ&eacute;cese que el nuevo &quot;Formulario Terap&eacute;utico Nacional&quot;, que apruebe el MINISTERIO DE SALUD ser&aacute; de aplicaci&oacute;n obligatoria para los m&eacute;dicos, odont&oacute;logos y farmac&eacute;uticos contratados o dependientes de las entidades alcanzadas por las Leyes Nros. 23.660, 23.661, 24.754, 19.032, sus modificatorias y normas reglamentarias, as&iacute; como a quienes en ejercicio de tales profesiones act&uacute;en como contratados o dependientes de los establecimientos asistenciales sujetos a jurisdicci&oacute;n nacional, con los alcances del Programa M&eacute;dico Obligatorio cuando resulte aplicable.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 9° — SIN REGLAMENTAR.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 10. — El MINISTERIO DE SALUD podr&aacute; suscribir convenios con las Universidades y Facultades de Ciencias M&eacute;dicas, de Farmacia y de Bioqu&iacute;mica y con las dem&aacute;s &aacute;reas vinculadas a la formaci&oacute;n del conocimiento en ciencias de la salud, con el objeto de promover las acciones tendientes a la actualizaci&oacute;n, perfeccionamiento, investigaci&oacute;n y transferencia del conocimiento de la tem&aacute;tica tratada en la presente reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 11. — SIN REGLAMENTAR.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 12. — SIN REGLAMENTAR.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>ARTICULO 13. — SIN REGLAMENTAR.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/decreto-987-2003-84522" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

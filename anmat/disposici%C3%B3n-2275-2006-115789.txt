@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.104',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2275-2006-115789/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2275-2006-115789/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2275-2006-115789/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"4C4qclCNpCNaPs0dBL5Rco7f_bYIk_55bujlO8QuJsA","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-2275-2006-115789\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-2275-2006-115789 page-normativa-nacional-disposición-2275-2006-115789-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-2275-2006-115789/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-qnBRcyIyA-CCwKY80xFFDdQYmCWPA1Wo7-gY5yzf53o" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-2275-2006-115789">Disposición   2275/2006</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2006-04-24</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'>PRODUCTOS PARA DIAGNOSTICO DE USO IN VITRO</P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 2275/2006</P> <P ALIGN='JUSTIFY'>Procedimiento abreviado de Declaraci&oacute;n de Conformidad en relaci&oacute;n con los requisitos de informaci&oacute;n previstos para el registro de los mencionados productos de los Grupos A y B, seg&uacute;n Disposici&oacute;n Nº 2674/99, de fabricaci&oacute;n nacional, o importados de alguno de los pa&iacute;ses consignados en dicha norma.</P> </B><P ALIGN='JUSTIFY'>Bs. As., 12/4/2006</P> <P ALIGN='JUSTIFY'>VISTO la Ley Nº 19.549 de Procedimientos Administrativos, modificada por Ley Nº 21.686 y su Decreto reglamentario Nº 1759/72 (T.O. 1991), la Resoluci&oacute;n Ex MSyAS Nº 145/98, las Disposiciones ANMAT Nº 2674/99, 3802/04 y 750/06 y el Expediente Nº 1-47-1110-2986/055 del Registro de esta ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA; y</P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que mediante la Resoluci&oacute;n Nº 145 del 9 de marzo de 1998 del Ex MINISTERIO DE SALUD Y ACCION SOCIAL, se facult&oacute; expresamente a esta Administraci&oacute;n Nacional a establecer los requisitos para el registro de los Productos para Diagnostico de Uso 'in-Vitro' y para Investigaci&oacute;n de Uso 'in-vitro'.</P> <P ALIGN='JUSTIFY'>Que los requisitos de informaci&oacute;n que deber&aacute;n reunir los productos m&eacute;dicos para diagn&oacute;stico de uso in-vitro a los efectos de su registro fueron armonizados en el &aacute;mbito del MERCOSUR, quedando plasmados en el documento 'Registro Intrazona de Productos Diagn&oacute;sticos de Uso In-vitro' que figura en el Anexo de MERCOSUR/GMC/RES. Nº 79/96, y fueron adoptados en el orden nacional por la Disposici&oacute;n ANMAT Nº 2674/99.</P> <P ALIGN='JUSTIFY'>Que por razones de oportunidad, m&eacute;rito y conveniencia, el INSTITUTO NACIONAL DE MEDICAMENTOS aconseja establecer un procedimiento abreviado, mediante una aclaraci&oacute;n jurada de conformidad, para el registro de aquellos productos m&eacute;dicos para diagn&oacute;stico de uso in-vitro de bajo riesgo sanitario intr&iacute;nseco, destinados al uso profesional exclusivo, en el &aacute;mbito de laboratorios habilitados para la realizaci&oacute;n de an&aacute;lisis cl&iacute;nicos.</P> <P ALIGN='JUSTIFY'>Que lo propuesto por la DIRECCION DE TECNOLOGIA MEDICA, se sustenta en un estudio de los procedimientos aplicados para el registro de productos m&eacute;dicos para diagn&oacute;stico de uso in-vitro en pa&iacute;ses considerados de alta vigilancia sanitaria, y en particular en las previsiones de la Directiva 98/79/CE, que establece los requisitos para la libre comercializaci&oacute;n de estos productos en el &aacute;mbito de la Comunidad Europea, y que prev&eacute; la autorizaci&oacute;n autom&aacute;tica de los que revistan menor riesgo sanitario, mediante declaraci&oacute;n jurada de conformidad emitida por el fabricante, as&iacute; como la normativa vigente en los Estados Unidos de Norteam&eacute;rica, en particular la Secci&oacute;n 510 (I) de la Ley Federal de Alimentos, Drogas y Cosm&eacute;ticos (Federal Food, Drugs &amp; Cosmetics Act - FFDCA), por la que se declara exentos de registro ante la FOOD &amp; DRUGS ADMINISTRATION (FDA) a la mayor parte de los productos m&eacute;dicos de bajo riesgo intr&iacute;nseco (Clase I).</P> <P ALIGN='JUSTIFY'>Que el Reglamento de Procedimientos Administrativos aprobado por Decreto Nº 1759/72 (T.O. 1991), establece en su Art&iacute;culo 5º, inciso c, que los Organismos de la Administraci&oacute;n procurar&aacute;n 'establecer un procedimiento sumario de gesti&oacute;n mediante formularios impresos u otros m&eacute;todos que permitan el r&aacute;pido despacho de los asuntos, en caso que deban resolver una serie numerosa de expedientes homog&eacute;neo. Incluso podr&aacute;n utilizar, cuando sean id&eacute;nticos los motivos y fundamentos de las resoluciones, cualquier medio mec&aacute;nico de producci&oacute;n en serie de los mismos, siempre que no se lesionen las garant&iacute;as jur&iacute;dicas de los interesados'.</P> <P ALIGN='JUSTIFY'>Que la DIRECCION DE TECNOLOGIA MEDICA y la DIRECCION DE ASUNTOS JURIDICOS han tomado la intervenci&oacute;n que les compete.</P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por los Decretos Nº 1490/92 y 197/02 y por los Arts. 4º y 5º de la Resoluci&oacute;n Ex MSyAS Nº 145/98.</P> <P ALIGN='JUSTIFY'>Por ello;</P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Los requisitos de informaci&oacute;n previstos para el registro de los Productos M&eacute;dicos para Diagn&oacute;stico de Uso In-Vitro de los Grupos A y B, seg&uacute;n Disposici&oacute;n ANMAT Nº 2674/99, de fabricaci&oacute;n nacional, o importados de alguno de los pa&iacute;ses incluidos en el Anexo III de la mencionada Disposici&oacute;n, se tendr&aacute;n por satisfechos mediante el procedimiento abreviado de Declaraci&oacute;n de Conformidad previsto en la presente norma, a excepci&oacute;n de aquellos productos destinados a la detecci&oacute;n de enfermedades cong&eacute;nitas en neonatos, trisom&iacute;a del par 21, marcadores tumorales, as&iacute; como para el monitoreo de drogas inmunosupresoras y terap&eacute;uticas, y los sistemas de histocompatibilidad y para pruebas de susceptibilidad de antimicrobianos, los que deber&aacute;n registrarse seg&uacute;n el procedimiento instituido por Disposici&oacute;n ANMAT 2674/99.</P> <B><P ALIGN='JUSTIFY'>Art. 2º </B>— Los fabricantes o importadores, para solicitar el registro de productos m&eacute;dicos encuadrados en el art&iacute;culo precedente, deber&aacute;n presentar los siguientes documentos, por cada producto o familia de productos cuyo registro se solicite:</P> <P ALIGN='JUSTIFY'>a) Comprobante de pago del arancel correspondiente.</P> <P ALIGN='JUSTIFY'>b) El formulario de solicitud de registro 9.4.2.0.1, que como Anexo I forma parte integrante de la presente Disposici&oacute;n, firmado por el representante legal y por el director t&eacute;cnico.</P> <P ALIGN='JUSTIFY'>c) La Declaraci&oacute;n de Conformidad, en tres ejemplares originales, confeccionada en papel obra primera blanco alisado, peso relativo m&iacute;nimo de OCHENTA Y DOS GRAMOS (82 gr) por metro cuadrado, tama&ntilde;o A4: DOSCIENTOS DIEZ por DOSCIENTOS NOVENTA Y SIETE MILIMETROS (210 x 297 mm.) con membrete de la empresa, seg&uacute;n el modelo que como Anexo II forma parte integrante de la presente Disposici&oacute;n, firmada por el representante legal y por el director t&eacute;cnico. Cuando se emplee m&aacute;s de una hoja en la confecci&oacute;n de una declaraci&oacute;n de conformidad, la misma deber&aacute; ser impresa a doble faz, y deber&aacute; verificarse que no quede en una hoja aislada el recuadro previsto para la intervenci&oacute;n de esta Administraci&oacute;n Nacional. M&aacute;rgenes: Izquierdo: CUARENTA MILIMETROS (40 mm.) Derecho: DIEZ MILIMETROS (10 mm.) Inferior: VEINTICINCO MILIMETROS (25 mm.) El margen superior de las hojas siguientes a la primera ser&aacute; de CINCUENTA MILIMETROS (50 mm.).</P> <P ALIGN='JUSTIFY'>d) Para importadores: Copia de autorizaci&oacute;n del fabricante o del exportador, para que el importador comercialice su producto m&eacute;dico, con la correspondiente legalizaci&oacute;n consular o Apostilla de La Haya y traducida por traductor p&uacute;blico, cuando estuviere redactada en idioma extranjero. Cuando sea autorizado por el exportador, el importador deber&aacute; demostrar la relaci&oacute;n comercial entre el exportador y el fabricante.</P> <P ALIGN='JUSTIFY'>e) Para importadores: comprobante de registro o certificado de libre comercializaci&oacute;n o documento equivalente otorgado, por la autoridad competente, en el pa&iacute;s donde el producto m&eacute;dico es fabricado y/o comercializado, con la correspondiente legalizaci&oacute;n consular o Apostilla de La Haya y traducida por traductor p&uacute;blico, cuando estuviere redactada en idioma extranjero.</P> <P ALIGN='JUSTIFY'>f) Para fabricantes de sistemas de diagn&oacute;stico de uso in-vitro que incorporen equipamiento el&eacute;ctrico: copia autenticada de los Certificados de Ensayo completos, seg&uacute;n normas IEC 61610-</P> <P ALIGN='JUSTIFY'>1 'Requisitos de seguridad de equipos el&eacute;ctricos de medida, control y uso en laboratorio. Parte 1: Requisitos generales' e IEC 61610-2-101 'Requisitos de seguridad de equipos el&eacute;ctricos de medida, control y uso en laboratorio. Parte 2-101: Requisitos particulares para equipos m&eacute;dicos para diagn&oacute;stico in vitro (DIV)', emitidos por laboratorio acreditado a tal efecto por el Organismo Argentino de Acreditaci&oacute;n.</P> <P ALIGN='JUSTIFY'>g) Copia en soporte inform&aacute;tico de las informaciones previstas en la Declaraci&oacute;n de Conformidad.</P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— La empresa solicitante asignar&aacute; a cada producto o familia de productos un n&uacute;mero de registro, el que estar&aacute; conformado seg&uacute;n lo normado en el Art&iacute;culo 2º de la Disposici&oacute;n ANMAT Nº 3802/04.</P> <B><P ALIGN='JUSTIFY'>Art. 4º </B>— La DIRECCION DE TECNOLOGIA MEDICA y el DEPARTAMENTO DE REGISTRO evaluar&aacute;n la documentaci&oacute;n presentada, dentro del &aacute;mbito de sus respectivas competencias, y la rubricar&aacute;n, como constancia de su intervenci&oacute;n. La Declaraci&oacute;n de Conformidad debidamente intervenida por los funcionarios autorizados de esta Administraci&oacute;n Nacional, ser&aacute; constancia suficiente de registro.</P> <B><P ALIGN='JUSTIFY'>Art. 5º </B>— Cualquier modificaci&oacute;n realizada por el fabricante o importador, en las informaciones previstas en este reglamento, deber&aacute; ser comunicada a la autoridad sanitaria competente dentro de los 30 (treinta) d&iacute;as h&aacute;biles de operada, mediante la presentaci&oacute;n de la documentaci&oacute;n prevista en el Art&iacute;culo 2º, sin que ello interrumpa la comercializaci&oacute;n de los productos.</P> <B><P ALIGN='JUSTIFY'>Art. 6º </B>— La firma titular del registro deber&aacute; mantener a disposici&oacute;n de esta Administraci&oacute;n Nacional, a efectos de acreditar la seguridad y eficacia de los productos registrados, un legajo completo con la documentaci&oacute;n e informaci&oacute;n exigida por la Disposici&oacute;n ANMAT Nº 2674/99, el cual podr&aacute; ser verificado in situ o solicitado por la autoridad de aplicaci&oacute;n en cualquier momento. La DIRECCION DE TECNOLOGIA MEDICA podr&aacute; requerir la presentaci&oacute;n de documentaci&oacute;n adicional y ensayos as&iacute; como de muestras del producto a inscribir para efectuar los controles que sean necesarios, siempre que existieren dudas fundadas sobre la seguridad y eficacia del producto.</P> <B><P ALIGN='JUSTIFY'>Art. 7º </B>— En los r&oacute;tulos, envases y anuncios, constar&aacute; la leyenda 'USO PROFESIONAL EXCLUSIVO. AUTORIZADO POR LA A.N.M.A.T. PM-legajo de la empresa-n&uacute;mero de producto'.</P> <B><P ALIGN='JUSTIFY'>Art. 8º </B>— Toda violaci&oacute;n a las presentes disposiciones ser&aacute; sancionada de acuerdo con lo establecido en la Ley Nº 16.463, en el Decreto Nacional Nº 341/92, y sus normas reglamentarias y complementarias.</P> <B><P ALIGN='JUSTIFY'>Art. 9º </B>— La presente entrar&aacute; en vigencia al d&iacute;a siguiente al de su publicaci&oacute;n en el Bolet&iacute;n Oficial. A opci&oacute;n del interesado, se podr&aacute; reencauzar todo expediente que estuviere en tr&aacute;mite al momento del dictado de la presente, cumplimentando a esos efectos, los recaudos detallados en el Art&iacute;culo 2º.</P> <B><P ALIGN='JUSTIFY'>Art. 10º </B>— Reg&iacute;strese; comun&iacute;quese a CACID, CADIE, CADIEM, CADIME, CAEHFA, CAEME, CAPA, CAPEMVeL, CAPGEN, CAPRODI, CAPROFAC, CAREIDIM, CIGVA, CILFA, COOPERALA, FAIC y UAPE; a la Direcci&oacute;n de Registro, Fiscalizaci&oacute;n y Sanidad de Fronteras del Ministerio de Salud y Ambiente; a la Secretar&iacute;a de Salud del Gobierno de la Ciudad Aut&oacute;noma de Buenos Aires y a los Ministerios de Salud de las Provincias. D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n. D&eacute;se copia a la Direcci&oacute;n de Tecnolog&iacute;a M&eacute;dica y a la Direcci&oacute;n de Planificaci&oacute;n y Relaciones Institucionales. Cumplido, arch&iacute;vese (PERMANENTE). — Manuel R. Limeres.</P> <P ALIGN='RIGHT'>ANEXO I de la Disposici&oacute;n Nº 2275</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/115789_disp2275-24-04-2006-1_jpg/archivo'></P> <P ALIGN='JUSTIFY'>1. Tipo de Solicitud:</P> <P ALIGN='JUSTIFY'>. Registro</P> <P ALIGN='JUSTIFY'>. Modificaci&oacute;n</P> <P ALIGN='JUSTIFY'>2. Identificaci&oacute;n del Fabricante o Importador solicitante de Registro.</P> <P ALIGN='JUSTIFY'>2.1. Legajo de la empresa:</P> <P ALIGN='JUSTIFY'>2.2. Raz&oacute;n Social:</P> <P ALIGN='JUSTIFY'>Tel&eacute;fono/Fax/E-mail.</P> <P ALIGN='JUSTIFY'>3. Identificaci&oacute;n del producto m&eacute;dico para diagn&oacute;stico de uso in-vitro</P> <P ALIGN='JUSTIFY'>3.1. C&oacute;digo de identificaci&oacute;n y nombre t&eacute;cnico del producto m&eacute;dico, (UMDNS-ECRI).</P> <P ALIGN='JUSTIFY'>3.2. Marca y modelo(s) de (los) producto(s) m&eacute;dico(s) (describir o detallar la familia de productos m&eacute;dicos, cuando fuese necesario).</P> <P ALIGN='JUSTIFY'>.3.3 Origen del producto m&eacute;dico:</P> <P ALIGN='JUSTIFY'>Nombre del fabricante y su direcci&oacute;n completa.</P> <P ALIGN='JUSTIFY'>LOS DATOS CONSIGNADOS TIENEN CARACTER DE DECLARACION JURADA</P> <TABLE CELLSPACING=0 BORDER=0 CELLPADDING=4 WIDTH=598> <TR><TD WIDTH='50%' VALIGN='TOP' HEIGHT=38> <P ALIGN='CENTER'>Representante Legal</P> <P ALIGN='CENTER'>Firma y Sello</TD> <TD WIDTH='50%' VALIGN='TOP' HEIGHT=38> <P ALIGN='CENTER'>Director T&eacute;cnico</P> <P ALIGN='CENTER'>Firma y Sello</TD> </TR> </TABLE>  <P ALIGN='RIGHT'>ANEXO II de la Disposici&oacute;n Nº 2275</P> <P ALIGN='CENTER'>DECLARACION DE CONFORMIDAD</P> <P ALIGN='JUSTIFY'>En nombre y representaci&oacute;n de la firma [RAZON SOCIAL DE LA EMPRESA SOLICITANTE], declaramos bajo juramento, en los t&eacute;rminos previstos por la Disposici&oacute;n ANMAT Nº ______, que los Productos M&eacute;dicos para Diagn&oacute;stico de Uso In-Vitro cuyos datos identificatorios y dem&aacute;s caracter&iacute;sticas se detallan a continuaci&oacute;n, CUMPLEN los requisitos t&eacute;cnicos previstos en el Anexo I de la Disposici&oacute;n ANMAT Nº 2674/99 [Para sistemas que incluyan equipamiento el&eacute;ctrico agregar: y en las normas t&eacute;cnicas IEC 61610-1 'Requisitos de seguridad de equipos el&eacute;ctricos de medida, control y uso en laboratorio. Parte 1: Requisitos generales' e IEC 61610-2-101 'Requisitos de seguridad de equipos el&eacute;ctricos de medida, control y uso en laboratorio. Parte 2-101: Requisitos particulares para equipos m&eacute;dicos para diagn&oacute;stico in vitro (DIV)'], conserv&aacute;ndose la documentaci&oacute;n respaldatoria a disposici&oacute;n de las autoridades en el domicilio de la empresa.</P> <P ALIGN='JUSTIFY'>Nombre t&eacute;cnico del producto:</P> <P ALIGN='JUSTIFY'>Nombre comercial:</P> <P ALIGN='JUSTIFY'>Presentaci&oacute;n/es:</P> <P ALIGN='JUSTIFY'>Uso previsto:</P> <P ALIGN='JUSTIFY'>Per&iacute;odo de vida &uacute;til:</P> <P ALIGN='JUSTIFY'>Condiciones de conservaci&oacute;n:</P> <P ALIGN='JUSTIFY'>Nombre y domicilio del fabricante:</P> <P ALIGN='JUSTIFY'>[Cuando corresponda se consignar&aacute; tambi&eacute;n nombre y domicilio del importador, y se aclarar&aacute; si es importador de producto terminado, fraccionador, y/o acondicionador]</P> <P ALIGN='JUSTIFY'>Categor&iacute;a: Venta exclusiva a laboratorios de an&aacute;lisis cl&iacute;nicos. USO PROFESIONAL EXCLUSIVO.</P> <P ALIGN='JUSTIFY'>Lugar y fecha:</P> <TABLE CELLSPACING=0 BORDER=0 CELLPADDING=4 WIDTH=598> <TR><TD WIDTH='50%' VALIGN='TOP' HEIGHT=38> <P ALIGN='CENTER'>Representante Legal</P> <P ALIGN='CENTER'>Firma y Sello</TD> <TD WIDTH='50%' VALIGN='TOP' HEIGHT=38> <P ALIGN='CENTER'>Director T&eacute;cnico</P> <P ALIGN='CENTER'>Firma y Sello</TD> </TR> </TABLE>  <P ALIGN='CENTER'><IMG  src='../../../normativa/115789_disp2275-24-04-2006-2_jpg/archivo'></P> <P ALIGN='CENTER'>MINISTERIO DE SALUD Y AMBIENTE</P> <P ALIGN='CENTER'>SECRETARIA DE POLITICAS, REGULACION Y RELACIONES SANITARIAS</P> <P ALIGN='JUSTIFY'>ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>La presente DECLARACION DE CONFORMIDAD ha sido emitida de acuerdo con las previsiones de la Disposici&oacute;n ANMAT Nº ________, quedando autorizada la comercializaci&oacute;n del/los producto/s identificados en la misma.</P> <P ALIGN='JUSTIFY'>Inscripta en el Registro Nacional de Productores y Productos de Tecnolog&iacute;a M&eacute;dica (R.P.P.T.M.) bajo el n&uacute;mero PM- ___________ - ________ [el n&uacute;mero de registro debe ser generado y completado por la empresa solicitante]</P> <P ALIGN='JUSTIFY'>Buenos Aires,</P> <TABLE CELLSPACING=0 BORDER=0 CELLPADDING=4 WIDTH=598> <TR><TD WIDTH='50%' VALIGN='TOP' HEIGHT=38> <P ALIGN='CENTER'>Direcci&oacute;n de Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='CENTER'>Firma y Sello</TD> <TD WIDTH='50%' VALIGN='TOP' HEIGHT=38> <P ALIGN='CENTER'>Departamento de Registro</P> <P ALIGN='CENTER'>Firma y Sello</TD> </TR> </TABLE>  <P ALIGN='JUSTIFY'></P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-2275-2006-115789" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

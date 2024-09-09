@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-9363-2023-392860/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-9363-2023-392860/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-9363-2023-392860/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"rb0kuTjqdXrgDw9PBQTm2_xcq8C_ddnqJNddW_iqMuM","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-9363-2023-392860\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-9363-2023-392860 page-normativa-nacional-disposición-9363-2023-392860-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-9363-2023-392860/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-cKKHHFsCy04j1iJtzv-1ZKgTlgK1wXcZqiWUOjBUpWY" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-9363-2023-392860">Disposición   9363/2023</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2023-11-08</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 9363/2023</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>DI-2023-9363-APN-ANMAT#MS</span><br> <br> Ciudad de Buenos Aires, 02/11/2023<br> <br> VISTO los Decretos N° 1490 del 20 de agosto de 1992 y sus modificatorios, N° 561 del 6 de abril de 2016 y N° 1063 del 4 de octubre de 2016, la Resolución del Ministerio de Salud N° 550 del 15 de marzo de 2022 y el Expediente Nº EX-2022-74595645- -APN-DVPS#ANMAT.<br> <br> CONSIDERANDO:<br> <br> Que a través de la Resolución del Ministerio de Salud N° 550/22 se estableció el marco regulatorio para PRODUCTOS HIGIÉNICOS DESCARTABLES DE USO EXTERNO Y PRODUCTOS HIGIÉNICOS DE USO INTRAVAGINAL.<br> <br> Que la referida resolución, en su artículo 2°, dispuso que la autoridad de aplicación sea la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT).<br> <br> Que como autoridad de aplicación, habilita a la ANMAT a instaurar las reglamentaciones, guías y/o recomendaciones sobre requisitos de fabricación, entre otros, de los productos sujetos a la referida norma.<br> <br> Que en tal sentido, en su artículo 3° estableció que la elaboración, fraccionamiento/envasado o importación y depósito de dicha categoría de productos solo podrán realizarse en establecimientos autorizados/habilitados por esta Administración Nacional, que cuenten con la Dirección Técnica de un profesional de la salud debidamente habilitado por la autoridad competente y sujeto al cumplimiento de las Buenas Prácticas de Fabricación preconizadas por la Organización Mundial de la Salud.<br> <br> Que por el Decreto N° 561/16 se aprobó la implementación del Sistema de Gestión Documental Electrónica (GDE), como sistema integrado de caratulación, numeración, seguimiento y registración de movimientos de todas las actuaciones y expedientes del Sector Público Nacional.<br> <br> Que, en ese marco, se impulsan distintas medidas tendientes a facilitar el acceso del administrado a los organismos del Estado, agilizando sus trámites administrativos, incrementando la transparencia y accesibilidad, mediante el uso de herramientas tecnológicas que posibiliten un acceso remoto y el ejercicio de un seguimiento efectivo sobre la actividad administrativa.<br> <br> Que el Decreto N° 1063/16 aprobó la implementación de la plataforma de &#8220;TRÁMITES A DISTANCIA&#8221; (TAD) del Sistema de Gestión Documental Electrónica (GDE), como medio de interacción del ciudadano con la administración, a través de la recepción y remisión por medios electrónicos de presentaciones, escritos, solicitudes, notificaciones y comunicaciones, entre otros.<br> <br> Que es necesario determinar bajo qué condiciones técnicas serán extendidas las autorizaciones de funcionamiento que se soliciten y cuáles serán los requisitos de admisibilidad de tales solicitudes.<br> <br> Que la Dirección de Evaluación y Gestión de Monitoreo de Productos para la Salud y la Dirección de Asuntos Jurídicos han tomado la intervención en la faz de su competencia.<br> <br> Que se actúa de acuerdo con las atribuciones conferidas por el Decreto 1490/92 y sus modificatorios y la Resolución del Ministerio de Salud N° 550/22.<br> <br> Por ello;<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1°.- Quedan sometidas a la presente disposición las actividades de elaboración, fraccionamiento/envasado, acondicionamiento, importación y depósito de productos higiénicos descartables de uso externo y productos higiénicos de uso intravaginal alcanzados por la Resolución del Ministerio de Salud N° 550/22, y las personas humanas o jurídicas que intervengan en dichas actividades, quienes estarán sujetas a la fiscalización y control de la Dirección de Evaluación y Gestión de Monitoreo de Productos para la Salud de esta Administración Nacional.<br> <br> ARTÍCULO 2°. - Se entenderá por:<br> <br> 2.1.-Autorización de funcionamiento/habilitación: Acto privativo de la Autoridad Sanitaria con incumbencia en la vigilancia sanitaria de los productos que trata la legislación sanitaria vigente, en el que se otorga el permiso para que las empresas realicen las actividades propuestas, con la comprobación previa del cumplimiento de los requisitos técnicos y administrativos específicos.<br> <br> 2.2.- Empresa: Persona humana o jurídica que explota la actividad económica y/o industrializa un producto contemplado por la legislación sanitaria vigente.<br> <br> 2.3.- Establecimiento: Unidad de la empresa donde se realizan actividades previstas por la legislación sanitaria vigente.<br> <br> 2.4.- Establecimiento Fabricante/Elaborador: Al que posea la infraestructura edilicia y operativa necesarias para elaborar, envasar/fraccionar, controlar y acondicionar los productos en unidades terminadas. Estos establecimientos podrán contratar a terceros para cumplir alguna etapa del proceso de producción o de control cuando la frecuencia de análisis o la complejidad de los mismos así lo justifiquen.<br> <br> 2.5.- Establecimiento envasador/fraccionador o acondicionador: Al que posee la infraestructura edilicia y operativa necesarias para envasar/fraccionar o acondicionar en unidades de uso y controlar los productos.<br> <br> 2.6.- Establecimiento importador: Al que posee como mínimo un depósito adecuado y el equipamiento y la infraestructura necesarios para almacenar y controlar los productos.<br> <br> 2.7.- Fabricación: Todas las operaciones que son necesarias para la obtención de los productos contemplados por la legislación sanitaria vigente.<br> <br> 2.8.- Responsable Técnico / Director Técnico: Profesional, con incumbencias afines a los productos y procesos productivos, legalmente habilitado por la Autoridad competente para ejercer la responsabilidad técnica de las actividades desarrolladas por la empresa y reguladas por la legislación sanitaria vigente.<br> <br> ARTÍCULO 3 °.- El área y los equipamientos donde se realice la fabricación de estos productos deberán ser de uso exclusivo y reunir las condiciones necesarias para minimizar el riesgo de contaminación y contaminación cruzada.<br> <br> ARTÍCULO 4 °.- Dado que el control de calidad es privativo de las empresas que elaboran y/o fraccionan y envasan, las mismas deberán contar con un laboratorio de control de calidad propio. Los importadores deberán contar con un laboratorio propio o contratado para el control de calidad, a fin de asegurar la calidad del producto que comercializa.<br> <br> ARTÍCULO 5°.- La solicitud de autorización de funcionamiento de los establecimientos se realizará presentando la documentación prevista en el Anexo I IF-2023-45673320-APN-DETS#ANMAT. Cualquier modificación a lo declarado en el Anexo I o baja de la autorización de funcionamiento se deberá notificar a la Autoridad Sanitaria presentando la documentación que figura como Anexo II IF-2023-45675173-APN-DETS#ANMAT. Ambos anexos forman parte integrante de la presente Disposición.<br> <br> Dichos trámites deberán iniciarse a través del Sistema de Gestión Documental Electrónica (GDE).<br> <br> ARTÍCULO 6 °.- Una vez autorizados/habilitados por esta Administración, los establecimientos deberán contar con la documentación que avale el cumplimiento de las Buenas Prácticas de Fabricación.<br> <br> ARTÍCULO 7 °.- Las empresas que al momento de entrar en vigencia la presente Disposición ya cuenten con autorización/habilitación conferida en los términos de la Resolución M.S. y A.S. N° 288/90 deberán reinscribir el establecimiento iniciando el trámite correspondiente a través del Sistema de Gestión Documental Electrónica (GDE), otorgándole un plazo de CIENTO OCHENTA (180) días corridos para cumplimentar lo indicado. El mencionado trámite quedará exento de arancel durante el plazo indicado.<br> <br> ARTÍCULO 8º.- Las empresas alcanzadas por lo establecido en el artículo precedente que no se hayan reinscripto durante el plazo previsto, deberán gestionar nuevamente la habilitación bajo los términos de la presente disposición.<br> <br> ARTÍCULO 9º.- Establécense los montos de los aranceles que devengarán las correspondientes tramitaciones que se realicen ante la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica, conforme el detalle que como Anexo III IF-2023-124155875-APN-DETS#ANMAT forma parte integrante de esta disposición.<br> <br> ARTÍCULO 10°.- Dense de baja los códigos de aranceles 3580, 3581, 3582, 3583, 3584, 3653 y 3719 correspondientes a Productos Higiénicos, Absorbentes y Descartables de la Disposición ANMAT N° 4829/2023 publicada en el B.O. el 04/07/2023.<br> <br> ARTÍCULO 11°.- El incumplimiento de la presente Disposición hará pasible a los infractores de la aplicación de las sanciones previstas en la Ley N° 16.463 y el Decreto N° 341/92; ello sin perjuicio de otras medidas y/o acciones que pudieran corresponder a criterio de esta Administración Nacional con el fin de preservar la Salud de la población.<br> <br> ARTÍCULO 12 °.- La presente disposición entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 13° - Regístrese; comuníquese a CAPA y demás cámaras y asociaciones relacionadas. Dése a la Dirección Nacional del Registro Oficial para su publicación. Dése copia a la Dirección de Gestión de Información Técnica, al Instituto Nacional de Productos Médicos, a la Dirección de Relaciones Institucionales y a la Dirección General de Administración. Cumplido, archívese.<br> <br> Manuel Limeres<br> <br> NOTA: El/los Anexo/s que integra/n este(a) Disposición se publican en la edición web del BORA -www.boletinoficial.gob.ar-<br> <br> <div style='text-align: right;'>e. 08/11/2023 N° 90429/23 v. 08/11/2023<br> </div> <br> <span style='font-style: italic;'>(<span style='font-weight: bold;'>Nota Infoleg:</span> Los anexos referenciados en la presente norma han sido extraídos de la edición web de Boletín Oficial)</span><br> <br> <div style='text-align: center;'><span style='font-weight: bold;'>ANEXO I</span><br> </div> <br> FORMULARIO PARA LA AUTORIZACIÓN DE FUNCIONAMIENTO DE ESTABLECIMIENTO ELABORADOR/ FRACCIONADOR/ ACONDICIONADOR/<br> <br> IMPORTADOR DE PRODUCTOS HIGIÉNICOS DESCARTABLES DE USO EXTERNO Y PRODUCTOS HIGIÉNICOS DE USO INTRAVAGINAL<br> <br> <span style='font-weight: bold;'>1°.- SOLICITUD PARA LA HABILITACION COMO:</span><br> <br> <div style='text-align: center;'><img  src='../../../normativa/392860_disp9363anmat-AnexoI-1_jpg/archivo'> </div> <br> <span style='font-weight: bold;'>2°.- DATOS DE LA EMPRESA SOLICITANTE:</span><br> <br> 2.1. - NOMBRE O RAZON SOCIAL:<br> <br> 2.2. - DOMICILIO LEGAL:<br> <br> 2.3. - N° DE CUIT:<br> <br> 2.4. - DATOS DEL REPRESENTANTE LEGAL<br> <br> NOMBRE Y APELLIDO:<br> <br> DOMICILIO, E-MAIL Y TELEFONO:<br> <br> TIPO Y N° DE DOCUMENTO:<br> <br> 2.5. - DOMICILIO DEL ESTABLECIMIENTO:<br> <br> 2.6. - TELEFONO:<br> <br> <span style='font-weight: bold;'>3°.- DATOS DE LA PERSONA PROPUESTA COMO DIRECTOR TECNICO:</span><br> <br> 3.1. - NOMBRE y APELLIDO:<br> <br> 3.2. - TIPO Y N° DE DOCUMENTO:<br> <br> 3.3. - TITULO:<br> <br> 3.4. - NÚMERO DE MATRICULA:<br> <br> <span style='font-weight: bold;'>4°.- ESTABLECIMIENTO TERCERISTA CONTRATADO DE CONTROL DE CALIDAD</span> (SI CORRESPONDIERE):<br> <br> 4.1. - NOMBRE DEL ESTABLECIMIENTO TERCERISTA:<br> <br> 4.2. - DOMICILIO:<br> <br> 4.3. - TELEFONO:<br> <br> Firma del Representante Legal<br> <br> Firma del Director Técnico<br> <br> <span style='font-weight: bold;'>5°. - DOCUMENTACION</span><br> <br> 5.1.- Planos de la estructura edilicia, en escala 1:100, según normas IRAM, firmado por la persona propuesta como Director Técnico y el Representante Legal.<br> <br> 5.2.- Estatuto constitutivo de la empresa e inscripción ante el organismo de contralor de sociedades comerciales correspondiente, certificado ante escribano público. En caso de tratarse de una firma unipersonal debe aportarse documento nacional de identidad (D.N.I.) de la persona titular.<br> <br> 5.3. - Inscripción de la Empresa como Importador/Exportador, otorgada por la Autoridad Aduanera competente (cuando actúen con tal carácter).<br> <br> 5.4. - Constancia de matriculación de la persona propuesta para ejercer el cargo de la dirección técnica ante el Ministerio de Salud y de la libre regencia (en caso de corresponder).<br> <br> 5.5. - Habilitación municipal de la estructura edilicia (legalizada ante escribano público).<br> <br> 5.6. - Habilitación emitida por los Organismos Provinciales de Salud (cuando corresponda) legalizada ante escribano público.<br> <br> 5.7. - Inscripción ante entes impositivos nacionales.<br> <br> 5.8. - Título de propiedad o contrato de locación de la estructura edilicia legalizado ante escribano público.<br> <br> 5.9. - Comprobante de pago electrónico del arancel correspondiente.<br> <br> 5.10. - Memoria descriptiva de la/s actividad/es a desarrollar y de los recursos humanos y físicos disponibles para su ejecución.<br> <br> 5.11. - Habilitación ante los entes correspondientes en lo referente a eliminación y tratamiento de residuos, y depósito y manejo de materiales inflamables.<br> <br> 5.12. - Contrato con el establecimiento que actuará como tercerista de control de calidad, cuando corresponda.<br> <br> 5.13. - Los establecimientos AUTORIZADOS/habilitados con anterioridad según Resolución (ex MS y AS) N° 288/90 que inicien el trámite para la reinscripción del establecimiento deberán aportar: Disposición de habilitación y el correspondiente Certificado de Establecimiento.<br> <br> EX-2022-74595645- -APN-DVPS#ANMAT<br> <br> <div style='text-align: right;'>IF-2023-45673320-APN-DETS#ANMAT<br> </div> <br> <div style='text-align: center;'><img  src='../../../normativa/392860_disp9363anmat-AnexoI-2_jpg/archivo'><br> <br> <div style='text-align: justify;'> <div style='text-align: center;'><span style='font-weight: bold;'>ANEXO II</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>FORMULARIO DE MODIFICACIONES</span><br> </div> <br> Nombre o Razón Social:<br> <br> N° de Legajo:<br> <br> Completar los ítems que correspondan a la modificación que se tramite.<br> <br> <span style='font-weight: bold;'>1°.- CAMBIO DE DATOS DE LA RAZON SOCIAL</span><br> <br> &#8212; DATO ACTUALIZADO<br> <br> Firma del Representante Legal<br> <br> <span style='font-weight: bold;'>2°.- MODIFICACION DE ESTRUCTURA DE PLANTA O DE RUBRO</span><br> <br> &#8212; DESCRIPCION DE LA MODIFICACION DE ESTRUCTURA EDILICIA O DE RUBRO.<br> <br> Firma del/la Representante Legal<br> <br> Firma del Director Técnico<br> <br> <span style='font-weight: bold;'>3°.- CAMBIO DE DIRECTOR TECNICO</span><br> <br> 3 1.- Nombre y Apellido de la persona propuesta como Director Técnico<br> <br> 3.2. -Tipo y N° de Documento<br> <br> 3.3. - Título<br> <br> 3.4. - N° de Matrícula<br> <br> 3.5. - Datos del Director Técnico saliente y N° de disposición de designación<br> <br> Firma del Director Técnico Propuesto<br> <br> Firma del Representante Legal<br> <br> <span style='font-weight: bold;'>4°. &#8212; BAJA DE LA AUTORIZACION DE FUNCIONAMIENTO/HABILITACION</span><br> <br> 4.1.- Domicilio de la planta/depósito<br> <br> Firma del Representante Legal<br> <br> <span style='font-weight: bold;'>5°. &#8212; DOCUMENTACION A PRESENTAR</span><br> <br> La que correspondiere según la modificación que se presente, de acuerdo<br> <br> con lo requerido en el Anexo I.<br> <br> EX-2022-74595645- -APN-DVPS#ANMAT<br> <br> <div style='text-align: right;'>IF-2023-45675173-APN-DETS#ANMAT<br> </div> <br> <div style='text-align: center;'><img  src='../../../normativa/392860_disp9363anmat-AnexoII-1_jpg/archivo'><br> <br> <div style='text-align: center;'><span style='font-weight: bold;'>ANEXO III</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>LISTADO DE ARANCELES</span><br> <br> DIRECCIÓN DE EVALUACIÓN Y GESTIÓN DE MONITOREO DE PRODUCTOS PARA LA SALUD<br> <br> <div style='text-align: center;'><img  src='../../../normativa/392860_disp9363anmat-AnexoIII-1_jpg/archivo'><br> <br> <div style='text-align: justify;'>Expediente Nº EX-2022-74595645- -APN-DVPS#ANMAT<br> <br> <div style='text-align: right;'>IF-2023-124155875-APN-DETS#ANMAT<br> <br> <div style='text-align: center;'><img  src='../../../normativa/392860_disp9363anmat-AnexoIII-2_jpg/archivo'> </div> </div> </div> </div> </div> </div> </div> </div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-9363-2023-392860" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

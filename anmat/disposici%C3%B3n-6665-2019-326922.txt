@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.116',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-6665-2019-326922/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-6665-2019-326922/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-6665-2019-326922/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"UDjk_1KdXiRbIj_XlmwsQpc4ke26ODp4FDChat_Dl80","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-6665-2019-326922\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-6665-2019-326922 page-normativa-nacional-disposición-6665-2019-326922-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-6665-2019-326922/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-rsEHumF9heT1jJ7IN2qQmZ91X1OhnpEvCjHthJrLaKA" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-6665-2019-326922">Disposición   6665/2019</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2019-08-21</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify; font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> </div> <div style='text-align: justify;'><br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 6665/2019</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>DI-2019-6665-APN-ANMAT#MSYDS</span><br> <br> Ciudad de Buenos Aires, 16/08/2019<br> <br> VISTO el Decreto N° 434 del 1 de marzo de 2016, el Decreto N° 891 del 1 de noviembre de 2017, el Decreto Nº 1063 del 4 de octubre de 2016, la Resolución ex MS y AS Nº 709 del 7 de septiembre de 1998, la Disposición ANMAT Nº 7292 del 4 de diciembre de 1998 y sus modificatorias y el Expediente EX-2019-06139113-APN-DVPS#ANMAT; y<br> <br> CONSIDERANDO:<br> <br> Que es necesario actualizar la Disposición ANMAT Nº 7292/98 y sus modificatorias respecto del registro de aguas lavandinas aditivadas.<br> <br> Que a esos fines resulta pertinente definir y clasificar a las aguas lavandinas aditivadas y los destinos de uso o las finalidades de empleo de este tipo de producto domisanitario.<br> <br> Que es necesario definir qué se entiende por cloro activo y dejar establecidas sus concentraciones mínimas y máximas en las aguas lavandinas aditivadas.<br> <br> Que es preciso establecer las especificaciones químicas a las que deben ajustarse las aguas lavandinas aditivadas.<br> <br> Que en el marco de la presente disposición corresponde establecer la forma de presentación, envasado y rotulado de las aguas lavandinas aditivadas.<br> <br> Que asimismo es necesario establecer los requisitos que deben cumplimentar las empresas solicitantes de registro de aguas lavandinas aditivadas.<br> <br> Que por otra parte el Decreto N° 434/16 aprobó el Plan de Modernización del Estado que contempló, como uno de los instrumentos del Plan, la reingeniería de procesos administrativos y de control con el objetivo de dotarlos de mayor eficiencia para la consecución de los objetivos de los organismos de la Administración Pública Nacional.<br> <br> Que a esos fines se dictó el Decreto N° 891/17 por el que se aprobaron las Buenas Prácticas en Materia de Simplificación aplicables para el funcionamiento del Sector Público Nacional y el dictado de la normativa y sus regulaciones.<br> <br> Que dicho decreto consideró indispensable elaborar una estrategia sistémica e integral cuya premisa básica sea la mejora regulatoria como una labor continua del sector público y abierta a la participación de la sociedad, que incluya la reducción de los trámites excesivos, la simplificación de procesos y la elaboración de normas de manera tal que nos lleve a un Estado eficiente, predecible y capaz de responder a las necesidades ciudadanas.<br> <br> Que en el marco del Decreto Nº 1063/16 se aprobó la implementación de la Plataforma de Trámites a Distancia (TAD) del Sistema de Gestión Documental Electrónica (GDE), como medio de interacción del ciudadano con la administración, a través de la recepción y remisión por medios electrónicos de presentaciones, solicitudes, escritos, notificaciones y comunicaciones, entre otros.<br> <br> Que en ese contexto, y con el fin de avanzar en el proceso de gestión estatal que persigue como objetivo el cumplimiento de los principios de eficiencia, transparencia y predictibilidad y adaptarlo a los estándares de las nuevas herramientas tecnológicas y sobre la base de la experiencia adquirida en la aplicación sistemática de la normativa vigente en materia de aguas lavandinas aditivadas, resulta conveniente la revisión y actualización de aspectos procedimentales a los fines de agilizar la evaluación de los trámites de autorización correspondientes.<br> <br> Que la Dirección de Vigilancia de Productos para la Salud y la Dirección General de Asuntos Jurídicos han tomado la intervención de sus competencias.<br> <br> Que se actúa en ejercicio de las facultades conferidas por el Decreto Nº 1490/92 y sus modificatorios.<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1º.- Se entiende por Agua Lavandina Aditivada, a la solución a base de Hipoclorito de Sodio o Calcio, con un tenor de Cloro Activo igual o mayor a 2,0 % p/py menor o igual que 3,9 % p/po su equivalente en g/Lal momento de envasar, cuya finalidad sea el blanqueo y/o desinfección en general. Estos productos pueden contener sustancias colorantes y/o detergentes y/o aromatizantes y estabilizantes. El pH máximo del producto puro debe ser 13,5.<br> <br> ARTÍCULO 2º.- Se entiende por Agua Lavandina Aditivada Concentrada, a la solución a base de Hipoclorito de Sodio o Calcio, con un tenor de Cloro Activo igual o mayor a 4,0 % p/p y menor o igual que 6,0 % p/p o su equivalente en g/Lal momento de envasar, cuya finalidad sea el blanqueo y/o desinfección en general. Estos productos pueden contener sustancias colorantes y/o detergentes y/o aromatizantes y estabilizantes. El pH máximo del producto puro debe ser 13,5.<br> <br> ARTÍCULO 3º.- Se entiende por cloro activo a la medida de la capacidad oxidante del hipoclorito contenido en el agua lavandina aditivada y se expresa en gramos de cloro por litro. Los términos cloro activo, cloro libre y cloro disponible hacen referencia indistintamente al poder oxidante del cloro.<br> <br> ARTÍCULO 4º.- Las concentraciones de cloro activo declaradas en el rótulo deben corresponder al valor en el momento de envasar y al final del plazo de validez.<br> <br> ARTÍCULO 5º.- El producto puede contener como estabilizantes, Hidróxido de sodio, Carbonato de Sodio o Calcio, Cloruro de Sodio o Calcio o Silicato de Sodio. Otros estabilizantes pueden ser utilizados cuando no estén restringidos por la Autoridad Sanitaria.<br> <br> ARTÍCULO 6º.- El lote/partida debe ser identificado con claridad, puede ser como fecha de fabricación (día/mes/año) o mediante un código alfa -numérico.<br> <br> ARTÍCULO 7º.- El PLAZO DE VALIDEZ será de 180 días a partir de la fecha de fabricación a no ser que se presente ensayo de estabilidad que avale un plazo de validez mayor.<br> <br> La concentración de cloro activo al final del plazo de validez debe ser la declarada por la empresa. Se aceptará como aval de estabilidad la presentación de ensayo de eficacia desinfectante al final del plazo de validez del producto en la máxima dilución de uso declarada.<br> <br> Puede ser indicado como:<br> <br> 1. &#8220;Válido hasta .... (mes/año)&#8221;<br> <br> 2. &#8220;Plazo de validez: &#8230;días o meses o años a partir de la fecha de fabricación.&#8221;<br> <br> 3. &#8220;Utilizar hasta &#8230; (mes/año)&#8221;<br> <br> ARTÍCULO 8º.- Los productos para desinfección con concentraciones de uso de 3,0 g/L o más deben comprobar eficacia antimicrobiana mediante la presentación de ensayos de laboratorio de determinación de cloro activo en la dilución de uso luego de diez minutos de preparada la solución.<br> <br> Los productos para desinfección con concentraciones de uso inferiores a 3,0 g/L deben comprobar su eficacia antimicrobianaa través de la presentación de ensayos de laboratorio en la dilución de uso, de acuerdo con la metodología recomendada por la AOAC (Association of Official Analytical Chemists) o métodos adoptados por el CEN &#8211; Comité Europeo de Normatización, en su última versión.<br> <br> Cuando no existan métodos de las instituciones citadas, la Autoridad Sanitaria analizará caso a caso los métodos presentados.<br> <br> ARTÍCULO 9º.- El producto debe comercializarse en envase plástico rígido, impermeable, opaco, de difícil ruptura, con tapa que garantice el mantenimiento de las características del producto, evite el volcado y las fugas o eventuales accidentes, de tal manera que pueda cerrarse varias veces durante el uso, sin riesgo de contacto con el producto, dificultando la apertura accidental o casual durante su período de utilización.<br> <br> Se permitirán para las aguas lavandinas aditivadas y para las aguas lavandinas aditivadas concentradas, envases flexibles de dosis única (mono dosis) de contenido neto máximo 240 ml y 120 ml, respectivamente, indicando la dilución total de su contenido para proporcionar una solución con concentración adecuada para el uso recomendado.<br> <br> Se permitirán envases flexibles de contenido neto máximo 1 litro, sólo como recarga del correspondiente envase rígido que no deberá exceder el contenido neto de la presentación original, indicando trasvasado.<br> <br> Los envases deben ser de composición y porosidad adecuadas, de modo que no permitan el cambio de color ni reacciones químicas con el producto, ni transferencia de olores o migración de sustancias hacia o desde el producto al medio externo.<br> <br> Las aguas lavandinas no podrán presentarse como líquidos comprimidos o para pulverizar.<br> <br> El contenido neto máximo permitido para las aguas lavandinas aditivadas destinadas a venta libre será de 5 litros.<br> <br> ARTÍCULO 10º.- El rótulo del producto deberá contener, bajo las condiciones que se detallan a continuación, la siguiente información:<br> <br> a) El texto del rótulo debe ser legible, indeleble, en el idioma del país en que será comercializado, pudiendo estar escrito simultáneamente en otros idiomas. No puede ser grabado en alto o bajo relieve directamente en los envases.<br> <br> b) En los rótulos debe figurar:<br> <br> 1 - EN EL PANEL PRINCIPAL:<br> <br> 1.1 - Denominación del producto.<br> <br> 1.2 - Marca o nombre comercial.<br> <br> 1.3 - Deberá indicarse para el caso de envases flexibles los términos &#8220;RECARGA&#8221;/&#8221;REPUESTO&#8221; o &#8220;MONODOSIS&#8221;, según corresponda.<br> <br> 1.4 - Contenido neto.<br> <br> 1.5- Indicación de concentración de cloro activo expresada en % p/p o su equivalente en g/L.<br> <br> 1.6&#8211; Advertencias:<br> <br> 1.6.1 - La leyenda &#8220;Modo de uso: en caso de que la superficie tratada vaya a estar en contacto con alimentos, enjuagarla antes de usar&#8221;.<br> <br> 1.6.2 - Para productos concentrados: &#8220;Producto concentrado. Usar solamente conforme a las instrucciones del rótulo&#8221;.<br> <br> 1.6.3 - Para productos concentrados la leyenda &#8220;PRODUCTO CONCENTRADO&#8221; debe estar en destaque en mayúscula y negrita siendo el tamaño dela letra, igual a 1/3 del tamaño de la letra de la marca o nombre comercial del producto.<br> <br> 1.6.4 - Las leyendas, &#8220;No usar para desinfección de agua para consumo humano&#8221;, &#8220;Usar solamente conforme a las instrucciones del rótulo&#8221; y la de &#8220;No usar para la desinfección de alimentos&#8221;, deben estar en destaque o impresas en negrita, con un tamaño 50% mayor que el tamaño de letra del texto general del rótulo, con un mínimo de 3 mm de altura.<br> <br> 1.6.5 - Para productos de uso profesional se debe incluir la leyenda &#8220;Restringido a uso profesional. Prohibida su venta libre&#8221; quedando prohibida toda otra indicación sobre su uso simultáneo en el hogar.<br> <br> 1.6.6 - La leyenda &#8220;ANTES DE USAR LEA LAS INSTRUCCIONES DEL ROTULO&#8221; en destaque.<br> <br> 1.6.7 &#8211; La leyenda &#8220;MANTENER FUERA DEL ALCANCE DE LOS NIÑOS Y ANIMALES DOMÉSTICOS&#8221;, en destaque.<br> <br> 2 - EN EL PANEL SECUNDARIO:<br> <br> 2.1 - Número de registro de la empresa titular, de terceros cuando fuera el caso y del producto.<br> <br> 2.2 - Nombre, domicilio y teléfono de la empresa titular del producto.<br> <br> 2.3 - País de origen del producto.<br> <br> 2.4 - Instrucciones de uso: deben ser claras y sencillas. En caso de ser necesario utilizar una medida, ésta debe ser de uso común para el consumidor o debe acompañar al producto. Debe estar especificada la dilución de uso expresada en porcentaje, proporción entre el producto a ser diluido u otra medida de orden práctico, incluyendo el equivalente en el sistema métrico decimal.<br> <br> En el caso de la recarga deberá indicar que debe ser trasvasado al envase de la presentación rígida. Asimismo, se deberá incluir la leyenda: &#8220;VERIFIQUE Y REGISTRE LA FECHA DE VENCIMIENTO/PLAZO DE VALIDEZ ANTES DE DESECHAR ESTE ENVASE&#8221;.<br> <br> 2.5 - Cuando la superficie del envase no permita la inclusión de la forma de empleo, precauciones y cuidados especiales, éstos deben ser indicados en prospectos que acompañen obligatoriamente al producto y figurar en el envase la advertencia &#8220;ANTES DE USAR LEA LAS INSTRUCCIONES DEL PROSPECTO EXPLICATIVO&#8221;.<br> <br> 2.6 - Composición: indicar principios activos y otros componentes de importancia toxicológica, por el nombre técnico aceptado internacionalmente, con la respectiva concentración y los demás componentes de la formulación por su función.<br> <br> 2.7 - Indicación de concentración de cloro activo expresada en % p/p o su equivalente en g/L al momento de envasar.<br> <br> 2.8 - Indicación de concentración de cloro activo expresada en % p/p o su equivalente en g/L al final del plazo de validez.<br> <br> 2.9 - Identificación de partida o lote de fabricación.<br> <br> 2.10 - Indicar el plazo de validez, acompañado de la fecha de fabricación, o indicar la fecha de vencimiento.<br> <br> 2.11- Instrucciones para almacenamiento del producto.<br> <br> 2.12 - La leyenda &#8220;NO MEZCLAR CON OTROS PRODUCTOS. LA MEZCLA CON ÁCIDOS O PRODUCTOS AMONIACALES GENERA GASES TÓXICOS&#8221;.<br> <br> 2.13 - Número telefónico del Centro de Intoxicaciones/Asistencial.<br> <br> 2.14 - Cuidados y conservación:<br> <br> 2.14.1 &#8211; En envases rígidos, la leyenda &#8220;Mantenga el producto en el envase original&#8221;.<br> <br> 2.14.2 - La leyenda &#8220;Para conservación de la calidad del producto, mantenerlo protegido del sol y del calor&#8221;.<br> <br> 2.15 - Cuidados en caso de accidentes:<br> <br> 2.15.1 - La leyenda &#8220;En caso de contacto con la piel o con los ojos, lavar inmediatamente con abundante agua corriente. En caso de ingestión, no provocar el vómito. En caso de inhalación retirar a la persona a un lugar ventilado. En todos los casos, consultar inmediatamente al servicio de salud o Centro de Intoxicaciones, llevando el envase o el rótulo del producto.&#8221;.<br> <br> 3. EN EL PANEL PRINCIPAL O SECUNDARIO:<br> <br> 3.1 - Las leyendas de precauciones:<br> <br> 3.1.1 - &#8220;CUIDADO: IRRITANTE&#8221; y el pictograma de producto irritante (cruz de San Andrés).<br> <br> 3.1.2 -&#8221;Evitar el contacto con los ojos y la piel.&#8221;.<br> <br> 3.1.3 - &#8220;Evitar la inhalación del producto.&#8221;.<br> <br> 3.1.4 - &#8220;No ingerir.&#8221;.<br> <br> 3.1.5 - &#8220;No utilizar el envase para otros fines.&#8221;.<br> <br> 3.1.6 - &#8220;Lavar los objetos / utensilios utilizados para la medición, antes de reutilizarlos.&#8221;.<br> <br> 3.1.7 &#8211;&#8221;No preparar las diluciones en recipientes metálicos&#8221;.<br> <br> 3.1.8 &#8211;&#8221;Usar guantes para su aplicación&#8221;.<br> <br> 3.2 - La leyenda de advertencia para productos concentrados: &#8220;CUIDADO: PRODUCTO CONCENTRADO.&#8221;<br> <br> Observaciones:<br> <br> En ningún caso el rótulo puede indicar: &#8220;No tóxico&#8221;, &#8220;Seguro&#8221;, &#8220;Inocuo&#8221;, &#8220;No perjudicial&#8221; u otras indicaciones similares. Tampoco deben utilizarse términos superlativos, tales como &#8220;El mejor&#8221;, &#8220;Tratamiento excelente&#8221;, &#8220;Incomparable&#8221; o similar.<br> <br> ARTÍCULO 11º.- Para registrar aguas lavandinas aditivadas, el interesado deberá presentar con carácter de declaración jurada el formulario que como Anexo I forma parte de la presente disposición, el cual consta en IF-2019-57140128-APN-DVPS#ANMAT.<br> <br> ARTÍCULO 12º.- La solicitud de autorización de inscripción de aguas lavandinas aditivadas ante esta Administración se realizará mediante la PLATAFORMA DE TRÁMITES A DISTANCIA (TAD) aprobada por el Decreto N° 1063 de fecha 4 de octubre de 2016 y reglamentada por la Resolución 90-E de fecha 19 de septiembre de 2017 del ex MINISTERIO DE MODERNIZACIÓN DE LA NACIÓN y las normas que en el futuro las modifiquen, complementen o sustituyan.<br> <br> Hasta que dicha plataforma se encuentre operativa, los trámites se realizarán en forma presencial ante la mesa de entrada de este organismo, mediante PEN-DRIVE o cualquier otro medio que la Administración Nacional permita.<br> <br> ARTÍCULO 13°.- Derógase el Anexo XII de la Disposición ANMAT N° 7292/98 incorporado por el artículo 8° de la Disposición ANMAT N° 7334/99.<br> <br> ARTÍCULO 14°.- La presente disposición entrará en vigencia el día siguiente al de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 15°.- Invítase a las Provincias y al Gobierno Autónomo de la Ciudad de Buenos Aires a adherir a la presente disposición.<br> <br> ARTÍCULO 16°.- Regístrese. Dése a la Dirección Nacional del Registro Oficial para su publicación. Dése a la Dirección de Vigilancia de Productos para la Salud y a la Dirección de Planificación y Relaciones Institucionales. Comuníquese a la Asociación Industrial de Artículos para la Limpieza Personal, del Hogar y Afines, a la Cámara Argentina de Aerosoles y demás entidades relacionadas. Cumplido, archívese. Carlos Alberto Chiale<br> <br> <div style='text-align: right;'>e. 29/08/2019 N° 63646/19 v. 29/08/2019<br>  </div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-6665-2019-326922" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2096-2022-362616/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2096-2022-362616/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2096-2022-362616/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"1gJjtQhI-9w4mVR4Fowv2nXNpuVPwrLk0CrpRwmf6FM","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-2096-2022-362616\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-2096-2022-362616 page-normativa-nacional-disposición-2096-2022-362616-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-2096-2022-362616/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-bzxU5Pj1MMKMEYjs-1-3QdtkI-7H-rW0V0FzF4xgxGU" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-2096-2022-362616">Disposición   2096/2022</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2022-03-23</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify; font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> </div> <div style='text-align: justify;'><br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 2096/2022</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>DI-2022-2096-APN-ANMAT#MS</span><br> <br> Ciudad de Buenos Aires, 17/03/2022<br> <br> VISTO la Ley 16.463, las Disposiciones ANMAT Nros. 2319 del 23 de mayo de 2002 (T.O. 2004), 3265 del 03 de junio de 2013, 3266 del 03 de junio del 2013, 7425 del 4 de diciembre de 2013, 4930 del 16 de mayo de 2017, 7802 del 15 de octubre de 2021 y el Expediente GDE N° EX-2022-02361682- -APN-DGA#ANMAT de esta ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA; y<br> <br> CONSIDERANDO:<br> <br> Que de conformidad con el Artículo 1° de la Ley N° 16.463, quedan sometidos a su régimen y a los reglamentos que en su consecuencia se dicten, entre otras, &#8220;&#8230; las actividades de comercialización y depósito en jurisdicción nacional o con destino al comercio interprovincial, de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico y todo otro producto de uso y aplicación en la medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades&#8221;.<br> <br> Que el Artículo 2° de la citada ley establece que las actividades mencionadas sólo podrán realizarse previa autorización y bajo el contralor de la Autoridad Sanitaria, en establecimientos por ella habilitados y bajo la dirección técnica del profesional universitario correspondiente; todo ello en las condiciones y dentro de las normas que establezca la reglamentación, atendiendo a las características particulares de cada actividad y a razonables garantías técnicas en salvaguardia de la salud pública y de la economía del consumidor.<br> <br> Que en el Artículo 1° del Decreto N° 9763/64, reglamentario de la Ley N° 16463, se expresa que el ejercicio del poder de policía sanitaria referido a las actividades indicadas en el Artículo 1° de la Ley 16463 y a las personas de existencia visible o ideal que intervengan en las mismas se hará efectivo por el Ministerio de Asistencia Social y Salud Pública de la Nación, hoy Ministerio de Salud, en la jurisdicción de la Ciudad Autónoma de Buenos Aires, lugares con jurisdicción del Gobierno Nacional, tráfico interprovincial o interjurisdiccional, operaciones de importación y exportación y en aquellos casos en que los gobiernos de provincia soliciten su acción dentro de los límites de sus respectivas jurisdicciones.<br> <br> Que por el Decreto N° 1490/92 se creó la ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT), como organismo descentralizado con un régimen de autarquía económica y financiera, con jurisdicción en todo el territorio de la Nación, asumiendo las referidas funciones.<br> <br> Que de acuerdo con lo establecido en el mencionado Decreto, la ANMAT, es el organismo competente en la fiscalización de las actividades de importación, exportación, producción, elaboración, fraccionamiento, comercialización o depósito en jurisdicción nacional o con destino al comercio interprovincial, de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico, materiales y tecnología biomédicos y todo otro producto de uso y aplicación en la medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades (artículo 3° inc. a)).<br> <br> Que asimismo, esta Administración Nacional tiene competencia en todo lo referido al contralor de las actividades, procesos y tecnologías que se realicen en función del aprovisionamiento, producción, elaboración, fraccionamiento, importación y/o exportación, depósito y comercialización de los productos, substancias, elementos y materiales consumidos o utilizados en la medicina, alimentación y cosmética humanas (artículo 3° inciso e))<br> <br> Que por el precitado decreto se dispuso también que esta ANMAT fuese el órgano de aplicación de las normas legales que rigen las materias sujetas a su competencia, las que en el futuro se sancionen.<br> <br> Que, conforme se establecen los incisos l) y ll) del artículo 8° del mencionado decreto, es función de la ANMAT fiscalizar adecuada y razonablemente el cumplimiento de las normas de sanidad y calidad establecidas para los productos, substancias, elementos, materiales, tecnologías y procesos referidos en el artículo 3º del referido decreto y, proceder al registro y/o autorización y/o habilitación -conforme a las disposiciones aplicables- de las personas físicas o jurídicas que intervengan en las acciones de aprovisionamiento, producción, elaboración, fraccionamiento, importación y/o exportación, depósito y comercialización de los productos, substancias, elementos y materiales referidos en el artículo 3º del Decreto 1490/92, fiscalizando o supervisando la ejecución de dichas actividades.<br> <br> Que por otra parte la aludida norma faculta a la autoridad máxima del organismo a dictar las resoluciones que posibiliten desarrollar sus acciones (Art. 10° inc. i))<br> <br> Que en uso de las atribuciones conferidas en la legislación detallada esta Administración Nacional dictó la Disposición ANMAT N° 2319/02 (T.O. 2004) por la que se incorporó al ordenamiento jurídico nacional la Resolución GMC N° 21/98 &#8220;Reglamento Técnico Relativo a la Autorización de Funcionamiento de Empresa Fabricante y/o Importadora de Productos Médicos&#8221;.<br> <br> Que a través de la Disposición ANMAT N° 3266/13 se establecieron los requisitos para la fabricación de productos médicos y productos para diagnóstico de uso &#8220;in Vitro&#8221; describiendo las buenas prácticas de fabricación (BPF) para métodos y controles usados en el diseño, compras, fabricación, envasado, rotulado, almacenamiento, distribución, instalación y asistencia técnica de los productos médicos y productos para diagnóstico de uso &#8220;in Vitro&#8221; a fin de asegurar que los productos médicos y productos para diagnóstico de uso &#8220;in Vitro&#8221; sean seguros y eficaces.<br> <br> Que por Disposición ANMAT N° 7425/13 se establecieron los procedimientos administrativos para el otorgamiento, renovación y ampliación del Certificado de Cumplimiento de Buenas Prácticas de Fabricación De Productos Médicos y Productos Para Diagnóstico De Uso In Vitro como así también para la autorización de nuevos domicilios; aprobándose el formato de certificado de BPF que expedirá esta Administración Nacional y su plazo de validez.<br> <br> Que por Disposición ANMAT N° 7802/21 se modificaron los plazos de validez de los Certificados de Buenas Prácticas de Fabricación<br> <br> Que con el objetivo de continuar avanzado en el cumplimiento de los principios de eficiencia, transparencia y predictibilidad y, en virtud de la experiencia adquirida en relación a la gestión de otros procesos dentro del Instituto Nacional de Productos Médicos mediante plataformas digitales, resulta conveniente establecer para el trámite de renovación de Certificado de Buenas Prácticas de Fabricación establecido por Disposición ANMAT N° 7425/13, un sistema diferencial instrumentado mediante una plataforma digital similar, quedando sujeto a verificación por parte de esta Administración Nacional el cumplimiento de los requisitos establecidos en la normativa antes mencionada.<br> <br> Que la modificación propiciada es armónica con la normativa vigente y con los compromisos asumidos por nuestro país en el marco de los procesos de integración regional y con la búsqueda permanente de garantizar la calidad, seguridad y eficacia de los productos médicos y/o productos para diagnóstico de uso In Vitro.<br> <br> Que el Instituto Nacional de Productos Médicos y la Dirección de Asuntos Jurídicos han tomado la intervención de su competencia.<br> <br> Que la presente se dicta en ejercicio de las atribuciones conferidas por el Decreto N° 1490/92 y sus modificatorios<br> <br> Por ello,<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1°.- La solicitud de Renovación del Certificado de Buenas Prácticas de Fabricación para empresas fabricantes y/o importadoras de productos médicos y/o productos para diagnóstico de uso in vitro regida por la Disposición ANMAT N° 7425/13 y sus modificatorias se tramitará de conformidad a lo dispuesto en la presente disposición.<br> <br> Quedan excluidas de la presente las solicitudes de renovación de empresas que no están ubicadas en el territorio argentino.<br> <br> ARTÍCULO 2º - El trámite comprendido en el artículo 1° deberá ser iniciado mediante la plataforma digital disponible a la entrada en vigencia de esta disposición o la que en el futuro la sustituya.<br> <br> ARTÍCULO 3°.- El Instituto Nacional de Productos Médicos (INPM) contará con un plazo de 60 (sesenta) días hábiles administrativos a partir de la presentación del trámite, para evaluar la documentación y expedirse al respecto.<br> <br> Los certificados emitidos por este mecanismo tendrán un número de revisión que dejará sin efecto los emitidos con anterioridad. Al documento resultante se le incorporará un código QR, convirtiéndolo en único, irreproducible e inalterable.<br> <br> ARTICULO 4°.- Los certificados referidos en la presente disposición, emitidos por el Instituto Nacional de Productos Médicos, serán constancia suficiente de Renovación de Buenas Prácticas de Fabricación.<br> <br> ARTÍCULO 5°.- A fin de solicitar la renovación del Certificado de Buenas Prácticas de Fabricación para empresas fabricantes y/o importadoras, se deberá presentar el formulario y la documentación requerida en el Anexo IF-2022-10267554-APN-DFYGREPM#ANMAT que forma parte integrante de la presente disposición.<br> <br> ARTICULO 6°.- Si de la evaluación del trámite referido en el artículo 1° surgiera alguna inconsistencia o irregularidad en la información y/o documentación presentada, se notificará al interesado de las inconsistencias o irregularidades.<br> <br> Si de la respuesta surgiera nueva información no contemplada originalmente que amerite nuevos requerimientos será posible efectuar una nueva solicitud de subsanación.<br> <br> Hasta tanto se cumpla con la subsanación, quedará suspendido el plazo de evaluación establecido para el trámite.<br> <br> Las notificaciones serán realizadas al correo electrónico informado en la plataforma digital vigente.<br> <br> ARTÍCULO 7º.- La solicitud y documentación referida en el Anexo de la presente disposición, tendrá carácter de declaración jurada y deberá ser suscrita en su totalidad, de forma conjunta y digital, por el Director Técnico y Representante Legal o apoderado de la empresa siendo ambos responsables de la veracidad de la documentación e información presentada bajo apercibimiento de lo establecido en la Ley N° 16463 y el Decreto N° 341/92, sin perjuicio de las demás responsabilidades en que pudiere incurrir.<br> <br> ARTÍCULO 8°.- La solicitud y documentación referida en esta disposición, no exime a las empresas de cumplir todos los requisitos documentales requeridos en las normativas vigentes. Dicha documentación deberá estar en poder de la empresa solicitante y a disposición de la Autoridad Sanitaria bajo apercibimiento de lo establecido en las normativas vigentes.<br> <br> ARTÍCULO 9°.- Las inspecciones a los fines de verificar el cumplimiento de lo dispuesto en la presente disposición se definirán a partir de una evaluación de riesgo sanitario en base a las actividades realizadas por la empresa; la complejidad de los procesos; las tecnologías involucradas; los datos históricos de inspección y de monitoreo; la clase de riesgo de los productos; los resultados de auditorías, el histórico de eventos adversos y/o fallas de calidad; las notificaciones de acciones correctivas de seguridad en campo y/o sanciones y/o prohibiciones sanitarias previas relevantes.<br> <br> ARTÍCULO 10° - La presente disposición será aplicable al trámite contemplado en el artículo 1° que se encuentre en curso al momento de su entrada en vigencia. Los interesados deberán adecuarse al nuevo trámite conforme a lo establecido en los artículos precedentes en un plazo máximo de 180 (ciento ochenta) días hábiles administrativos contados a partir de la entrada en vigencia de la presente disposición.<br> <br> ARTÍCULO 11°.- En caso de que el Instituto Nacional de Productos Médicos detectare inexactitud o falsedad de la información y/o documentación declarada en los trámites regidos por la presente disposición, ésta Administración Nacional tomará las medidas cautelares correspondientes, según normativa vigente<br> <br> ARTÍCULO 12°.- Sustitúyese el formulario y requisitos de información y documentación establecidos en el Anexo I de la Disposición ANMAT N° 7425/13, en relación a la solicitud referida en el artículo 1°, por el Anexo IF-2022-10267554-APN-DFYGREPM#ANMAT que integra la presente disposición.<br> <br> ARTÍCULO 13°.- La presente disposición entrará en vigencia a los 60 (sesenta) días hábiles administrativos contados a partir de su publicación en el Boletín Oficial.<br> <br> ARTÍCULO 14 °.- Regístrese; comuníquese a CADIT, CACID, CADIE, CADIEM, CADIME, CAEHFA, CAEME, CAFIME, CAISAL, CAPRODI, y UAPE. Dése a la Dirección Nacional del Registro Oficial para su publicación. Dése copia al Instituto Nacional de Productos Médicos y a la Dirección de Relaciones Institucionales. Cumplido, archívese.<br> <br> Manuel Limeres<br> <br> NOTA: El/los Anexo/s que integra/n este(a) Disposición se publican en la edición web del BORA -www.boletinoficial.gob.ar-<br> <br> <div style='text-align: right;'>e. 23/03/2022 N° 17477/22 v. 23/03/2022<br> </div> <br> <span style='font-style: italic;'>(<span style='font-weight: bold;'>Nota Infoleg:</span> Los anexos referenciados en la presente norma han sido extraídos de la edición web de Boletín Oficial)</span><br>        <br> <div style='text-align: center; font-weight: bold;'>ANEXO<br> </div> <br style='font-weight: bold;'> <div style='text-align: center;'><span style='font-weight: bold;'>FORMULARIOS Y REQUISITOS DE DOCUMENTACIÓN E INFORMACIÓN RENOVACION DE BPF PARA FABRICANTES Y/O IMPORTADORES</span><br> </div> <br> <div style='text-align: center;'><span style='text-decoration: underline;'>FORMULARIO</span><br> </div> <br> <div style='text-align: center;'><img  src='../../../normativa/362616_disp2096-Anexo-1_jpg/archivo'></div>  <br> La Empresa solicita la renovación del certificado de Buenas Prácticas de Fabricación de su establecimiento, declarando que los datos informados a continuación son verdaderos:<br> <br> <span style='font-weight: bold;'>NUMERO DE EXPEDIENTE POR EL CUAL SOLICITÓ LA RENOVACIÓN DE BPF:</span> sólo para quienes hayan iniciado antes de la entrada en vigencia de esta Disposición<br> <br> <span style='font-weight: bold;'>1. IDENTIFICACIÓN DE LA EMPRESA</span><br> <br> Nombre o Razón social de la empresa:<br> <br> Domicilio legal:<br> <br> Localidad:<br> <br> Provincia:<br> <br> Teléfono:<br> <br> E-mail:<br> <br> CUIT:<br> <br> <span style='font-weight: bold;'>2. IDENTIFICACIÓN DEL/ DE LOS ESTABLECIMIENTO/S DE LA EMPRESA HABILITADO/S:</span><br> <br> a) Planta/s elaboradora/s:<br> <br> Dirección:<br> <br> Localidad:<br> <br> Provincia:<br> <br> Teléfono:<br> <br> E-mail:<br> <br> Horario de funcionamiento:<br> <br> b) Depósito/s:<br> <br> Dirección:<br> <br> Localidad:<br> <br> Provincia:<br> <br> Teléfono:<br> <br> E-mail:<br> <br> Horario de funcionamiento:<br> <br> <span style='font-weight: bold;'>3. DATOS DE HABILITACIÓN ANTE ANMAT:</span><br> <br> a) N° de Disposición habilitante<br> <br> b) N° de Disposición de emisión del último certificado de BPF<br> <br> c) N° de Disposición de designación de responsable técnico (o número de expediente)<br> <br> d) N° del último certificado de BPF:<br> <br> e) Fecha de vencimiento del último certificado de BPF:<br> <br> f) Número de revisión del certificado (en caso de ser la primera vez en solicitar el trámite regido por la presente Disposición, no deberá consignarlo):<br> <br> Al certificado emitido se le colocará el número 00<br> <br> g) N° de legajo:<br> <br> h) Fecha de última inspección:<br> <br> <span style='font-weight: bold;'>4. IDENTIFICACIÓN DEL REPRESENTANTE LEGAL o APODERADO</span><br> <br> Apellido y nombre:<br> <br> Tipo y número de documento:<br> <br> <span style='font-weight: bold;'>5. IDENTIFICACIÓN DEL RESPONSABLE TÉCNICO</span><br> <br> Apellido y nombre:<br> <br> Título profesional:<br> <br> Tipo y n° de matrícula:<br> <br> Tipo y número de documento:<br> <br> Domicilio particular:<br> <br> Telefono de contacto:<br> <br> E-mail:<br> <br> <span style='font-weight: bold;'>6. ACTIVIDADES QUE REALIZA:</span><br> <br> <div style='text-align: center;'> <div style='text-align: center;'><img  src='../../../normativa/362616_disp2096-Anexo-2_jpg/archivo'></div>  </div> <br> <span style='font-weight: bold;'>7. CATEGORIA CON LA CUAL LA EMPRESA SE ENCUENTRA HABILITADA, INCLUYENDO LA/S CLASE/S DE RIESGO:</span><br> <br> <div style='text-align: center;'> <div style='text-align: center;'><img  src='../../../normativa/362616_disp2096-Anexo-3_jpg/archivo'></div>  </div> <br> Si indicó otros, mencionar Categoría y Subcategoría:<br> <br> <span style='font-weight: bold;'>8. LISTADO DE PAÍSES DONDE EXPORTA (SI CORRESPONDE)</span><br> <br> <span style='font-weight: bold;'>En nombre y representación de la firma............................, el responsable legal y el responsable técnico declaran bajo juramento tener a disposición de la Autoridad Sanitaria:</span><br> <br> 1. Documentación de cumplimiento del Reglamento Técnico Mercosur de Buenas Prácticas de Buenas Fabricación de Productos Médicos y para diagnóstico de uso in vitro. Disposición ANMAT N° 3266/13.<br> <br> 2. Habilitación definitiva y/o actualizada y/o constancia de inicio de trámite otorgada por la autoridad municipal correspondiente. En caso que la Municipalidad no otorgue habilitaciones para este tipo de establecimiento deberá conservar documentación que acredite dicha circunstancia.<br> <br> 3. Habilitación definitiva y/o actualizada y/o constancia de inicio de trámite otorgada por el ministerio de salud de la provincia. En caso que la Autoridad Sanitaria Jurisdiccional no otorgue habilitaciones para este tipo de establecimiento deberá conservar documentación que acredite dicha circunstancia.<br> <br> 4. Habilitación actualizada emitida por la Autoridad Regulatoria Nuclear, si corresponde.<br> <br> <div style='text-align: center; font-weight: bold;'>LOS DATOS CONSIGNADOS TIENEN CARÁCTER DE DECLARACIÓN JURADA<br> </div> <br> <div style='text-align: center;'> <div style='text-align: center;'><img  src='../../../normativa/362616_disp2096-Anexo-4_jpg/archivo'></div>  <br> <br> <span style='text-decoration: underline;'>DOCUMENTACIÓN A ADJUNTAR</span><br> </div> <br> 1. Documentación habilitante del establecimiento otorgada por la ANMAT:<br> <br> &#8226; Disposición habilitante (y demás Disposiciones relacionadas a la misma, en caso de corresponder).<br> <br> &#8226; Certificado de inscripción y Autorización de funcionamiento de empresa.<br> <br> &#8226; Ultimo certificado de BPF<br> <br> 2. Disposición de nombramiento del último DT (si hubo modificaciones posteriores)<br> <br> 3. Ultimo plano aprobado<br> <br> 4. Si tuviera, certificaciones internacionales (ISO 13485, etc)<br> <br> 5. Informe de la última auditoría según establece el punto 7.3 de la Disposición ANMAT N° 3266/13, que contenga las conclusiones y las acciones preventivas o correctivas que debieron realizarse como resultado de la misma.<br> <br> 6. Listado de productos médicos autorizados, indicando número de PM, nombre genérico y clase de riesgo.<br> <br> 7. Ultima acta de inspección realizada por el Instituto Nacional de Productos Médicos<br> <br> <div style='text-align: right;'>IF-2022-10267554-APN-DFYGREPM# ANMAT<br> </div> <br> <div style='text-align: center;'><img  src='../../../normativa/362616_disp2096-Anexo-5_jpg/archivo'></div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-2096-2022-362616" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

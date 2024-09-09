@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.103',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-7130-2015-251596/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-7130-2015-251596/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-7130-2015-251596/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"XkY0OOUusE8vnEg9pnx9fN-MzZMQE1fWGw07jTgk1UY","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-7130-2015-251596\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-7130-2015-251596 page-normativa-nacional-disposición-7130-2015-251596-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-7130-2015-251596/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-3kn7K4cwjtzMSboDcdzYAQCmgMDRbB4z8cZbaCFN2Uo" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-7130-2015-251596">Disposición   7130/2015</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2015-09-08</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>MINISTERIO DE SALUD</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>SECRETARÍA DE POLÍTICAS, REGULACIÓN E INSTITUTOS</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Disposición 7130/2015</span><br style='font-weight: bold;'> <br> Bs. As., 07/09/2015<br> <br> VISTO la Ley 16.463 y sus Decretos reglamentarios Nros. 9763/64 y 150/92 (T.O. 1993), el Decreto N° 1490/92, la Resolución Conjunta N° 834 y 391/15 del MINISTERIO DE SALUD y del MINISTERIO DE AGRICULTURA, GANADERÍA Y PESCA, la Resolución N° 855/89 de la ex SUBSECRETARÍA DE REGULACIÓN Y CONTROL y el Expediente N° 1-0047-0000-009434-15-9 del Registro de esta ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA (ANMAT); y<br> <br> CONSIDERANDO:<br> <br> Que el artículo 1° de la Ley 16.463 establece que &#8220;quedan sometidos a la presente ley y a los reglamentos que en su consecuencia se dicten, la importación, exportación, producción, elaboración, fraccionamiento, comercialización o depósito en jurisdicción nacional o con destino al comercio interprovincial de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico, y todo otro producto de uso y aplicación en medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades&#8221;.<br> <br> Que el artículo 2° de la citada ley establece que las actividades mencionadas sólo podrán realizarse previa autorización y bajo el contralor de la autoridad sanitaria, en establecimientos por ella habilitados y bajo la dirección técnica del profesional universitario correspondiente; todo ello en las condiciones y dentro de las normas que establezca la reglamentación, atendiendo a las características particulares de cada actividad y a razonables garantías técnicas en salvaguarda de la salud pública y de la economía del consumidor.<br> <br> Que el artículo 5° de la referida norma establece que los medicamentos que se expendan al público en su envase original deberán reunir las condiciones técnicas de identificación u otras que establezca la reglamentación.<br> <br> Que, por su parte, el artículo 6° de la ley determina que el Ministerio de Asistencia Social y Salud Pública (actual MINISTERIO DE SALUD) podrá exigir la utilización, en los productos a que se refiere el artículo 5°, de envases de contenido máximo y mínimo, de acuerdo con la naturaleza de los mismos y normas de tratamiento, así como procedimientos para su fraccionamiento, distribución y expendio que permitan una economía en la medicación, resguardando los intereses de la salud pública.<br> <br> Que su artículo 7° determina que la autorización para elaborar y vender los productos mencionados en el artículo 5° se acordará si, además de las condiciones establecidas en dicha norma, reúnen ventajas científicas, terapéuticas, técnicas o económicas.<br> <br> Que por el artículo 1° del Decreto N° 1490/92, de creación de esta ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA, se declaran de interés nacional las acciones dirigidas a la prevención, resguardo y atención de la salud de la población que se desarrollen a través del control y fiscalización de la calidad y sanidad de los productos, substancias, elementos y materiales que se consumen o utilizan en la medicina, alimentación y cosmética humanas, y del contralor de las actividades, procesos y tecnologías que mediaren o estuvieren comprendidos en dichas materias.<br> <br> Que el artículo 3° del Decreto N° 1490/92 determina en el inciso a) que esta Administración Nacional tiene competencia, entre otras materias, en todo lo referente al control y fiscalización sobre la sanidad y la calidad de las drogas, productos químicos, reactivos, formas farmacéuticas, medicamentos, elementos de diagnóstico, materiales y todo otro producto de uso y aplicación en medicina humana.<br> <br> Que el Decreto N° 150/92 (T.O. 1993) establece que las solicitudes de inscripción al Registro de Especialidades Medicinales o farmacéuticas autorizadas, deberán incluir, con carácter de declaración jurada, entre otra información, el proyecto de rótulos y etiquetas que deberán contener nombre y dirección del laboratorio, nombre del Director Técnico, nombre del producto y nombre genérico en igual tamaño y realce; fórmula por unidad de forma farmacéutica o porcentual, contenido por unidad de venta; fecha de vencimiento, forma de conservación y condición de venta, número de partida y serie de fabricación.<br> <br> Que por Resolución N° 855/89 de la ex SUBSECRETARÍA DE REGULACIÓN Y CONTROL se estableció el mecanismo para la autorización de una nueva presentación de venta de una especialidad medicinal en cuanto a su contenido en unidades, mililitros, gramos, etc.<br> <br> Que en cuanto a los medicamentos antimicrobianos por la aludida Resolución Conjunta N° 834/15 y 391/15 del MINISTERIO DE SALUD y del MINISTERIO DE AGRICULTURA, GANADERÍA Y PESCA se aprobó la Estrategia Argentina para el Control de la Resistencia Antimicrobiana con el objetivo, entre otros, de retrasar o impedir la emergencia y diseminación de bacterias resistentes a través de la regulación y fiscalización de la comercialización de antimicrobianos y de la promoción del consumo racional y prudente.<br> <br> Que tal como lo señala la referida norma, los antimicrobianos son medicamentos esenciales para la salud humana y su uso masivo ha traído como consecuencia la aparición del fenómeno de la resistencia a los antimicrobianos.<br> <br> Que si bien, como se indica en la mencionada resolución conjunta, el desarrollo de la resistencia ocurre naturalmente con el tiempo existen diversos factores que han acelerado este proceso, entre otros, el exceso de uso, el inadecuado uso en patologías que en realidad no los requieren, la automedicación, el incumplimiento de la posología, la inadecuada composición de las presentaciones que se fabrican y la no aplicación de la restricciones de venta bajo receta archivada en farmacias.<br> <br> Que las autoridades sanitarias signatarias de la estrategia mencionada coinciden en señalar que es cada vez mayor la evidencia que demuestra que la multirresistencia constituye un factor de mal pronóstico por fracaso terapéutico y se asocia a un marcado aumento de los costos sanitarios.<br> <br> Que en virtud de lo expuesto, resulta conveniente adoptar como criterio para la autorización o modificación de la presentación de expendio de una especialidad medicinal, cuyo ingrediente farmacéutico activo (IFA) tenga actividad antimicrobiana, la concordancia de la presentación con la indicación, la dosis, el intervalo de dosis y la duración del tratamiento.<br> <br> Que asimismo corresponde establecer que no será aplicable, al trámite de aprobación de nueva presentación de expendio de las especialidades medicinales mencionadas, la Resolución N° 855/89 de la ex SUBSECRETARÍA DE REGULACIÓN Y CONTROL ya citada; debiendo adecuarse la solicitud de nueva presentación a lo establecido en el Anexo de la presente disposición.<br> <br> Que finalmente resulta necesario otorgar un plazo a los titulares de registros de especialidades medicinales, cuyo ingrediente farmacéutico activo (IFA) tenga actividad antimicrobiana, a los efectos de que adecuen las presentaciones de expendio a lo establecido en la presente disposición, mediante la presentación de la solicitud, que obra como Anexo de la presente disposición.<br> <br> Que la presente medida se encamina a un uso racional de los medicamentos, entendido como el estado en que &#8220;los pacientes reciben la medicación adecuada a sus necesidades clínicas, en las dosis correspondientes a sus requisitos individuales, durante un período de tiempo adecuado y al menor coste posible para ellos y para la comunidad&#8221; (OMS, 1985).<br> <br> Que el número de unidades de dosificación es crítico ya que puede ser insuficiente, provocando que el paciente no complete el tratamiento, o resultar excesivo, con lo cual el paciente consume el antibiótico por más tiempo del debido o de forma incontrolada, ante una nueva supuesta infección sin la correspondiente consulta y prescripción médica.<br> <br> Que en este sentido, la concordancia entre la presentación de expendio y la dosis, intervalo de dosis y duración del tratamiento, que se instituye por la presente para el caso de las especialidades medicinales, cuyo ingrediente farmacéutico activo (IFA) tenga actividad antimicrobiana, se dirige a la prevención y resguardo de la salud de la población de acuerdo con lo establecido en el artículo 1° del Decreto N° 1490/92.<br> <br> Que la presente constituye una medida específica para la regulación del uso de antimicrobianos en los términos de la aludida Resolución Conjunta N° 834/15 y 391/15 del MINISTERIO DE SALUD y del MINISTERIO DE AGRICULTURA, GANADERÍA Y PESCA.<br> <br> Que el Instituto Nacional de Medicamentos y la Dirección General de Asuntos Jurídicos han tomado la intervención en el ámbito de su competencia.<br> <br> Que la presente se dicta en virtud de las facultades conferidas por el Decretos N° 1490/92 y por el Decreto N° 1886/14.<br> <br> Por ello;<br> <br> EL ADMINISTRADOR NACIONAL DE LA ADMINISTRACIÓN NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGÍA MÉDICA<br> <br> DISPONE:<br> <br> ARTÍCULO 1° &#8212; Establécese que la presente disposición se aplicará a las presentaciones de expendio, en cuanto a su contenido expresado en unidades, mililitros, gramos, etc, de aquellas especialidades medicinales inscriptas o a inscribirse en el Registro de Especialidades Medicinales (REM), cuyo ingrediente farmacéutico activo (IFA) tenga actividad antimicrobiana.<br> <br> ARTÍCULO 2° &#8212; Quedan excluidas de la aplicación de la presente disposición las presentaciones destinadas al uso y distribución hospitalaria de aquellas especialidades medicinales inscriptas o a inscribirse en el Registro de Especialidades Medicinales (REM), cuyo ingrediente farmacéutico activo (IFA) tenga actividad antimicrobiana.<br> <br> ARTÍCULO 3° &#8212; Establécese que las presentaciones de expendio de especialidades medicinales, cuyo ingrediente farmacéutico activo (IFA) tenga actividad antimicrobiana, deben mantener concordancia con la dosis, el intervalo de dosis y la duración del tratamiento. Para los medicamentos que cuenten con más de una indicación se deberá considerar la dosis, el intervalo de dosis y la duración del tratamiento para cada una de las indicaciones, tanto para uso pediátrico y/o en adultos.<br> <br> ARTÍCULO 4° &#8212; Establécese que la Resolución N° 855/89 de la ex SUBSECRETARÍA DE REGULACIÓN Y CONTROL no será aplicable al trámite de aprobación de nueva presentación de expendio de las especialidades medicinales comprendidas en el Artículo 1° de la presente.<br> <br> ARTÍCULO 5° &#8212; Establécese que, a partir de la entrada en vigencia de la presente disposición, para solicitar la aprobación de una nueva presentación de expendio de una especialidad medicinal, cuyo ingrediente farmacéutico activo (IFA) tenga actividad antimicrobiana, en cuanto a unidades, mililitros, gramos, etc. deberá presentarse la Declaración Jurada que, como Anexo, forma parte integrante de la presente disposición.<br> <br> La referida Declaración Jurada y la documentación allí indicada se presentarán ante el Departamento de Mesa de Entradas de esta ADMINISTRACIÓN NACIONAL, quien iniciará el expediente correspondiente.<br> <br> ARTÍCULO 6° &#8212; El Director Técnico y el Representante Legal serán responsables de la exactitud de los datos insertos en la Declaración Jurada y documentación mencionada en el artículo 5°.<br> <br> ARTÍCULO 7° &#8212; Establécese que los titulares de especialidades medicinales inscriptas en el REM, cuyo ingrediente farmacéutico activo (IFA) tenga actividad antimicrobiana, y que revistan el carácter de comercializadas, deberán presentar la Declaración Jurada referida en el artículo 6°, dentro de un plazo de NOVENTA (90) DÍAS contados a partir de su entrada en vigencia, a los efectos de adecuar las presentaciones de expendio de tales especialidades medicinales a lo dispuesto en el artículo 3° precedente.<br> <br> Vencido dicho plazo sin mediar presentación por parte de los titulares de las especialidades medicinales mencionadas, esta ADMINISTRACIÓN NACIONAL podrá proceder a la suspensión preventiva de la comercialización de la espacialidad medicinal involucrada sobre la base de las consideraciones de salud pública que así lo ameriten.<br> <br> ARTÍCULO 8° &#8212; Esta ADMINISTRACIÓN NACIONAL deberá expedirse sobre la solicitud de una nueva presentación de expendio efectuada en los términos del artículo 5° o sobre la adecuación a la que se hace referencia en el artículo 7° en un plazo de SESENTA (60) DÍAS.<br> <br> ARTÍCULO 9° &#8212; Establécese que la presente disposición se aplicará a las solicitudes de autorización de nueva presentación que se encuentren en trámite a la fecha de su entrada en vigencia.<br> <br> ARTÍCULO 10. &#8212; La presente disposición entrará en vigencia el día de su publicación el BOLETÍN OFICIAL.<br> <br> ARTÍCULO 11. &#8212; Regístrese. Dése a la Dirección Nacional del Registro Oficial para su publicación en el Boletín Oficial. Dése al Instituto Nacional de Medicamentos y a la Dirección de Planificación y Relaciones Institucionales. Comuníquese a la Cámara Industrial de Laboratorios Farmacéuticos Argentinos (CILFA), Cámara Argentina de Especialidades Medicinales (CAEMe), Cámara Empresaria de Laboratorios Farmacéuticos (COOPERALA), Cámara Argentina de Productores de Medicamentos Genéricos y de Uso Hospitalario (CAPGEN) y a la Cámara Argentina de Medicamentos de Venta Libre (CAPEMVeL). Cumplido, archívese. &#8212; Ing. ROGELIO LOPEZ, Administrador Nacional, A.N.M.A.T.<br> <br> <div style='text-align: center;'>Anexo I<br> <br> <img  src='../../../normativa/251596_disp7130-08-09-2015-1_JPG/archivo'><br> <br> <img  src='../../../normativa/251596_disp7130-08-09-2015-2_JPG/archivo'><br> </div> <br> <div style='text-align: right;'>e. 08/09/2015 N° 144042/15 v. 08/09/2015<br> </div> </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-7130-2015-251596" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3634-2005-107430/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3634-2005-107430/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3634-2005-107430/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"nUKVkqSROrtggJyC49AJjxm_h37tEnOpPXUjWHaJJSg","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-3634-2005-107430\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-3634-2005-107430 page-normativa-nacional-disposición-3634-2005-107430-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-3634-2005-107430/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-8ULet1uGW8C6oKFZGhlwZbajnWpw6gMzQvCHiDAb1AA" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-3634-2005-107430">Disposición   3634/2005</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2005-06-29</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica </P> <P ALIGN='JUSTIFY'>SUPLEMENTOS DIETARIOS </P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 3634/2005 </P> <P ALIGN='JUSTIFY'>Establ&eacute;cese que ser&aacute;n encuadradas como suplementos dietarios las bebidas no alcoh&oacute;licas que tengan en su composici&oacute;n ingredientes tales como taurina, glucuronolactona, cafe&iacute;na e inositol, acompa&ntilde;ados de hidratos de carbono, vitaminas y/o minerales. Valores m&aacute;ximos.</P> </B><P ALIGN='JUSTIFY'>Bs. As., 27/6/2005 </P> <P ALIGN='JUSTIFY'>VISTO el expediente Nº 1-47-2110-1700-05-6 del Registro de la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica; y </P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que por Disposici&oacute;n ANMAT Nº 6611/00, se categorizaron como suplementos dietarios las bebidas no alcoh&oacute;licas que tuvieran en su composici&oacute;n taurina, glucuronolactona, cafe&iacute;na e inositol con los valores m&aacute;ximos all&iacute; establecidos, sobre la base de la legislaci&oacute;n internacional en la materia.</P> <P ALIGN='JUSTIFY'>Que asimismo, y como consecuencia del encuadre t&eacute;cnico efectuado —con exigencias m&aacute;s estrictas a los efectos de evitar su uso indiscriminado—, se dispuso la aplicaci&oacute;n a dichos productos de lo establecido en el articulo 1381 del CAA (C&oacute;digo Alimentario Argentino), en cuanto al contenido de las leyendas rotulares correspondientes, autoriz&aacute;ndose la que reza: 'Alto en Energ&iacute;a', siempre y cuando dicha energ&iacute;a, aportada principalmente por los hidratos de carbono sea igual o superior a 190kj/100ml, que equivale a 45 kcal/100ml.</P> <P ALIGN='JUSTIFY'>Que con la finalidad de restringir su consumo y al encuadr&aacute;rselas como suplementos dietarios, se determin&oacute; una ingesta m&aacute;xima y las advertencias para el consumidor establecidas en el art&iacute;culo 1381 del aludido cuerpo normativo, a saber: 'Consulte a su m&eacute;dico', 'No utilizar en caso de embarazo, lactancia, ni en ni&ntilde;os' y ' Mantener fuera del alcance de los ni&ntilde;os'.</P> <P ALIGN='JUSTIFY'>Que asimismo, por la aludida Disposici&oacute;n ANMAT Nº 6611/00 deb&iacute;a consignarse en el r&oacute;tulo lo siguiente: 'Personas de edad o con enfermedades deben consultar al m&eacute;dico antes de consumir este producto'.</P> <P ALIGN='JUSTIFY'>Que sin perjuicio de las medidas adoptadas por esta Administraci&oacute;n, el uso dado a las llamadas bebidas energizantes al ser consumidas juntamente con bebidas alcoh&oacute;licas, ha generado en los &uacute;ltimos tiempos preocupaci&oacute;n entre Autoridades Sanitarias Nacionales y Provinciales, Secretar&iacute;a de Programaci&oacute;n para la Prevenci&oacute;n de la Drogadicci&oacute;n y la Lucha contra el Narcotr&aacute;fico, Subsecretar&iacute;a de Atenci&oacute;n a las Adicciones del Ministerio de Salud de la Provincia de Buenos Aires y Asociaciones de Consumidores.</P> <P ALIGN='JUSTIFY'>Que se ha desvirtuado el uso de estos productos y que por ello resulta necesario tomar medidas adicionales al respecto.</P> <P ALIGN='JUSTIFY'>Que estas bebidas tienen un contenido m&aacute;ximo establecido de cafe&iacute;na (35 mg/100ml) y que en salvaguarda de la salud de los j&oacute;venes resulta conveniente adoptar un l&iacute;mite menor de cafe&iacute;na para estas bebidas a los efectos de disminuir la ingesta de dicho componente...</P> <P ALIGN='JUSTIFY'>Que el art&iacute;culo 1000 de C&oacute;digo Alimentario Argentino establece un l&iacute;mite de cafe&iacute;na de 200 ppm para bebidas sin alcohol gasificadas o no.</P> <P ALIGN='JUSTIFY'>Que por expediente 1-47-2110-2454-03-1 la C&aacute;mara de Fabricantes de Alimentos Diet&eacute;ticos y Afines solicita a la Comisi&oacute;n Nacional de Alimentos la recategorizaci&oacute;n de las bebidas energ&eacute;ticas, como bebidas estimulantes dentro del Cap&iacute;tulo XVII como un Alimento Diet&eacute;tico dentro del apartado a) Alimentos para satisfacer necesidades alimentarias espec&iacute;ficas de determinados grupos de personas sanas.</P> <P ALIGN='JUSTIFY'>Que por expediente 1-47-2110-3649-03-0 el Instituto Nacional de Alimentos inform&oacute; sobre la situaci&oacute;n de estas bebidas adjuntando al mismo las inquietudes de diferentes jurisdicciones bromatol&oacute;gicas, Secretar&iacute;a de Programaci&oacute;n para la Prevenci&oacute;n de la Drogadicci&oacute;n y la Lucha contra el Narcotr&aacute;fico, Subsecretar&iacute;a de Prevenci&oacute;n a las Adicciones del Ministerio de Salud de la Pcia. de Buenos Aires, Asociaciones de Defensa del Consumidor y Defensor&iacute;as del Pueblo.</P> <P ALIGN='JUSTIFY'>Que ambos expedientes se encuentran actualmente en la Comisi&oacute;n Nacional de Alimentos, creada por el Decreto nº 815/99 en el &aacute;mbito del entonces Ministerio de Salud y Acci&oacute;n Social, hoy Ministerio de Salud y Ambiente, encargada de las tareas de asesoramiento, apoyo y seguimiento del SISTEMA NACIONAL DE CONTROL DE ALIMENTOS.</P> <P ALIGN='JUSTIFY'>Que la COMISION NACIONAL DE ALIMENTOS tiene entre sus facultades y obligaciones la de proponer la actualizaci&oacute;n del C.A.A recomendando las modificaciones que resulte necesario introducirle para mantener su permanente adecuaci&oacute;n a los adelantos que se produzcan en la materia, tomando como referencia las normas internacionales y los acuerdos celebrados en el MERCOSUR:</P> <P ALIGN='JUSTIFY'>Que existen en el Congreso de la Naci&oacute;n varias propuestas de proyecto de Ley tendientes a modificar la condici&oacute;n de venta y la categorizaci&oacute;n de estas bebidas.</P> <P ALIGN='JUSTIFY'>Que esta Administraci&oacute;n Nacional, por el Decreto nº 1490/92, art&iacute;culo 3º, inc. d), tiene competencia en todo lo referido a 'la vigilancia sobre la eficacia y la detecci&oacute;n de los efectos adversos que resulten del consumo y utilizaci&oacute;n de los productos, elementos y materiales comprendidos en los incs. a), b) y c) del presente art&iacute;culo.'</P> <P ALIGN='JUSTIFY'>Que en particular el art&iacute;culo 3º, inc. b) establece que la A.N.M.A.T. tendr&aacute; competencia en todo lo referido al 'control y fiscalizaci&oacute;n sobre la sanidad y calidad de los alimentos acondicionados, incluyendo los insumos espec&iacute;ficos, aditivos, colorantes, edulcorantes e ingredientes utilizados en la alimentaci&oacute;n humana.'</P> <P ALIGN='JUSTIFY'>Que hasta tanto se expidan la Comisi&oacute;n Nacional de Alimentos y en su caso el Congreso de la Naci&oacute;n al respecto, es necesario tomar las medidas necesarias a los efectos de disminuir los riesgos por el mal uso de estos productos con el fin de proteger la salud de la poblaci&oacute;n.</P> <P ALIGN='JUSTIFY'>Que el Instituto Nacional de Alimentos y la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por el Decreto Nº 1490/92 y el Decreto Nº 197/02.</P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE: </P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1º </B>— Ser&aacute;n encuadradas como suplementos dietarios las bebidas no alcoh&oacute;licas que tengan en su composici&oacute;n ingredientes tales como taurina, glucuronolactona, cafe&iacute;na e inositol, acompa&ntilde;ados de hidratos de carbono, de vitaminas y/o minerales y/u otros ingredientes autorizados, con los valores m&aacute;ximos que se detallan a continuaci&oacute;n: </P> <P ALIGN='JUSTIFY'>TAURINA: 400 mg./100ml.</P> <P ALIGN='JUSTIFY'>GLUCURONOLACTONA: 250 mg./100ml.</P> <P ALIGN='JUSTIFY'>CAFEINA: 20 mg./100ml.</P> <P ALIGN='JUSTIFY'>INOSITOL: 20 mg./100 ml.'</P> <B><P ALIGN='JUSTIFY'>Art. 2º </B>— Los r&oacute;tulos deber&aacute;n incluir las advertencias que correspondan del art&iacute;culo 1381 del C&oacute;digo Alimentario Argentino y la siguiente leyenda: 'Personas de edad o con enfermedades deber&aacute;n consultar con su m&eacute;dico antes de consumir este producto'.</P> <B><P ALIGN='JUSTIFY'>Art. 3º </B>— Adem&aacute;s de las advertencias del art&iacute;culo anterior deber&aacute;n consignar tambi&eacute;n la leyenda: 'EL CONSUMO CON ALCOHOL ES NOCIVO PARA LA SALUD', en letras que contrasten con los colores del fondo y con las otras advertencias, en un tama&ntilde;o superior al 5% (cinco por ciento) de la altura del envase. Estas leyendas o mensajes deben apreciarse f&aacute;cilmente, en modo visual o auditivo, en toda forma publicitaria de esta categor&iacute;a de bebidas y todas aquellas que la autoridad de aplicaci&oacute;n considere necesarias.</P> <B><P ALIGN='JUSTIFY'>Art. 4º </B>— En los r&oacute;tulos podr&aacute; consignarse la leyenda 'Alto en energ&iacute;a' siempre y cuando el contenido de energ&iacute;a aportado principalmente por los hidratos de carbono sea igual o superior a 190 kj/100 ml que equivale a 45 kcal/100 ml.</P> <B><P ALIGN='JUSTIFY'>Art. 5º </B>—La publicidad y difusi&oacute;n de por cualquier medio que se utilice, se deber&aacute; ajustar a la normativa vigente, quedando sujetas a las siguientes restricciones: </P> <P ALIGN='JUSTIFY'>a) No deben ser asociadas directa o indirectamente al consumo con bebidas alcoh&oacute;licas.</P> <P ALIGN='JUSTIFY'>b) No deben presentarse como productoras de bienestar o salud.</P> <P ALIGN='JUSTIFY'>c) Su consumo no debe vincularse con ideas o im&aacute;genes de mayor &eacute;xito en la vida afectiva y/o sexual de las personas, o en actividades deportivas, o hacer exaltaci&oacute;n de prestigio social, virilidad o femineidad.</P> <P ALIGN='JUSTIFY'>d) En el mensaje no deben participar, en im&aacute;genes o sonidos, menores de dieciocho (18) a&ntilde;os de edad.</P> <B><P ALIGN='JUSTIFY'>Art. 6º </B>— Toda violaci&oacute;n a la presente Disposici&oacute;n har&aacute; pasible a quien resultare responsable de las sanciones previstas en la Ley nº 18.284 y el Decreto nº 341/92.</P> <B><P ALIGN='JUSTIFY'>Art. 7º </B>— D&eacute;jase sin efecto la Disposici&oacute;n A.N.M.A.T. nº 6611/00.</P> <B><P ALIGN='JUSTIFY'>Art. 8º </B>— La presente Disposici&oacute;n entrar&aacute; en vigencia a partir del d&iacute;a siguiente al de su publicaci&oacute;n en el Bolet&iacute;n Oficial.</P> <B><P ALIGN='JUSTIFY'>Art. 9º </B>— Reg&iacute;strese, d&eacute;se a la Direcci&oacute;n Nacional de Registro Oficial para su publicaci&oacute;n, comun&iacute;quese a las autoridades provinciales, al Gobierno Aut&oacute;nomo de la Ciudad de Buenos Aires y a quienes corresponda. D&eacute;se copia a la Direcci&oacute;n de Planificaci&oacute;n y Relaciones Institucionales. Cumplido. Arch&iacute;vese. — Manuel R. Limeres.</P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-3634-2005-107430" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

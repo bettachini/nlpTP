@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.104',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/decreto-1812-1992-10307/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/decreto-1812-1992-10307/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/decreto-1812-1992-10307/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"7K_uDs3Au6N0QwjDFr4NirI5AA5GuHz-V469VSqfpZQ","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/decreto-1812-1992-10307\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-decreto-1812-1992-10307 page-normativa-nacional-decreto-1812-1992-10307-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/decreto-1812-1992-10307/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-GtG73RTmUeBcP1Dsqca9zJEsHJGw002E5VO-DVE3HfA" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/decreto-1812-1992-10307">Decreto   1812/1992</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>PODER EJECUTIVO NACIONAL (P.E.N.)</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>1992-10-02</strong></time>
+
+          <hr>
+
+          <article>
+            <div style='text-align: justify;'><span style='font-weight: bold;'>PRODUCTOS ALIMENTARIOS</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Decreto 1812/92</span><br style='font-weight: bold;'> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Normas de apliación para los controles previos y posteriores al ingreso a plaza, en el caso de importaciones de productos de origen animal o vegetal.</span><br> <br> Bs, As; 29/9/92<br> <br> VISTO el Expediente N° 610.539/92 del Registro de la SECRETARIA DE INDUSTRIA Y COMERCIO y los Decretos Nros. 2092 del 10 de octubre de 1991 y 2284 del 31 de octubre de 1991, y<br> <br> CONSIDERANDO:<br> <br> Que el artículo 32 del Decreto N° 2284/91, establece la obligatoriedad de publicar un texto ordenado de las normas que rigen las intervenciones sanitarias dispuestas para las importaciones de los productos alimentarios.<br> <br> Que el mencionado Decreto tiene entre sus objetivos facilitar el comercio exterior, sin perjuicio de la aplicación del poder de policía sanitario.<br> <br> Que la intervención del MINISTERIO DE SALUD Y ACCION SOCIAL, del SERVICIO NACIONAL DE SANIDAD ANIMAL (SENASA) y del INSTITUTO ARGENTINO DE SANIDAD Y CALIDAD VEGETAL (IASCAV) en las áreas de control bromatológico, higiénico-sanitario, fitosanitario, zoosanitario y de calidad para las actividades de elaboración, fraccionamiento, distribución, conservación, comercialización, importación y exportación de alimentos, debe asegurar, en forma ágil y transparente, las gestiones que se ejerzan en las respectivas dependencias, para dar cumplimiento a sus funciones, evitando algunas superposiciones de áreas y trámites, que solamente significarán inconvenientes para los particulares.<br> <br> Que, asimismo, se considera adecuado tender a la unificación de las tasas y aranceles para el registro de productos en el orden nacional, provincial y municipal.<br> <br> Que con igualdad de criterio, las autoridades nacionales, provinciales y municipales, consideran conveniente que se establezca un arancel uniforme por parte de la autoridad sanitaria competente en todo el país.<br> <br> Que en consecuencia, debe dictarse un texto común que rija dichas intervenciones, sin perjuicio de lo dispuesto por el artículo 32 del Decreto N| 2284/91, con el fin de establecer procedimientos simples, bien definidos y rigurosos, debiendo los organismos mencionados adecuar sus reglamentos al presente Decreto.<br> <br> Que el presente se dicta en uso de las facultades que surgen de los incisos 1) y 2) del artículo 86 de la CONSTITUCION NACIONAL.<br> <br> EL PRESIDENTE DE LA NACION ARGENTINA <br> <br> DECRETA:<br> <br> <span style='font-weight: bold;'>Artículo 1°</span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: bold; text-align: justify;'>&#8212; </span></span>Los controles previos y posteriores al ingreso a plaza, en el caso de importaciones de productos alimentarios de origen animal o vegetal, se regirán por las normas establecidas en los artículos 22 a 26 del Decreto N° 2284/91 de Desregulación Económica y por el presente Decreto.<br> <br> <span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: bold; text-align: justify;'>Art. 2° &#8212;</span></span> Los controles higiénico-sanitarios y bromatológico, de calidad, estabilidad, embalaje y transporte que correspondiere sobre las importaciones de productos, subproductos o derivados de origen animal no acondicionados para su venta directa al público, estarán a cargo del SERVICIO NACIONAL DE SANIDAD ANIMAL (SENASA) y serán realizados con carácter previo al ingreso a plaza de la mercadería.<br> <br> <span style='font-weight: bold;'>Art. 3° </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: bold; text-align: justify;'>&#8212; </span></span>Los controles fitosanitarios, de calidad y transporte de las materias primas y productos alimentarios de origen vegetal no acondicionados para su venta directa al público, estarán a cargo del INSTITUTO ARGENTINO DE SANIDAD Y CALIDAD VEGETAL (IASCAV) y serán realizados con carácter previo al ingreso a plaza de la mercadería.<br> <br> <span style='font-weight: bold;'>Art. 4° </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span> Los productos, subproductos o derivados no acondicionados para su venta directa al público, comprendidos en los artículos 2 y 3 del presente Decreto, comprenden las materias primas o los productos en proceso con destino a la elaboración, fraccionamiento o modificación de las características originales.<br> <br> Los mencionados servicios podrán adecuar dicho control previo en función de la frecuencia de las importaciones de un mismo productos y considerando los antecedentes del importador, del proveedor extranjero y del control sanitario en el país de origen.<br> <br> <span style='font-weight: bold;'>Art. 5° </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: bold; text-align: justify;'>&#8212; </span></span>Las importaciones de los productos alimentarios acondicionados para su venta directa al público cuya estabilidad esté asegurada y que hayan sido registrados en el Código Alimentario Argentino, estarán sujetas a los controles higiénico sanitarios y bromatológicos con posterioridad a su ingreso a plaza, los que serán efectuados por el MINISTERIO DE SALUD Y ACCION SOCIAL. Tal control no podrá impedir la disposición comercial de la mercadería por parte del importador.<br> <br> <span style='font-weight: bold;'>Art. 6° </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: bold; text-align: justify;'>&#8212; </span></span>Se considerará que el producto cumple con las condiciones de estabilidad requeridas en el artículo precedente cuando el importador demuestre, al momento del registro del producto, que el mismo reúne los requisitos de elaboración, embalaje y transporte, de acuerdo a los requerimientos exigidos por la autoridad sanitaria competente, la que hará constar la indicación de estabilidad en el certificado respectivo, así como la autorización para despacho a plaza sin control previo.<br> <br> <span style='font-weight: bold;'>Art. 7° </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: bold; text-align: justify;'>&#8212; </span></span>Cuando los productos alimentarios acondicionados para su venta directa al público no cuenten con el certificado de estabilidad establecido en los artículos 6 y 17 del presente Decreto, o cuando al momento de la importación se presenten signos de deterioro o pérdida de estabilidad, las autoridades sanitarias competentes podrán exigir el control con carácter previo al ingreso a plaza. En el último caso, la decisión puede ser reclamada en el acto por el importador, debiendo la autoridad sanitaria respectiva, responder dentro de las CUARENTA Y OCHO (48) horas, previa consulta al nivel jerárquico superior.<br> <br> <span style='font-weight: bold;'>Art. 8° </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: bold; text-align: justify;'>&#8212; </span></span>Cuando existan razones debidamente fundadas, con informaciones fehacientes y comprobadas, que hagan presumir la existencia de riesgos para la salud humana, animal o vegetal, por la introducci nn al país de productos alimentarios, el MINISTERIO DE SALUD Y ACCION SOCIAL, el SENASA y el IASCAV, en sus respectivas áreas de competencia, podrán disponer en cualquier caso los controles sanitarios convenientes, con carácter previo al despacho a plaza, debiendo informar al importador los fundamentos que motivan la intervención.<br> <br> <span style='font-weight: bold;'>Art. 9° </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: bold; text-align: justify;'>&#8212; </span></span>En todos los casos comprendidos en los artículos 2 y 3 del presente Decreto, se cumplimentará, además, la inspección previa consistente en la verificación de la documentación sanitaria y de las condiciones de transporte de los productos.<br> <br> <span style='font-weight: bold;'>Art. 10 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span> Se establece un plazo de hasta CATORCE (14) días para liberación de los productos alimentarios que requieran el control previo al despacho a plaza; los mismos deberán ingresar al depósito del importador sin derecho a uso antes de obtener la certificación de su aptitud, otorgada por la autoridad sanitaria competente.<br> <br> Sin perjuicio de este plazo máximo, los servicios de control sanitario reducirán el mismo en cada caso, en base a la duración de los análisis y estudios técnicos que correspondan.<br> <br> <span style='font-weight: bold;'>Art. 11 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span> El servicio aduanero procederá al libramiento automático de los productos alimentarios alcanzados por el artículo 5 del presente Decreto. En el caso de los productos que requieran control previo al despacho a plaza según los artículos 2, 3, 7 y 8 del presente Decreto, el servicio aduanero exigirá previo a la liberación de la mercadería, la respectiva autorización de los servicios de control sanitario.<br> <br> <span style='font-weight: bold;'>Art. 12 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span> De no contarse con la autorización o eximición prevista en el artículo anterior, el servicio aduanero autorizará la entrega de los productos sin derecho a uso, a requerimiento del importador. A tal efecto, este último declarará expresamente en el Despacho de Importación, que se constituye fiel depositario de la mercadería, sin derecho a uso, y que se compromete a impedir su deterioro y/o contaminación hasta que la autoridad sanitaria competente se expida al respecto, indicando domicilio del lugar de su depósito.<br> <br> <span style='font-weight: bold;'>Art. 13 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span> A los fines del control previo al despacho a plaza establecido en el artículo 10 del presente Decreto, el servicio aduanero identificará una muestra representativa de cada importación antes de proceder a la entrega de la mercadería sin derecho a uso. El tamaño de la muestra deberá respetar criterios técnicos de general aceptación en el comercio internacional.<br> <br> <span style='font-weight: bold;'>Art. 14 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span> Cuando el importador no presentare la autorización o eximición pertinente en el plazo fijado por el artículo 10 del presente Decreto, por razones imputables a éste, el servicio aduanero procederá de acuerdo con lo establecido en los artículos 449 y siguientes de la Ley N° 22.415.<br> <br> La destrucción, inutilización o reeexportación previstas por el Código Aduanero Argentino, estarán a cargo del servicio aduanero y de la autoridad sanitaria competente, siendo a cargo del importador los gastos que demanden las operaciones, sin perjuicio de su responsabilidad por infracción al Código Penal y demás sanciones que le pudieren corresponder.<br> <br> <span style='font-weight: bold;'>Art. 15 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span> El MINISTERIO DE SALUD Y ACCION SOCIAL y los Organismos Provinciales y Municipales competentes, de acuerdo a la legislación vigente, estarán a cargo del registro de los productos alimentarios previsto en el Código Alimentario Argentino, con excepción de aquéllos de origen animal importados o producidos en el país, en establecimientos sujetos al contralor del SENASA, los que se registrarán ante ese Organismo. El MINISTERIO DE SALUD Y ACCION SOCIAL y el SENASA deberán establecer en el término de TREINTA (30) días de la publicación del presente Decreto, el listado de productos considerados de origen animal a los fines del registro.<br> <br> <span style='font-weight: bold;'>Art. 16 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span><span style='font-weight: bold;'> </span>Los importadores de los productos comprendidos en el artículo 5, deberán cumplimentar al momento del registro, los requisitos establecidos en el artículo 4 del Anexo II del Decreto N° 2126/71, texto según artículo 2 Decreto N° 2092/91.<br> <br> <span style='font-weight: bold;'>Art. 17 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span> Para cumplimentar con la indicación de estabilidad y autorización para el despacho establecidas en el artículo 6 del presente Decreto, los servicios encargados del registro de productos alimentarios entregarán a solicitud de los importadores un certificado complementario, en el caso de productos registrados con anterioridad a la fecha de vigencia del presente Decreto.<br> <br> <span style='font-weight: bold;'>Art. 18 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span><span style='font-weight: bold;'> </span>A los fines de los párrafos segundo y tercero del artículo 2 del Anexo I del Decreto N° 2126/71 texto según artículo 1 del Decreto 2092/91, se considerarán satisfechas las exigencias del Código Alimentario Argentino, en el caso de importaciones de productos alimentarios acondicionados para su venta directa al público, provenientes de los siguientes países:<br> <br> - Países de la COMUNIDAD ECONOMICA EUROPEA<br> <br> - ESTADOS UNIDOS DE AMERICA<br> <br> - NUEVA ZELANDA<br> <br> - REINO DE SUECIA<br> <br> - CONFEDERACION SUIZA<br> <br> - JAPON<br> <br> - AUSTRALIA<br> <br> - NORUEGA<br> <br> - CANADA<br> <br> - ESTADO DE ISRAEL<br> <br> - AUSTRIA<br> <br> - Países con los que rijan Tratados de Integración Económica o Acuerdos de Reciprocidad en materia higiénico-sanitarias.<br> <br> En todos estos casos, los productos alimentarios deberán haber sido elaborados bajo los controles aplicables a los alimentos destinados al consumo humano en el mercado interno del país de origen. Las autoridades sanitarias competentes podrán modificar el listado anterior de países, siguiendo el mecanismo establecido en el artículo 20 del presente Decreto.<br> <br> <span style='font-weight: bold;'>Art. 19 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: bold; text-align: justify;'>&#8212; </span></span>El MINISTERIO DE SALUD Y ACCION SOCIAL establecerá los aranceles o tasas a cobrar por los servicios de registro de los productos alimentarios. Los importes que se fijen serán uniformes en todo el país, conforme con el criterio de organización del artículo 7 de la Ley 18.284 y su aplicación se efectivizará a través de la autoridad sanitaria que resulte competente en cada jurisdicción.<br> <br> <span style='font-weight: bold;'>Art. 20 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: bold; text-align: justify;'>&#8212; </span></span>Los servicios estatales de control de alimentos y demás productos de origen animal y vegetal actuarán coordinadamente con el fin de evitar la superposición de tareas y la imposición de trámites innecesarios que dificulten el intercambio comercial. A tal fin, el SERVICIO NACIONAL DE SANIDAD ANIMAL (SENASA), el INSTITUTO ARGENTINO DE SANIDAD Y CALIDAD VEGETAL (IASCAV), el MINISTERIO DE SALUD Y ACCION SOCIAL y la ADMINISTRACION NACIONAL DE ADUANAS (ANA), realizarán reuniones de coordinación a nivel de sus máximas autoridades por lo menos cada TRES (3) meses y considerarán las propuestas de facilitación de sus intervenciones originadas tanto en el sector estatal como en el privado.<br> <br> <span style='font-weight: bold;'>Art. 21 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span> Déjase sin efecto todo trámite de consulta, información, intervención y autorización previa de carácter cuantitativa para la importación de productos alimentarios realizada hasta la fecha por los organismos mencionados en el presente Decreto.<br> <br style='font-weight: bold;'> <span style='font-weight: bold;'>Art. 22 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span> Deróganse las disposiciones que se opongan al presente Decreto y autorízase al MINISTERIO DE SALUD Y ACCION SOCIAL, SENASA, IASCAV y ADMINISTRACION NACIONAL DE ADUANAS, a adecuar las reglamentaciones vigentes en concordancia con lo establecido en el presente Decreto.<br> <br> <span style='font-weight: bold;'>Art. 23 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span> El presente Decreto comenzará a regir a partir del día siguiente al de su publicación en el Boletín Oficial.<br> <br> <span style='font-weight: bold;'>Art. 24 </span><span class='Apple-style-span' style='border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;'><span class='Apple-style-span' style='font-family: Arial,Helvetica,sans-serif; font-size: 13px; text-align: justify;'>&#8212;</span></span><span style='font-weight: bold;'> </span>Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. MENEM - Domingo F. Cavallo - Julio C. Aráoz.   </div>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/decreto-1812-1992-10307" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

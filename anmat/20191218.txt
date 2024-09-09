@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+
+
+    <meta name="theme-color" content="#0072b8">
+    <meta name="msapplication-navbutton-color" content="#0072b8">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#0072b8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+            <title>BOLETIN OFICIAL REPUBLICA ARGENTINA</title>
+        <meta name="description" content="BORA - Boletín Oficial de la República Argentina">
+    
+    
+        <meta property="og:url" content="https://www.boletinoficial.gob.ar/" />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="Boletín Oficial de la República Argentina" />
+        <meta property="og:description" content="Boletín Oficial de la República Argentina" />
+        <meta property="og:image" content="/images/bora_share.jpg" />
+        <meta property="og:locale" content="es_AR" />
+
+        <meta name="twitter:card" content="Boletín Oficial de la República Argentina" />
+        <meta name="twitter:title" content="Boletín Oficial de la República Argentina" />
+        <meta name="twitter:description" content="Boletín Oficial de la República Argentina" />
+        <meta name="twitter:image" content="/images/bora_share.jpg" />
+    
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    
+    
+        <link href='/css/roboto-fontface.css' rel='stylesheet' type='text/css'>
+        <link href='/css/bootstrap.css' rel='stylesheet' type='text/css'>
+        <link href='/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
+        <link href='/css/poncho.css' rel='stylesheet' type='text/css'>
+        <link href='/css/magicsuggest.css' rel="stylesheet">
+        <link href='/css/bootstrap-datepicker.css' rel="stylesheet">
+                <link href='/css/styles.css' rel='stylesheet' type='text/css'>
+
+        <link href='/css/own/main.css' rel='stylesheet' type='text/css'>
+        <link href='/css/own/breakpoints.css' rel='stylesheet' type='text/css'>
+        <link href='/css/own/vars.css' rel='stylesheet' type='text/css'>
+        <link href='/css/own/header.css' rel='stylesheet' type='text/css'>
+        <link href='/css/own/buttons.css' rel='stylesheet' type='text/css'>
+        <link href='/css/own/cards.css' rel='stylesheet' type='text/css'>
+        <link href='/css/own/section.css' rel='stylesheet' type='text/css'>
+        <link href='/css/own/bottom-cards.css' rel='stylesheet' type='text/css'>
+        <link href='/css/own/footer.css' rel='stylesheet' type='text/css'>
+
+    
+            <script type="text/javascript" src="/js/generales.js"></script>
+        <script type="text/javascript" src="/js/share.js"></script>
+        <script type="text/javascript" src="/js/analitics.js"></script>
+        <script type="text/javascript" src="/js/downloadPdf.js"></script>
+        <script type="text/javascript" src="/js/contactos.js"></script>
+        <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/js/bootstrap-datepicker.min.js"></script>
+        <script type="text/javascript" src="/js/bootstrap-datepicker.es.min.js"></script>
+        <script type="text/javascript" src="/js/sammy/sammy.js"></script>
+        <script type="text/javascript" src="/js/magicsuggest.js"></script>
+        <script type="text/javascript" src="/js/busqueda.js"></script>
+        <script type="text/javascript" src="/js/imageMapResizer.min.js"></script>
+        <script type="text/javascript" src="/js/calendario.js"></script>
+        <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+        <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+    
+
+    <!-- Google Analytics -->
+    <!--TODO:-->
+    <!-- End Google Analytics -->
+
+</head>
+<body>
+    <div id="accessibility"></div>
+    <script src="/./js/accessibility.min.js?version=20231214"></script>
+
+    <div id="loader" class="loader-div" style="display: none;">
+        <img src="/images/loader.gif">
+    </div>
+
+    <header>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W2KQMS3G6K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-W2KQMS3G6K');
+</script>
+	<!-- End Google Tag Manager -->
+	<nav class="navbar navbar-top navbar-default bg-light bg-primary responsive-nav" role="navigation">
+		<div class="container-fluid nav-mobile">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="fa fa-bars" aria-hidden="true"></span>
+				</button>
+			</div>
+			<div class="collapse navbar-collapse" id="main-navbar-collapse">
+				<ul class="nav navbar-nav">
+					<li>
+						<a class="navbar-brand" href="/">
+							<img alt="Brand" src="/images/presidencia.png" height="65"/>
+						</a>
+					</li>
+					<li class="navbar-text-box bg-dark bg-secondary">
+						<div style="margin: auto;"><a href="/">Boletín Oficial de la República Argentina</a></div>
+					</li>
+					<li class="li-primary">
+						<a href="/estatica/institucional-mision" onclick="sendEstaticaEvent('Visto', 'Institucional-Mision')">Institucional</a>
+					</li>
+					<li class="li-primary">
+						<a href="/estatica/prodyserv" onclick="sendEstaticaEvent('Visto', 'Prodyserv')">Productos y servicios</a>
+					</li>
+					<li class="li-primary">
+						<a href="/estatica/faq-preguntas" onclick="sendEstaticaEvent('Visto', 'Faq Preguntas')">Preguntas Frecuentes</a>
+					</li>
+					<li class="li-primary">
+						<a href="/contacto" onclick="sendContactoEvent('Visto', 'Contacto')">Contacto</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+</header>
+
+
+<div class="container-fluid">
+
+            <div class="row">
+                            <div class="alert alert-info alert-dismisable bg-warning alert-bora">
+                    <div class="container">
+                        <div class="col-md-12">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            La url ingresada no existe.
+                        </div>
+                    </div>
+                </div>
+                    </div>
+            <div class="row">
+                            <div class="alert alert-info alert-dismisable bg-danger alert-bora">
+                    <div class="container">
+                        <div class="col-md-12">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            Hubo un error en el sistema. Por favor contactarse con el administrador del mismo.
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    
+            <div class="row">
+    <div id="div_flash_js" class="alert alert-info alert-dismisable alert-bora margin-top-30" style="display:none">
+        <div class="container">
+            <div class="col-md-12">
+                <button type="button" class="close" onclick="hideFlashMessage()" aria-label="Close">&times;</button>
+                <span id="div_flash_js_msg"></span>
+            </div>
+        </div>
+    </div>
+</div>
+    
+
+</div>
+
+
+
+
+<content>
+
+
+</content>
+
+
+
+
+    <footer class="main-footer sticky-footer">
+    <div class="container">
+        <!-- Superior -->
+        <div class="row hidden-xs hidden-sm">
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <h5>Institucional</h5>
+                <ul>
+                    <li>
+                        <a href="/estatica/institucional-mision" onclick="sendEstaticaEvent('Visto', 'Institucional Mision')">Misión, Visión e Historia</a>
+                    </li>
+                </ul>
+                <h5>Sitios de Interés</h5>
+                <ul>
+                    <li>
+                        <a  data-toggle="modal" data-target="#modalRedDeBoletinesProvinciales" class="puntero">Red de Boletines Provinciales</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <h5>Productos y Servicios</h5>
+                <ul>
+                    <li><a href="/estatica/publicar-tarifas" onclick="sendEstaticaEvent('Visto', 'Publicar Tarifas')">Tarifas de Publicación</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <h5>Accesos</h5>
+                <ul>
+                    <li><a href="https://bfa.ar/" class="puntero">Blockchain</a></li>
+                    <li><a href="https://www.boletinoficial.gob.ar/estatica/firma-digital" class="puntero">Firma digital</a></li>
+                                    </ul>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <h5>Faq y Tutoriales</h5>
+                <ul>
+                    <li><a href="/estatica/faq-preguntas" onclick="sendEstaticaEvent('Visto', 'Faq Preguntas')">Preguntas Frecuentes</a></li>
+                </ul>
+                <h5>Contacto</h5>
+                <div class="social-btns">
+                    <a href="/contacto" onclick="sendContactoEvent('Visto', 'Contacto')">
+                        <i class="fa fa-envelope"></i>
+                    </a>
+                    <a href="https://twitter.com/boletin_oficial" target="_blank" >
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                    <a href="https://www.instagram.com/boletinoficialarg" target="_blank">
+                        <i class="fa fa-instagram"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row visible-xs-block visible-sm-block">
+            <div class="col-xs-6">
+                <h5>Institucional</h5>
+                <ul>
+                    <li><a href="/estatica/institucional-mision" onclick="sendEstaticaEvent('Visto', 'Institucional Mision')">Misión, Visión e Historia</a></li>
+                </ul>
+                <h5>Productos y Servicios</h5>
+                <ul>
+                    <li><a href="/estatica/publicar-tarifas" onclick="sendEstaticaEvent('Visto', 'Publicar Tarifas')">Tarifas de Publicación</a></li>
+                </ul>
+                <h5>Sitios de Interés</h5>
+                <ul>
+                    <li>
+                        <a  data-toggle="modal" data-target="#modalRedDeBoletinesProvinciales" class="puntero">Red de Boletines Provinciales</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-xs-6">
+                <h5>Accesos</h5>
+                <ul>
+                    <li><a href="https://bfa.ar/" class="puntero">Blockchain</a></li>
+                    <li><a href="https://www.boletinoficial.gob.ar/estatica/firma-digital" class="puntero">Firma digital</a></li>
+                                    </ul>
+                <h5>Faq y Tutoriales</h5>
+                <ul>
+                    <li><a href="/estatica/faq-preguntas" onclick="sendEstaticaEvent('Visto', 'Faq Preguntas')">Preguntas Frecuentes</a></li>
+                </ul>
+                <h5>Contacto</h5>
+                <div class="social-btns">
+                    <a href="/contacto" onclick="sendContactoEvent('Visto', 'Contacto')">
+                        <i class="fa fa-envelope"></i>
+                    </a>
+                    <a href="https://twitter.com/boletin_oficial" target="_blank" >
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                    <a href="https://www.instagram.com/boletinoficialarg" target="_blank">
+                        <i class="fa fa-instagram"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <!-- Inferior -->
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="row">
+                  <div class="col-xs-6">
+                    <div class="row">
+                        <div class="col-md-6">
+                          <p class="datos text-muted small">
+                            <strong class="text-white">Secretaría<br/>Legal y Técnica</strong>
+                          </p>
+                        </div>
+                        <div class="col-md-6">
+                          <p class="datos text-muted small">
+                            <strong class="text-white">Boletín Oficial <br/>de la República Argentina</strong>
+                          </p>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6">
+                    <div class="row">
+                      <div class="col-md-6">
+                        <a href="http://www.redboa.org" onclick="sendExternalLinkEvent(event);" target="_blank">
+                          <img class="red-boa form-group" alt="RED BOA" src="/images/red-boa.png">
+                        </a>
+                      </div>
+                      <div class="col-md-6">
+                        <a href="https://reddeboletines.gob.ar/" onclick="sendExternalLinkEvent(event);" target="_blank">
+                          <img class="red-boa form-group" alt="RED BORA" src="/images/red-bora.png">
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="datos text-muted small">
+                            <strong>TELÉFONOS:</strong> 5218-8400 - 0810-345-BORA (2672)</p>
+                        <p class="datos text-muted small">
+                            <strong>SEDE CENTRAL: </strong>Suipacha 767, C.A.B.A. (C1008AAO)</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <img class="presidencia" alt="Presidencia de la Nación" src="/images/presidencia.png">
+                        </div>
+                    </div>
+                    <p class="datos text-muted small">
+							<span>Secretaría Legal y Técnica |
+                            <strong>Dr. Dante Javier Herrera Bravo - Secretario</strong>
+                            </span>
+                    </p>
+                    <p class="datos text-muted small">
+							<span>Dirección Nacional del Registro Oficial |
+							<strong>Dra. María Virginia Villamil - Directora Nacional</strong>
+                            </span>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-2 col-xs-12 text-center">
+                            </div>
+        </div>
+
+
+    </div>
+
+</footer>
+
+<div class="back-top btn btn-default btn-sm hidden-xs" title="Volver arriba"><i class="fa fa-chevron-up"></i></div>
+    
+<div id="modalRedDeBoletinesProvinciales" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+    <div class="modal-dialog modal-lg ">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Red de Boletines Provinciales</h4>
+            </div>
+
+            <div class="modal-body">
+                <p>Al hacer clic en este enlace usted acepta ser dirigido fuera de nuestro sitio a la página <a href="http://www.reddeboletines.gob.ar/" target="_blank" >http://www.reddeboletines.gob.ar</a> cuya información es proporcionada por la Dirección Nacional del Sistema Argentino de Información Jurídica (SAIJ) dependiente del Ministerio de Justicia y Derechos Humanos de la Nación.</p>
+            </div>
+
+            <div class="modal-footer nomarginT">
+                <div class="row">
+                    <div class="col-md-6 col-xs-12">
+                        <button type="button" class="btn btn-link btn-sm pull-left margin-0 btn-normativa" data-dismiss="modal">Cerrar</button>
+                    </div>
+                    <div class="col-md-6 col-xs-12">
+                        <a href="http://www.reddeboletines.gob.ar/" target="_blank">
+                            <button onclick="closeModal('modalRedDeBoletinesProvinciales')" class="btn btn-primary btn-sm margin-0 btn-normativa">Ir a Red de Boletines Provinciales</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <script type="text/javascript">
+        $('#datepicker').datepicker({
+            format: 'dd/mm/yyyy',
+            language: "es",
+        });
+
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+
+
+    <script>
+        $(function () {
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 300) {
+                    $('.back-top').fadeIn();
+                } else {
+                    $('.back-top').fadeOut();
+                }
+            });
+
+// scroll body to 0px on click
+            $('.back-top').click(function () {
+                $('body,html').animate({
+                    scrollTop: 0
+                }, 1000);
+                return false;
+            });
+        });
+
+        $('#rapidaInput').keypress(function (e) {
+            var key = e.which;
+            if(key === 13)  // the enter key code
+            {
+                $('#busquedaRapidaButton').click();
+                return false;
+            }
+        });
+    </script>
+
+</body>
+</html>

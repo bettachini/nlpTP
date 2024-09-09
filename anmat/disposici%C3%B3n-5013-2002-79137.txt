@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.117',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5013-2002-79137/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5013-2002-79137/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-5013-2002-79137/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"ZrfH1joqwOvbNIfGBYyfqirKtn8Tel_WXrzwo1xqDKw","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/disposici%C3%B3n-5013-2002-79137\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-disposición-5013-2002-79137 page-normativa-nacional-disposición-5013-2002-79137-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/disposici%C3%B3n-5013-2002-79137/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-bITe7zkUbrKvsN3vwH18lukLbybKT752rs8EO9s6iYs" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/disposici%C3%B3n-5013-2002-79137">Disposición   5013/2002</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>ADM.NAC.DE MEDICAMENTOS, ALIMENTOS Y TEC. MEDICA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>2002-10-30</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica</P> <P ALIGN='JUSTIFY'>PRODUCTOS ALIMENTICIOS</P> <P ALIGN='JUSTIFY'>Disposici&oacute;n 5013/2002</P> <P ALIGN='JUSTIFY'>Establ&eacute;cese que la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica intervendr&aacute;, con car&aacute;cter previo a la oficializaci&oacute;n de destinaci&oacute;n, en todas las actividades de importaci&oacute;n de productos alimenticios, sus insumos y productos destinados al control de los mismos, que contengan componentes provenientes de animales susceptibles a la Encefalopat&iacute;a Espongiforme Bovina.</P> </B><P ALIGN='JUSTIFY'>Bs. As., 18/10/2002</P> <P ALIGN='JUSTIFY'>VISTO el art. 42 de la Constituci&oacute;n Nacional, la Ley N° 18.284 y el Dec. Ley 2126/71 Anexo II, reglamentaria de dicha ley, los Decretos Nros. 1490 del 20 de agosto de 1992 y 1812 del 29 de septiembre de 1992, la Disposici&oacute;n ANMAT N° 1666/96 y sus modificatorias y complementarias Nros. 162/01, 246/01, 553/ 01, y 4235/01; la Resoluci&oacute;n del Servicio Nacional de Sanidad y Calidad Agroalimentaria N° 117 del 25 de enero de 2002 y el Expediente N° 1-0047-1068-02-6 de la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica y</P> <P ALIGN='JUSTIFY'>CONSIDERANDO:</P> <P ALIGN='JUSTIFY'>Que el art. 42 de la Constituci&oacute;n Nacional impone como un deber a la Autoridad Nacional el de proveer a la protecci&oacute;n de la salud de los consumidores.</P> <P ALIGN='JUSTIFY'>Que con la misma inteligencia, la ley 18.284 y el C&oacute;digo Alimentario Argentino, tienen la finalidad de asegurar la salud de los consumidores mediante la garant&iacute;a de la inocuidad y el valor nutritivo de los alimentos.</P> <P ALIGN='JUSTIFY'>Que la ocurrencia de la Encefalopat&iacute;a Espongiforme Bovina (EEB), detectada como eventual causa de enfermedad de la nueva variante de Creutzfeldt - Jakob en los humanos en el a&ntilde;o 1996, se ha mantenido en los pa&iacute;ses donde fuera detectada y extendido a la fecha a otros Estados.</P> <P ALIGN='JUSTIFY'>Que la Argentina es considerada a la fecha por la Comunidad Europea como pa&iacute;s de 'Riesgo 1' y por lo tanto con 'Probabilidad muy remota de existencia de casos cl&iacute;nicos o subcl&iacute;nicos de EEB', debiendo las &aacute;reas de Control Nacional extremar los recaudos para evitar la introducci&oacute;n de la EEB a nuestro pa&iacute;s y mantener un elevado nivel de vigilancia, para evitar el riesgo de introducci&oacute;n del agente causal a trav&eacute;s del ingreso a la cadena alimentaria. </P> <P ALIGN='JUSTIFY'>Que una de las recomendaciones formuladas previamente por la Organizaci&oacute;n Mundial de la Salud (OMS) es que los pa&iacute;ses no deben permitir la introducci&oacute;n en la cadena de producci&oacute;n de alimentos (para consumo humano o animal) de ning&uacute;n tejido que pueda contener el agente de la EEB (Informe de una Consulta OMS sobre problemas de la salud p&uacute;blica relacionadas con las EET, DIS/96.147, Ginebra, 1996).</P> <P ALIGN='JUSTIFY'>Que la creaci&oacute;n de riesgo sanitario, producido por el peligro contenido en el agente de la EEB, habilita a la Autoridad Nacional a desplegar las medidas tendientes a la protecci&oacute;n de la poblaci&oacute;n contra dicho riesgo. </P> <P ALIGN='JUSTIFY'>Que en tal sentido, las consideraciones expuestas constituyen razones debidamente fundadas para arbitrar la intervenci&oacute;n consistente en la verificaci&oacute;n de la documentaci&oacute;n, con car&aacute;cter previo al despacho a plaza, tendientes a comprobar la presencia o no en los productos alimenticios de aquellos componentes incluidos en la presente norma. </P> <P ALIGN='JUSTIFY'>Que, en consecuencia, la medida instrumentada por la presente comprende a todos los productos alimenticios importados alcanzados por los arts. 5°, 6°, 7° y 8° del Decreto N° 1812/92.</P> <P ALIGN='JUSTIFY'>Que desde el punto de vista tecnol&oacute;gico, el ingreso a plaza sin el previo control del producto alimenticio acondicionado para su venta a los consumidores, se basa en la garant&iacute;a de que un adecuado proceso productivo, seg&uacute;n los principios del Codex, respecto de la Higiene de los alimentos, es capaz de reducir al m&iacute;nimo los riesgos generados por los peligros potenciales m&aacute;s comunes asociados a cada clase de alimentos.</P> <P ALIGN='JUSTIFY'>Que sin embargo, el riesgo microbiol&oacute;gico representado por el agente de la EEB no puede ser adecuadamente reducido e inactivado por los tratamientos convencionales efectuados sobre aquellos productos elaborados que contienen componentes que involucran el mencionado riesgo. </P> <P ALIGN='JUSTIFY'>Que el art. 3.2.13.12 del C&oacute;digo Internacional zoosanitario de la Organizaci&oacute;n Internacional de Epizootias, de 1997, prescribe que ciertos tejidos bovinos y productos derivados de prote&iacute;nas de aqu&eacute;llos provenientes de pa&iacute;ses de alto riesgo no deben ser objeto del comercio entre los pa&iacute;ses.</P> <P ALIGN='JUSTIFY'>Que igual medida restrictiva a la se&ntilde;alada en el anterior considerando tom&oacute; la autoridad sanitaria, con competencia en los productos elaborados de los Estados Unidos (FDA) publicada en el 59 FR 44592 del Registro Federal de ese pa&iacute;s.</P> <P ALIGN='JUSTIFY'>Que, en consecuencia, la medida de control m&aacute;s efectiva y razonable consiste en la verificaci&oacute;n, por parte del personal especializado en bromatolog&iacute;a, que entre los constituyentes de los productos alimenticios importados, resultante de la documentaci&oacute;n a presentar y de la declaraci&oacute;n de ingredientes por parte del importador, no se encuentra alguno de los vedados por la presente.</P> <P ALIGN='JUSTIFY'>Que del mismo modo, los productos que contienen ingredientes de riesgo para la salud p&uacute;blica se encuadran en las previsiones del art. 8° del Decreto N° 1812/92, que obsta a su liberaci&oacute;n hasta tanto lo determine la autoridad sanitaria.</P> <P ALIGN='JUSTIFY'>Que la medida adoptada por la presente reviste el car&aacute;cter de transitoria, cuya duraci&oacute;n se subordina al mantenimiento de las condiciones de riesgo se&ntilde;aladas.</P> <P ALIGN='JUSTIFY'>Que, por otra parte, con fecha 25 de enero de 2002 se ha publicado la Resoluci&oacute;n N° 117/ 02 del Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA), de la Secretar&iacute;a de Agricultura, Ganader&iacute;a, Pesca y Alimentos, en la cual se establece la categorizaci&oacute;n de los pa&iacute;ses de acuerdo al riesgo geogr&aacute;fico, y la categorizaci&oacute;n del riesgo producto y el riesgo destino con relaci&oacute;n a la EEB.</P> <P ALIGN='JUSTIFY'>Que las medidas adoptadas por la ANMAT respecto de la Encefalopat&iacute;a Espongiforme Bovina (EEB), de acuerdo a lo que fuera establecido en el Art&iacute;culo 8 de la Disposici&oacute;n ANMAT N° 1666/96 pueden ser actualizadas en virtud de nuevos aportes cient&iacute;ficos y regulatorios que modifiquen la situaci&oacute;n de riesgo de productos y pa&iacute;ses.</P> <P ALIGN='JUSTIFY'>Que resulta imperioso la adecuaci&oacute;n de las disposiciones destinadas a la fiscalizaci&oacute;n de los productos alimenticios, sus insumos y productos destinados al control de los mismos de competencia de la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica, a trav&eacute;s del Instituto Nacional de Alimentos, seg&uacute;n el reparto efectuado por el Decretos N° 1490/92 y la Ley N° 18.284. </P> <P ALIGN='JUSTIFY'>Que para el caso particular de esta enfermedad transmitida por los alimentos, la evaluaci&oacute;n del riesgo y la consecuente toma de medidas sanitarias para conjurarlo, concerniente al &aacute;rea de gesti&oacute;n de riesgos, se efect&uacute;a adopt&aacute;ndose la metodolog&iacute;a del An&aacute;lisis de Riesgo seg&uacute;n las directivas respectivas emanadas del Codex Alimentarius. </P> <P ALIGN='JUSTIFY'>Que atento al cambio metodol&oacute;gico del enfoque, resulta necesaria la recategorizaci&oacute;n del riesgo de la enfermedad atribuido a los pa&iacute;ses de acuerdo al riesgo geogr&aacute;fico, el que figura en el Anexo II de la Res. SENASA N° 117/2002 as&iacute; como sus futuras actualizaciones, reproducida en el Anexo I de la presente.</P> <P ALIGN='JUSTIFY'>Que es necesario, asimismo, adecuar la categorizaci&oacute;n del riesgo en los productos alimenticios y sus insumos espec&iacute;ficos bajo fiscalizaci&oacute;n de la ANMAT, a trav&eacute;s del INAL en tanto posean componentes o derivados provenientes de animales susceptibles de EEB, evaluado sobre la base de las recomendaciones internacionales, los nuevos elementos de juicio y la calificaci&oacute;n efectuada en el Anexo III de la Resoluci&oacute;n SENASA N° 117/2002.</P> <P ALIGN='JUSTIFY'>Que en el caso de productos destinados a la alimentaci&oacute;n de lactantes y ni&ntilde;os en la primera infancia, en la evaluaci&oacute;n de ese riesgo se incorpora el concepto de que &eacute;stos pueden constituir el &uacute;nico alimento que ellos consumen.</P> <P ALIGN='JUSTIFY'>Que consistente con el mandato constitucional de propender a un nivel elevado de protecci&oacute;n de la salud de la poblaci&oacute;n, la autoridad sanitaria est&aacute; facultada para establecer el nivel de riesgo consistente con aqu&eacute;l conforme el art. 8° inc. &ntilde; del Decreto N° 1490/92.</P> <P ALIGN='JUSTIFY'>Que a tal fin y a los efectos operativos se establece una matriz de decisi&oacute;n acorde a la combinaci&oacute;n del riesgo producto/riesgo pa&iacute;s que sirva para tomar las decisiones sobre las condiciones de autorizaci&oacute;n de importaci&oacute;n de productos (prohibido, restringido o autorizado) que aplicar&aacute; el Instituto Nacional de Alimentos en todas sus intervenciones durante el registro o libre circulaci&oacute;n. </P> <P ALIGN='JUSTIFY'>Que en consecuencia, resulta necesario dictar una nueva normativa y derogar la Disposici&oacute;n ANMAT N° 1666/96, y las modificatorias Nros. 162/01, 246/01, 553/01 y 4235/01. </P> <P ALIGN='JUSTIFY'>Que el Instituto Nacional de Alimentos, ha emitido su opini&oacute;n favorable al respecto. </P> <P ALIGN='JUSTIFY'>Que la Comisi&oacute;n permanente 'Ad-hoc' para el control de la EEB creada por Disposici&oacute;n ANMAT N° 359/01 y la Direcci&oacute;n de Asuntos Jur&iacute;dicos han tomado la intervenci&oacute;n de su competencia.</P> <P ALIGN='JUSTIFY'>Que se act&uacute;a en virtud de las facultades conferidas por el Decreto N° 1490/92 y 197/2002. </P> <P ALIGN='JUSTIFY'>Por ello,</P> <P ALIGN='JUSTIFY'>EL INTERVENTOR DE LA ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>DISPONE:</P> <B><P ALIGN='JUSTIFY'>Art&iacute;culo 1° </B>— Establ&eacute;cese que esta Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica, a trav&eacute;s del Instituto Nacional de Alimentos y sus Delegaciones, intervendr&aacute; con car&aacute;cter previo a la oficializaci&oacute;n de destinaci&oacute;n, en todas las actividades de importaci&oacute;n de productos alimenticios, sus insumos, y productos destinados al control de los mismos, que contengan componentes provenientes de animales susceptibles a la Encefalopat&iacute;a Espongiforme Bovina (EEB), que correspondan al &aacute;mbito de su competencia, someti&eacute;ndose dichas actividades al r&eacute;gimen de la presente Disposici&oacute;n.</P> <B><P ALIGN='JUSTIFY'>Art. 2° </B>— Ad&oacute;ptase la evaluaci&oacute;n del riesgo combinado producto/pa&iacute;s contenida en la matriz de decisi&oacute;n para el permiso de importaci&oacute;n al pa&iacute;s, que figura en el Anexo III A de la presente, a aplicarse a aquellos productos indicados en el art. 1° que contengan componentes provenientes de animales susceptibles a la Encefalopat&iacute;a Espongiforme Bovina (EEB), enumerados en el Anexo II de la presente.</P> <B><P ALIGN='JUSTIFY'>Art. 3° </B>— Ad&oacute;ptase la categorizaci&oacute;n de riesgo geogr&aacute;fico para la Encefalopat&iacute;a Espongiforme Bovina (EEB) por pa&iacute;s de acuerdo con la establecida por Anexo II de la Resoluci&oacute;n SENASA N° 117/2002, que como Anexo I forma parte de la presente Disposici&oacute;n. </P> <B><P ALIGN='JUSTIFY'>Art. 4° </B>— Establ&eacute;cese que las disposiciones, en cuanto al riesgo geogr&aacute;fico para EEB regladas por el art&iacute;culo 3°, se actualizar&aacute;n de acuerdo con las que emita la Direcci&oacute;n de Cuarentena Animal del Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) facultada a tal efecto por el art&iacute;culo 7° de la Resoluci&oacute;n SENASA N° 117/2002 toda vez que sean de p&uacute;blico conocimiento. </P> <B><P ALIGN='JUSTIFY'>Art. 5° </B>— Ad&oacute;ptase la categorizaci&oacute;n de riesgo para los productos alimenticios, sus insumos y para los ingredientes de los productos auxiliares destinados al control de dichos productos, con componentes o derivados provenientes de animales susceptibles a la Encefalopat&iacute;a Espongiforme Bovina (EEB) que como Anexo II forma parte de la presente Disposici&oacute;n. </P> <B><P ALIGN='JUSTIFY'>Art. 6° </B>— Ad&oacute;ptase la definici&oacute;n sobre la condici&oacute;n de: Prohibido, Restringido y Autorizado y establ&eacute;cese la documentaci&oacute;n que a los fines operativos la Administraci&oacute;n Nacional de Medicamentos, Alimentos y Tecnolog&iacute;a M&eacute;dica, a trav&eacute;s del Instituto Nacional de Alimentos requerir&aacute; en cada solicitud de importaci&oacute;n para emitir las autorizaciones de libre circulaci&oacute;n, las cuales constan en el Anexo III B de la presente disposici&oacute;n. </P> <B><P ALIGN='JUSTIFY'>Art. 7° </B>— Las empresas importadoras que comercialicen productos que hayan sido elaborados con materia prima de origen rumiante alcanzados por la presente Disposici&oacute;n, ser&aacute;n solidariamente responsables con el establecimiento de origen por las inexactitudes, falsedades, errores u omisiones que pudiera contener la documentaci&oacute;n aportada y se har&aacute;n pasibles de las sanciones correspondientes. </P> <B><P ALIGN='JUSTIFY'>Art. 8° </B>— Todas las autorizaciones de importaci&oacute;n efectuadas por esta Administraci&oacute;n con anterioridad a la emisi&oacute;n de esta Disposici&oacute;n, que correspondieran a materias primas o productos alcanzados por ella, deber&aacute;n adecuarse en el marco de la presente, para su futura comercializaci&oacute;n. </P> <B><P ALIGN='JUSTIFY'>Art. 9° </B>— Sin perjuicio de lo dispuesto en los art&iacute;culos prececentes la Comisi&oacute;n Ad hoc creada por Disposici&oacute;n ANMAT N° 359/01 asesorar&aacute; a esta Intervenci&oacute;n respecto de las medidas complementarias que se hicieran necesarias para garantizar la inocuidad de los alimentos destinados al consumo humano. </P> <B><P ALIGN='JUSTIFY'>Art. 10. </B>— Las medidas adoptadas por la presente podr&aacute;n ser modificadas en virtud de nuevos aportes cient&iacute;ficos y normativas que var&iacute;en la situaci&oacute;n prevista en el art. 2° de la presente. </P> <B><P ALIGN='JUSTIFY'>Art. 11. </B>— Der&oacute;ganse las Disposiciones ANMAT N° 1666/96, 162/01, 246/01, 553/01 y 4235/01. </P> <B><P ALIGN='JUSTIFY'>Art. 12. </B>— El presente r&eacute;gimen tendr&aacute; una duraci&oacute;n de doce (12) meses, prorrogable por igual plazo mientras se mantengan las condiciones de riesgo que le dan sustento.</P> <B><P ALIGN='JUSTIFY'>Art. 13. </B>— La presente disposici&oacute;n comenzar&aacute; a regir a partir de los ocho d&iacute;as siguientes al de su publicaci&oacute;n en el Bolet&iacute;n Oficial.</P> <B><P ALIGN='JUSTIFY'>Art. 14. </B>— Comun&iacute;quese a las Entidades relacionadas con la producci&oacute;n, importaci&oacute;n y comercializaci&oacute;n de productos alimenticios y materias primas de consumo humano.</P> <B><P ALIGN='JUSTIFY'>Art. 15. </B>— Reg&iacute;strese, an&oacute;tese. D&eacute;se a la Direcci&oacute;n Nacional del Registro Oficial para su publicaci&oacute;n, comun&iacute;quese a la Administraci&oacute;n Nacional de Aduanas. Cumplido, arch&iacute;vese, PERMANENTE. — Manuel R. Limeres. </P> <P ALIGN='RIGHT'>ANEXO I</P> <P ALIGN='CENTER'>CATEGORIZACION DE LOS PAISES DE ACUERDO AL RIESGO GEOGRAFICO EN RELACION A LA ENCEFALOPATIA ESPONGIFORME BOVINA (EEB) seg&uacute;n Res. SENASA N° 117/2002</P> <P ALIGN='JUSTIFY'>Nivel I: Probabilidad muy remota de existencia de casos cl&iacute;nicos o subcl&iacute;nicos de EEB.</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica Argentina</P> <P ALIGN='JUSTIFY'>Australia</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Botswana</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica Federativa de Brasil</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Chile</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Costa Rica</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de El Salvador</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Namibia</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Nicaragua</P> <P ALIGN='JUSTIFY'>Nueva Zelanda</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Panam&aacute;</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica del Paraguay</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Singapur</P> <P ALIGN='JUSTIFY'>Reino de Swazilandia</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica Oriental del Uruguay</P> <P ALIGN='JUSTIFY'>Nivel II: Probabilidad remota pero no descartable de existencia de casos cl&iacute;nicos o subcl&iacute;nicos de EEB.</P> <P ALIGN='JUSTIFY'>Canad&aacute;</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Colombia</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de la India</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Kenya</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Mauricio</P> <P ALIGN='JUSTIFY'>Estados Unidos Mexicanos (M&eacute;xico)</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica Federal de Nigeria</P> <P ALIGN='JUSTIFY'>Reino de Noruega</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica IsI&aacute;mica de Pakist&aacute;n</P> <P ALIGN='JUSTIFY'>Estados Unidos de Am&eacute;rica</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Sud&aacute;frica</P> <P ALIGN='JUSTIFY'>Nivel III: Se registran casos espor&aacute;dicos de EEB (n&uacute;mero inferior a DIEZ (10) en UN MILLON (106)) o bien existe alta probabilidad de que se produzca tal cantidad de casos.</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica Federal de Alemania</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Albania</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Austria</P> <P ALIGN='JUSTIFY'>Reino de B&eacute;lgica.</P> <P ALIGN='JUSTIFY'>Reino de Dinamarca</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Chipre</P> <P ALIGN='JUSTIFY'>Reino de Espa&ntilde;a</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica Checa</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Estonia</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica Francesa</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Finlandia</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Hungr&iacute;a</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica Italiana</P> <P ALIGN='JUSTIFY'>Irlanda</P> <P ALIGN='JUSTIFY'>Gran Ducado de Luxemburgo</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Lituania</P> <P ALIGN='JUSTIFY'>Reino de los Pa&iacute;ses Bajos</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Polonia</P> <P ALIGN='JUSTIFY'>Rumana</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Turqu&iacute;a</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica Eslovaca</P> <P ALIGN='JUSTIFY'>Reino de Suecia</P> <P ALIGN='JUSTIFY'>Confederaci&oacute;n Suiza</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Eslovenia</P> <P ALIGN='JUSTIFY'>Federaci&oacute;n de Rusia</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica Hel&eacute;nica (Grecia)</P> <P ALIGN='JUSTIFY'>Jap&oacute;n</P> <P ALIGN='JUSTIFY'>Principado de Liechtenstein</P> <P ALIGN='JUSTIFY'>Sultan&iacute;a de Om&aacute;n</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica Federativa de Yugoslavia</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Bosnia y Herzegovina</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Bulgaria</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica de Croacia</P> <P ALIGN='JUSTIFY'>Nivel IV: Se registran con frecuencia casos de EEB (n&uacute;mero superior a DIEZ (10) en UN MILLON (106)) o bien existe alta probabilidad de producci&oacute;n de esa cantidad de casos.</P> <P ALIGN='JUSTIFY'>Rep&uacute;blica Portuguesa</P> <P ALIGN='JUSTIFY'>Reino Unido de Gran Breta&ntilde;a, Irlanda del Norte e Isla Man.</P> <P ALIGN='RIGHT'>ANEXO II</P> <P ALIGN='CENTER'>CATEGORIZACION DE PRODUCTOS, SUBPRODUCTOS Y DERIVADOS QUE CONTENGAN MATERIALES PROVENIENTES DE ESPECIES SUSCEPTIBLES A LA ENCEFALOPATIA ESPONGIFORME BOVINA (EEB)* DE ACUERDO AL RIEGO CON RELACION A DICHA ENFERMEDAD PARA SER APLICADO A LOS PRODUCTOS DE LA COMPETENCIA DEL ANMAT A TRAVES DEL INAL.</P> <P ALIGN='JUSTIFY'>A los efectos de la determinaci&oacute;n del nivel de riesgo del producto se consideran:</P> <P ALIGN='JUSTIFY'>A) La cantidad e infectividad relativa de los diferentes &oacute;rganos y tejidos presentes en el producto, de acuerdo a las determinaciones de infectividad de dichos materiales recopiladas por el Comit&eacute; Cient&iacute;fico Director de la Comisi&oacute;n Europea en su plenario del 22 al 23 de enero de 1998 ('Listing of specified Risk Materials: a schenme for assesing relative risks to man. Opinion of the Scientific Stering Commitee during the Third Plenary Session 22-23 January 1998') y a la propuesta de Decisi&oacute;n de la Comisi&oacute;n Europea para ser aplicada a partir del 30 de Junio de 2000, 'Regulaci&oacute;n del uso de material que presenta riesgo con respecto a EEB (Documento 500PC0378)b) las directrices contenidas en el Cap&iacute;tulo 2.3.13 del C&oacute;digo Zoosanitario Internacional.</P> <P ALIGN='JUSTIFY'>B) La recopilaci&oacute;n de evidencias cient&iacute;ficas, opiniones y recomendaciones de expertos acerca del riesgo con relaci&oacute;n de EEB de los &oacute;rganos y tejidos animales as&iacute; como de los productos, subproductos, derivados y mercader&iacute;as que lo contienen.</P> <P ALIGN='JUSTIFY'>C) Lo normado por la Resoluci&oacute;n de SENASA, 117/2002 en su Anexo III. </P> <P ALIGN='JUSTIFY'>D) La categorizaci&oacute;n del riesgo de los productos considerar&aacute; a los mismos en el modo en que usualmente son comercializados, teniendo en cuenta que esto puede adicionar elementos de riesgo dados por la forma de obtenci&oacute;n durante la faena y por la probabilidad de presencia de &oacute;rganos y tejidos diferentes en la constituci&oacute;n del mismo. </P> <P ALIGN='JUSTIFY'>E) La comprobaci&oacute;n, informaci&oacute;n o presunci&oacute;n de empleo no declarado, contaminaci&oacute;n o adici&oacute;n fraudulenta de materias primas de origen animal susceptibles a la EET.</P> <P ALIGN='JUSTIFY'>CLASIFICACION DE LOS PRODUCTOS POR RIESGO DECRECIENTE:</P> <P ALIGN='JUSTIFY'>Riesgo 1:</P> <P ALIGN='JUSTIFY'>Alimentos, productos derivados, insumos y materiales auxiliares que contengan: &oacute;rganos y tejidos o materiales obtenidos a partir de las especies susceptibles a la EEB* con infectividad alta: cabeza incluyendo cerebro, ojos, ganglio trig&eacute;mino y tonsilas (excuyendo la lengua; el timo; el bazo; los pulmones; el intestino desde el duodeno hasta el recto; la m&eacute;dula espinal; la columna vertebral, incluyendo ganglios nerviosos dorsales. Carne mec&aacute;nicamente recuperada; menudencias (v&iacute;sceras); sebo con contenido m&aacute;ximo de impurezas insolubles en &eacute;ter de petr&oacute;leo o superior al 0,15.</P> <P ALIGN='JUSTIFY'>Riesgo 2:</P> <P ALIGN='JUSTIFY'>Alimentos, productos derivados, sus insumos y, materiales auxiliares que contengan carnes y diferentes tipos de preparados, conservas mixtas, caldos o similares y grasas alimenticias as&iacute; como sus subproductos y derivados, gelatina de huesos (con exclusi&oacute;n de los incluidos en Riesgo 1); col&aacute;geno de huesos (con exclusi&oacute;n de los incluidos en Riesgo 1) y Organos y tejidos o materiales obtenidos a partir de &eacute;stos de las especies susceptibles a la EEB* con infectividad media: placenta, &uacute;tero; &oacute;vulos y embriones; tejidos fetales; adrenales; fluido cerebro espinal; m&eacute;dula &oacute;sea; n&oacute;dulos linf&aacute;ticos o extractos de los mismos. </P> <P ALIGN='JUSTIFY'>Riesgo 3:</P> <P ALIGN='JUSTIFY'>Alimentos, sus insumos y materiales auxiliares que contengan plasma bovino, amino&aacute;cidos y &oacute;rganos y tejidos o materiales obtenidos a partir de &eacute;stos de las especies susceptibles a la EEB* con infectividad baja: h&iacute;gado; p&aacute;ncreas; tejido &oacute;seo; mucosa nasal; nervios perif&eacute;ricos o extractos de los mismos.</P> <P ALIGN='JUSTIFY'>Leche maternizada, f&oacute;rmulas l&aacute;cteas, suced&aacute;neos de la leche materna, premezclas e insumos para su elaboraci&oacute;n. </P> <P ALIGN='JUSTIFY'>Riesgo 4:</P> <P ALIGN='JUSTIFY'>Alimentos, productos derivados, sus insumos y materiales auxiliares que contengan leche y productos l&aacute;cteos; calostro; sebo desproteinizado (el contenido m&aacute;ximo de impurezas insolubles en &eacute;ter de petr&oacute;leo no debe exceder el (0,15%) en peso) y productos derivados del mismo; fosfato bic&aacute;lcico (sin restos de prote&iacute;nas ni de grasa); caldos o similares desproteinizados, gelatina y, col&aacute;geno preparados exclusivamente a partir de cueros y pieles, y &oacute;rganos y tejidos o materiales obtenidos a partir de &eacute;stos, de las especies susceptibles a la EEB* con infectividad no detectada: tejido muscular esquel&eacute;tico; coraz&oacute;n; ri&ntilde;&oacute;n; tejido adiposo; gl&aacute;ndulas salivares; saliva; tiroides; gl&aacute;ndula mamaria, ovarios; test&iacute;culos; gl&aacute;ndulas seminales; tejido cartilaginoso; tejido conectivo; piel; sangre coagulada, suero; o extractos de los mismos. </P> <P ALIGN='JUSTIFY'>(*) Los animales referidos como susceptibles de la EEB incluyen: bovinos, bisontes, ovinos, caprimos, gemsbok, nyalas, kudu, oryx, eland, felinos y must&eacute;lidos.</P> <P ALIGN='RIGHT'>ANEXO III A</P> <P ALIGN='CENTER'>MATRIZ DE DECISION DE RIESGO PRODUCTO/PAIS</P> <P ALIGN='JUSTIFY'>Para la autorizaci&oacute;n de importaci&oacute;n de productos, subproductos y derivados de origen animal o las mercader&iacute;as que los contengan, contempladas en el art. 1° de la presente, de acuerdo al riesgo de introducci&oacute;n del agente causal de la EEB al pa&iacute;s, seg&uacute;n el producto (seg&uacute;n en Anexo II) y el pa&iacute;s de origen (de acuerdo al Anexo I), se aplicar&aacute;n las condiciones de la siguiente matriz de decisi&oacute;n: </P> <P ALIGN='CENTER'><IMG  src='../../../normativa/79137_disp5013-6-12-2002_gif/archivo'></P> <P ALIGN='CENTER'>&nbsp;</P> <P ALIGN='JUSTIFY'>Referencias:</P> <P ALIGN='JUSTIFY'>P: importaci&oacute;n prohibida</P> <P ALIGN='JUSTIFY'>R: importaci&oacute;n sujeta a restricciones</P> <P ALIGN='JUSTIFY'>A: importaci&oacute;n autorizada bajo las exigencias de las normas apl&iacute;cables.</P> <P ALIGN='RIGHT'>ANEXO III B</P> <P ALIGN='CENTER'>DEFINICIONES Y REQUISITOS OPERATIVOS PARA CUMPLIMENTAR</P> <P ALIGN='JUSTIFY'>Las condiciones que se describen a continuaci&oacute;n son las que surgen de considerar el riesgo de los componentes o derivados que integran el producto cuando su origen de obtenci&oacute;n se efect&uacute;a en los pa&iacute;ses se&ntilde;alados como IV; III; II; I. </P> <B><P ALIGN='JUSTIFY'>P - </B>Significa <B>prohibici&oacute;n </B>de registro de nuevos productos y/o prohibici&oacute;n de ingreso al pa&iacute;s de los productos o sus derivados registrados.</P> <B><P ALIGN='JUSTIFY'>R - </B>Significa <B>con restricci&oacute;n: </B>Se refiere a los productos o derivados que por su riesgo intr&iacute;nseco y/o el derivado de provenir de pa&iacute;ses con riesgo variado de EEB requieren un control exhaustivo y, la corroboraci&oacute;n de la informaci&oacute;n disponible por parte de la autoridad de aplicaci&oacute;n.</P> <P ALIGN='JUSTIFY'>Los productos <B>con restricciones </B>deber&aacute;n presentar:</P> <P ALIGN='JUSTIFY'>1) Los certificados de materia prima animal, incluidos l&aacute;cteos y derivados, seg&uacute;n modelos acordados por la Autoridad Sanitaria Argentina competente en la materia con los diferentes pa&iacute;ses proveedores de la materia prima;</P> <P ALIGN='JUSTIFY'>2) Certificaci&oacute;n que avale la trazabilidad de la materia prima declarada en el mencionado certificado y la utilizada para elaborar el producto; as&iacute; como toda otra informaci&oacute;n pertinente de acuerdo al tipo de producto, m&eacute;todo de elaboraci&oacute;n y/o procedimientos que sustenten la trazabilidad de los materiales;</P> <P ALIGN='JUSTIFY'>3) Certificaci&oacute;n del cumplimiento de las Buenas Pr&aacute;cticas de Fabricaci&oacute;n (GMP) pera la elaboraci&oacute;n del producto.</P> <B><P ALIGN='JUSTIFY'>A - </B>Significa <B>Autorizado: </B>Del an&aacute;lisis del riesgo producto/pa&iacute;s de origen, surge que el producto no representa un nivel significativo de aqu&eacute;l, resultando autorizado para el ingreso mediante el cumplimiento de las certificaciones correspondientes que se exigen para dicho tr&aacute;mite ante el INAL, de acuerdo al tipo de producto. </P> <P ALIGN='JUSTIFY'>Deber&aacute; presentar: 1) los certificados de materia prima animal, incluidos l&aacute;cteos y derivados, seg&uacute;n modelos acordados por la Autoridad Sanitaria Argentina, competente en la materia, con los diferentes pa&iacute;ses a los cuales acompa&ntilde;e;</P> <P ALIGN='JUSTIFY'>2) Constancia de que la materia prima declarada en el certificado y la utilizada para elaborar el producto se corresponden.</P> <P ALIGN='JUSTIFY'>&nbsp;</P> <P ALIGN='CENTER'>—FE DE ERRATAS—</P> <B><P ALIGN='JUSTIFY'>ADMINISTRACION NACIONAL DE MEDICAMENTOS, ALIMENTOS Y TECNOLOGIA MEDICA</P> <P ALIGN='JUSTIFY'>Disposici&oacute;n N° 5013/2002-ANMAT</P> </B><P ALIGN='JUSTIFY'>En la edici&oacute;n del 30 de octubre de 2002, donde se public&oacute; la citada Disposici&oacute;n, se reprodujo en forma ilegible la Matriz de Decisi&oacute;n contenida en el Anexo III A de la misma, la que se transcribe en forma correcta a continuaci&oacute;n:</P> <P>&nbsp;</P> <P ALIGN='CENTER'><IMG  src='../../../normativa/79137_disp5013-6-12-2002_gif/archivo'></P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/disposición-5013-2002-79137" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>

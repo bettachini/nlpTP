@@ -1,0 +1,268 @@
+
+ <!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Nav and address bar color -->
+  <meta name="theme-color" content="#242C4F">
+  <meta name="msapplication-navbutton-color" content="#242C4F">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#242C4F">
+  <script>
+  dataLayer = [{
+    'userIPaddress': '192.168.32.104',
+  }];
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P68ZXT');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.argentina.gob.ar/manifest.json" rel="manifest" />
+<meta name="description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="keywords" content="gobierno, argentino, nacional, gobierno argentino, gobierno nacional, República Argentina, administración, gestión, pública, administración pública, gestión pública, digital, trámites, servicios, trámites en línea, gobierno digital, servicios en línea, servicios digitales, Estado, transparencia, ciudadanos, modernización, organismo, organismo público, organismos públicos, organismos, beneficios, beneficios" />
+<link rel="image_src" href="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="canonical" href="https://www.argentina.gob.ar/normativa/nacional/ley-16463-20414/texto" />
+<link rel="shortlink" href="https://www.argentina.gob.ar/normativa/nacional/ley-16463-20414/texto" />
+<meta property="og:site_name" content="Argentina.gob.ar" />
+<meta property="og:url" content="https://www.argentina.gob.ar/" />
+<meta property="og:title" content="Argentina.gob.ar" />
+<meta property="og:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta property="og:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.argentina.gob.ar/normativa/nacional/ley-16463-20414/texto" />
+<meta name="twitter:title" content="Argentina.gob.ar" />
+<meta name="twitter:description" content="Portal oficial del Estado argentino. Conocé cómo hacer trámites en organismos públicos, tramitalos en línea y recibí servicios digitales y beneficios." />
+<meta name="twitter:image" content="https://www.argentina.gob.ar/sites/default/files/argentina-fb.png" />
+<link rel="shortcut icon" href="https://www.argentina.gob.ar/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.argentina.gob.ar/sites/default/files/icon/icon-180x180.png" sizes="180x180" />
+  <title>Texto completo | Argentina.gob.ar</title>
+  <style>
+@import url("https://www.argentina.gob.ar/modules/system/system.base.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/css/search.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/css/custom-chosen.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/field/theme/field.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/field_hidden/field_hidden.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/modules/node/node.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/user_prune/css/user_prune.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/views/css/views.css?sjjsxm");
+</style>
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/ctools/css/ctools.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/css/galeria.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/panels/css/panels.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/rate/rate.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/css/argentinagobar_campana_gubernamental.css?sjjsxm");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" />
+<style>
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/css/bootstrap.min.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/icono-arg.css?sjjsxm");
+@import url("https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/css/poncho.min.css?sjjsxm");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="/profiles/argentinagobar/libraries/jquery.jquery-371/jquery-3.7.1.min.js?v=3.7.1"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="/profiles/argentinagobar/libraries/jquery.jquery-migrate/jquery-migrate-3.4.1.min.js?v=3.4.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-extend-3.4.0.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.7.1"></script>
+<script src="https://www.argentina.gob.ar/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.argentina.gob.ar/misc/drupal.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.argentina.gob.ar/misc/form-single-submit.js?v=7.101"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/entityreference/js/entityreference.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/sites/default/files/languages/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/mdBlank.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/galeria.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/drupar_filtros/js/jquery.touchSwipe.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_webform/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/vuce_calendario/js/button.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_campana_gubernamental/js/argentinagobar_campana_gubernamental.js?sjjsxm"></script>
+<script>dataLayer.push({
+          'event_name': 'trackPageview',
+          'nodo_id': '',
+          'nodos_padres': '',
+          'org_dependencia': '',
+          'ministerio': '',
+          'cont_tipo': '',
+        });</script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/vendor/bootstrap/js/bootstrap.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/scrolltotop.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/datatables.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/intl.min.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/poncho/js/device-breadcrumb-listener.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/contrib/jquery_update/js/jquery_position.js?v=0.0.1"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"argentinagobar_theme","theme_token":"Kq6yMGg36Ox_LNjPBCcFgImv6G-TtGRSUrYVdItWkPg","js":{"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/js\/solr_search.js":1,"profiles\/argentinagobar\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-371\/jquery-3.7.1.min.js":1,"0":1,"\/profiles\/argentinagobar\/libraries\/jquery.jquery-migrate\/jquery-migrate-3.4.1.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"profiles\/argentinagobar\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/es_-ItMtJilxuuiLFTCnmK_k5zP6zPqMXd_ji181zFXfvs.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/mdBlank.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/galeria.js":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/js\/jquery.touchSwipe.min.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/js\/button.js":1,"profiles\/argentinagobar\/modules\/contrib\/vuce_calendario\/js\/button.js":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/js\/argentinagobar_campana_gubernamental.js":1,"1":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/scrolltotop.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/datatables.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/intl.min.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb.js":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/js\/device-breadcrumb-listener.js":1,"profiles\/argentinagobar\/modules\/contrib\/jquery_update\/js\/jquery_position.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_search\/css\/search.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_webform\/css\/custom-chosen.css":1,"modules\/field\/theme\/field.css":1,"profiles\/argentinagobar\/modules\/contrib\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"profiles\/argentinagobar\/modules\/contrib\/user_prune\/css\/user_prune.css":1,"profiles\/argentinagobar\/modules\/contrib\/views\/css\/views.css":1,"profiles\/argentinagobar\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/argentinagobar\/modules\/contrib\/drupar_filtros\/css\/galeria.css":1,"profiles\/argentinagobar\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/argentinagobar\/modules\/contrib\/rate\/rate.css":1,"profiles\/argentinagobar\/modules\/argentinagobar\/argentinagobar_campana_gubernamental\/css\/argentinagobar_campana_gubernamental.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900\u0026display=swap":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/vendor\/bootstrap\/css\/bootstrap.min.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/icono-arg.css":1,"profiles\/argentinagobar\/themes\/contrib\/poncho\/css\/poncho.min.css":1}},"urlIsAjaxTrusted":{"\/normativa\/nacional\/ley-16463-20414\/texto":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"focus hover","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-normativa page-normativa-nacional page-normativa-nacional-ley-16463-20414 page-normativa-nacional-ley-16463-20414-texto i18n-es">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe title="Script GTM" aria-hidden="true" src="//www.googletagmanager.com/ns.html?id=GTM-P68ZXT" style="display:none;visibility:hidden;height:0;width:0"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <h1 class="sr-only"><small>Presidencia de la Nación</small></h1>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+<header>
+    <nav class="navbar navbar-top navbar-default border-bottom-amarillo">
+      <div class="container">
+        <div>
+          <div class="navbar-header">
+            <a class="navbar-brand" href="/" id="navbar-brand" aria-label="Argentina.gob.ar Presidencia de la Nación">
+                              <img src="/profiles/argentinagobar/themes/argentinagobar/argentinagobar_theme/logo_argentina-azul.svg" alt="Argentina.gob.ar" height="50" width="254" />
+                                                      </a>
+              <a class="btn btn-mi-argentina btn-login visible-xs" href="https://mi.argentina.gob.ar" title="Ingresar a Mi Argentina">
+                  <i class="icono-arg-mi-argentina fa-fw"></i><span class="sr-only">Ir a Mi Argentina</span></a>
+                                      <button onclick="jQuery('.navbar.navbar-top').addClass('state-search');" class="btn btn-mi-argentina btn-login visible-xs" aria-labelledby="edit-keys"><span class="fa fa-search fa-fw"></span><span class="sr-only">Buscar</span></button>       
+                            </div>
+
+                                          <div class="nav navbar-nav navbar-right hidden-xs">
+    <button onclick="jQuery('.navbar.navbar-top').removeClass('state-search');" class="btn btn-link btn-search-reset visible-xs"> <div class="fa fa-times"><span class="sr-only">Cerrar el buscador</span></div></button>
+    <div id="cd-login">
+      
+  <a href="https://mi.argentina.gob.ar/" id="btn-mi-argentina" class="btn btn-primary hidden-xs"
+  aria-label="Ingresar a Mi Argentina">Mi Argentina</a>
+</div>
+<!-- <section id="block-argentinagobar-search-apache-solr-search-navbar" class="block block-argentinagobar-search clearfix"> -->
+
+      
+  <div class="pull-left">
+  <form class="main-form" role="search" action="/normativa/nacional/ley-16463-20414/texto" method="post" id="apachesolr-search-custom-page-search-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-k-p2wY9cC2zlvoSwYiWLepnpDThen_O700OsvwpOO8w" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+<div style="display:none;"><div class="form-item form-item-tarro-de-miel form-type-textfield form-group"> <label class="control-label" for="edit-tarro-de-miel">Dejar en blanco</label>
+<input class="form-control form-text" type="text" id="edit-tarro-de-miel" name="tarro_de_miel" value="" size="60" maxlength="128" /></div></div><div class="input-group">
+  <label class="sr-only" for="edit-keys">Buscar en el sitio</label><input placeholder="Buscá en el sitio" id="edit-keys" class="input-search form-control form-text" aria-label="Buscá en el sitio" type="text" name="keys" value="" size="20" maxlength="255" /><span class="input-group-btn"><button class="bg-white btn-search-reset btn btn-primary form-submit" aria-labelledby="edit-keys" aria-label="Buscar" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search text-primary&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Buscar en el sitio&lt;/span&gt;"><i class="fa fa-search text-primary"></i><span class="sr-only">Buscar en el sitio</span></button>
+</span></div>
+</div></form></div>
+
+<!-- </section> -->
+    <!-- Pablo -->
+    <!-- <a href="https://mi.argentina.gob.ar" class="btn btn-link hidden-xs" aria-label="Ingresar a Mi Argentina">
+           <i class="icono-arg-mi-argentina"></i>Mi Argentina</a> -->
+</div>
+                        
+        </div>
+      </div>
+    </nav>
+  </header>
+<main>
+
+    
+            <span id="main-content"></span>
+
+      <div class="container">
+                                                              <div class="region region-content">
+     <div id="block-system-main" class="block block-system clearfix">
+
+      
+  <ol class="breadcrumb"><li><a href="/">Inicio</a></li>
+<li><a href="/normativa">Normativa</a></li>
+<li><a href="/normativa/nacional/ley-16463-20414">Ley   16463/1964</a></li>
+<li class="active">Texto completo</li>
+</ol>
+<section>
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+                      <h1 class="h5 m-t-2 m-b-0"></h1>
+            <p class="lead m-b-0"><small>HONORABLE CONGRESO DE LA NACION ARGENTINA</small></p>
+            <p class="lead m-b-0"><small></small></p>
+          
+          <time class="text-muted"><strong>1964-08-08</strong></time>
+
+          <hr>
+
+          <article>
+            <B><P ALIGN='JUSTIFY'>MEDICAMENTOS</P> </B><P ALIGN='JUSTIFY'></P> <B><P ALIGN='CENTER'>Ley Nº 16.463</P> </B><P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Sancionada: julio 23 de 1964.</P> <P ALIGN='JUSTIFY'>Promulgada: agosto 4 de 1964.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='CENTER'>El Senado y C&aacute;mara de Diputados de la Naci&oacute;n Argentina, reunidos en Congreso, etc., sancionan con fuerza de LEY:</P> </B><P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 1º</B> — Quedan sometidos a la presente ley y a los reglamentos que en su consecuencia se dicten, la importaci&oacute;n, exportaci&oacute;n, producci&oacute;n, elaboraci&oacute;n, fraccionamiento, comercializaci&oacute;n o dep&oacute;sito en jurisdicci&oacute;n nacional o con destino al comercio interprovincial, de las drogas, productos qu&iacute;micos, reactivos, formas farmac&eacute;uticas, medicamentos, elementos de diagn&oacute;stico y todo otro producto de uso y aplicaci&oacute;n en la medicina humana y las personas de existencia visible o ideal que intervengan en dichas actividades.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 2º</B> — Las actividades mencionadas en el art&iacute;culo 1º s&oacute;lo podr&aacute;n realizarse, previa autorizaci&oacute;n y bajo el contralor del Ministerio de Asistencia Social y Salud P&uacute;blica, en establecimientos habilitados por el mismo y bajo la direcci&oacute;n t&eacute;cnica del profesional universitario correspondiente, inscrito en dicho ministerio. Todo ello en las condiciones y dentro de las normas que establezca la reglamentaci&oacute;n, atendiendo a las caracter&iacute;sticas particulares de cada actividad y a razonables garant&iacute;as t&eacute;cnicas en salvaguardia de la salud p&uacute;blica y de la econom&iacute;a del consumidor.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 3º</B> — Los productos comprendidos en la presente ley deber&aacute;n reunir las condiciones establecidas en la farmacopea argentina y, en caso de no figurar en ella, las que surgen de los patrones internacionales y de los textos de reconocido valor cient&iacute;fico.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El titular de la autorizaci&oacute;n y el director t&eacute;cnico del establecimiento, ser&aacute;n personal y solidariamente responsables de la pureza y legitimidad de los productos.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 4º</B> — No podr&aacute; autorizarse la instalaci&oacute;n de nuevos laboratorios y se cancelar&aacute;n los permisos de los existentes, cuando no elaboren sus propios productos y sus actividades se limiten a envasar especialidades preparadas por terceros.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 5º</B> — Los medicamentos que se expendan al p&uacute;blico en su envase original, deber&aacute;n reunir las condiciones t&eacute;cnicas de identificaci&oacute;n u otras que establezca la reglamentaci&oacute;n. Esta determinar&aacute;, as&iacute; mismo, teniendo en cuenta la naturaleza o peligrosidad del uso indebido de los medicamentos, la condici&oacute;n de su expendio, que podr&aacute; ser: libre, bajo receta, bajo receta archivada y bajo receta y decreto.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 6º</B> — El Ministerio de Asistencia Social y Salud P&uacute;blica podr&aacute; exigir la utilizaci&oacute;n, en los productos a que se refiere el art&iacute;culo 5º de envases de contenido m&aacute;ximo y m&iacute;nimo, de acuerdo con la naturaleza de los mismos y normas de tratamiento, as&iacute; como procedimientos para su fraccionamiento, distribuci&oacute;n y expendio que permitan una econom&iacute;a en la medicaci&oacute;n, resguardando los intereses de la salud p&uacute;blica.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 7º</B> — Las autorizaciones para elaborar y vender los productos mencionados en el art&iacute;culo 5º se acordar&aacute;n si, adem&aacute;s de las condiciones establecidas en dicha norma, re&uacute;nen ventajas cient&iacute;ficas, terap&eacute;uticas, t&eacute;cnicas o econ&oacute;micas. Dichas autorizaciones y sus reinscripciones tendr&aacute;n vigencia por el t&eacute;rmino de cinco a&ntilde;os, a contar de la fecha de certificado autorizante.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El Ministerio de Asistencia Social y Salud P&uacute;blica proceder&aacute; a inscribir o reinscribir como medicamentos industriales, aquellos productos que, a su juicio, no corresponda autorizar como especialidades medicinales. En tal caso, el precio de venta de los productos inscritos como medicamentos industriales, no podr&aacute; exceder del que determine dicho ministerio.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El interesado deber&aacute; requerir la reinscripci&oacute;n dentro de los treinta d&iacute;as anteriores a su vencimiento.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 8º</B> — Las autorizaciones de elaboraci&oacute;n y venta ser&aacute;n canceladas: a) A pedido del titular; b) Por cualquier modificaci&oacute;n, alteraci&oacute;n o incumplimiento de las condiciones de la autorizaci&oacute;n; c) Por vencimiento del lapso establecido en el art&iacute;culo 7º; y d) Cuando el producto no mantenga finalidades terap&eacute;uticas &uacute;tiles, acordes con los adelantos cient&iacute;ficos.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 9º</B> — El Ministerio de Asistencia Social y Salud P&uacute;blica clasificar&aacute; los productos comprendidos en el Art&iacute;culo 5º, seg&uacute;n la naturaleza, composici&oacute;n, actividad, acci&oacute;n farmacol&oacute;gica y procedimientos farmacot&eacute;cnicos de preparaci&oacute;n, estableciendo condiciones para su autorizaci&oacute;n, acordes con los adelantos cient&iacute;ficos reconocidos, los intereses de la salud p&uacute;blica y la defensa econ&oacute;mica del consumidor.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 10.</B> — El Ministerio de Asistencia Social y Salud P&uacute;blica redactar&aacute;, publicar&aacute; y revisar&aacute; peri&oacute;dicamente el Formulario Terap&eacute;utico Nacional, el que contendr&aacute; la recopilaci&oacute;n de f&oacute;rmulas magistrales de uso frecuente y de acci&oacute;n farmacol&oacute;gica y utilidad terap&eacute;utica reconocidas.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 11.</B> — Dependiente del Ministerio de Asistencia Social y Salud P&uacute;blica actuar&aacute; la Comisi&oacute;n Permanente de la Farmacopea Argentina, que la revisar&aacute; peri&oacute;dicamente, de acuerdo con el progreso de la ciencia y asesorar&aacute; a los organismos p&uacute;blicos en las materias de su competencia.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 12.</B> — El Poder Ejecutivo establecer&aacute; las normas reglamentarias para la importaci&oacute;n, exportaci&oacute;n y fabricaci&oacute;n, fraccionamiento, circulaci&oacute;n y expendio de las sustancias toxicoman&iacute;genas en concordancia con los convenios internacionales, dictando todas las medidas aconsejables para la defensa de la salud p&uacute;blica; el contralor de las toxicoman&iacute;as y del tr&aacute;fico ilegal y la satisfacci&oacute;n de las necesidades terap&eacute;uticas, regulando los permisos de cultivo para la extracci&oacute;n nacional de drogas, estupefacientes, acordando los cupos de fabricaci&oacute;n y de importaci&oacute;n cuando &eacute;sta sea necesaria.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 13.</B> — El Ministerio de Asistencia Social y Salud P&uacute;blica est&aacute; facultado para proceder al retiro de muestras de los productos mencionados en el art&iacute;culo 1º, a los efectos de verificar si los mismos se ajustan a lo autorizado y declarado y si re&uacute;nen las condiciones prescritas en la presente ley y sus normas reglamentarias.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 14.</B> — Cr&eacute;ase el Instituto de Farmacolog&iacute;a y de Normalizaci&oacute;n de Drogas y Medicamentos destinado a:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Efectuar el an&aacute;lisis y contralor farmacol&oacute;gico de las drogas, medicamentos, productos dietetoter&aacute;picos, cosmetol&oacute;gicos, aguas minerales y otros productos cuya administraci&oacute;n pueda afectar la salud humana, percibiendo los derechos arancelarios que fije la reglamentaci&oacute;n;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Estudiar y proponer las normas t&eacute;cnicas generales que deben reunir los productos enunciados en el inciso a);</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) Determinar para las drogas no incluidas en la farmacopea argentina las normas y condiciones que deben reunir, y proponer a la Comisi&oacute;n Permanente de la Farmacopea Argentina modificaciones a las normas en vigencia oficial;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) Establecer las normas y condiciones a que deber&aacute; ajustarse la preparaci&oacute;n y la conservaci&oacute;n de los patrones nacionales de drogas y medicamentos;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>e) Realizar y promover la investigaci&oacute;n integral en el campo de la farmacolog&iacute;a en general y, de manera especial, referida a la indagaci&oacute;n de las riquezas naturales nacionales;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>f) Realizar los trabajos t&eacute;cnicos que le soliciten personas o instituciones p&uacute;blicas o privadas, mediante los recaudos y la percepci&oacute;n de los derechos arancelarios que fije la reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Los derechos arancelarios referidos en los incisos a) y f) ingresar&aacute;n al Fondo Nacional de la Salud, con destino al mencionado instituto.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 15.</B> — Fac&uacute;ltase al Poder Ejecutivo para invertir hasta la suma de cien millones de pesos moneda nacional (m$n. 100.000.000), que se tomar&aacute;n de rentas generales con imputaci&oacute;n a esta ley, para organizar y poner en funcionamiento el Instituto de Farmacolog&iacute;a y de Normalizaci&oacute;n de Drogas y Medicamentos, con organismo del Ministerio de Asistencia Social y Salud P&uacute;blica, cuyas funciones se especifican en el art&iacute;culo anterior.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 16.</B> — Los inspectores o funcionarios autorizados por el Ministerio de Asistencia Social y Salud P&uacute;blica tendr&aacute;n la facultad de penetrar en los locales, habilitados o no, donde se ejerzan actividades comprendidas en la presente ley.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 17.</B> — Los jueces, con habilitaci&oacute;n del d&iacute;a y hora, acordar&aacute;n de inmediato a los funcionarios designados por la autoridad de aplicaci&oacute;n la orden de allanamiento y el auxilio de la fuerza p&uacute;blica para practicar las inspecciones a que se refiere el art&iacute;culo anterior.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Tambi&eacute;n con habilitaci&oacute;n del d&iacute;a y hora, y con el auxilio de la fuerza p&uacute;blica, proceder&aacute;n a adoptar las medidas preventivas autorizadas por el Art&iacute;culo 18º, emplazando al presunto infractor a comparecer a su despacho dentro del t&eacute;rmino de tres d&iacute;as h&aacute;biles, a un comparendo verbal, al que tambi&eacute;n deber&aacute; concurrir el funcionario que solicit&oacute; la medida. El presunto infractor podr&aacute; concurrir asistido por su letrado. En dicho comparendo se oir&aacute;n las defensas y se recibir&aacute;n las pruebas ofrecidas.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>La inasistencia del infractor, sin previa justificaci&oacute;n, convertir&aacute; en firme la medida decretada. Dentro de las 48 horas de celebrado el comparendo verbal, el juez resolver&aacute; mantener o revocar la medida preventiva. Su resoluci&oacute;n es apelable con efecto devolutivo.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 18.</B> — Si se incurriera en actos u omisiones que, a juicio del Ministerio de Asistencia Social y Salud P&uacute;blica, constituyeran un peligro para la salud de las personas, podr&aacute; solicitar a la autoridad judicial la clausura, total o parcial, de los locales en que los mismos ocurrieron, la suspensi&oacute;n de la elaboraci&oacute;n y expendio de los productos cuestionados y la intervenci&oacute;n t&eacute;cnica, total o parcial, de los procesos de elaboraci&oacute;n y producci&oacute;n incriminados. Dichas medidas no podr&aacute;n tener una duraci&oacute;n mayor de 90 d&iacute;as h&aacute;biles.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 19.</B> — Queda prohibido:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) La elaboraci&oacute;n, la tenencia, fraccionamiento, circulaci&oacute;n, distribuci&oacute;n y entrega al p&uacute;blico de productos impuros o ileg&iacute;timos;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) La realizaci&oacute;n de cualquiera de las actividades mencionadas en el Art. 1º, en violaci&oacute;n de las normas que reglamentan su ejercicio conforme a la presente ley;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) Inducir en los anuncios de los productos de expendio libre a la automedicaci&oacute;n;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) Toda forma de anuncio al p&uacute;blico de los productos cuyo expendio s&oacute;lo haya sido autorizado 'bajo receta';</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>e) Vulnerar, en los anuncios, los intereses de la salud p&uacute;blica o la moral profesional;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>f) Violar, en los anuncios, cualquier otro requisito exigido por la reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 20.</B> — Las infracciones a las normas de la presente ley y su reglamentaci&oacute;n ser&aacute;n sancionadas:</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>a) Con apercibimiento;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>b) Con multas de m$n. 2.000 a m$n. 5.000.000—;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>c) Con la clausura, total o parcial, temporal o definitiva, seg&uacute;n la gravedad de la causa o reiteraci&oacute;n de la misma, del local o establecimiento en que se hubiera cometido la infracci&oacute;n;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>d) Suspensi&oacute;n o inhabilitaci&oacute;n en el ejercicio de la actividad o profesi&oacute;n hasta un lapso de tres a&ntilde;os; en caso de extrema gravedad o m&uacute;ltiple reiteraci&oacute;n de la o de las infracciones la inhabilitaci&oacute;n podr&aacute; ser definitiva;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>e) El comiso de los efectos o productos en infracci&oacute;n, o de los compuestos en que intervengan elementos o sustancias cuestionadas;</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>f) La cancelaci&oacute;n de la autorizaci&oacute;n para vender y elaborar los productos.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>El producto de las multas ingresar&aacute; al Fondo Nacional de la Salud.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 21.</B> — Si se considera que existe una infracci&oacute;n de las previstas en el Art&iacute;culo 19º se dar&aacute; vista al interesado, por el t&eacute;rmino de tres d&iacute;as h&aacute;biles, para que oponga sus defensas y ofrezca toda su prueba, acompa&ntilde;ando la documental. Sustanciada la prueba en el plazo de diez d&iacute;as h&aacute;biles, se dictar&aacute; resoluci&oacute;n en el t&eacute;rmino de tres d&iacute;as h&aacute;biles, la que ser&aacute; apelable en el t&eacute;rmino de tres d&iacute;as h&aacute;biles.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>En la apelaci&oacute;n se expresar&aacute;n los correspondientes agravios y con ellos se elevar&aacute; el expediente, cuando proceda, a la magistratura judicial correspondiente.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Los plazos a los que se refiere el presente art&iacute;culo son perentorios y prorrogables solamente por raz&oacute;n de la distancia.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Las resoluciones del Ministerio de Asistencia Social y Salud P&uacute;blica, por las que se impongan apercibimiento y multas de m$n. 2.000, har&aacute;n cosa juzgada.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 22.</B> — El que adulterare alguno de los productos comprendidos en la presente ley, en cualquiera de sus etapas, se har&aacute; pasible de las penalidades establecidas en el Cap&iacute;tulo IV, T&iacute;tulo VII, Delitos Contra la Seguridad P&uacute;blica, Art&iacute;culo 200 y sus correlativos del C&oacute;digo Penal.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 23.</B> — En el caso de que las multas impuestas, una vez consentidas, no fueran satisfechas, el Ministerio de Asistencia Social y Salud P&uacute;blica promover&aacute;, por v&iacute;a de apremio, la pertinente acci&oacute;n judicial ante los jueces en lo penal-econ&oacute;mico, en jurisdicci&oacute;n nacional y, en otras jurisdicciones, ante los jueces federales de secci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 24.</B> — Las acciones emergentes de esta ley prescribir&aacute;n en el t&eacute;rmino de cinco a&ntilde;os. Dicha prescripci&oacute;n quedar&aacute; interrumpida por la secuela del proceso o por la comisi&oacute;n de cualquier otra infracci&oacute;n a la presente ley o a los reglamentos que en su consecuencia se dicten.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 25.</B> — Der&oacute;ganse todas las disposiciones que se opongan a la presente ley.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'>DISPOSICIONES TRANSITORIAS</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 26.</B> — Las autorizaciones a que se refiere el Art&iacute;culo 7º, acordadas con anterioridad a la presente ley, deber&aacute;n ser renovadas por el t&eacute;rmino de cinco a&ntilde;os, debiendo los interesados solicitarlo dentro de los plazos y con las condiciones que establezca la reglamentaci&oacute;n.</P> <P ALIGN='JUSTIFY'></P> <B><P ALIGN='JUSTIFY'>ARTICULO 27.</B> — Comun&iacute;quese al Poder Ejecutivo.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='JUSTIFY'>Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a veintitr&eacute;s de julio de mil novecientos sesenta y cuatro.</P> <P ALIGN='JUSTIFY'></P> <P ALIGN='CENTER'><CENTER><TABLE CELLSPACING=0 BORDER=0 CELLPADDING=4 WIDTH=576> <TR><TD WIDTH='50%' VALIGN='TOP'> <B><P ALIGN='CENTER'>C. H. PERETTE</B></TD> <TD WIDTH='50%' VALIGN='TOP'> <B><P ALIGN='CENTER'>A. MOR ROIG</B></TD> </TR> <TR><TD WIDTH='50%' VALIGN='TOP'> <P ALIGN='CENTER'>Claudio A. Maffei</TD> <TD WIDTH='50%' VALIGN='TOP'> <P ALIGN='CENTER'>Eduardo T. Oliver.</TD> </TR> </TABLE> </CENTER></P>  <P ALIGN='JUSTIFY'></P> <B><P ALIGN='CENTER'>— Registrada bajo el Nº 16.463 —</P> </B><P ALIGN='JUSTIFY'></P>          </article>
+
+          <div class="m-t-4">
+                <a href="/normativa/nacional/ley-16463-20414" class="btn btn-default">Volver</a>
+          </div>
+        </div>
+    </div>
+</section>
+
+</div>
+  </div>
+      </div>
+    
+    
+</main>
+
+<footer class="main-footer">
+  <div class="container">
+  <div class="row">
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer1">
+    <section id="block-menu-menu-footer-1" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Trámites</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/turnos">Turnos</a></li>
+<li class="leaf"><a href="/jefatura/innovacion-ciencia-y-tecnologia/innovacion/tramites-distancia-tad">Trámites a distancia</a></li>
+<li class="last leaf"><a href="/miargentina/mesadeayuda">Atención a la ciudadanía</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer2">
+    <section id="block-menu-menu-footer-2" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de la República Argentina</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/pais">Nuestro país</a></li>
+<li class="leaf"><a href="/normativa">Leyes argentinas</a></li>
+<li class="leaf"><a href="/organismos">Organismos</a></li>
+<li class="last leaf"><a href="/desregulacion/mapa-del-estado">Mapa del Estado</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+      <div class="col-md-4 col-sm-12">
+                        <div class="region region-footer3">
+    <section id="block-menu-menu-footer-3" class="block block-menu clearfix">
+
+        <h2 class="block-title h3 section-title h3 section-title">Acerca de Argentina.gob.ar</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="/acerca">Acerca de este sitio</a></li>
+<li class="leaf"><a href="/terminos-y-condiciones">Términos y condiciones</a></li>
+<li class="last leaf"><a href="/sugerencias">Sugerencias</a></li>
+</ul>
+</section>
+  </div>
+                </div>
+  </div>
+  </div>
+  <div class="container-fluid border-top-amarillo">
+    <div class="row sub-footer">
+      <div class="container">
+        <div class="col-sm-6 m-y-1 p-x-0">
+                        <!-- <p class="text-muted small m-b-2">
+              <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank" rel="noreferrer">Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional</a>            </p> -->
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script src="https://www.argentina.gob.ar/profiles/argentinagobar/modules/argentinagobar/argentinagobar_search/js/solr_search.js?sjjsxm"></script>
+<script src="https://www.argentina.gob.ar/profiles/argentinagobar/themes/contrib/bootstrap/js/bootstrap.js?sjjsxm"></script>
+  <div id="scrolltotop_parent">
+      <div tabindex="0" id="scrolltotop_arrow">
+        <i class="icono fa fa-arrow-circle-up" title="Scroll hacia arriba"></i><span class="sr-only">Scroll hacia arriba</span>
+      </div>
+  </div>
+</body>
+</html>
