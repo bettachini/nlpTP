@@ -1,64 +1,65 @@
-0-0-1_r2.txt,Instalaciones clase 1
-0-11-1_r3.txt,Instalaciones clase 1
-0-11-2_r2.txt,Autorización específica
-0-11-3_r1.txt,Entrenamiento de personal
-0-11-4_r0.txt,Licenciamiento
-10-10-1r0.txt,Emplazamiento
-10-1-1_r4.txt,Básica seguridad radiológica
-10-12-1r3_.txt,Gestión de residuos
-10-13-1_r1.txt,Seguridad física
-10-13-2_r0.txt,Seguridad física
-10-14-1_r0.txt,No desviación de materiales nucleares
-10-16-1_r03.txt,Transporte (adoptada)
-10-6-1_r0.txt,Gestión
-2-12-1_r0.txt,Protección radiológica
-3-10-1_r1.txt,Seguridad
-3-1-1_r2.txt,Protección radiológica
-3-1-2_r2.txt,Protección radiológica
-3-1-3_r2.txt,Protección radiológica
-3-17-1_r2.txt,Desmantelamiento
-3-2-1_r2.txt,Criterio de diseño
-3-2-3_r2_0.txt,Seguridad
-3-3-1_r2.txt,Seguridad
-3-3-2_r2.txt,Seguridad
-3-3-3_r1.txt,Criterio de diseño
-3-3-4_r1.txt,Seguridad
-3-4-1_r1.txt,Criterio de diseño
-3-4-2_r1.txt,Seguridad
-3-4-3_r1.txt,Criterio de diseño
-3-5-1_r1.txt,Seguridad
-3-7-1_r1.txt,Documentación
-3-8-1_r1.txt,Puesta en marcha
-3-9-1_r1.txt,Seguridad
-3-9-2_r1.txt,Comunicación
-4-1-1_r0.txt,Protección radiológica
-4-1-2_r1.txt,Protección radiológica
-4-1-3_r2.txt,Protección radiológica
-4-2-1_r1.txt,Criterio de diseño
-4-2-2_r1.txt,Criterio de diseño
-4-2-3_r2.txt,Protección radiológica
-4-5-1_r1.txt,Criterio de diseño
-4-7-1_r1.txt,Documentación
-4-7-2_r0.txt,Documentación
-4-8-1_r1.txt,Puesta en marcha
-4-8-2_r1.txt,Puesta en marcha
-4-9-1_r1.txt,Seguridad
-4-9-2_r2_0.txt,Seguridad
-5-1-1_r1.txt,Protección radiológica
-5-7-1_r1.txt,Documentación
-6-1-1_r1.txt,Protección radiológica
-6-1-2_r1.txt,Protección radiológica
-6-2-1_r2.txt,Seguridad
-6-7-1_r1.txt,Documentación
-6-9-1_r2.txt,Seguridad
-7-11-1r4_actualizada_punto_12b_2022.txt,Permiso individual
-7-11-2_r0.txt,Permiso individual
-7-9-1_r3_2021.txt,Seguridad
-7-9-2_r0.txt,Seguridad
-8-11-1_r2.txt,Permiso individual
-8-11-2_r0.txt,Permiso individual
-8-11-3_r0.txt,Permiso individual
-8-2-1_r0.txt,Seguridad
-8-2-2_r1.txt,Seguridad
-8-2-3_r3.txt,Seguridad
-8-2-4_r1.txt,Seguridad
+0.0.1,Instalaciones clase 1
+0.11.1,Instalaciones clase 1
+0.11.2,Autorización específica
+0.11.3,Entrenamiento de personal
+0.11.4,Licenciamiento
+10.10.1,Emplazamiento
+10.1.1,Básica seguridad radiológica
+10.12.1,Gestión de residuos
+10.13.1,Seguridad física
+10.13.2,Seguridad física
+10.14.1,No desviación de materiales nucleares
+10.16.1,Transporte (adoptada)
+10.6.1,Gestión
+2.12.1,Protección radiológica
+3.10.1,Seguridad
+3.1.1,Protección radiológica
+3.1.2,Protección radiológica
+3.1.3,Protección radiológica
+3.17.1,Desmantelamiento
+3.2.1,Criterio de diseño
+3.2.3,Seguridad
+3.3.1,Seguridad
+3.3.2,Seguridad
+3.3.3,Criterio de diseño
+3.3.4,Seguridad
+3.4.1,Criterio de diseño
+3.4.2,Seguridad
+3.4.3,Criterio de diseño
+3.5.1,Seguridad
+3.6.1,Instalaciones clase 1
+3.7.1,Documentación
+3.8.1,Puesta en marcha
+3.9.1,Seguridad
+3.9.2,Comunicación
+4.1.1,Protección radiológica
+4.1.2,Protección radiológica
+4.1.3,Protección radiológica
+4.2.1,Criterio de diseño
+4.2.2,Criterio de diseño
+4.2.3,Protección radiológica
+4.5.1,Criterio de diseño
+4.7.1,Documentación
+4.7.2,Documentación
+4.8.1,Puesta en marcha
+4.8.2,Puesta en marcha
+4.9.1,Seguridad
+4.9.2,Seguridad
+5.1.1,Protección radiológica
+5.7.1,Documentación
+6.1.1,Protección radiológica
+6.1.2,Protección radiológica
+6.2.1,Seguridad
+6.7.1,Documentación
+6.9.1,Seguridad
+7.11.1,Permiso individual
+7.11.2,Permiso individual
+7.9.1,Seguridad
+7.9.2,Seguridad
+8.11.1,Permiso individual
+8.11.2,Permiso individual
+8.11.3,Permiso individual
+8.2.1,Seguridad
+8.2.2,Seguridad
+8.2.3,Seguridad
+8.2.4,Seguridad

@@ -8,4 +8,3 @@ gr5-r1_0.txt
 gr6-r1_0.txt
 gr7-r0_0.txt
 gr8_r01.txt
-placeholder

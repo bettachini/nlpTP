@@ -1,0 +1,171 @@
+Autoridad Regulatoria Nuclear
+DEPENDIENTE DE LA PRESIDENCIA DE LA NACION
+Sistema de
+calidad de reactores
+nucleares de potencia
+Aprobada por Resolución del Directorio de la Autoridad
+Regulatoria Nuclear Nº 41/01 (Boletín Oficial 8/2/02)
+República Argentina – Reimpresión 2007
+AR 3.6.1.
+REVISIÓN 2
+1/4
+NORMA AR 3.6.1.
+SISTEMA DE CALIDAD
+EN REACTORES NUCLEARES DE POTENCIA
+A OBJETIVO
+1. Fijar criterios para desarrollar, establecer e implementar un sistema de calidad que cubra todos
+los aspectos relacionados con la seguridad radiológica y nuclear.
+B. ALCANCE
+2. Esta norma es aplicable a todas las actividades involucradas en el diseño, construcción, puesta
+en marcha, operación y retiro de servicio de reactores nucleares de potencia. Con las debidas
+adaptaciones, esta norma es también aplicable a otras instalaciones Clase I.
+El cumplimiento de la presente norma y de las normas y requerimientos establecidos por la Auto-
+ridad Regulatoria, no exime del cumplimiento de otras normas y requerimientos no relacionados
+con la seguridad radiológica, establecidos por otras autoridades competentes.
+C. EXPLICACIÓN DE TÉRMINOS
+3. Calidad: La totalidad de las características de un ítem que le confieren la aptitud para satisfacer
+tanto las necesidades establecidas como las implícitas.
+4. Diseño: El proceso y los resultados del desarrollo de los conceptos, los planes detallados, los
+cálculos de soporte y las especificaciones para un reactor nuclear de potencia y sus componentes,
+equipos y sistemas.
+5. Eficiencia: Capacidad de producir los resultados deseados con un gasto mínimo de energía,
+tiempo y recursos.
+6. Entidad Responsable: Titular de las licencias de una instalación Clase I.
+7. Evaluación: Examen sistemático con el fin de determinar en qué medida un ítem satisface los
+requisitos especificados.
+8. Instalación Clase I: Instalación o práctica que requiere un proceso de licenciamiento de más
+de una etapa.
+9. Ítem: Cualquier elemento que pueda ser considerado y descrito individualmente.
+10. No Conformidad: No satisfacción de un requisito especificado.
+11. Política de Calidad: Orientaciones y objetivos generales de una organización concernientes a
+la calidad, establecidos y refrendados por la jerarquía máxima de tal organización.
+12. Proceso: Conjunto de recursos y actividades relacionados entre sí que transforman elementos
+entrantes en elementos salientes.
+NORMA AR 3.6.1. SISTEMA DE CALIDAD EN REACTORES NUCLEARES DE POTENCIA - REVISIÓN 2
+2/4
+13. Programa de Calidad: Programa donde se definen la política de calidad, los objetivos, la pla-
+nificación, la organización, las responsabilidades, los procesos y aquellas actividades que requie-
+ren procedimientos escritos.
+14. Punto de Detención: Etapa en la secuencia de un trabajo, más allá de la cual el ítem no puede
+ser procesado hasta ser liberado, por el inspector de calidad o persona que solicite la detención.
+15. Punto de Presencia: Etapa en la secuencia de un trabajo que debe ser notificada al inspector
+de calidad a fin de que éste pueda presenciar el desarrollo de las actividades involucradas. En el
+caso que el inspector no pueda asistir, el ítem puede avanzar hasta la próxima etapa de la se-
+cuencia de trabajo.
+16. Requisito: Expresión formal de las exigencias, o su traducción en un conjunto de especifica-
+ciones, establecidas -cualitativa o cuantitativamente- para las características de un ítem, con el fin
+de permitir su realización y su examen.
+17. Servicio: Resultado generado por actividades en la interfase entre el proveedor y el cliente y
+por actividades internas del proveedor, con el fin de responder a las necesidades del cliente.
+18. Sistema de Calidad: Conjunto de actividades planificadas e implementadas para asegurar el
+nivel de calidad de una instalación o práctica.
+19. Trabajo: Todo proceso factible de ser planeado, ejecutado, evaluado y mejorado.
+20. Validación: Confirmación -lograda por examen y aporte de información cuya veracidad puede
+demostrarse en base a hechos y obtenida por observación, medición, ensayos u otros medios- de
+que los requisitos particulares para un uso específico previsto han sido satisfechos.
+D. CRITERIOS
+DIRECCIÓN
+Sistema de Calidad
+21. La Entidad Responsable debe establecer un adecuado sistema de calidad que sea compatible
+con la política de calidad de esa organización. Tal política debe reflejar el compromiso de dicha
+organización con la mejora continua de la calidad.
+22. La Entidad Responsable debe definir la organización que aplicará el programa de calidad, las
+responsabilidades funcionales, los niveles de conducción y autoridad, las interfases y las líneas de
+comunicación.
+23. El programa de calidad debe definir detalladamente cómo los trabajos van a ser dirigidos, eje-
+cutados y evaluados, y explicitar las acciones gerenciales previstas, la planificación de éstas y la
+asignación de los recursos correspondientes.
+24. El sistema de calidad debe evidenciar que los niveles de conducción son responsables de
+proveer la planificación, la dirección, los recursos y el apoyo necesarios para alcanzar los objeti-
+vos de la organización; que la calidad especificada para un trabajo se logra por medio de quien lo
+ejecuta; y que se evalúa la eficiencia en la ejecución de los trabajos y en la gestión de la dirección.
+25. La determinación de la eficiencia en la implementación del programa de calidad y del grado de
+obtención de los objetivos debe llevarse a cabo mediante indicadores apropiados.
+26. El sistema de calidad debe contar con un método para clasificar los ítem y servicios del reactor
+nuclear de potencia a fin de determinar sus requisitos de calidad. Dicho método debe tener en
+cuenta la importancia de tales requisitos para la seguridad.
+NORMA AR 3.6.1. SISTEMA DE CALIDAD EN REACTORES NUCLEARES DE POTENCIA - REVISIÓN 2
+3/4
+27. El máximo nivel de conducción de la Entidad Responsable con funciones ejecutivas debe de-
+signar a un miembro del grupo de dirección con autoridad definida y documentada para establecer
+y mantener el sistema de calidad.
+28. Los sistemas de calidad de contratistas y subcontratistas deben ser consistentes con el de la
+Entidad Responsable. Tanto la Entidad Responsable como los contratistas y subcontratistas po-
+drán delegar a terceros la ejecución total o parcial de sus respectivos programas de calidad, pero
+mantendrán completamente la responsabilidad que les corresponda.
+Entrenamiento y Calificación
+29. Los trabajos deben ser ejecutados por personal competente, entrenado, calificado y motivado
+que comprenda claramente las consecuencias que tiene su actividad sobre la seguridad.
+30. Los programas de capacitación, entrenamiento, reentrenamiento y motivación deben focalizar
+la atención sobre el concepto de "hacerlo bien la primera vez" y estar documentados de acuerdo a
+procedimientos escritos.
+Control de No Conformidades y Acciones Correctivas y Preventivas
+31. Se deben identificar todos los ítem, servicios y procesos que no cumplan con los requisitos
+establecidos y evaluar qué incidencia tienen sobre la seguridad. Al respecto, se debe:
+- Determinar las causas de las no conformidades y elaborar las acciones correctivas que
+correspondan.
+- Analizar los procesos para prever la ocurrencia de eventuales defectos, fallas o no con-
+formidades, tomando las medidas preventivas correspondientes.
+Control de Documentos y Registros
+32. Se debe aplicar un método apropiado para elaborar, emitir, modificar, identificar, validar, revi-
+sar, aprobar, distribuir y conservar los documentos que correspondan relativos a sistemas, equi-
+pos, componentes, procesos y servicios del reactor nuclear de potencia.
+33. Se debe establecer e implementar un sistema adecuado de registros que asegure que se es-
+pecifican, preparan, revisan, aprueban y mantienen suficientes registros de los trabajos realizados.
+EJECUCIÓN
+Trabajos
+34. Todos los trabajos deben estar adecuadamente controlados, usando procedimientos, instruc-
+ciones, planos u otro medio apropiado, para asegurar la calidad de los resultados. Los documen-
+tos referidos a los trabajos deben tener un nivel de detalle acorde con la complejidad de las
+tareas, con el grado de automatismo de los equipos, y con la importancia que tengan para la segu-
+ridad.
+35. Los equipos de monitoreo, medición y ensayo deben poseer un rango, una precisión y una
+exactitud adecuados para el uso previsto, y estar calibrados de acuerdo a procedimientos escritos.
+36. Todos aquellos materiales, componentes, equipos, herramientas y otros elementos que se
+usen en el reactor nuclear de potencia y que sean importantes para la seguridad deben ser ade-
+cuadamente identificados para evitar su uso incorrecto. Además se debe controlar la manipulación
+y el almacenamiento de tales elementos, con vistas a evitar el deterioro de los mismos.
+NORMA AR 3.6.1. SISTEMA DE CALIDAD EN REACTORES NUCLEARES DE POTENCIA - REVISIÓN 2
+4/4
+Diseño
+37. Las actividades de diseño deben ser llevadas a cabo de acuerdo a códigos y normas apropia-
+dos de ingeniería, y por personal calificado y dotado de recursos adecuados y suficientes.
+38. Todas las especificaciones para el diseño, especialmente las vinculadas con condiciones sig-
+nificativas para la seguridad, deben ser identificadas, documentadas y revisadas con el fin de evi-
+tar incompatibilidades, conflictos o ambigüedades.
+39. Los resultados del diseño deben ser documentados, y su validación realizada por personas
+distintas de las que realizaron el diseño original.
+40. Los métodos de diseño y los criterios utilizados para la aceptación de los resultados del diseño
+deben ser documentados.
+41. Las modificaciones del diseño deben ser sometidas a los mismos requisitos a que fue someti-
+do el diseño original y ser identificadas, documentadas, revisadas y aprobadas antes de su im-
+plementación, por individuos competentes y autorizados.
+Compras
+42. Se deben establecer procedimientos que aseguren que los ítem y servicios comprados cum-
+plen los requisitos establecidos.
+43. Los proveedores deben ser evaluados y seleccionados -en base a criterios definidos y docu-
+mentados- previamente a la realización de las compras correspondientes. Se deben mantener
+registros actualizados de proveedores aceptables.
+44. Previo al uso de un ítem o servicio comprado, se debe verificar si se satisfacen los requisitos
+de calidad establecidos.
+Inspección y Ensayo
+45. Se deben definir los ítem que requieren inspecciones o ensayos y el alcance, en cada caso, de
+tales inspecciones y ensayos.
+46. Las inspecciones y ensayos deben efectuarse siguiendo procedimientos escritos, los que de-
+ben contener los criterios de aceptación correspondientes.
+47. Se deben tomar medidas adecuadas -tales como "puntos de detención" o "puntos de presen-
+cia"- para evitar la omisión indebida de inspecciones o ensayos relevantes para la seguridad.
+EVALUACIÓN
+Autoevaluación Gerencial
+48. Los directivos de la organización encargada de aplicar el sistema de calidad deben, continua-
+mente, evaluar la eficiencia de los procesos de los cuales son responsables, e identificar, corregir
+y prevenir aquellos problemas relativos a la gestión gerencial que atenten contra el logro de los
+objetivos establecidos.
+49. Los resultados y conclusiones de las auto evaluaciones gerenciales deben documentarse ade-
+cuadamente.
+Evaluación Independiente
+50. La eficiencia en la aplicación del sistema de calidad debe ser evaluada como mínimo anual-
+mente, por organismos técnicamente competentes e independientes de aquellos que realizan la
+ejecución de los trabajos. Los resultados deben ser comunicados al máximo nivel de conducción y
+tenidos en cuenta para el mejoramiento de la calidad.
+

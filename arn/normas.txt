@@ -62,4 +62,3 @@
 8-2-2_r1.txt
 8-2-3_r3.txt
 8-2-4_r1.txt
-placeholder
