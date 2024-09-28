@@ -4,8 +4,8 @@
 import os
 os.environ['LANGCHAIN_TRACING_V2'] = 'true'
 os.environ['LANGCHAIN_ENDPOINT'] = 'https://api.smith.langchain.com'
-os.environ['LANGCHAIN_API_KEY'] = "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"
-os.environ["HUGGINGFACEHUB_API_TOKEN"]="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"
+os.environ['LANGCHAIN_API_KEY'] = "lsv2_pt_eb095819440c924397927e00fe49_3cbaa49385"
+os.environ["HUGGINGFACEHUB_API_TOKEN"]="hf_mBAKdCojeYwPpMYMAgGfsVdCxVPWF"
 import os
 from urllib.request import urlretrieve
 import numpy as np
