@@ -36,3 +36,8 @@ https://datos.gob.ar/dataset/justicia-base-infoleg-normativa-nacional
 
 Otra posibilidad:
 Mirar la base de datos de leyes y tratar de armar un grafo con conexiones entre ellas. Seleccionar usando criterios de densidad y analizar alguna partecita.
+
+
+## 
+Chunks pues toda la normativa no entra.
+
