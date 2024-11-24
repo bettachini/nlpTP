@@ -1,1 +1,3 @@
-[Gold standard](https://docs.google.com/spreadsheets/d/1ZxNovjFeHOc6vBhhdg6K49TpQd00Y9IiSu_A1pawrys/edit?pli=1&gid=0#gid=0)
+- [Original Hernán](https://colab.research.google.com/drive/1w3890wHsjTNr8waqDMnCUBYSdoVSmKqw?usp=sharing#scrollTo=Xqp6xX25EFP8)
+- [Latest Mauro](https://colab.research.google.com/drive/1JcEh8s5fH68KNoxlTs31rBP9vqOVPf8f#scrollTo=JbfeZI-hZQKT)
+- [Gold standard](https://docs.google.com/spreadsheets/d/1ZxNovjFeHOc6vBhhdg6K49TpQd00Y9IiSu_A1pawrys/edit?pli=1&gid=0#gid=0)
